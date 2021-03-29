@@ -3,6 +3,14 @@ import { chats } from "./data.js";
 // console.log(chats);
 // initialiseChat(chats[1]);
 
+const promptAnswer = prompt("Enter password: ");
+console.log(promptAnswer);
+if (promptAnswer == "greymushcush") {
+  document.querySelector(".chatLibraryContainer").classList.remove("d-none");
+} else {
+  document.querySelector(".chatLibraryContainer").classList.add("d-none");
+}
+
 document.querySelector(".exitChat").addEventListener("click", exitChat);
 
 const chatList = chats.map((ele) => ele.name);
@@ -53,7 +61,7 @@ function initialiseChat(chat) {
       document.querySelector(".chatScreen").insertAdjacentHTML(
         "beforeend",
         `<div class="row d-flex justify-content-end">
-    <div class="col-8 textMessageSent">
+    <div class="col-9grey textMessageSent">
       <div class="row">
         <div class="col-12">
           ${messageContent}

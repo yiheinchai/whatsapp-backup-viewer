@@ -17,8 +17,12 @@
   <body>
     <div class="container-fluid header mx-4 mb-3 mt-3">
       <div class="row d-flex justify-content-around">
-        <div class="col-3 d-flex mt-2 justify-content-center"><h5>Never lose your chats</h5></div>
-        <div class="col-6 d-flex justify-content-center"><h2>Whatsapp Viewer</h2></div>
+        <div class="col-3 d-flex mt-2 justify-content-center d-none d-sm-block">
+          <h5>Never lose your chats</h5>
+        </div>
+        <div class="col-6 d-flex justify-content-center">
+          <h2>Whatsapp</h2>
+        </div>
         <div class="col-3 d-flex justify-content-center">
           <button type="button" class="btn btn-primary exitChat">Exit Chat</button>
         </div>
@@ -32,7 +36,7 @@
         <div class="col-lg-7 chatScreen"></div>
       </div>
     </div>
-    <div class="container-fluid">
+    <div class="container-fluid chatLibraryContainer d-none">
       <h3>Chats</h3>
       <div class="mt-5 row d-flex justify-content-center chatLibrary"></div>
     </div>
