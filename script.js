@@ -2,10 +2,9 @@ import { chats } from "./data.js";
 
 // console.log(chats);
 // initialiseChat(chats[1]);
-
 const promptAnswer = prompt("Enter password: ");
 console.log(promptAnswer);
-if (promptAnswer == "greymushcush") {
+if (promptAnswer == "tentou") {
   document.querySelector(".chatLibraryContainer").classList.remove("d-none");
 } else {
   document.querySelector(".chatLibraryContainer").classList.add("d-none");
@@ -21,7 +20,7 @@ chatList.forEach((ele, i) => {
   chatCard.classList.add("col-sm-6");
   chatCard.classList.add("d-flex");
   chatCard.classList.add("justify-content-center");
-  chatCard.classList.add("mb-5");
+  chatCard.classList.add("mb-3");
   chatCard.innerHTML = `<button type="button" style="width: 100%;" class="btn btn-outline-primary chatElement">${ele}</button>`;
   chatCard
     .querySelector(".chatElement")
@@ -33,14 +32,16 @@ function exitChat() {
   document.querySelector(".chatScreen").innerHTML = "";
   document.querySelector(".chatTitle").innerHTML = "";
   document.querySelector(".chatInterface").classList.toggle("d-none");
+  document.querySelector(".chatLibraryContainer").classList.toggle("d-none");
 }
 
 function initialiseChat(chat) {
   document.querySelector(".chatInterface").classList.toggle("d-none");
-  const textArray = chat.messageContent.split("\n");
+  document.querySelector(".chatLibraryContainer").classList.toggle("d-none");
+  const textArray = chat.messageContent.split("[");
   document.querySelector(".chatTitle").textContent = chat.name;
   textArray.forEach((ele) => {
-    const messageTime = ele.slice(1, ele.indexOf("]"));
+    const messageTime = ele.slice(0, ele.indexOf("]"));
     const messageSender = ele.slice(ele.indexOf("]") + 2, ele.lastIndexOf(": "));
     const messageContent = ele.slice(ele.lastIndexOf(": ") + 1);
     if (messageSender !== "Yi Hein") {
