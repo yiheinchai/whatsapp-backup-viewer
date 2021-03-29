@@ -30571,6 +30571,2483 @@ IMPT: In view of current COVID-19 situation, we are limiting to only 1 accompany
 `,
   },
   {
+    name: "Mom",
+    messageContent: `[17/10/16, 07:21:24] A Mom A: ‎Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them.
+  [17/10/16, 07:21:46] Yi Hein: I accidentally took out my St. John form with all my books
+  [17/10/16, 07:21:56] Yi Hein: Can help me scan and send to me?
+  [17/10/16, 07:22:53] Yi Hein: It's in the pile of books at my desk...刚刚塞进去的书里面
+  [19/10/16, 14:12:52] A Mom A: Mstr Chai Yi Hein your appointment at NUH Dental Centre 1 is on 21 Oct 16 at 03:00pm. To cancel or change appt, pls call 6772 4921
+  [19/10/16, 14:13:10] Yi Hein: Cancel the appointment
+  [19/10/16, 14:13:28] Yi Hein: It should have been delayed to novemeber according to the Dentist
+  [19/10/16, 14:13:42] A Mom A: Then u call them and change
+  [19/10/16, 14:14:05] Yi Hein: Ok
+  [25/10/16, 13:32:59] A Mom A: What time reach home Hein?
+  [25/10/16, 13:33:14] Yi Hein: Slightly later
+  [25/10/16, 13:33:25] Yi Hein: 3pm? Still eating at home
+  [4/11/16, 13:32:25] Yi Hein: I'm coming home early, ate already
+  [11/11/16, 19:00:56] A Mom A: http://mykamus.com/free/2010/09/acara/
+  [13/11/16, 10:27:17] Yi Hein: I'm eating dinner myself
+  [13/11/16, 16:21:45] A Mom A: What time u come home?
+  [13/11/16, 16:22:03] Yi Hein: 8:00 reach home?
+  [13/11/16, 16:23:06] A Mom A: We go Chua chi Kang for dinner, u don't want ?
+  [13/11/16, 16:23:22] Yi Hein: No, I'll just eat here
+  [13/11/16, 18:57:32] A Mom A: Come home earlier is going to rain
+  [13/11/16, 18:58:28] Yi Hein: Shit I wanted to swim
+  [16/11/16, 13:10:09] A Mom A: Mstr Chai Yi Hein your appointment at NUH Dental Centre 1 is on 18 Nov 16 at 08:00am. To cancel or change appt, pls call 6772 4921
+  ‎[5/12/16, 10:41:40] A Mom A: 71465935 ‎<attached: 00000023-71465935.pdf>
+  [21/12/16, 00:11:46] A Mom A: Cannot
+  [8/1/17, 08:32:57] A Mom A: Got half boiled egg
+  ‎[9/1/17, 19:10:54] A Mom A: ‎<attached: 00000026-PHOTO-2017-01-09-19-10-54.jpg>
+  [11/1/17, 14:47:37] Yi Hein: I got my O Level results
+  [11/1/17, 14:47:54] Yi Hein: Screwed up my Malay
+  [11/1/17, 14:48:53] Yi Hein: Malay - C5
+  Higher Chinese - B3
+  [11/1/17, 15:04:06] A Mom A: But u have done well in Chinese.
+  [13/1/17, 06:50:50] A Mom A: Hein help me take one big egg out from the fridge
+  [14/1/17, 09:55:57] A Mom A: Hein , can u dabao yr own lunch?
+  [14/1/17, 09:56:37] A Mom A: My duck is under the sun .  If raining help me collect.  In my room
+  [14/1/17, 11:28:22] Yi Hein: Ok
+  [14/1/17, 12:39:31] A Mom A: Hein u eaten lunch al?
+  [14/1/17, 12:39:57] Yi Hein: Yes dabao 
+  [14/1/17, 12:40:39] A Mom A: Still want 肉挫面？  famous one
+  [14/1/17, 12:40:50] Yi Hein: No full already
+  [14/1/17, 12:40:55] A Mom A: Ok
+  [20/1/17, 13:08:15] A Mom A: Mstr Chai Yi Hein your appointment at NUH Dental Centre 1 is on 24 Jan 17 at 08:00am. To cancel or change appt, pls call 6772 4921
+  [20/1/17, 14:28:56] A Mom A: Don't press door bell, I'm sleeping
+  [21/1/17, 17:47:55] Yi Hein: Your Citibank Dividend Card  ending 7672 is currently deactivated. Send ACT7672 to 72484 (or +6596572484 if you are overseas) for instant activation.
+  [2/2/17, 18:23:48] A Mom A: Help me close window
+  [8/2/17, 18:56:24] A Mom A: Hein , no point seeing locum Dr
+  [13/2/17, 17:22:35] A Mom A: What time reach home?
+  [13/2/17, 17:59:15] Yi Hein: 7:30 about
+  [13/2/17, 17:59:43] Yi Hein: I'm not going to see doctor
+  [20/2/17, 08:50:26] Yi Hein: My recess is 10:00-10:40
+  [20/2/17, 09:05:34] A Mom A: If I reach early,  u can come out ?
+  [20/2/17, 09:07:03] A Mom A: Inside 74 now
+  [20/2/17, 09:07:11] Yi Hein: ‎Location: https://maps.google.com/?q=1.300546,103.779892
+  [20/2/17, 09:22:51] A Mom A: Arrived
+  [20/2/17, 09:35:02] Yi Hein: We having debrief now
+  [20/2/17, 09:36:36] A Mom A: Want me to buy thing for yr recess first?
+  [20/2/17, 09:36:53] A Mom A: No one here
+  [20/2/17, 09:44:29] Yi Hein: No need
+  [3/3/17, 09:41:22] A Mom A: Where is the small speaker?  Did u bring it to sch?
+  [3/3/17, 09:41:59] Yi Hein: Yeah
+  [4/3/17, 09:30:37] A Mom A: 猪肠粉 on the table is for you.
+  [4/3/17, 09:30:49] A Mom A: What u want for lunch?
+  [4/3/17, 09:31:14] A Mom A: We are going NTU OPEn hse
+  [4/3/17, 10:02:39] Yi Hein: Cai fan is fine
+  [4/3/17, 10:02:54] Yi Hein: Training just ended
+  [4/3/17, 12:15:07] A Mom A: U finish the Zhu Chang Fen already?
+  [4/3/17, 12:15:16] Yi Hein: Yes
+  [6/3/17, 10:20:49] A Mom A: Only 8.30am available on 8/3/2017.  U want to change?
+  [6/3/17, 10:22:32] Yi Hein: Yes
+  [6/3/17, 11:20:22] A Mom A: Appt change to 8/3/2017 3.30pm
+  [6/3/17, 11:20:34] A Mom A: *8.30 am
+  ‎[9/3/17, 08:28:51] Yi Hein: ‎<attached: 00000071-PHOTO-2017-03-09-08-28-50.jpg>
+  [11/3/17, 12:56:07] A Mom A: U still at home?  We are at Bt Batok coffee house opp papa cut hair shop
+  [17/3/17, 12:57:59] Yi Hein: I've finished lunch already
+  [17/3/17, 13:00:56] A Mom A: I'm like a ball now being kicked from 1 department to another
+  [21/3/17, 11:26:49] A Mom A: Call me when u are free
+  [21/3/17, 14:08:39] A Mom A: U got home based learning next Wed, u want to make dental appt ?
+  [25/3/17, 07:39:52] Yi Hein: I left the house in a rush, I accidentally left the chiffon cake on TOP of the 鞋架
+  [25/3/17, 08:38:32] A Mom A: 江山易改本性难移
+  ‎[30/3/17, 19:01:14] A Mom A: ‎<attached: 00000081-AUDIO-2017-03-30-19-01-14.m4a>
+  [7/4/17, 19:13:08] A Mom A: Dear CHAI YI HEIN, your appointment @ Ng Teng Fong General Hospital, Tower A, Clinic A32 Medicine, Lvl 3 is on 12 Apr 2017 @ 16:00. Reply 1 to Confirm, 2 to Cancel. To reschedule, please call our Appointment Line at 6716 2222 or our Dental Line at 6716 2233
+  ‎[7/4/17, 19:16:07] A Mom A: ‎<attached: 00000085-PHOTO-2017-04-07-19-16-07.jpg>
+  [7/4/17, 20:20:12] Yi Hein: Math teacher - Azmi
+  [10/4/17, 17:05:07] A Mom A: Can call u now?
+  [10/4/17, 17:05:58] A Mom A: Which other teacher u want me to meet?
+  [15/4/17, 16:19:37] A Mom A: What time u finish? Hein
+  [15/4/17, 16:28:56] Yi Hein: 5?
+  [15/4/17, 16:29:44] A Mom A: Where a u ?
+  [15/4/17, 16:32:01] Yi Hein: School
+  [15/4/17, 16:40:33] Yi Hein: I'm done
+  [19/4/17, 13:52:17] Yi Hein: Can send me the PTM timings?
+  ‎[19/4/17, 13:56:24] A Mom A: ‎<attached: 00000095-PHOTO-2017-04-19-13-56-24.jpg>
+  [19/4/17, 14:03:56] Yi Hein: Okie I'm in library now
+  [19/4/17, 14:15:11] A Mom A: Arriving in 20 mins.  Where to meet?
+  [19/4/17, 14:21:43] A Mom A: I might be late.  Missed all the buses
+  [19/4/17, 14:24:34] Yi Hein: Ok tell me when you arrive
+  [19/4/17, 14:37:12] A Mom A: Arrived at bus stop
+  [19/4/17, 14:38:13] Yi Hein: I'm standing at top of the ramp
+  [24/4/17, 16:46:12] A Mom A: Hein what time reach home?
+  [4/5/17, 19:12:21] A Mom A: Hein what time reach home
+  [4/5/17, 19:19:25] Yi Hein: Around 8:00pm on the bus now
+  [4/5/17, 19:19:32] Yi Hein: Just finished training
+  [5/5/17, 15:01:09] A Mom A: Hein u went to Nuh?
+  [5/5/17, 15:18:37] Yi Hein: Yeah yesterday for appointment
+  [5/5/17, 15:18:48] Yi Hein: Dental
+  [5/5/17, 15:34:16] A Mom A: U called me?
+  [11/5/17, 16:11:15] Yi Hein: I'm not going training tomorrow
+  [11/5/17, 16:11:23] Yi Hein: *today
+  [11/5/17, 16:11:32] Yi Hein: Going home now
+  [11/5/17, 16:11:39] Yi Hein: Feel a bit sick
+  [11/5/17, 16:34:27] Yi Hein: Today got buy newspaper?
+  [11/5/17, 16:38:00] A Mom A: Yes
+  [15/5/17, 09:19:26] Yi Hein: I'm going cc today
+  [15/5/17, 11:43:56] A Mom A: What time come back?
+  [15/5/17, 11:44:11] Yi Hein: Around 7?
+  [15/5/17, 11:44:21] A Mom A: Ok
+  [15/5/17, 11:44:41] A Mom A: If hungry, go and buy food at the coffee shop
+  [15/5/17, 11:45:18] Yi Hein: Wait can I stay until 9?
+  [15/5/17, 11:45:44] A Mom A: Then yr dinner eat at 10pm?
+  [15/5/17, 11:47:39] A Mom A: Papa only leaves office 8pm today.  He can pick u on his way back, at 8 plus
+  [15/5/17, 11:49:22] A Mom A: Let me know if u want him to pick u
+  [15/5/17, 11:50:09] A Mom A: And I didn't buy newspaper today.  U can read at CC, first floor there
+  [15/5/17, 16:46:39] Yi Hein: Yes ok
+  [15/5/17, 18:29:14] Yi Hein: Told papa already?
+  [15/5/17, 18:30:57] A Mom A: Yes
+  [15/5/17, 20:12:30] A Mom A: Wait for papa at blk 254 bus stop.  Papa arriving 10-15mins time
+  [15/5/17, 20:17:26] A Mom A: Hello answer pls
+  [15/5/17, 20:18:39] Yi Hein: Okk
+  [26/5/17, 08:41:59] Yi Hein: Huh I don't get it. I thought you said going to Hwa Chong faster
+  [26/5/17, 08:42:29] Yi Hein: My recess is from 11am-1140
+  [26/5/17, 08:45:33] Yi Hein: So are you coming??
+  [26/5/17, 08:46:11] A Mom A: Kang didn't answer my call
+  [26/5/17, 08:46:20] A Mom A: I messages him
+  [26/5/17, 09:03:13] A Mom A: Hein I will get key from u.  Wait at canteen?
+  [26/5/17, 09:28:34] A Mom A: Hein no need get key from u already
+  [26/5/17, 09:33:33] Yi Hein: Oh ok can
+  [31/5/17, 14:09:20] A Mom A: Hein, want me to call Nuh dental?
+  [31/5/17, 14:09:42] A Mom A: When date do u want ?
+  [31/5/17, 14:11:07] Yi Hein: 0800 on this Friday, or any earliest time
+  [31/5/17, 15:11:17] A Mom A: Fri at 2pm only.  The rest fully booked
+  [6/6/17, 12:33:04] A Mom A: Hein, reach already?
+  [6/6/17, 12:33:17] Yi Hein: Almost still on bus
+  [6/6/17, 12:33:38] A Mom A: Remember eat the fruit
+  [6/6/17, 12:36:22] Yi Hein: Ok
+  [8/6/17, 16:44:30] A Mom A: Hein, what time u reach home tomorrow?
+  [10/6/17, 09:45:38] A Mom A: Forgot to eat your egg again?
+  [10/6/17, 09:52:52] Yi Hein: Shit
+  [10/6/17, 09:53:07] Yi Hein: And now I'm actually waiting 40monites for a god damn bus
+  [10/6/17, 09:53:13] Yi Hein: Should have taken 176
+  [10/6/17, 09:54:41] A Mom A: 12 min.  Just check
+  [10/6/17, 09:55:18] Yi Hein: I've waited 20mins already
+  [15/6/17, 14:06:01] A Mom A: Hein, can u buy newspaper?  I forgot to buy
+  [15/6/17, 14:07:57] A Mom A: Only if u want to read
+  [15/6/17, 14:09:03] Yi Hein: Ok can
+  [15/6/17, 14:09:41] Yi Hein: Probably no mood to read after studying
+  [15/6/17, 14:10:11] A Mom A: Library got free newspaper to read
+  [15/6/17, 14:12:10] Yi Hein: Oh yeah
+  [19/6/17, 20:30:18] A Mom A: Hein, on yr way back already?
+  [19/6/17, 20:37:32] Yi Hein: Yeah on the bus
+  [23/6/17, 23:37:31] Yi Hein: https://redredapples.wordpress.com/2011/05/01/when-a-woman-is-a-vulture-and-your-man-the-prey/amp/
+  [23/6/17, 23:38:12] Yi Hein: Kinda a weird article so depends whether you want to read it. But it describes exactly the situation
+  [24/6/17, 07:05:15] A Mom A: Hein, thanks for taking time to do all this for me, I really appreciate what u did.  U are really different from others when I see how u analyses and trying to tackle the problem we are having now.  Your can think of what others including Xuen not able to think of.  Im really proud with u.  U look thing from a very different angle .  I was at first puzzled by the questions u asked and don't understand why u ask those questions which many people won't ask.  Now I understand why yr teachers said u always ask questions which other student won't ask.  It is not because there is problem with yr level of understanding but is the way u think and approach thing.  These could be a valuable assets to u and I truly believe u will be very outstanding in future. But u have to be prepared that u need to put in more effort as compared to others to see the end result as many people might not understand neither appreciate where u are coming from. But believe me u will succeed in the end and end of the day,  others will be amazed by yr abilities.
+  [24/6/17, 07:06:13] A Mom A: Pls don't waste time on this any more.  Concentrate on yr study.  I will feel bad if all these affect yr study.
+  [24/6/17, 08:15:00] A Mom A: Hein, help me collect laundry if raining
+  [24/6/17, 08:18:56] Yi Hein: Ok
+  [24/6/17, 10:07:38] Yi Hein: I'm staying at home today
+  [4/7/17, 11:44:34] Yi Hein: They have green curry noodle?
+  [4/7/17, 11:45:13] A Mom A: If don't have?
+  [4/7/17, 11:45:44] Yi Hein: Phat Thai
+  [4/7/17, 11:46:21] A Mom A: Ok got green curry noodle
+  [21/7/17, 06:26:05] Yi Hein: Papa say big sweep buy 2 tickets
+  [21/7/17, 06:26:24] A Mom A: Ok
+  [24/7/17, 08:01:20] Yi Hein: Need to send email to my form teacher to endorse my EE selection choices
+  [24/7/17, 08:02:18] Yi Hein: Plssss cos I might not get my choices if I don't submit today
+  [24/7/17, 08:10:05] A Mom A: Give me sample letter
+  [8/8/17, 12:08:44] Yi Hein: I will be heading home now
+  [22/8/17, 09:00:03] A Mom A: Can chg yr apt to 2pm? My appt at 2.20pm.  Ok I call them?
+  [22/8/17, 09:13:16] Yi Hein: Ok
+  [22/8/17, 09:54:53] A Mom A: Yr appt is 2.45pm.  Cannot chg
+  ‎[1/9/17, 10:29:34] Yi Hein: ‎<attached: 00000183-PHOTO-2017-09-01-10-29-33.jpg>
+  [5/9/17, 21:33:16] A Mom A: U print the wrong email
+  [13/9/17, 16:32:43] A Mom A: Yr dentist going to call u
+  [23/9/17, 17:50:36] Yi Hein: Show size is 10.5 not sure Uk or US though
+  [23/9/17, 17:50:42] Yi Hein: *shoe
+  [23/9/17, 18:37:52] A Mom A: Ok
+  [12/10/17, 08:55:41] Yi Hein: There are 10 slices of bread left
+  [12/10/17, 08:55:56] A Mom A: Ok
+  [12/10/17, 08:57:16] A Mom A: Need buy newspaper?
+  [12/10/17, 08:57:31] Yi Hein: No need
+  [17/10/17, 13:12:59] A Mom A: Hein, I forgot to get my appt card from the payment counter just now.  Can u help me get from them.  Give them my name and nric: S6979427J
+  [17/10/17, 13:13:13] A Mom A: Nuh dental centre 1
+  [23/10/17, 21:33:38] A Mom A: https://wapbaike.baidu.com/item/忧遁草
+  [23/10/17, 21:35:39] A Mom A: Moringa
+  [23/10/17, 21:36:59] A Mom A: https://wk.baidu.com/view/6e47dcfd941ea76e58fa04c6?pcf=2#1
+  [23/10/17, 21:41:04] A Mom A: https://www.chinaeducenter.com/en/cedu/tcm_treatment_cancer.php
+  [8/11/17, 11:48:57] A Mom A: Visit to SGH on 9/12. U going?
+  ‎[10/11/17, 13:19:22] A Mom A: ‎<attached: 00000200-PHOTO-2017-11-10-13-19-22.jpg>
+  ‎[10/11/17, 13:19:30] A Mom A: ‎<attached: 00000201-PHOTO-2017-11-10-13-19-30.jpg>
+  ‎[10/11/17, 13:19:37] A Mom A: ‎<attached: 00000202-PHOTO-2017-11-10-13-19-37.jpg>
+  ‎[10/11/17, 13:19:44] A Mom A: ‎<attached: 00000203-PHOTO-2017-11-10-13-19-44.jpg>
+  [10/11/17, 13:57:16] A Mom A: U must calculate yrself after they count.  Also must count the money b4 u leave
+  [12/11/17, 18:15:51] Yi Hein: I'm going out now, what do you wanna buy back?
+  [12/11/17, 19:16:41] A Mom A: See pictures above,  if cheap then buy
+  [23/12/17, 16:33:00] A Mom A: ‎Missed voice call
+  [21/1/18, 13:14:13] A Mom A: Yr small cup need to wash?
+  [21/1/18, 13:28:49] Yi Hein: I don't think can wash away the soot
+  [23/1/18, 08:52:51] A Mom A: Hein, I bought a lot of cai xin, I cook more and save some for u tonight?
+  [23/1/18, 08:56:41] Yi Hein: Ok thanks
+  [23/1/18, 09:52:35] A Mom A: Want some rice?
+  [23/1/18, 10:26:50] Yi Hein: No need
+  [24/1/18, 07:45:41] Yi Hein: do we have these available at home? its required to apply for the hospital attachment programme
+  
+  5)  Proof of immunization for Chicken Pox and MMR (You are required to see any GP for the varicella screening report.  However, if you had your chickenpox before, please obtain a letter from your parent, stating the year you contracted it);
+  6)  Health insurance report (you can obtain this report from any insurance company in Singapore.  Please ensure that your insurance covers your training attachment here.  It's basically to ensure you are covered by a hospital scheme during your training here).  If you do not have this insurance policy, you may purchase one from any insurance company in Singapore.
+  [24/1/18, 09:38:31] A Mom A: Yr school insurance should have covered this
+  [24/1/18, 11:06:14] Yi Hein: ok i'll check with my teacher
+  [25/1/18, 07:06:21] Yi Hein: i've just forwarded the email
+  [25/1/18, 09:26:55] A Mom A: Ok
+  [25/1/18, 12:56:51] A Mom A: Hein, NUHS only allow enquiry thru email.  I have already sent email to them
+  [25/1/18, 12:57:11] A Mom A: Do u have chicken pox before?
+  [25/1/18, 18:24:12] A Mom A: Did u reset yr SingPass password
+  [25/1/18, 18:24:37] Yi Hein: Yes
+  [25/1/18, 18:24:40] Yi Hein: Yes
+  [25/1/18, 19:33:16] A Mom A: Want apple or orange tonight?
+  [25/1/18, 19:39:05] Yi Hein: Orange
+  [25/1/18, 21:37:10] A Mom A: Drink soup and eat orange(fridge)
+  [25/1/18, 21:37:20] A Mom A: Orange already peel skin
+  [13/2/18, 21:18:00] A Mom A: We on the way
+  [13/2/18, 21:18:32] A Mom A: Can go to the place papa always drops u?
+  [23/2/18, 14:15:19] A Mom A: What time u leave ACSI?  I cooked 金银花already, I bring to sch?
+  ‎[23/2/18, 15:22:19] A Mom A: ‎<attached: 00000231-PHOTO-2018-02-23-15-22-19.jpg>
+  ‎[23/2/18, 15:22:19] A Mom A: ‎<attached: 00000232-PHOTO-2018-02-23-15-22-19.jpg>
+  [23/2/18, 15:31:04] Yi Hein: Ok waiting for my turn now
+  [23/2/18, 15:36:09] A Mom A: If the dr not good, don't take his medicine
+  [23/2/18, 15:36:20] Yi Hein: Why?
+  [23/2/18, 15:36:26] Yi Hein: IHP don't cover?
+  [23/2/18, 15:37:09] A Mom A: No, I mean some Dr just anyhow give medicine.  If u feel the Dr not good , don't EAT the medicine
+  [23/2/18, 15:37:37] Yi Hein: Oh ok see how it goes
+  [23/2/18, 15:37:42] Yi Hein: Still waiting
+  [23/2/18, 15:40:31] A Mom A: Let me know what the Dr said
+  [27/2/18, 06:12:15] Yi Hein: duckweed
+  [27/2/18, 06:12:20] Yi Hein: 浮萍
+  [2/3/18, 07:45:39] Yi Hein: Can I see the doctor again today?
+  [2/3/18, 11:01:20] Yi Hein: Can help me change my dental appointment to 12 march?
+  [2/3/18, 11:35:48] A Mom A: 12 Mar fully booked.  14/3 5pm available
+  [2/3/18, 11:40:52] Yi Hein: Can
+  [2/3/18, 11:50:25] A Mom A: Ok.  Confirm on 14/3 at 5pm
+  [2/3/18, 11:50:35] A Mom A: Are u going to see Cheong?
+  [2/3/18, 11:50:38] Yi Hein: Ok thanks
+  [2/3/18, 11:51:07] A Mom A: I think afternoon he not working.  I called them but nobody answer call
+  [10/3/18, 10:24:17] A Mom A: Yr pen arrived
+  [10/3/18, 10:26:03] Yi Hein: Thanks 🙏🏼
+  [17/3/18, 17:32:45] Yi Hein: Help me buy
+  
+  Mahjong Paper (very big type) - 25 pieces 
+  
+  Whiteboard Marker - 25 pieces
+  
+  Thin Marker - 8 pieces
+  
+  Masking Tape - 20 pieces
+  
+  Cheap Pen - 5 pieces
+  
+  30cm ruler - 10 pieces
+  
+  Scissors - 15 pieces
+  [18/3/18, 11:17:44] A Mom A: Mahjong paper only one size 34inch * 34 inch
+  [18/3/18, 11:30:37] Yi Hein: Yeah can
+  [18/3/18, 11:31:15] Yi Hein: Can take a pic
+  [18/3/18, 11:48:56] A Mom A: ‎Missed voice call
+  ‎[28/3/18, 06:43:55] Yi Hein: ‎<attached: 00000258-PHOTO-2018-03-28-06-43-54.jpg>
+  [28/3/18, 14:54:31] A Mom A: Can call u now?
+  [28/3/18, 14:54:39] Yi Hein: Yeah
+  [28/3/18, 14:57:34] A Mom A: I check Cheong in or not first
+  [28/3/18, 14:59:07] A Mom A: ‎Missed video call
+  ‎[28/3/18, 15:01:08] A Mom A: ‎<attached: 00000263-PHOTO-2018-03-28-15-01-08.jpg>
+  [28/3/18, 16:57:12] Yi Hein: He wants to talk to you
+  [28/3/18, 16:57:21] A Mom A: Ok
+  [28/3/18, 16:57:42] A Mom A: I call yr Hp?
+  [28/3/18, 16:57:51] Yi Hein: Need to wait first
+  [29/3/18, 06:24:51] Yi Hein: Dr Lee Haw Chou 
+  Spine & Orthopaedic Surgeon 
+  1) Mt Alvernia Medical Centre D
+  820 Thomson Road #07-53
+  Singapore 574623
+  Tel : 6251 2822
+  
+  2) Mt Elizabeth Novena Specialist Centre 
+  38 Irrawaddy Road #06-59-60-61
+  Singapore 329563
+  Tel: 6884 6788
+  
+  Tel: 6535 8833 (after office hours)
+  Email: hclee@sog.sg
+  Website: www.sog.sg
+  1st consultation : $160 onwards tbc
+  Subsequent consultation : $90/visit
+  
+  
+  Dr Khong Kok-Sun
+  K S Khong Orthopaedic Practice
+  3 Mt Elizabeth, #08-04
+  Mt Elizabeth Medial Centre
+  Singapore 228510
+  Tel: 67335515
+  1st consultation : $110 tbc
+  Subsequent consultation : $80-100/visit
+  
+  Dr Tan Jee Lim 
+  Consultant Orthopaedic Sports Surgeon
+  JL Sports Medicine and Surgery 
+  Gleneagles Medical Centre #05-08 
+  6 Napier Road
+  Singapore 258499
+  Tel: 64768998
+  1st consultation:
+  Subsequent consultation: 
+  
+  Dr Benedict Peng Chan Wearn 
+  Consultant Orthopaedic Surgeon 
+  Island Orthopaedic Consultants Pte Ltd
+  1) #02-16 Gleneagles Medical Centre 
+  6 Napier Road
+  Singapore 258499
+  Tel: 64745488
+  
+  2) #06-03 Mt Elizabeth Medical Centre 
+  3 Mt Elizabeth
+  Singapore 228510
+  Tel: 67375683
+  
+  1st consultation: 
+  Subsequent consultation: 
+  
+  Dr Ooi Lai Hock 
+  Consultant Orthopaedic Surgeon 
+  Island Orthopaedic Consultants Pte Ltd 
+  1) #02-16 Gleneagles Medical Centre 
+  6 Napier Road
+  Singapore 258499
+  Tel: 64745488
+  
+  2) #08-08 Gleneagles Medical Centre 
+  6 Napier Road
+  Singapore 258499
+  Tel: 62516630
+  
+  3) #05-08 Mt Elizabeth Medical Centre 
+  3 Mt Elizabeth 
+  Singapore 228510
+  Tel: 67375683
+  
+  4) #01-04 Mt Alvernia Medical Centre 
+  Block A 820 Thomson Road
+  Singapore 574623
+  Tel: 63560588
+  [29/3/18, 07:12:07] A Mom A: Read message after 9.30am, might need u to leave early etc
+  [29/3/18, 07:13:54] Yi Hein: Read your message after 9.30am today?
+  [29/3/18, 09:35:21] Yi Hein: 👆🏼
+  [29/3/18, 09:40:43] A Mom A: Calling nuh now
+  [29/3/18, 09:52:09] A Mom A: Nuh specialist not ever to see specialist today, even if u go A&E, unless the Dr think it is very urgent
+  [29/3/18, 09:52:28] A Mom A: I check private one
+  [29/3/18, 10:15:49] Yi Hein: Ok
+  [29/3/18, 10:28:23] A Mom A: Hein yr lesson until 4pm.  Can leave b4 4pm?
+  [29/3/18, 10:28:39] A Mom A: Earliest what time can u leave?
+  [29/3/18, 10:34:47] Yi Hein: Can but need to get a green form and front office would need to call you
+  [29/3/18, 10:36:36] A Mom A: Soi Teo recommend one Dr in Gleneagle hospital but the Dr fully book today.  He is calling the Dr to see can fit u in for today appointment or not
+  [29/3/18, 10:37:13] Yi Hein: Ok thanks
+  [29/3/18, 10:43:05] A Mom A: Hein, appt make at 3.30pm.  What time can u leave?
+  [29/3/18, 10:58:49] A Mom A: I meet u at ACSI at 3pm then we take a cab there?
+  [29/3/18, 11:29:16] A Mom A: Latest we have to leave ACSI by 3.15pm
+  [29/3/18, 11:29:31] A Mom A: And MUST bring refer letter
+  [29/3/18, 12:05:05] Yi Hein: Ok I'll inform my teacher
+  [29/3/18, 12:18:19] A Mom A: So what time?
+  [29/3/18, 12:18:46] Yi Hein: 3:00pm can
+  [29/3/18, 12:19:06] Yi Hein: Prob leave at 3:10 cos need time to sign form
+  [10/4/18, 17:09:56] A Mom A: Did u eat yr bread?
+  [10/4/18, 17:10:11] Yi Hein: Yeah
+  ‎[20/4/18, 15:32:41] A Mom A: ‎<attached: 00000292-PHOTO-2018-04-20-15-32-41.jpg>
+  [27/4/18, 19:01:11] Yi Hein: We would like to cordially invite you and your family to Yen Han's wedding dinner in Kuching. The details are as follow: 
+  
+  Date: 25th December 2018 ( Tuesday )
+  
+  Time: 6.30pm
+  
+  Venue: Imperial Hotel Kuching 
+  
+  Kindly let us know whether you are ablVe to attend .
+  
+  Thanks ☺
+  
+  小舅
+  ‎[27/4/18, 19:01:29] Yi Hein: ‎<attached: 00000294-PHOTO-2018-04-27-19-01-29.jpg>
+  [27/4/18, 19:01:52] Yi Hein: Helen whatsapp status
+  [27/4/18, 20:10:28] A Mom A: Hein, who send this?
+  [27/4/18, 20:18:39] Yi Hein: Yi yi
+  [28/4/18, 12:52:24] A Mom A: ‎Missed voice call
+  [1/5/18, 17:13:39] A Mom A: Hein, drink the green bean water on the table.  Don't throw away the bean yet
+  [17/5/18, 16:37:56] A Mom A: Hein, what time u come back today?
+  [17/5/18, 16:54:38] Yi Hein: Ard 9:00pm
+  [19/5/18, 16:14:25] A Mom A: What time are u done?
+  [19/5/18, 16:15:57] Yi Hein: 30 mins
+  [22/5/18, 18:18:09] A Mom A: https://snac.apptitude.sg/notification/public/VFZSSk1FOVJQVDA9/VFdwclBRPT0=/VFhwbk0wMUVhejA9/VGxSTmQwNXFSVFU9/VkdzNVZWTlZXa3BSTUVaVlUxVTVUMWd4U2taUlZWSm1VbXhLVUZSV09VWlVWVVpLVkVFOVBRPT0=
+  ‎[12/6/18, 06:50:45] Yi Hein: ‎<attached: 00000305-PHOTO-2018-06-12-06-50-44.jpg>
+  ‎[12/6/18, 06:50:45] Yi Hein: ‎<attached: 00000306-PHOTO-2018-06-12-06-50-44.jpg>
+  [15/6/18, 18:54:50] Yi Hein: From Sze Kaong Goh,
+  
+  大家好！我现在发这个网址是有语音导览，让大家足不出户，就可以开心快乐周游整个中国啦！
+  大家可以坐在家中旅游啦！既省时间，省交通费，又省住宿饮食费。点开后大家想到什么地方旅游，就点那个旅游景点。还可以用手指点近点远放大放小图片，还有免费有声导游讲解旅游景点的状况，快试试吧！
+  http://www.quanjingke.com/index.php?m=vryun&c=mobile&a=mindexMeili&from=singlemessage
+  这就是我们的量子卫星拍摄，又结合了VR技术，高科技的力量和结晶！
+  [26/6/18, 14:31:56] A Mom A: Grin, don't press door bell, I didn't lick the door
+  [26/6/18, 14:32:06] A Mom A: Soup in the kitchen
+  [23/7/18, 06:37:02] Yi Hein: Was rushing so Forgot to bring bottle, will drink when I'm back home. I'm coming home for dinner
+  [25/7/18, 10:20:55] A Mom A: What is the log in ID and password for parent portal?
+  [25/7/18, 10:21:22] Yi Hein: 13chai.yi.hein
+  [25/7/18, 10:21:28] Yi Hein: Pass: parents
+  [25/7/18, 10:23:53] A Mom A: I need teacher name
+  [25/7/18, 10:28:56] A Mom A: Azmi Azeman Math teacher?
+  [25/7/18, 10:33:03] Yi Hein: Yes
+  [25/7/18, 10:33:07] Yi Hein: Silverajan
+  [25/7/18, 10:33:13] Yi Hein: ^ lang lit teacher
+  [25/7/18, 10:38:11] A Mom A: Which teacher more popular ?  I put in front so no need wait
+  ‎[25/7/18, 10:42:38] A Mom A: ‎<attached: 00000320-PHOTO-2018-07-25-10-42-38.jpg>
+  [25/7/18, 10:45:27] Yi Hein: Yeah can
+  [25/7/18, 10:45:32] Yi Hein: Should be fine
+  [27/7/18, 13:38:45] A Mom A: I'm here already.  Where is the auditorium?
+  [27/7/18, 13:39:23] Yi Hein: I'm having consult now, meet you at 2:00?
+  [27/7/18, 13:42:09] A Mom A: Wait for u outside the auditorium
+  [12/8/18, 18:12:17] Yi Hein: Dear Sir/Mdm, the visiting quota has been exceeded. As part of our service, we have placed you on the waiting list to enter Ward B8 Bed 25. An SMS will be sent to you once the next visiting slot is available. Thank you.
+  [27/9/18, 11:42:33] Yi Hein: Where are you
+  [29/9/18, 11:55:59] A Mom A: ‎Missed voice call
+  [29/9/18, 11:57:57] A Mom A: ‎Missed voice call
+  [29/9/18, 14:56:05] Yi Hein: You called?
+  [30/9/18, 14:29:38] A Mom A: ‎Missed voice call
+  [30/9/18, 16:58:15] Yi Hein: the chicken put in air-fryer for how long?
+  [30/9/18, 20:27:02] A Mom A: I told Xuen already.  So how?  Has it become half cooked chicken or black chicken?
+  [30/9/18, 20:27:40] A Mom A: Next time post in family chat group
+  [30/9/18, 20:32:52] Yi Hein: In a quantum state between the two
+  [4/10/18, 14:50:56] A Mom A: Hein where a u?
+  [23/10/18, 16:29:26] A Mom A: I already message papa. Keep an eye on yr phone for WhatsApp message between 6pm to 7pm
+  [23/10/18, 16:32:56] Yi Hein: Ok
+  [23/10/18, 18:13:19] A Mom A: Did u read papa message?
+  [3/11/18, 07:55:46] A Mom A: Lunch: soup and duck
+  [3/11/18, 07:55:59] A Mom A: Remember cook rice and heat up soup
+  [8/11/18, 10:03:17] A Mom A: What time reach home?
+  [8/11/18, 10:03:26] Yi Hein: 5 mins
+  [21/11/18, 07:09:15] A Mom A: Close window
+  [21/11/18, 07:28:24] Yi Hein: ok
+  [22/11/18, 20:27:00] A Mom A: Fruits in the fridge
+  [22/11/18, 20:38:36] Yi Hein: Ok
+  [25/11/18, 12:06:48] Yi Hein: BTW I decided to go central library in the end
+  [18/12/18, 20:21:04] A Mom A: Apple in the fridge
+  [18/12/18, 21:41:05] Yi Hein: I'll be home before 12
+  [18/12/18, 21:42:29] Yi Hein: It's quite busy so I wanna stay a bit longer
+  [22/12/18, 11:10:10] A Mom A: https://www.icloud.com/notes/0AxJ0VGMgGMKgbLheaZFDVTzg#2018_12_Taiwan_itinerary
+  [24/12/18, 16:39:57] A Mom A: ‎Missed voice call
+  ‎[2/1/19, 13:03:58] Yi Hein: ‎<attached: 00000355-PHOTO-2019-01-02-13-03-58.jpg>
+  [2/1/19, 13:04:28] A Mom A: Yes, plenty
+  [2/1/19, 13:04:55] Yi Hein: Not expiredright
+  [2/1/19, 13:05:09] A Mom A: Powder no expiry date one
+  [2/1/19, 13:05:33] A Mom A: Expired also can use
+  [2/1/19, 13:05:47] Yi Hein: Ok can
+  [9/1/19, 20:05:01] A Mom A: https://defenceforumindia.com/forum/threads/my-personal-statement-for-medicine-at-nus.33229/
+  [9/1/19, 20:05:35] A Mom A: https://www.geraldtan.com/premed/Applying_to_NUS_YLL_School_of_Medicine.html
+  [9/1/19, 20:06:41] A Mom A: http://speedandpassion-stephen.blogspot.com/2010/04/personal-statement.html?m=1
+  [9/1/19, 20:09:49] A Mom A: https://www.google.com.sg/amp/s/rangspeakyourmind.wordpress.com/2011/03/29/an-unofficial-guide-to-admission-to-yong-loo-lin-school-of-medicine/amp/
+  [9/1/19, 20:10:41] A Mom A: https://www.google.com.sg/amp/s/nushsmed.wordpress.com/2012/06/23/content-of-your-personal-statement-yllsom/amp/
+  [9/1/19, 20:12:20] A Mom A: https://www.duke-nus.edu.sg/admissions-blog/content/med-school-prep-how-write-personal-statement
+  [21/1/19, 09:33:07] A Mom A: Hein, I need yr result slip for the remarking.  Where u put it?
+  [21/1/19, 16:18:49] Yi Hein: In my drawer, below xuen desk
+  [21/1/19, 16:18:52] Yi Hein: The brown thing
+  [21/1/19, 17:23:07] A Mom A: Ask yr maths teacher for the IA marks
+  [21/1/19, 19:30:55] Yi Hein: Ok asking
+  [22/1/19, 21:11:29] Yi Hein: He say confidential by protocol
+  [4/4/19, 08:25:55] A Mom A: Call me
+  [6/4/19, 09:00:18] Yi Hein: Can Dabao for me too
+  [19/6/19, 08:21:20] Yi Hein: Can help me buy circular battery
+  [19/6/19, 08:21:27] Yi Hein: Tell u the model later
+  [19/6/19, 20:40:31] Yi Hein: Model number is LR41
+  [19/6/19, 20:41:16] A Mom A: What is circular battery?
+  [19/6/19, 20:41:24] A Mom A: Use for ?
+  [19/6/19, 20:41:44] Yi Hein: Thermometer
+  [19/6/19, 20:42:39] A Mom A: How many u want?
+  [19/6/19, 20:44:43] Yi Hein: 2
+  [20/6/19, 08:57:23] A Mom A: Bought
+  [20/6/19, 08:57:33] A Mom A: Remember to get from me
+  [20/6/19, 09:05:30] Yi Hein: 👌🏼
+  [20/6/19, 09:05:34] Yi Hein: Thanks
+  ‎[8/7/19, 13:36:48] A Mom A: ‎<attached: 00000387-PHOTO-2019-07-08-13-36-48.jpg>
+  [8/7/19, 14:38:53] Yi Hein: Clean
+  [8/7/19, 20:27:28] Yi Hein: If got go market can help me buy the multi-clip hanger for underwear?
+  [8/7/19, 20:27:33] Yi Hein: The compact foldable one
+  [8/7/19, 20:27:59] Yi Hein: Forgot to clear my last hanger from previous bunk and now it’s gone
+  [8/7/19, 20:29:43] A Mom A: I gave u the good one and u lost it
+  [8/7/19, 20:29:49] A Mom A: Find it back
+  [8/7/19, 20:54:56] Yi Hein: asked ard but unlikely finding it
+  ‎[9/7/19, 09:18:32] A Mom A: ‎<attached: 00000395-PHOTO-2019-07-09-09-18-32.jpg>
+  [9/7/19, 09:18:54] A Mom A: Treasure hunt every day
+  [9/7/19, 09:19:44] Yi Hein: Dirty
+  [22/7/19, 19:58:55] Yi Hein: Can help me buy the 3 in 1 Adidas shampoo if you see?
+  [22/7/19, 20:22:40] A Mom A: How much u bought last time?
+  [22/7/19, 20:24:09] Yi Hein: It was 1 for 1
+  [22/7/19, 20:24:15] Yi Hein: Idk the price
+  [22/7/19, 20:24:20] Yi Hein: $4-$6 for both?
+  [22/7/19, 20:24:25] A Mom A: Where u bought?
+  [22/7/19, 20:24:30] Yi Hein: Chinatown
+  [22/7/19, 20:24:41] A Mom A: Ok
+  [22/7/19, 21:14:14] A Mom A: Do u need it urgently?
+  [22/7/19, 21:16:36] Yi Hein: Yeah by this weekend
+  [22/7/19, 21:16:40] Yi Hein: Running out of supply
+  [24/7/19, 06:24:40] Yi Hein: Can help me book the 3rd August slot
+  [24/7/19, 06:24:47] Yi Hein: Is there a cancellation fee
+  [24/7/19, 06:25:13] Yi Hein: 2 playground
+  [24/7/19, 06:27:59] A Mom A: Can book one only
+  [24/7/19, 06:28:25] Yi Hein: Ok book one
+  ‎[24/7/19, 10:03:42] A Mom A: ‎<attached: 00000414-PHOTO-2019-07-24-10-03-42.jpg>
+  [24/7/19, 10:04:12] Yi Hein: Ok thanks
+  [24/7/19, 10:06:01] A Mom A: U see , no shit at last minute, and done within 24 hrs
+  [27/7/19, 07:55:27] A Mom A: Remember to eat yr breakfast: Milo, scone in air fryer, half boiled egg, Swiss roll in fridge
+  [27/7/19, 08:17:07] Yi Hein: Ok
+  [27/7/19, 08:17:13] Yi Hein: On the bus now
+  [28/7/19, 21:45:36] Yi Hein: Fried Rice cook on Saturday?
+  [28/7/19, 21:46:03] A Mom A: U kidding?
+  [28/7/19, 21:47:30] A Mom A: Do u know that some Muslim don’t eat food cook in non halal pot?
+  [28/7/19, 21:47:58] A Mom A: I suggest u order pizza
+  [28/7/19, 21:53:21] Yi Hein: He says he doesn’t care
+  [28/7/19, 22:00:00] Yi Hein: Is mashed potato hard to make?
+  [28/7/19, 22:01:27] Yi Hein: ^ i can get my friends over to help out late afternoon
+  [28/7/19, 22:03:06] A Mom A: Then better ask them cook at home then bring here
+  [28/7/19, 22:03:39] A Mom A: Nothing is easy
+  [28/7/19, 22:06:45] Yi Hein: Ok can
+  [29/7/19, 17:58:21] Yi Hein: Do we have ice box?
+  [29/7/19, 18:33:04] A Mom A: No
+  [31/7/19, 22:30:13] Yi Hein: Can use the pitcher at home for soft drink?
+  [1/8/19, 05:03:04] A Mom A: Which one?  The plastic one just spoit
+  [1/8/19, 05:03:59] A Mom A: *spoilt
+  [1/8/19, 05:16:20] Yi Hein: so no more left?
+  [1/8/19, 05:17:00] A Mom A: Soft drink why need to use this?
+  [1/8/19, 05:17:13] Yi Hein: Put with ice
+  [1/8/19, 05:18:42] A Mom A: None of yr Friend got ice box?
+  [1/8/19, 05:18:59] Yi Hein: Nope
+  [1/8/19, 05:19:50] A Mom A: Try to find a foam box from the market this Sat
+  [1/8/19, 05:20:16] Yi Hein: Ok
+  [1/8/19, 05:20:42] A Mom A: This one not suitable also,unless u want to use the glass one
+  [1/8/19, 05:52:02] A Mom A: U still have the receipt we bought things at NTUC Jurong East
+  [1/8/19, 06:02:20] Yi Hein: Should have, why?
+  [1/8/19, 06:05:49] A Mom A: Yr chicken wing some I marinated with with my own sauce, so still got balance sauce, see can return and change other things or not
+  [1/8/19, 06:47:09] Yi Hein: Total of 16 ppl coming excluding me
+  [1/8/19, 06:47:48] Yi Hein: I’ll going to order 4 pizzas
+  [1/8/19, 06:49:45] Yi Hein: I’ll change for more satay
+  ‎[1/8/19, 06:50:00] Yi Hein: ‎<attached: 00000449-PHOTO-2019-08-01-06-49-59.jpg>
+  [1/8/19, 08:58:46] A Mom A: U want fried bee Hoon?
+  [1/8/19, 08:58:59] A Mom A: U need to buy some fruits also
+  [1/8/19, 10:00:27] Yi Hein: No need, since ordering pizza
+  [1/8/19, 10:44:47] Yi Hein: Also sat morning can go buy lettuce and salad sauce?
+  [1/8/19, 10:45:16] Yi Hein: when we go but the corn and Pottstown
+  [1/8/19, 10:45:26] Yi Hein: *potato
+  [1/8/19, 10:45:30] Yi Hein: *buy
+  [1/8/19, 10:45:53] A Mom A: I can fry bee Hoon, put bee Hoon and fish cake, prawn.  No meat
+  [1/8/19, 10:46:13] A Mom A: Put crab sticks
+  [1/8/19, 10:46:24] Yi Hein: Can also
+  [1/8/19, 10:46:29] Yi Hein: Isn’t it a lot of work for you
+  [1/8/19, 10:46:34] A Mom A: Potato no easy to barbecue
+  [1/8/19, 10:46:52] A Mom A: I thought u Friend want to make mash potatoes?
+  [1/8/19, 10:47:08] Yi Hein: Nope scratched that
+  [1/8/19, 10:47:14] A Mom A: U want agar agar?  I can make today
+  [1/8/19, 10:47:40] Yi Hein: Hmmm got grass jelly instead?
+  [1/8/19, 10:47:48] A Mom A: If fry bee Hoon, still need potato?
+  [1/8/19, 10:48:13] A Mom A: U want 仙草？
+  [1/8/19, 10:48:22] Yi Hein: Yup
+  [1/8/19, 10:48:38] A Mom A: Ok
+  [1/8/19, 10:48:53] A Mom A: How many person?  Confirm already?
+  [1/8/19, 10:49:20] A Mom A: Chicken wing altogether 40pcs as they are quite big each
+  [1/8/19, 11:19:16] Yi Hein: 16-18
+  [1/8/19, 11:19:19] Yi Hein: 2 unconfirmed
+  [1/8/19, 11:19:30] Yi Hein: Cfm need more food
+  [1/8/19, 11:20:06] Yi Hein: I’ll get more satay and pizza on TOP of the bee hoon
+  [1/8/19, 12:40:39] A Mom A: Still got mutton.  Koko said more than enough
+  [1/8/19, 15:14:36] Yi Hein: Ok i go Home See then decide
+  [2/8/19, 14:44:39] A Mom A: https://www.maangchi.com/recipe/sangchu-geotjeori
+  ‎[2/8/19, 16:14:26] A Mom A: ‎<attached: 00000479-PHOTO-2019-08-02-16-14-26.jpg>
+  [6/8/19, 12:51:26] Yi Hein: Can help me search my blue deuter back to see if there’s a receipt
+  [6/8/19, 12:52:04] Yi Hein: I only have the credit receipt...suspect I didn’t take the cash receipt for the boots
+  [8/8/19, 10:23:31] Yi Hein: You’re taking the shuttle bus later right?
+  [8/8/19, 11:14:56] Yi Hein: And is papa coming?
+  [8/8/19, 11:15:20] Yi Hein: If coming by car, need the car label
+  [8/8/19, 11:26:09] Yi Hein: Also I’ll have dinner in camp
+  [8/8/19, 12:42:57] A Mom A: Yes
+  [8/8/19, 12:43:23] A Mom A: I leave office around 5pm , reach maybe 530pm .. talk start 6pm
+  From papa
+  [8/8/19, 12:43:41] Yi Hein: He got car label?
+  [8/8/19, 12:43:46] A Mom A: Yes
+  [8/8/19, 12:44:31] Yi Hein: Can I trouble you to bring my magnum boots box?
+  [8/8/19, 12:45:02] Yi Hein: going to emart after
+  [8/8/19, 12:45:25] A Mom A: Anyone found yr receipt?
+  [8/8/19, 12:45:51] Yi Hein: I didn’t take it (I think)
+  [9/8/19, 06:25:08] A Mom A: Bread in air fryer.  If not enough, fridge still have
+  [9/9/19, 12:14:13] A Mom A: Let me know if u manage to get any bean sprouts
+  [9/9/19, 12:26:04] Yi Hein: Bought, also finished seeing doctor
+  [19/9/19, 14:54:26] A Mom A: What time book out tomorrow and what time book in on Sat?
+  [19/9/19, 23:25:33] Yi Hein: 8pm tentative bookout, bookin reach safti by 0715
+  [24/9/19, 11:25:06] Yi Hein: Is there a credit card I can use? Need to pay for IB to send my results to the Uni I’m applying
+  [24/9/19, 11:52:31] A Mom A: When u need to pay?
+  [24/9/19, 12:04:45] Yi Hein: As soon as possible
+  [24/9/19, 12:23:35] A Mom A: How much is it?
+  [24/9/19, 12:25:19] A Mom A: Delete above after use
+  [24/9/19, 15:06:45] A Mom A: I need yr IC soft copy to collect the steps tracker
+  [24/9/19, 15:08:35] A Mom A: U need to download the 365 healthy app and sign up for the national steps challenge season 5 b4 I can collect on yr behalf
+  [24/9/19, 15:51:11] Yi Hein: Ok when’s the deadline for sign up
+  [24/9/19, 15:51:18] Yi Hein: Ok thanks
+  [24/9/19, 15:52:57] A Mom A: They have road show to sign up but will u the time when u in Taiwan.  So have to make appt online from 8/10/19 onwards
+  [24/9/19, 18:10:08] Yi Hein: Ok can
+  [24/9/19, 22:07:56] Yi Hein: Ok paid, $51 USD to send to 3 universities
+  [24/9/19, 22:08:03] Yi Hein: Check whether you have received the receipt
+  [24/9/19, 22:09:23] A Mom A: Where?
+  [24/9/19, 22:10:22] A Mom A: Didn’t receive anything
+  [24/9/19, 22:10:31] Yi Hein: Oh as in check whether the payment has gone through, I’ll receive the receipt 🧾 likely via email once they process it
+  [24/9/19, 22:11:09] Yi Hein: idk will MasterCard send you a notification when your card is used?
+  [24/9/19, 22:11:37] A Mom A: Total 51 or 51x3
+  [24/9/19, 22:11:56] Yi Hein: Total $51 USD
+  [24/9/19, 22:12:21] A Mom A: Didn’t receive anything
+  [24/9/19, 22:12:44] Yi Hein: Ok maybe give it a day or two
+  [29/9/19, 23:06:52] Yi Hein: ^ can send again? need for SingTel readyroam, and my UK application fee
+  [30/9/19, 06:57:46] A Mom A: Readyroam no need credit card
+  [30/9/19, 06:58:08] A Mom A: How much U.K. application fee?
+  [30/9/19, 06:59:26] A Mom A: 5188346148506017
+  CHAI BOO CHOON
+  Expiry : Jan 2020
+  3 digit code: 513
+  [30/9/19, 12:51:24] Yi Hein: Ah crap I need the authentication code
+  [30/9/19, 13:18:52] A Mom A: Now?
+  [30/9/19, 13:19:29] Yi Hein: Hold on I try sending again
+  [30/9/19, 13:20:35] Yi Hein: Should be send to papa’s phone
+  [30/9/19, 13:20:53] Yi Hein: Idk whether can receive cos overseas
+  [30/9/19, 13:21:03] A Mom A: 46329768
+  [30/9/19, 13:21:32] Yi Hein: Ok done
+  [30/9/19, 13:21:36] Yi Hein: 25 pounds
+  [30/9/19, 13:22:05] A Mom A: Never learn yr lesson.  Every thing last minute
+  [30/9/19, 16:20:33] Yi Hein: I need the code again 😅
+  [30/9/19, 16:21:09] A Mom A: 18350535
+  [30/9/19, 16:21:37] A Mom A: ‎Missed video call
+  ‎[30/9/19, 16:22:40] Yi Hein: Barclaycard Business ePDQ.pdf • ‎1 page ‎<attached: 00000537-Barclaycard Business ePDQ.pdf>
+  [30/9/19, 16:22:52] Yi Hein: Ok done
+  [30/9/19, 16:23:07] A Mom A: Any more?
+  [30/9/19, 16:23:15] Yi Hein: Nope that’s the last one
+  [30/9/19, 16:23:24] Yi Hein: Waste so much money...
+  [30/9/19, 16:23:32] A Mom A: U won’t be able to reach me for the next 1 hour
+  [30/9/19, 16:23:41] Yi Hein: Ok
+  [30/9/19, 16:23:45] Yi Hein: Boarding ferry now?
+  [30/9/19, 16:23:56] A Mom A: U better make sure u do well for yr BMAT
+  [30/9/19, 16:24:12] A Mom A: Already inside ferry
+  [30/9/19, 16:24:26] A Mom A: Leaving soon
+  [30/9/19, 16:24:35] Yi Hein: Ok
+  [30/9/19, 16:24:51] A Mom A: Remember take the fish out
+  ‎[8/10/19, 09:23:12] A Mom A: ‎<attached: 00000550-PHOTO-2019-10-08-09-23-12.jpg>
+  [8/10/19, 09:30:31] A Mom A: U have to sign up yourself using yr phone.  I can only collect on yr behalf.  Choose Bukit Batok east CC as the collection point
+  [8/10/19, 09:31:23] A Mom A: After u sign up , make appt.  Appt slot open today, sign up as soon as possible b4 it is taken up
+  [11/10/19, 13:26:21] A Mom A: I have registered the national steps challenge for u using Kang Hp no.  When u are back, pls change it back to yr Hp no
+  [11/10/19, 13:42:02] A Mom A: I need yr 11B softcopy .  Do u keep a copy at home?
+  [12/10/19, 21:13:03] A Mom A: No need already.  All slots fully booked
+  ‎[22/10/19, 18:46:32] Yi Hein: 69011943_Chai Yi Hein_NRIC.pdf • ‎1 page ‎<attached: 00000556-69011943_Chai Yi Hein_NRIC.pdf>
+  [23/10/19, 09:34:41] A Mom A: Read email
+  [23/10/19, 09:35:36] Yi Hein: ok
+  [23/10/19, 09:37:17] A Mom A: Can read the message?
+  [23/10/19, 09:37:38] Yi Hein: the bmat email?
+  [23/10/19, 09:37:51] A Mom A: Yes
+  [23/10/19, 09:37:56] Yi Hein: can read
+  [23/10/19, 09:38:02] A Mom A: Ok
+  ‎[9/11/19, 09:37:21] A Mom A: ‎<attached: 00000564-Symphony Heights Mgtmt Office.vcf>
+  [9/11/19, 09:38:29] A Mom A: I haven’t registered u for the AED.  Date line is 15/11.  If u want , u call them near to the date to see if still got slot Available
+  [9/11/19, 10:44:15] Yi Hein: Ok
+  [17/11/19, 19:11:36] A Mom A: ‎Missed voice call
+  [26/11/19, 23:11:56] A Mom A: Show me how yr signature look like.  I need to apply credit card for u
+  ‎[26/11/19, 23:16:09] Yi Hein: ‎<attached: 00000569-PHOTO-2019-11-26-23-16-08.jpg>
+  [26/11/19, 23:29:54] Yi Hein: One more signature?
+  ‎[26/11/19, 23:29:58] A Mom A: ‎<attached: 00000571-PHOTO-2019-11-26-23-29-58.jpg>
+  [26/11/19, 23:30:17] Yi Hein: Must be different?
+  [26/11/19, 23:32:06] A Mom A: No need already.
+  [26/11/19, 23:32:30] A Mom A: How’s my imitation of yr signature?
+  [26/11/19, 23:35:23] Yi Hein: Ok lah
+  [26/11/19, 23:35:32] Yi Hein: The y quite thick though
+  [27/11/19, 19:29:27] A Mom A: Air ticket booked.  Itinerary sent via email to you already
+  [27/11/19, 19:29:38] Yi Hein: Yup received
+  [12/12/19, 13:06:57] Yi Hein: Hi , This is D&G Marketing here , it's regarding your sword case order . My driver will deliver the sword case to you on this Saturday 1pm-6pm , have anyone at home on this time ?
+  ‎[12/12/19, 13:08:54] Yi Hein: ‎<attached: 00000580-D&G.vcf>
+  [12/12/19, 13:11:52] A Mom A: Kang at home
+  [12/12/19, 13:12:05] A Mom A: U reply them?
+  [12/12/19, 13:12:12] Yi Hein: Ok replied
+  [12/12/19, 13:12:43] A Mom A: Ask them to call Kang Hp no
+  [12/12/19, 18:55:48] A Mom A: What time u want to wake up tomorrow?  I give u wake up call, just in case u overslept
+  [12/12/19, 22:02:55] Yi Hein: HQBMTC 65100329
+  [12/12/19, 22:02:55] Yi Hein: 2LT Rehaan Vij, ATO
+  [12/12/19, 22:03:12] Yi Hein: This is the only number I have :/
+  [13/12/19, 13:22:45] Yi Hein: Neverdie1
+  [14/12/19, 05:34:57] A Mom A: At airport?
+  [14/12/19, 05:40:45] Yi Hein: On the plane
+  [14/12/19, 05:41:25] A Mom A: U ate dinner at airport?
+  [15/12/19, 07:35:12] A Mom A: We are at Jurong west and it is raining.  We don’t know what time we can reach
+  [15/12/19, 07:37:51] Yi Hein: Im asking my instructor again
+  [16/12/19, 16:34:45] A Mom A: Hein, taxi fare use cash to pay.  I think they charge surcharge if pay by credit card
+  [17/12/19, 08:47:30] A Mom A: Hein, register for MH EXPLORER, see can get 20% or not
+  
+  https://economytraveller.com/mh-explorer-adds-more-perks-for-students/
+  [18/12/19, 15:06:04] A Mom A: Sort out yr stuff now
+  [18/12/19, 15:51:46] A Mom A: Sort out yr stuff now
+  [19/12/19, 11:35:54] A Mom A: Can u send me the pin code from Citibank
+  [19/12/19, 11:36:54] Yi Hein: 262903
+  [19/12/19, 12:59:07] A Mom A: I need the MAS FLIGHT itinerary to
+  [19/12/19, 12:59:15] A Mom A: Buy travel insurance
+  [19/12/19, 12:59:27] A Mom A: 12/1 to 14/1 right
+  ‎[19/12/19, 13:06:30] Yi Hein: Your Electronic Ticket-EMD Receipt.pdf • ‎2 pages ‎<attached: 00000604-Your Electronic Ticket-EMD Receipt.pdf>
+  [19/12/19, 13:06:44] Yi Hein: Yeah
+  [20/12/19, 15:35:13] Yi Hein: Is there food at home?
+  [20/12/19, 16:19:35] A Mom A: U mean dinner?
+  [20/12/19, 16:19:44] A Mom A: U back for dinner right?
+  [20/12/19, 16:19:52] A Mom A: What time reach home?
+  [20/12/19, 19:07:06] Yi Hein: Ard 7.45
+  [21/12/19, 15:05:53] A Mom A: Changi recommend 
+  pclim97@hotmail.com
+  65282896
+  [21/12/19, 21:21:35] A Mom A: Remember to close the balcony door b4 u sleep
+  [21/12/19, 21:46:10] Yi Hein: Ok
+  [28/12/19, 11:15:30] A Mom A: ‎Missed voice call
+  [28/12/19, 11:16:37] A Mom A: ‎Missed voice call
+  [28/12/19, 11:17:19] A Mom A: ‎Missed voice call
+  [28/12/19, 12:01:16] A Mom A: ‎Missed voice call
+  [28/12/19, 12:02:41] A Mom A: ‎Missed voice call
+  [6/1/20, 11:51:52] A Mom A: I rebook YHA hostel thru Agoda at a cheaper price.
+  [6/1/20, 11:52:06] A Mom A: What time is your interview?
+  [6/1/20, 12:13:06] Yi Hein: 1100
+  [6/1/20, 12:13:11] Yi Hein: Need to double check
+  [16/1/20, 09:43:08] Yi Hein: I’m coming home to eat tonight
+  [16/1/20, 09:56:44] A Mom A: Ok
+  [29/1/20, 13:06:19] Yi Hein: I’m coming home to eat tonight
+  [29/1/20, 14:40:53] A Mom A: Bathroom broke down again?
+  [29/1/20, 14:46:30] Yi Hein: No?
+  [30/1/20, 08:38:45] Yi Hein: Can help me check what is my Malaysian IC number
+  [30/1/20, 08:39:14] A Mom A: Not at home.
+  [30/1/20, 08:39:36] Yi Hein: Ok help me check when you’re back
+  [30/1/20, 10:33:22] Yi Hein: Checked already?
+  [30/1/20, 10:42:04] A Mom A: Shit I forgot
+  ‎[30/1/20, 10:42:34] A Mom A: ‎<attached: 00000633-PHOTO-2020-01-30-10-42-34.jpg>
+  [30/1/20, 11:12:42] Yi Hein: Thanks
+  ‎[8/2/20, 09:57:21] A Mom A: ‎<attached: 00000635-PHOTO-2020-02-08-09-57-21.jpg>
+  [8/2/20, 10:05:19] Yi Hein: ‎You deleted this message.
+  [9/2/20, 14:02:52] A Mom A: https://eservices.imi.gov.my/myimms/myPassport
+  ‎[9/2/20, 14:12:08] Yi Hein: ‎<attached: 00000638-PHOTO-2020-02-09-14-12-08.jpg>
+  [10/3/20, 10:06:13] Yi Hein: I might come home to eat today
+  [10/3/20, 10:06:20] Yi Hein: Not cfm
+  [10/3/20, 10:50:47] A Mom A: Let me know by 5pm
+  [11/3/20, 11:16:35] Yi Hein: I’m coming home to eat today
+  [11/3/20, 16:35:56] A Mom A: Ok
+  [12/3/20, 18:41:06] A Mom A: Back for dinner tomorrow?
+  [12/3/20, 19:03:46] Yi Hein: ‎You deleted this message.
+  [12/3/20, 20:34:49] Yi Hein: Yeah I’m coming back
+  [20/3/20, 12:52:01] Yi Hein: I’m not coming home to eat tonight :/
+  [20/3/20, 12:52:52] A Mom A: Only tell now?
+  [20/3/20, 12:55:10] Yi Hein: Sorry forgot to inform earlier 😓
+  [20/3/20, 12:55:36] A Mom A: Where u go?
+  [20/3/20, 12:57:45] Yi Hein: friends gathering
+  ‎[14/4/20, 05:37:30] Yi Hein: ‎<attached: 00000652-PHOTO-2020-04-14-05-37-29.jpg>
+  [28/5/20, 13:16:19] Yi Hein: ‎You deleted this message.
+  [28/5/20, 16:15:39] A Mom A: Back for dinner today?
+  [28/5/20, 16:15:44] Yi Hein: Yes
+  [2/7/20, 11:19:31] Yi Hein: Should be
+  [2/7/20, 11:19:31] Yi Hein: Ask mummy to check
+  [2/7/20, 11:19:54] A Mom A: Check what?
+  [2/7/20, 11:20:24] Yi Hein: If HC Surgical is a tradable stock on poems
+  [2/7/20, 11:20:30] Yi Hein: ‎You deleted this message.
+  [2/7/20, 11:20:43] A Mom A: Yes it is
+  [2/7/20, 11:20:45] Yi Hein: Ticker: 1B1
+  [2/7/20, 11:22:57] Yi Hein: Ok
+  [15/7/20, 10:01:29] Yi Hein: Next Monday $2000 in STI ETF again
+  [15/7/20, 10:31:39] A Mom A: Get approval from papa
+  [2/8/20, 10:26:51] A Mom A: No. 6 now
+  [3/8/20, 09:34:08] Yi Hein: ‎You deleted this message.
+  [3/8/20, 09:34:43] Yi Hein: Yes, but now no need on already, help me off 🙏🏼
+  [3/8/20, 16:30:37] A Mom A: Papa got custodian account, 0.1% fee, but share holding by Philip Capital.  U prefer which one?
+  [3/8/20, 16:31:31] A Mom A: Min fee $10
+  [3/8/20, 16:31:45] Yi Hein: Custodian
+  [3/8/20, 16:32:20] A Mom A: But only can buy tomorrow onwards
+  [3/8/20, 16:32:39] Yi Hein: Ok buy tmr then
+  [4/8/20, 08:29:50] Yi Hein: Can help me check my Dr Cheong referral letter?
+  [4/8/20, 08:31:22] Yi Hein: It’s in the lower compartment of the brown drawer near my closet
+  [4/8/20, 08:31:33] Yi Hein: Need to find the NUH number dr Cheong gave
+  [4/8/20, 08:54:31] A Mom A: Make appt must call appt line
+  [4/8/20, 11:26:57] A Mom A: 67722000
+  ‎[6/8/20, 15:56:32] A Mom A: ‎<attached: 00000679-PHOTO-2020-08-06-15-56-32.jpg>
+  [6/8/20, 16:56:49] Yi Hein: Thanks
+  [6/8/20, 16:56:57] Yi Hein: STI ETF got buy?
+  [6/8/20, 18:12:08] A Mom A: Haven’t
+  [6/8/20, 18:29:55] Yi Hein: Buy by tmr 🙏🏼
+  [6/8/20, 20:48:30] A Mom A: If price drop.  Papa said one
+  [7/8/20, 08:43:41] Yi Hein: There’s National Day observance today, will be back early
+  [7/8/20, 08:44:01] Yi Hein: Not sure if will end before lunch though, I think I just eat outside
+  [7/8/20, 08:44:44] A Mom A: I fried mee today for lunch.  U can eat any time u reach home
+  [7/8/20, 08:46:37] Yi Hein: Ok
+  [13/8/20, 10:11:18] A Mom A: Yr goods arrived
+  [13/8/20, 10:23:46] Yi Hein: Yay
+  ‎[17/9/20, 20:19:01] A Mom A: ‎<attached: 00000691-PHOTO-2020-09-17-20-19-01.jpg>
+  ‎[17/9/20, 20:19:02] A Mom A: ‎<attached: 00000692-PHOTO-2020-09-17-20-19-02.jpg>
+  [23/9/20, 18:10:20] Yi Hein: If u cook already, I can come back eat (since I’m heading out to buy stuff), but only be back ard 9pm
+  [23/9/20, 18:27:09] A Mom A: No need
+  [23/9/20, 18:44:05] Yi Hein: My next week schedule will change, will update you again
+  [23/9/20, 18:46:31] A Mom A: Tomorrow back for dinner?
+  [23/9/20, 18:46:43] Yi Hein: Yes
+  ‎[25/9/20, 20:19:39] A Mom A: ‎<attached: 00000698-PHOTO-2020-09-25-20-19-39.jpg>
+  [25/9/20, 20:19:50] Yi Hein: Thanks
+  [1/10/20, 13:21:05] Yi Hein: Dammit it’s before that
+  [1/10/20, 13:21:23] A Mom A: ‎Missed voice call
+  [1/10/20, 13:21:24] Yi Hein: ^^
+  [1/10/20, 13:23:35] Yi Hein: Ok thanks
+  ‎[2/10/20, 17:25:43] A Mom A: ‎<attached: 00000714-PHOTO-2020-10-02-17-25-43.jpg>
+  ‎[2/10/20, 17:25:45] A Mom A: ‎<attached: 00000715-PHOTO-2020-10-02-17-25-45.jpg>
+  ‎[2/10/20, 17:25:45] A Mom A: ‎<attached: 00000716-PHOTO-2020-10-02-17-25-45.jpg>
+  ‎[2/10/20, 17:25:46] A Mom A: ‎<attached: 00000717-PHOTO-2020-10-02-17-25-46.jpg>
+  ‎[2/10/20, 17:25:46] A Mom A: ‎<attached: 00000718-PHOTO-2020-10-02-17-25-46.jpg>
+  ‎[2/10/20, 17:25:47] A Mom A: ‎<attached: 00000719-PHOTO-2020-10-02-17-25-47.jpg>
+  ‎[2/10/20, 17:25:47] A Mom A: ‎<attached: 00000720-PHOTO-2020-10-02-17-25-47.jpg>
+  ‎[2/10/20, 17:25:48] A Mom A: ‎<attached: 00000721-PHOTO-2020-10-02-17-25-48.jpg>
+  [26/10/20, 11:13:07] A Mom A: I sleeping.  Door not locked.  Eat fried mee or fried rice in fridge
+  [30/10/20, 08:55:37] A Mom A: https://singpromos.com/dining-restaurants-food/kfc-is-offering-1-for-1-zinger-burger-via-dine-in-takeaway-and-kfc-delivery-till-30-october-2020-241076/
+  [30/10/20, 08:55:52] A Mom A: Lunch we eat zinger?
+  [5/11/20, 14:21:41] Yi Hein: Can I put you as a partner of the company?
+  [5/11/20, 15:39:06] A Mom A: Ok
+  [10/11/20, 14:42:59] Yi Hein: I won’t be coming back for dinner 😓forgot to inform
+  [10/11/20, 15:02:14] A Mom A: Sounds ridiculous!
+  ‎[16/11/20, 08:22:23] Yi Hein: ‎<attached: 00000729-PHOTO-2020-11-16-08-22-23.jpg>
+  [16/11/20, 08:22:34] Yi Hein: Will u be at home tdy?
+  [16/11/20, 09:05:06] A Mom A: Yes
+  ‎[16/11/20, 10:48:20] Yi Hein: ‎<attached: 00000732-PHOTO-2020-11-16-10-48-20.jpg>
+  [30/11/20, 17:01:13] A Mom A: ‎Missed group voice call
+  ‎[30/11/20, 17:06:06] A Mom A: ‎<attached: 00000734-PHOTO-2020-11-30-17-06-06.jpg>
+  [30/11/20, 20:33:51] A Mom A: https://www.facebook.com/125584034177665/posts/3539605179442183/?d=n
+  [1/12/20, 06:56:25] A Mom A: Yr breakfast on top of the milo
+  [8/12/20, 18:27:41] Yi Hein: What I’m on the train
+  [24/12/20, 08:35:56] Yi Hein: Can u send me last month’s credit card statement
+  [29/12/20, 21:25:24] Yi Hein: I’m not coming home tonight, I’ll eat fruits tmr
+  [29/12/20, 22:13:43] A Mom A: Now is still phase 3,  it’s against the covid 19 law to sleep anywhere u like
+  [2/1/21, 21:30:42] Yi Hein: ^
+  [2/1/21, 21:58:05] A Mom A: ?
+  [2/1/21, 22:13:29] Yi Hein: I’m not coming home tonight, I’ll eat fruits tmr
+  [2/1/21, 22:14:04] A Mom A: Working in office again?
+  [2/1/21, 23:09:38] Yi Hein: Yes
+  [3/1/21, 07:38:38] A Mom A: If u are sacrificing yr sleep just to earn money, not worth it.  Papa already have money in place for yr study. How much money u need for yr driving license ? Papa will transfer to u
+  [3/1/21, 07:47:38] A Mom A: Home got smoked salmon and bread.  If u home early, can eat as breakfast
+  [4/1/21, 22:58:20] A Mom A: What time home?
+  ‎[5/1/21, 12:03:48] A Mom A: ‎<attached: 00000749-PHOTO-2021-01-05-12-03-48.jpg>
+  [5/1/21, 12:06:07] Yi Hein: Half dirty
+  [5/1/21, 16:32:58] A Mom A: Come back to eat if I’m cooking.  I will be going for a few checking and scanning soon for some findings in my CT Scan.  Might not be cooking for some time if operation etc is needed.
+  [5/1/21, 17:33:43] Yi Hein: if you are cooking?
+  [5/1/21, 18:22:35] A Mom A: Yes, if I got hospital appt, I will not be cooking
+  [5/1/21, 18:23:25] A Mom A: Next Wed I will not be cooking
+  ‎[7/1/21, 18:05:15] A Mom A: ‎<attached: 00000755-PHOTO-2021-01-07-18-05-15.jpg>
+  [7/1/21, 18:05:27] A Mom A: U still want all these?
+  [7/1/21, 18:05:56] Yi Hein: Keep chemistry matters, the rest don’t need
+  [7/1/21, 18:06:16] Yi Hein: Can list on Carousell see if anyone wants
+  [7/1/21, 21:05:15] A Mom A: Can u sell?
+  [7/1/21, 21:09:26] Yi Hein: Just give for free
+  [7/1/21, 21:09:37] Yi Hein: They will come your house to collect
+  [9/1/21, 06:59:45] A Mom A: Received message purchase at Alibaba declined due to insufficient funds
+  [9/1/21, 10:56:36] Yi Hein: Is the OCBC card cancelled?
+  [9/1/21, 10:56:44] Yi Hein: I used to it to pay yesterday
+  [9/1/21, 10:57:14] A Mom A: Can still use till April 2021
+  [9/1/21, 10:57:22] Yi Hein: Ok
+  [9/1/21, 23:56:27] A Mom A: What time home?
+  [10/1/21, 00:03:31] Yi Hein: 12.30
+  [10/1/21, 04:18:13] A Mom A: Where a u?
+  [10/1/21, 04:32:40] Yi Hein: Im sleeping in office
+  [10/1/21, 04:34:06] A Mom A: U are shortening my life by making me worry every day
+  [10/1/21, 08:53:14] A Mom A: What time reach home today?
+  [10/1/21, 08:53:36] Yi Hein: 10+pm
+  [10/1/21, 09:11:57] A Mom A: am or pm?
+  [10/1/21, 09:13:46] Yi Hein: Pm
+  [10/1/21, 09:14:15] A Mom A: U don’t need to bath for 2 days?
+  [10/1/21, 09:25:19] A Mom A: When u free?  I want to talk to u
+  [10/1/21, 11:57:25] Yi Hein: Next Thursday night
+  [10/1/21, 14:19:39] A Mom A: I’m going for a hospital procedure coming Wed, can I have some peace of mind b4 going for the procedure? Just answer a few questions for me first
+  [10/1/21, 14:20:51] A Mom A: U were always away from home last few weeks, is it purely due to yr busy work or u don’t want to see us?
+  [15/1/21, 13:15:39] A Mom A: Why u never use yr Maybank card?
+  [15/1/21, 13:28:06] Yi Hein: Need to change number
+  [15/1/21, 13:28:33] A Mom A: Change what number?
+  [15/1/21, 13:29:18] A Mom A: Try to use Maybank card, if Maybank card cannot use, then use OCBC
+  [15/1/21, 13:39:42] Yi Hein: I can’t use Maybank cos I changed my number so I need to go down to the bank to ask them to send the verification code to my new number, same for VISA
+  [16/1/21, 09:31:59] A Mom A: Filled up form already?
+  ‎[22/1/21, 10:39:56] A Mom A: ‎<attached: 00000787-PHOTO-2021-01-22-10-39-56.jpg>
+  [22/1/21, 10:40:39] Yi Hein: Need to wash
+  [2/2/21, 20:48:22] A Mom A: Tomorrow 12 noon, Gong gong will be out inside coffin, can u come back b4 12noon?
+  [2/2/21, 21:11:40] A Mom A: Thursday 2pm Gong gong’s funeral.  Though we cannot go back to see him off, we can do it virtually.
+  [2/2/21, 21:18:03] Yi Hein: Ok
+  [2/2/21, 22:39:28] A Mom A: Change to 2pm
+  [2/2/21, 22:39:39] A Mom A: Change to 12 noon
+  [2/2/21, 22:40:14] Yi Hein: Ok
+  [2/2/21, 22:47:54] A Mom A: U left something on my bed?
+  [2/2/21, 22:48:11] Yi Hein: Yeah
+  [4/2/21, 08:18:19] A Mom A: ‎Missed group voice call
+  [27/2/21, 07:53:06] A Mom A: Last pc of Swiss roll on the table, kueh lapis and chocolate cake in the fridge
+  [27/2/21, 14:06:47] Yi Hein: What?
+  [2/3/21, 07:20:58] A Mom A: Breakfast: Swiss roll
+  [2/3/21, 13:39:59] A Mom A: Let me know when u want to eat lunch
+  [5/3/21, 21:19:56] A Mom A: ‎Missed voice call
+  [6/3/21, 00:30:50] A Mom A: ‎Missed voice call
+  [12/3/21, 11:00:34] A Mom A: U want dabao lunch?
+  [12/3/21, 11:08:40] Yi Hein: No
+  `,
+  },
+  {
+    name: "Papa",
+    messageContent: `[14/1/17, 13:26:24] A Papa CBC: Hein, raining now?
+  [14/1/17, 13:26:34] A Papa CBC: ‎Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them.
+  [14/1/17, 13:26:37] Yi Hein: No
+  [14/1/17, 13:26:45] Yi Hein: Raining soon
+  [14/1/17, 13:26:59] A Papa CBC: Save my duck first
+  [14/1/17, 13:27:09] A Papa CBC: If raining
+  [14/1/17, 13:27:24] Yi Hein: If I save it, it's mine
+  [14/1/17, 13:27:27] Yi Hein: Muhahahaha
+  [12/2/17, 17:13:11] A Papa CBC: Hein
+  [12/2/17, 17:13:23] A Papa CBC: Get the exact pick up location
+  [12/2/17, 17:13:39] A Papa CBC: Some place convenient to pick up
+  [14/3/17, 20:31:32] A Papa CBC: Hein, whatapp when bed ready
+  [14/3/17, 20:31:44] A Papa CBC: We beside x-ray room
+  [14/3/17, 20:48:57] Yi Hein: Ok
+  [14/3/17, 20:49:14] Yi Hein: Wah so late already
+  [14/3/17, 20:49:44] A Papa CBC: Still waiting ????
+  [14/3/17, 20:50:30] A Papa CBC: In case I don't see your msg , later u msg family chat
+  [14/3/17, 20:50:39] Yi Hein: Ok
+  [18/3/17, 14:36:29] A Papa CBC: Hein, interested in Garmin watch?
+  ‎[18/3/17, 14:36:39] A Papa CBC: ‎<attached: 00000020-PHOTO-2017-03-18-14-36-39.jpg>
+  [18/3/17, 14:36:58] A Papa CBC: IT show
+  [18/3/17, 14:39:01] Yi Hein: Not worth it
+  [18/3/17, 14:39:34] A Papa CBC: $269 only
+  [18/3/17, 14:39:53] A Papa CBC: Timex also 200 to 300
+  ‎[25/3/17, 17:53:28] Yi Hein: ‎<attached: 00000025-PHOTO-2017-03-25-17-53-27.jpg>
+  ‎[25/3/17, 17:53:29] Yi Hein: ‎<attached: 00000026-PHOTO-2017-03-25-17-53-28.jpg>
+  ‎[25/3/17, 18:01:40] Yi Hein: ‎<attached: 00000027-PHOTO-2017-03-25-18-01-40.jpg>
+  [25/3/17, 18:03:15] Yi Hein: Surface Pro 4
+  [25/3/17, 18:03:30] Yi Hein: LG Gram
+  [13/5/17, 11:48:18] Yi Hein: I can't answer in the library
+  [13/5/17, 11:48:30] A Papa CBC: U call me ?
+  [13/5/17, 11:48:49] A Papa CBC: You at JE?
+  [13/5/17, 11:49:01] Yi Hein: Yeah cause you called me at 11
+  [13/5/17, 11:49:15] Yi Hein: Yes
+  [13/5/17, 11:49:22] A Papa CBC: No, I thot u call me
+  ‎[13/5/17, 11:49:58] Yi Hein: ‎<attached: 00000036-PHOTO-2017-05-13-11-49-57.jpg>
+  [15/5/17, 20:08:46] Yi Hein: Tell me when you arriving
+  [20/5/17, 10:36:46] A Papa CBC: Reaching home ?
+  [20/5/17, 20:21:53] A Papa CBC: Hein..
+  [20/5/17, 20:22:00] A Papa CBC: Win?
+  [20/5/17, 20:22:10] A Papa CBC: What time u home ?
+  [20/5/17, 20:22:34] Yi Hein: Won 12-3
+  [20/5/17, 20:23:13] Yi Hein: 9:30-10:00 reach? went out with friends for dinner
+  [20/5/17, 20:24:39] A Papa CBC: Where dinner ?
+  [20/5/17, 20:31:30] Yi Hein: Subway
+  [20/5/17, 20:31:57] A Papa CBC: Where ?
+  [20/5/17, 20:32:03] Yi Hein: Bugis
+  [20/5/17, 20:32:11] A Papa CBC: Ok
+  [20/5/17, 20:32:20] A Papa CBC: Not too late , ok ?
+  [20/5/17, 20:32:26] Yi Hein: Ok
+  [20/5/17, 21:29:51] Yi Hein: Leaving Bugis now
+  [20/5/17, 21:30:02] Yi Hein: Will be back slightly later sry
+  [20/5/17, 22:06:15] A Papa CBC: Reach soon ?
+  [20/5/17, 22:16:32] Yi Hein: At Hillview waiting for the darn bus
+  [23/5/17, 20:47:09] A Papa CBC: Start delivery 15jun
+  [23/5/17, 20:47:24] A Papa CBC: Available for pre order now
+  [31/5/17, 17:09:13] Yi Hein: I'll go home by my own
+  ‎[17/6/17, 15:06:52] A Papa CBC: ‎<attached: 00000058-PHOTO-2017-06-17-15-06-52.jpg>
+  [17/6/17, 15:16:51] Yi Hein: Not cheap actually
+  [17/6/17, 15:17:39] A Papa CBC: Microsoft pro higher spec?
+  [17/6/17, 15:17:40] Yi Hein: Vivobook processor is good but not worth it
+  [17/6/17, 15:18:18] A Papa CBC: Ideapad? i 7 , 12 gb ram ?
+  [17/6/17, 15:18:36] A Papa CBC: $999 only
+  [17/6/17, 15:19:07] Yi Hein: The processor is not exactly great for a laptop
+  [17/6/17, 15:19:20] A Papa CBC: Ok
+  ‎[15/7/17, 16:14:36] Yi Hein: ‎<attached: 00000066-PHOTO-2017-07-15-16-14-35.jpg>
+  [15/7/17, 16:14:52] Yi Hein: But not available in Singapore yet
+  [21/7/17, 16:14:57] Yi Hein: Surface pro available in Singapore for pre-order
+  [21/7/17, 16:17:33] Yi Hein: Price S$1788, with discount S$1609 + S$200 = S$1809, ships by 15/8
+  [4/3/18, 07:16:35] A Papa CBC: Hein
+  [4/3/18, 07:16:46] A Papa CBC: Can buy from other store ?
+  [9/3/18, 09:33:28] Yi Hein: https://www.a-star.edu.sg/Scholarships/For-Undergraduate-Studies/National-Science-Scholarship-MBBS-PhD#20177109-coverage
+  [9/3/18, 09:34:35] Yi Hein: can get fully coverage to any UK medical school
+  [9/3/18, 09:34:43] Yi Hein: https://www.imperial.ac.uk/study/ug/courses/school-of-medicine/medicine-phd/
+  [9/3/18, 11:06:20] A Papa CBC: U applied for it ?
+  [9/3/18, 11:06:28] A Papa CBC: For PHD ??
+  [9/3/18, 11:10:20] A Papa CBC: I think is for Singaporean .. convert to sg ..
+  [9/3/18, 11:10:29] A Papa CBC: This is medical research
+  [9/3/18, 11:20:08] Yi Hein: must get acceptance into local medical school + UK medical school to be eligible
+  [9/3/18, 13:39:23] A Papa CBC: Ok .. just do it ..
+  [9/3/18, 13:40:12] A Papa CBC: U want to do A-Star medical research ? Instead of become doctor ? Physician ?
+  [9/3/18, 14:32:41] Yi Hein: No lah just considering, my Friend was telling about this scholarship
+  [9/3/18, 14:36:39] Yi Hein: Once you graduate, you can be a clinician-scientist, 50% in the ward/clinics 50% doing research in the lab
+  [9/3/18, 14:37:20] Yi Hein: Almost impossible to get without a scholarship
+  [10/3/18, 18:30:55] A Papa CBC: Hein , u went bedok training ? Where are u now ?
+  [10/3/18, 18:40:59] Yi Hein: CC
+  ‎[18/3/18, 12:31:52] Yi Hein: ‎<attached: 00000087-PHOTO-2018-03-18-12-31-51.jpg>
+  [18/3/18, 12:32:01] Yi Hein: But longer or shorter can also
+  [18/3/18, 12:32:25] Yi Hein: Let the candidates figure out what to do with it
+  ‎[18/3/18, 12:46:14] A Papa CBC: ‎<attached: 00000090-PHOTO-2018-03-18-12-46-14.jpg>
+  ‎[18/3/18, 12:46:16] A Papa CBC: ‎<attached: 00000091-PHOTO-2018-03-18-12-46-16.jpg>
+  [18/3/18, 12:46:29] Yi Hein: Yes can
+  [18/3/18, 12:46:31] Yi Hein: Buy 3
+  [18/3/18, 12:46:50] A Papa CBC: Ok $3.90x3
+  [18/3/18, 12:46:58] Yi Hein: Yeah can Must keep receipt
+  [9/10/18, 14:00:02] Yi Hein: Oh shit I forgot to remove the card
+  [9/10/18, 18:31:03] A Papa CBC: Done
+  [9/10/18, 18:31:11] A Papa CBC: Left half only
+  ‎[18/11/18, 11:11:00] Yi Hein: ‎<attached: 00000099-PHOTO-2018-11-18-11-10-59.jpg>
+  [9/2/19, 14:22:31] A Papa CBC: What time reach PRBI? I pick u .
+  [9/2/19, 14:57:15] Yi Hein: 6.30 ferry
+  [9/2/19, 14:57:22] Yi Hein: Prob around 7.30
+  [9/2/19, 15:40:12] A Papa CBC: Call me when u reach Changi ferry terminal
+  [9/2/19, 16:05:50] Yi Hein: Pasir ris*
+  [9/2/19, 16:21:34] A Papa CBC: I at Punggol later .. call me when reach SG mainland , then I drive to pick u
+  [9/2/19, 16:21:45] A Papa CBC: U got dinner before bookout ?
+  [9/2/19, 16:22:05] A Papa CBC: Later I fetch u to Xiao Gu house for dinner
+  [9/2/19, 16:48:38] Yi Hein: No
+  [9/2/19, 16:48:56] Yi Hein: Ok
+  [12/7/19, 05:20:26] Yi Hein: Send some documents for printing, a shit ton of pages
+  [22/8/19, 08:07:33] Yi Hein: can update me on what happened to mummy
+  [22/8/19, 08:08:23] A Papa CBC: Mummy got breast lump, today is to remove the lump
+  [22/8/19, 08:09:49] A Papa CBC: Don’t worry , I will take care of her
+  [22/8/19, 08:23:11] Yi Hein: Benign
+  [22/8/19, 08:23:16] Yi Hein: ?
+  [22/8/19, 08:27:53] A Papa CBC: First biopsy done was benign, but dr say it is not confirm ..
+  [22/8/19, 08:28:12] A Papa CBC: As it is only sampling from few points
+  [22/8/19, 08:28:32] A Papa CBC: After remove then do biopsy again
+  [22/8/19, 09:02:42] Yi Hein: Ok let me know how the operation goes
+  [22/8/19, 09:04:26] A Papa CBC: I will .. I don’t worry, focus on your training
+  [22/8/19, 15:52:54] A Papa CBC: Mummy home already
+  [22/8/19, 16:40:19] Yi Hein: Ok
+  [22/8/19, 16:50:50] Yi Hein: Surgery went well?
+  [22/8/19, 19:18:46] A Papa CBC: Yes
+  [22/8/19, 19:28:36] A Papa CBC: But the histology report only our end of next week
+  [22/8/19, 22:31:44] Yi Hein: Ok
+  [22/8/19, 22:32:06] Yi Hein: Good to hear
+  [22/8/19, 22:32:30] A Papa CBC: Today senang?
+  [22/8/19, 22:32:41] Yi Hein: clean rifle whole day
+  [22/8/19, 22:32:42] A Papa CBC: Ready for your JCC?
+  [22/8/19, 22:32:48] Yi Hein: JCC starts 25
+  [22/8/19, 22:32:54] Yi Hein: hopefully
+  [22/8/19, 22:32:57] A Papa CBC: 3am
+  [22/8/19, 22:33:17] A Papa CBC: So going to eat all your chocolate 1 go?
+  [22/8/19, 22:33:29] Yi Hein: Not all, but some
+  [22/8/19, 22:33:30] A Papa CBC: Too heaty
+  [22/8/19, 22:33:41] Yi Hein: Yeah
+  [22/8/19, 22:33:51] A Papa CBC: JCC Is at JV ?
+  [22/8/19, 22:34:42] Yi Hein: Nope
+  [22/8/19, 22:34:56] Yi Hein: It’s a large area cos majority of it is navigation
+  [22/8/19, 22:34:57] A Papa CBC: Go by helicopter again ?
+  [22/8/19, 22:35:02] Yi Hein: Bus
+  [22/8/19, 22:35:10] A Papa CBC: U fully recovered ?
+  [22/8/19, 22:39:38] Yi Hein: not yet but should be in time for JCC
+  [30/8/19, 17:55:38] A Papa CBC: Good news , mummy’s biopsy results, benign...
+  [1/9/19, 21:49:44] A Papa CBC: You WhatsApp us when reach camp
+  [2/9/19, 15:04:28] Yi Hein: Back
+  [2/9/19, 15:04:46] Yi Hein: Great to hear :) thankful ☺️
+  [10/9/19, 16:48:25] Yi Hein: What is the meeting location
+  [10/9/19, 17:18:32] A Papa CBC: https://www.google.com/maps/placelists/list/-Ofgd1xymjNzQJFazxw91FS4FLOvvA?hl=en
+  [10/9/19, 17:22:48] A Papa CBC: No no ... there is another bus stop before Jurong point
+  ‎[10/9/19, 17:24:26] A Papa CBC: ‎<attached: 00000152-PHOTO-2019-09-10-17-24-26.jpg>
+  [10/9/19, 17:28:05] Yi Hein: Ok
+  [10/9/19, 18:04:24] A Papa CBC: Where now ? Bukit Batok or reach JE library ?
+  [10/9/19, 18:13:08] Yi Hein: Not yet
+  [10/9/19, 18:13:22] Yi Hein: ‎Location: https://maps.google.com/?q=1.342042,103.735657
+  [10/9/19, 18:26:07] A Papa CBC: When arrive bus stop , call me
+  [10/9/19, 18:26:20] Yi Hein: Ok
+  [18/9/19, 05:27:41] Yi Hein: Sat morning can send me to camp
+  [18/9/19, 07:12:29] A Papa CBC: What time ?
+  [18/9/19, 07:12:49] A Papa CBC: Sat we go marina sq to watch F1... u miss it
+  [19/9/19, 22:26:16] Yi Hein: 0715 reach SAFTI
+  [19/9/19, 22:26:24] Yi Hein: 0645 leave house?
+  [19/9/19, 22:26:43] Yi Hein: I won’t have time to go anyways, lots of things to do this weekend
+  [19/9/19, 22:28:09] A Papa CBC: Ok
+  [20/9/19, 12:45:04] Yi Hein: This sunday need your help again fetch me from SAFTI 😓
+  [20/9/19, 12:45:29] Yi Hein: need to go by Chua Chu Kang route to Chew optics fix my specs
+  [20/9/19, 14:52:16] A Papa CBC: So u booked out 8pm today? In 7:15am sat ; out sun 8am? And in again 8pm???
+  [20/9/19, 15:03:43] Yi Hein: Yes
+  [20/9/19, 19:13:28] A Papa CBC: We here already
+  [20/9/19, 19:14:19] A Papa CBC: At the exit where I drop u
+  [14/10/19, 20:44:36] A Papa CBC: ‎Missed voice call
+  [5/11/19, 16:24:22] A Papa CBC: OCBC: SGD37.45 was charged to your card (-8967) at NUH - DENTAL CENTRE SINGA on 05-Nov-19 at 16:14. If you did not do this, call +65 6535 2233
+  [5/11/19, 16:26:15] A Papa CBC: PAID ALREADY
+  [5/11/19, 20:11:30] Yi Hein: Ok
+  [5/11/19, 20:11:49] Yi Hein: it has always been charged to your card
+  [5/11/19, 20:22:31] A Papa CBC: I go NUH to make payment
+  [5/11/19, 20:22:41] A Papa CBC: As the old card can’t use alr
+  [5/11/19, 20:23:20] Yi Hein: Oh I see
+  [10/12/19, 17:37:29] A Papa CBC: I include some checklist in the notes .. and also some safety precautions
+  [10/12/19, 21:02:51] Yi Hein: Ok
+  [10/12/19, 21:22:37] A Papa CBC: Prepare for tmr .. get ready whatever u want to bring home .. get ready thing u need for uk
+  [11/12/19, 06:52:19] A Papa CBC: Rmb to bring invitation card for your graduation
+  [11/12/19, 10:12:57] A Papa CBC: When u reach Emmanuel college , u request for early check in due to your Long travelling ..
+  [11/12/19, 16:53:41] A Papa CBC: When finish parade ?
+  [11/12/19, 16:53:48] A Papa CBC: Msg when ready
+  [11/12/19, 16:54:08] A Papa CBC: I wait at the carpark
+  [11/12/19, 17:13:19] Yi Hein: Ok Changing now
+  [11/12/19, 17:18:04] A Papa CBC: Otw
+  [11/12/19, 17:25:07] A Papa CBC: Waiting at where I drop u
+  [11/12/19, 17:25:17] A Papa CBC: Next to exit
+  [11/12/19, 17:31:40] A Papa CBC: Check to ensure u take everything u need
+  [11/12/19, 17:31:51] A Papa CBC: For uk or bring home
+  [11/12/19, 21:45:53] A Papa CBC: What u do ?
+  [11/12/19, 21:46:08] A Papa CBC: U clear scanning ?
+  [11/12/19, 21:46:21] Yi Hein: Gate not open yet
+  [11/12/19, 21:46:42] Yi Hein: Opens in 15 mins
+  [11/12/19, 21:47:02] Yi Hein: Studying at charging point
+  [11/12/19, 21:48:46] A Papa CBC: U signed your ocbc credit card ?
+  [11/12/19, 21:48:54] A Papa CBC: At the back
+  [11/12/19, 21:50:49] Yi Hein: Yup
+  [11/12/19, 21:52:20] A Papa CBC: Ok.. take care
+  [11/12/19, 22:15:57] A Papa CBC: Boarding ?
+  [11/12/19, 22:16:06] Yi Hein: Not yet
+  [11/12/19, 22:16:16] A Papa CBC: U inside alr ?
+  [11/12/19, 22:16:22] Yi Hein: Yeah
+  [11/12/19, 22:16:31] A Papa CBC: Ok
+  [11/12/19, 22:16:49] A Papa CBC: The flight is FULL
+  [11/12/19, 22:16:54] A Papa CBC: Lots of ppl ?
+  [11/12/19, 22:17:12] Yi Hein: Not Super crowded yet
+  [12/12/19, 08:10:28] A Papa CBC: Bus to Cambridge 6:30/7:55/8:20/10:10..
+  [12/12/19, 08:11:32] A Papa CBC: Earlier bus 630/755 could be full.
+  [12/12/19, 08:12:15] A Papa CBC: Check out at the counter
+  [12/12/19, 08:12:44] A Papa CBC: If wait is too Long .. can consider Tube+Train
+  [12/12/19, 08:12:55] A Papa CBC: But be very careful
+  [12/12/19, 08:49:34] A Papa CBC: King cross to cambridge should hv hourly train
+  [12/12/19, 08:50:12] A Papa CBC: U go National express counter to check first .. may have empty seats
+  [12/12/19, 13:17:34] A Papa CBC: Online show no tickets .
+  [12/12/19, 13:34:19] A Papa CBC: King cross station, I mark on map.
+  [12/12/19, 13:35:39] A Papa CBC: U meet anyone on plane going to Cambridge ?
+  [12/12/19, 13:36:00] Yi Hein: No
+  [12/12/19, 13:37:04] A Papa CBC: If take tube / train ... hv to be careful ...
+  [12/12/19, 13:37:19] A Papa CBC: Anything can whatapss is
+  [12/12/19, 13:37:21] A Papa CBC: Us
+  [12/12/19, 13:38:17] Yi Hein: Ok
+  [12/12/19, 14:32:02] Yi Hein: Ticket back need to order online or through the phone
+  [12/12/19, 15:07:17] A Papa CBC: Need to go bank to exchange
+  [12/12/19, 15:07:37] A Papa CBC: If Cambridge got bank nearby, see whether can change
+  [12/12/19, 17:10:01] A Papa CBC: Reaching Cambridge ?
+  [12/12/19, 18:12:27] Yi Hein: reached
+  [13/12/19, 21:00:31] A Papa CBC: Finish your interview ?
+  [13/12/19, 21:11:14] Yi Hein: Yeah
+  [13/12/19, 21:11:25] Yi Hein: F-ed up
+  [13/12/19, 21:11:53] A Papa CBC: How is it ?
+  [13/12/19, 21:12:50] Yi Hein: didn’t study the topic they tested
+  [13/12/19, 21:12:52] Yi Hein: So yeah
+  [13/12/19, 21:16:06] A Papa CBC: It’s ok , cannot that easy to spot question
+  [13/12/19, 22:38:06] A Papa CBC: U on bus ?
+  [13/12/19, 23:01:49] Yi Hein: Yes
+  [13/12/19, 23:02:44] A Papa CBC: Bus crowded?
+  [13/12/19, 23:02:49] Yi Hein: No
+  [13/12/19, 23:03:07] A Papa CBC: Eaten lunch ?
+  [13/12/19, 23:03:12] Yi Hein: Yes
+  [13/12/19, 23:03:33] A Papa CBC: Dinner eat at airport ?
+  [13/12/19, 23:03:43] Yi Hein: Yeah
+  [13/12/19, 23:04:23] A Papa CBC: Still cold ? Drink more water ..
+  [13/12/19, 23:07:32] Yi Hein: Warmer now
+  [13/12/19, 23:17:11] A Papa CBC: Ok. Hv a safe journey home .. I will fetch u at airport
+  [18/12/19, 05:36:12] A Papa CBC: On the train ?
+  [18/12/19, 05:36:21] Yi Hein: Yes
+  [18/12/19, 05:36:32] A Papa CBC: Just in time ?
+  [18/12/19, 05:36:37] Yi Hein: Yes
+  [18/12/19, 05:36:47] A Papa CBC: Don’t miss your stop
+  [18/12/19, 05:36:53] Yi Hein: Ok
+  [18/12/19, 07:07:16] A Papa CBC: Reached ?
+  [18/12/19, 07:07:34] A Papa CBC: I also reach office
+  [18/12/19, 07:07:39] Yi Hein: Not yet
+  [18/12/19, 07:07:44] A Papa CBC: Bus?
+  [18/12/19, 07:46:02] A Papa CBC: On the ferry to resort island ?
+  [18/12/19, 07:50:52] Yi Hein: Arrived in Tekong
+  [24/1/20, 16:34:30] A Papa CBC: What is your tpg no.?
+  [26/1/20, 10:47:13] A Papa CBC: ‎Missed voice call
+  [26/1/20, 10:49:09] A Papa CBC: ‎Missed voice call
+  [26/1/20, 10:51:12] A Papa CBC: Sunshine Gardens
+  https://goo.gl/maps/5c7LVqnA2yuN6cUk8
+  [26/1/20, 10:52:03] A Papa CBC: U call when reaching ., downtown line to bk Panjang , was hen bus
+  [26/1/20, 10:52:43] Yi Hein: what time y’all reaching
+  [26/1/20, 11:33:07] A Papa CBC: Arrived
+  [26/1/20, 12:24:18] Yi Hein: I’m on the bus
+  [26/1/20, 12:24:26] A Papa CBC: Blk 489C
+  [26/1/20, 12:24:34] A Papa CBC: What bus u take ?
+  [17/3/20, 20:01:24] A Papa CBC: Fees
+  Investment Brokerage Firm	Trading Fee (up to $50K)	Minimum Fee	Custodian or CDP?
+  SAXO Markets	0.08%	$10	Custodian
+  DBS Vickers Cash Upfront (prepaid, buy only)	0.12%	$10	CDP
+  Maybank Kim Eng (prepaid)	0.12%	$10	Custodian
+  Phillip Securities (POEMS) (prepaid)	0.12%	$10	Custodian
+  UOB KayHian (prepaid)	0.12%	$10	Custodian
+  CGS-CIMB Securities (prepaid)	0.18%	$18	Custodian
+  Standard Chartered	0.2%	$10	Custodian
+  Citibank	0.25%	$28	CDP
+  CGS-CIMB Securities	0.275%	$25	CDP
+  KGI Securities (formerly AmFraser)	0.275%	$25	CDP
+  Maybank Kim Eng	0.275% 	$25	CDP
+  OCBC Securities	0.275%	$25	CDP
+  RHB Securities (formerly DMG)	0.275%	$25	CDP
+  UOB KayHian	0.275%	$25	CDP
+  DBS Vickers	0.28%	$25	CDP
+  Lim & Tan Securities	0.28%	$25	CDP
+  Phillip Securities (POEMS)	0.28%	$25	CDP
+  All trading fees listed are based on online/mobile trades done in the Singapore market. They exclude other charges like the clearing fee, SGX trading fee and GST.
+  ‎[17/3/20, 20:02:25] A Papa CBC: ‎<attached: 00000272-PHOTO-2020-03-17-20-02-25.jpg>
+  ‎[29/3/20, 22:37:04] Yi Hein: Trading Notes.docx ‎<attached: 00000273-Trading Notes.docx>
+  [29/3/20, 22:38:19] Yi Hein: some brief notes on short-term stock trading
+  [26/4/20, 16:42:38] A Papa CBC: https://finance.yahoo.com/news/apple-iphone-se-review-122659051.html?utm_content=buffer4d327&utm_medium=social&utm_source=facebook.com&utm_campaign=yahoofinance&guccounter=1&guce_referrer=aHR0cDovL20uZmFjZWJvb2suY29t&guce_referrer_sig=AQAAAGl0SFmf7rSdPITWxlu8mzfz0RUh5ZO2ilqFG5XQ8uwzIDV_FmzxlwSTYmyXnRR9CD1VagApCUhyw3zGI5L51Bpq1-6bd01Kwp4VERkbXM98vT_jCHX9T_ihjeS24MxnbhqpdKYe35-T4IpJHAgcXYE7Tg_4gnlj1r3TT5gYKe7-
+  [7/6/20, 21:56:29] Yi Hein: *New cases*
+  Brazil 27k (exponential)
+  USA 22K (plateau)
+  India 10K (exponential)
+  Russia 8K (exponential)
+  Peru 4k (exponential)
+  Mexico 4K (exponential)
+  [7/6/20, 21:57:44] A Papa CBC: Economy is opening up for us/Europe and India
+  [7/6/20, 21:58:00] Yi Hein: Imported casss will rise
+  [7/6/20, 21:58:05] A Papa CBC: Trump say economy will be rocket and best ever
+  [7/6/20, 21:58:40] A Papa CBC: Us will rise with national wide protest
+  [7/6/20, 21:59:02] A Papa CBC: But they all thing worse is over
+  ‎[8/6/20, 06:29:27] Yi Hein: ‎<attached: 00000282-PHOTO-2020-06-08-06-29-27.jpg>
+  [8/6/20, 08:12:31] A Papa CBC: Even in the news , few report on covid now ... like it is over and back to normal ..
+  [12/6/20, 07:53:16] A Papa CBC: DowJ crash 1800 points
+  [12/6/20, 07:53:34] A Papa CBC: All tech company drop 5% Tesla also
+  [12/6/20, 07:53:55] A Papa CBC: Boeing >10% drop
+  [12/6/20, 07:54:27] A Papa CBC: Which stock u want to short ?
+  [12/6/20, 11:59:02] Yi Hein: Too late already
+  [12/6/20, 12:35:53] Yi Hein: Should start buying very little at many points as we move along the curve and recovery
+  [12/6/20, 12:36:23] A Papa CBC: So , buy today ?
+  [12/6/20, 12:36:52] A Papa CBC: $21.6 for DBS , $0.6 increase from morning
+  [12/6/20, 12:38:18] Yi Hein: maybe buy the minimum amount of shares? poems not very good though cos of the high transaction costs
+  [12/6/20, 12:39:35] Yi Hein: the current pullback from the previous bull market may be an overreaction
+  [12/6/20, 12:40:07] Yi Hein: the number of cases of covid and its exponential increases in third world countries is pretty much the same as when the markets were booming last week
+  [12/6/20, 12:40:43] A Papa CBC: But there is no logic in the market - manipulated by big players
+  [12/6/20, 12:41:01] A Papa CBC: Still not drop to 2 weeks ago
+  [12/6/20, 12:41:13] A Papa CBC: DBS $19+
+  [12/6/20, 12:42:12] Yi Hein: shouldn't wait till it drops to a new low, as it very well might not happen (even though i think there is a good chance it would)
+  [12/6/20, 12:42:53] Yi Hein: buying along the curve seems safer
+  [12/6/20, 12:43:41] A Papa CBC: Which curve ?
+  [12/6/20, 12:44:28] Yi Hein: anyways the current US stance is not to have another lockdown, and let the economy continue running. As long as the markets are open, the economic indicators will improve.
+  [12/6/20, 12:45:01] Yi Hein: but fear and panic emotions can always crush the market
+  [12/6/20, 12:49:46] Yi Hein: i think the two biggest factors are:
+  1. possibility of another lockdown (trillions of dollars in markets with minimal goods and services produced and minimal investments in increasing future production - zombie companies)
+  
+  2. prospect of a vaccine - probaably some big vaccine news or the lack thereof which will cause massive changes
+  [12/6/20, 12:52:19] A Papa CBC: Even without new lockdown , the economic impact not factor in yet .. jobless going to rise, spending will drop and more bankruptcies, and then more job losses and cycle continue .. unless gov step in again
+  [12/6/20, 12:53:48] Yi Hein: I’m sure the fed wouldn’t hesitate to inject trillions more into the economy
+  [1/7/20, 15:05:30] Yi Hein: Have you tried buying Singapore ETFs before?
+  [1/7/20, 15:51:16] A Papa CBC: Never
+  [1/7/20, 15:51:20] A Papa CBC: Why?
+  [1/7/20, 15:51:44] A Papa CBC: There are few .. STI , Nikko index
+  [1/7/20, 15:52:36] A Papa CBC: But ETF growth will be pull down by poor performance stock ..
+  [1/7/20, 15:52:59] Yi Hein: I’m thinking of putting $1000 in STI every week
+  [1/7/20, 15:53:10] Yi Hein: To buy along the curve
+  [1/7/20, 15:54:01] Yi Hein: Then invest in the value-growth companies once I’ve completed my research
+  [1/7/20, 16:00:00] A Papa CBC: Research SG stock better .. US high risk High return
+  [1/7/20, 16:00:12] Yi Hein: Yeah I’m looking at SG stocks
+  [1/7/20, 16:00:32] Yi Hein: Venture seems really good but it’s slightly overvalued already
+  [1/7/20, 16:00:46] A Papa CBC: Research on banks , venture corp , and any tech stock with potential ?
+  [1/7/20, 16:01:12] Yi Hein: Not way I’m researching banks, the barrier of entry is too high
+  [1/7/20, 16:01:14] A Papa CBC: REITs won’t hv good return in the next 1 year
+  [1/7/20, 16:01:32] A Papa CBC: Why?
+  [1/7/20, 16:01:43] Yi Hein: I’m looking at AEM Holdings (overvalued) and HC Surgicals (significantly undervalued) now
+  [1/7/20, 16:01:57] Yi Hein: I won’t invest until I understand the business well
+  [1/7/20, 16:02:11] Yi Hein: Banks too complicated
+  [1/7/20, 16:19:32] A Papa CBC: Sunpower
+  [1/7/20, 16:19:46] A Papa CBC: For potential for renewable energy
+  [1/7/20, 16:19:59] A Papa CBC: China company listed in SG
+  [1/7/20, 21:09:44] Yi Hein: HC Surgical seems really promising honestly, but it’s a nano cap company with a short history so it’s really risky
+  [1/7/20, 21:11:23] A Papa CBC: Ok, let me hv a look
+  [1/7/20, 21:11:37] A Papa CBC: SunPower ?
+  [1/7/20, 21:18:03] A Papa CBC: 2 individual own 65% of the company .. 64m and 35m share respectively .. worth $20m and $10m
+  [1/7/20, 21:20:26] A Papa CBC: HC stand for Heah and Chia .. the 2 individual who own the company
+  [1/7/20, 21:24:15] Yi Hein: They have 16 clinics under them
+  [1/7/20, 21:24:36] Yi Hein: Anyways a high insider ownership is a good thing as the management will do what’s good for the company
+  [1/7/20, 21:25:02] Yi Hein: I’ll send you the stock pitch when I’m done
+  [1/7/20, 21:25:17] A Papa CBC: Ok
+  [1/7/20, 21:25:30] A Papa CBC: What is the potential ?
+  [1/7/20, 21:25:34] Yi Hein: Simply WallSt has create analysis charts
+  [1/7/20, 21:25:57] Yi Hein: https://simplywall.st/stocks/sg/healthcare/catalist-1b1/hc-surgical-specialists-shares#past
+  [1/7/20, 21:26:04] A Papa CBC: When someone sue the surgent , May go bankrupts, right ?
+  [1/7/20, 21:26:17] Yi Hein: Well if I knew I’ll be rich
+  [1/7/20, 21:28:25] Yi Hein: One of the Doctors is involved in a scandal and legal proceedings, I suspect that’s why the stock price fell so much and become undervalued. But it’s fundamentals look solid and it’s looking to expand into ASEAN markets starting with Vietnam, and secured a $5 million investment from Heliconia Capital which is part of Temasek Holdings
+  [1/7/20, 21:33:49] A Papa CBC: Shall we invest the same amount as Temasek ?
+  [1/7/20, 21:34:12] Yi Hein: Ofc
+  [2/7/20, 11:13:07] Yi Hein: Can help me check if your poems account can trade SGX Catalist companies
+  [2/7/20, 11:13:29] A Papa CBC: Why?
+  [2/7/20, 11:13:52] A Papa CBC: I bought 10,000 share of penny stock
+  [2/7/20, 11:13:57] Yi Hein: I want to see if HC Surgical is even tradable, if not I’m waiting my time
+  [2/7/20, 11:15:13] A Papa CBC: You can’t only look at % ROE etc.. this company is a tiny holding company ... probably for the Doctors to limit their liability
+  [2/7/20, 11:15:22] Yi Hein: *wasting
+  [2/7/20, 11:15:32] Yi Hein: I know
+  [2/7/20, 11:15:41] A Papa CBC: Healthcare .. look at Parkwaylife and First REITs
+  [2/7/20, 11:16:06] A Papa CBC: if patient sue, they can just declare bankruptcy
+  [2/7/20, 11:16:08] Yi Hein: Is it tradable though
+  [2/7/20, 11:16:18] A Papa CBC: Should be
+  [2/7/20, 11:16:37] A Papa CBC: Ask mummy to check
+  [2/7/20, 11:16:59] Yi Hein: I know I’ve my risk exposure plan, I am rating my downside risk to 100%
+  [2/7/20, 11:17:49] A Papa CBC: Then buy banks ... or reits .. downside definitely not 10%
+  [2/7/20, 11:17:59] A Papa CBC: *100%
+  [23/7/20, 20:38:58] Yi Hein: https://eservices.mas.gov.sg/fid/institution/detail/230005-INTERACTIVE-BROKERS-SINGAPORE-PTE-LTD
+  [26/7/20, 11:16:37] A Papa CBC: Paying unemployment benefits  $600/week which is more than earn income
+  
+  Trump administration backs partial extension of jobless benefits through year's end
+  https://reut.rs/39qiNOq
+  ‎[6/8/20, 17:36:54] Yi Hein: 110919-HCSS-Annual-Report-2019-161-162.pdf • ‎2 pages ‎<attached: 00000361-110919-HCSS-Annual-Report-2019-161-162.pdf>
+  [6/8/20, 17:39:56] A Papa CBC: What is the results ? U millionaire soon ?
+  [6/8/20, 17:45:41] Yi Hein: 20 years
+  [6/8/20, 18:33:21] A Papa CBC: In 20 years , the 1 million only worth $200k today’s value
+  [6/8/20, 18:34:48] Yi Hein: But in 25 years it I’ll be worth $10mill, in 30 years $100mill
+  [6/8/20, 18:35:25] A Papa CBC: Vietnam dong !!!
+  [6/8/20, 18:36:00] A Papa CBC: Your 1 million is only $60
+  [10/8/20, 18:26:54] Yi Hein: Qualys Inc
+  [10/8/20, 18:27:26] Yi Hein: Potential stock, overvalued now but much better than last time, and numbers look good
+  ‎[10/8/20, 19:41:15] A Papa CBC: ‎<attached: 00000370-PHOTO-2020-08-10-19-41-15.jpg>
+  [11/8/20, 11:35:26] A Papa CBC: Why ETF crash ? Due to dividend payment ?
+  [11/8/20, 11:35:50] Yi Hein: Idk not following
+  [11/8/20, 11:35:51] A Papa CBC: If u bought banks , 10% increase alr
+  [11/8/20, 12:03:16] Yi Hein: Keyword: If
+  [11/8/20, 12:05:43] A Papa CBC: That was what I told u
+  [11/8/20, 21:18:38] A Papa CBC: Hein, etf paying dividend end Aug, u get 5.9 cents per share !!!! You getting rich ?
+  [11/8/20, 21:22:29] Yi Hein: But capital loss even greater :(
+  [11/8/20, 22:39:59] A Papa CBC: Because u want to buy blindly
+  [11/8/20, 22:40:20] A Papa CBC: ETF is significantly impacted by poor performing stocks
+  ‎[12/8/20, 06:31:59] A Papa CBC: ‎<attached: 00000380-PHOTO-2020-08-12-06-31-59.jpg>
+  ‎[12/8/20, 06:33:56] A Papa CBC: ‎<attached: 00000381-PHOTO-2020-08-12-06-33-56.jpg>
+  [12/8/20, 07:39:53] Yi Hein: I’ll buy this when it reaches $42 USD
+  [12/8/20, 07:50:57] A Papa CBC: I will also buy, when it is $8
+  [12/8/20, 07:51:31] A Papa CBC: Instead Of ETF, buy banks ??
+  [12/8/20, 07:51:49] A Papa CBC: Buy when it is Low , below $20
+  [12/8/20, 07:52:56] A Papa CBC: If bank down , ETF will down definitely .. when bank up ETF up, but pull down by underperformer
+  ‎[12/8/20, 07:57:26] A Papa CBC: ‎<attached: 00000387-PHOTO-2020-08-12-07-57-26.jpg>
+  ‎[12/8/20, 07:58:12] A Papa CBC: ‎<attached: 00000388-PHOTO-2020-08-12-07-58-12.jpg>
+  [20/8/20, 11:43:48] A Papa CBC: Asian stocks, oil buckle on uncertain U.S. recovery
+  https://reut.rs/31auDK2
+  [21/8/20, 08:25:30] A Papa CBC: Why u suddenly come home ?
+  [21/8/20, 08:26:13] Yi Hein: Needed to get my letter
+  [21/8/20, 08:39:07] A Papa CBC: Letter see dr?
+  [21/8/20, 08:39:29] A Papa CBC: 4 hrs travelling time
+  [31/8/20, 12:25:24] A Papa CBC: Warren Buffett looks to Japan, takes 5% stakes in five biggest trading firms
+  https://reut.rs/3hLdDzL
+  ‎[4/9/20, 06:16:43] A Papa CBC: ‎<attached: 00000395-PHOTO-2020-09-04-06-16-43.jpg>
+  [4/9/20, 07:46:19] Yi Hein: With PE ratios of 1000, it’s still nowhere near fair value
+  [4/9/20, 08:09:34] A Papa CBC: What is fair value for Tesla ? $20
+  [17/9/20, 20:07:57] A Papa CBC: Testing
+  [18/9/20, 20:42:58] A Papa CBC: Hi
+  [18/9/20, 20:43:07] A Papa CBC: Hi
+  [18/9/20, 20:43:10] A Papa CBC: ??
+  [18/9/20, 20:43:26] A Papa CBC: Hello idiot
+  [18/9/20, 20:43:42] A Papa CBC: Idiot
+  [24/9/20, 11:54:44] A Papa CBC: Interested in venture capital ???
+  
+  https://sg.finance.yahoo.com/news/singapore-blue-chip-veteran-to-raise-funds-for-new-venture-firm-021032524.html
+  [3/2/21, 15:33:04] A Papa CBC: ‎Missed group video call
+  [4/2/21, 11:23:05] A Papa CBC: ‎Missed group video call
+  [4/2/21, 22:18:26] A Papa CBC: Mummy back alr ?
+  `,
+  },
+  {
+    name: "YX",
+    messageContent: `[16/10/16, 12:02:14] Yi Xuen Chai: ‎Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them.
+  ‎[16/10/16, 12:02:54] Yi Hein: ‎<attached: 00000002-PHOTO-2016-10-16-12-02-53.jpg>
+  [16/10/16, 12:33:25] Yi Xuen Chai: Hack
+  [23/10/16, 08:28:38] Yi Xuen Chai: The app timings are off
+  [23/10/16, 08:28:44] Yi Xuen Chai: At least for this bus stop
+  [23/10/16, 08:28:59] Yi Xuen Chai: U should consider 176
+  [23/10/16, 08:30:58] Yi Xuen Chai: I just got on 178
+  [23/10/16, 08:34:49] Yi Hein: I'll try get on 176 see who faster
+  [23/10/16, 08:58:48] Yi Xuen Chai: Abe
+  [23/10/16, 08:58:57] Yi Xuen Chai: Anw
+  [23/10/16, 08:59:19] Yi Xuen Chai: My friend qian Feng reach damn early
+  [23/10/16, 08:59:27] Yi Xuen Chai: So I joined his queue
+  [23/10/16, 08:59:32] Yi Xuen Chai: I left my bag there
+  [23/10/16, 08:59:50] Yi Xuen Chai: And went j cube to study
+  [23/10/16, 08:59:55] Yi Xuen Chai: He is wearing red
+  [23/10/16, 09:00:19] Yi Xuen Chai: At like the place still got railing
+  [23/10/16, 09:00:35] Yi Hein: Ok, I'm not arriving so soon
+  [23/10/16, 09:00:42] Yi Hein: Never take 176 in the morning
+  [23/10/16, 09:00:41] Yi Xuen Chai: Ok
+  [23/10/16, 09:00:47] Yi Xuen Chai: Why
+  [23/10/16, 09:00:53] Yi Hein: Crowded AF and stopping at every bus stop
+  [23/10/16, 09:14:37] Yi Hein: I'm here
+  [23/10/16, 09:16:52] Yi Hein: I queue from the back, it isn't that long anyway
+  [23/10/16, 09:23:29] Yi Xuen Chai: Never mind join my friend
+  [23/10/16, 09:23:33] Yi Xuen Chai: Legit
+  [23/10/16, 10:00:47] Yi Hein: Come so early for what, there's so many empty seats
+  [23/10/16, 16:15:35] Yi Hein: EH Where the hell are you
+  [23/10/16, 16:16:02] Yi Hein: Turn of your fking airplane mode and look at the family group
+  [23/10/16, 17:05:21] Yi Xuen Chai: How about turn on ur fking brain and use it for once
+  [30/10/16, 13:36:45] Yi Hein: If got time, go Daiso JCube to buy screen protector
+  [30/10/16, 13:37:15] Yi Xuen Chai: When?
+  [30/10/16, 13:37:24] Yi Xuen Chai: Like I do work until 5
+  [30/10/16, 13:37:30] Yi Xuen Chai: What time u guys picking me up
+  [30/10/16, 13:37:32] Yi Hein: Anytime, aren't you at Jurong East
+  [30/10/16, 13:37:37] Yi Xuen Chai: Going Clementi to cut hair or not
+  [30/10/16, 13:37:59] Yi Hein: Clementi cut hair have a lot of people
+  [30/10/16, 13:38:18] Yi Xuen Chai: Then how
+  [30/10/16, 13:38:31] Yi Xuen Chai: Weekday travel there take v Long
+  [30/10/16, 13:38:38] Yi Hein: Bukit Batok near the Thai stall have a barber
+  [30/10/16, 13:38:40] Yi Xuen Chai: Next weekend a level starting soon
+  [30/10/16, 13:38:46] Yi Xuen Chai: I rather Clementi though
+  [30/10/16, 13:39:10] Yi Hein: Travel where quite Long
+  [30/10/16, 13:39:15] Yi Xuen Chai: Clementi
+  [30/10/16, 13:39:21] Yi Xuen Chai: Aiya ttyl
+  [30/10/16, 13:39:23] Yi Xuen Chai: I go do work
+  [30/10/16, 13:39:27] Yi Hein: Then why you still wanna go there
+  [30/10/16, 13:39:37] Yi Xuen Chai: Cause I prefer the barber there
+  [30/10/16, 13:39:49] Yi Hein: We can pick you up go Bukit Batok and eat
+  [30/10/16, 13:40:00] Yi Xuen Chai: Rly ah
+  [30/10/16, 13:40:05] Yi Xuen Chai: Aiya then go there cut lah
+  [30/10/16, 13:40:11] Yi Xuen Chai: But more expensive
+  [30/10/16, 13:40:44] Yi Hein: Ain't expensive when I've got da chinks
+  [30/10/16, 13:41:05] Yi Hein: And buy the screen protector when you have time
+  [30/10/16, 13:41:16] Yi Hein: Like after 5 before we pick you up
+  [30/10/16, 14:07:34] Yi Hein: And return the books Papa passed to you
+  [30/10/16, 15:31:22] Yi Xuen Chai: Returned
+  [30/10/16, 16:02:12] Yi Xuen Chai: Which level is daiso
+  [30/10/16, 16:02:53] Yi Xuen Chai: And what screen protector u want like matte or glossy
+  [30/10/16, 16:03:08] Yi Hein: Glossy for me
+  [30/10/16, 16:05:13] Yi Hein: Level #02-06
+  [31/10/16, 09:29:44] Yi Hein: Where is the other iPhone box?
+  [31/10/16, 09:32:37] Yi Xuen Chai: Mine. I kept it in the secret dungeon of drawerfields 
+  [31/10/16, 09:32:55] Yi Hein: You kept mine yours is outside
+  [31/10/16, 09:37:56] Yi Xuen Chai: How u know
+  [31/10/16, 09:38:24] Yi Hein: Mine looks older and I took the connector out of my box
+  [31/10/16, 09:38:36] Yi Xuen Chai: Oh legit
+  [31/10/16, 09:38:41] Yi Xuen Chai: Can help me replace
+  [31/10/16, 09:38:52] Yi Xuen Chai: The box in my the first drawer
+  [31/10/16, 09:38:58] Yi Xuen Chai: Below table beside ur closet
+  [31/10/16, 16:17:35] Yi Hein: You want us to leave some Starbucks for you?
+  [31/10/16, 16:18:18] Yi Xuen Chai: A bit 
+  [1/11/16, 21:43:26] Yi Hein: Retard
+  [1/11/16, 21:43:34] Yi Xuen Chai: Screw off
+  [8/12/16, 13:11:03] Yi Hein: How do you you us the promo code for uber
+  [8/12/16, 13:24:46] Yi Hein: Can't call you turn off airplane mode
+  [8/12/16, 13:34:16] Yi Xuen Chai: What
+  ‎[8/12/16, 13:36:00] Yi Xuen Chai: ‎<attached: 00000077-PHOTO-2016-12-08-13-36-00.jpg>
+  ‎[8/12/16, 13:36:10] Yi Xuen Chai: ‎<attached: 00000078-PHOTO-2016-12-08-13-36-10.jpg>
+  [8/12/16, 13:36:17] Yi Xuen Chai: Key in the code here
+  [8/12/16, 13:36:23] Yi Xuen Chai: From like a referral
+  [27/12/16, 13:19:14] Yi Xuen Chai: ‎Missed voice call
+  [27/12/16, 13:19:18] Yi Xuen Chai: ‎Missed voice call
+  [27/12/16, 13:19:41] Yi Xuen Chai: ‎Missed voice call
+  [27/12/16, 13:19:55] Yi Xuen Chai: ‎Missed voice call
+  [27/12/16, 13:20:06] Yi Xuen Chai: ‎Missed video call
+  [29/12/16, 17:00:12] Yi Xuen Chai: ‎Missed voice call
+  [4/1/17, 09:39:14] Yi Xuen Chai: What
+  [4/1/17, 09:39:32] Yi Hein: You didn't bring water bottle
+  [4/1/17, 09:39:41] Yi Xuen Chai: Have what
+  [4/1/17, 09:39:56] Yi Hein: Ok then 
+  [4/1/17, 09:40:00] Yi Xuen Chai: I'm not like u
+  [4/1/17, 09:40:09] Yi Hein: Shut up 
+  ‎[17/1/17, 12:26:58] Yi Hein: ‎<attached: 00000093-PHOTO-2017-01-17-12-26-57.jpg>
+  [17/1/17, 17:34:46] Yi Xuen Chai: The one on the left
+  [17/1/17, 17:34:50] Yi Xuen Chai: Maybe around 8?
+  [17/1/17, 17:39:26] Yi Hein: Okie
+  [19/1/17, 11:52:00] Yi Xuen Chai: Mummy done or not
+  ‎[4/2/17, 15:42:00] Yi Hein: ‎<attached: 00000098-PHOTO-2017-02-04-15-41-59.jpg>
+  [4/2/17, 15:42:13] Yi Hein: Pretty please with extra poopy sprinkles
+  [4/2/17, 15:43:42] Yi Xuen Chai: Is it D?
+  [4/2/17, 15:44:19] Yi Hein: It's C
+  [4/2/17, 15:44:27] Yi Hein: But isn't A and D the same
+  [4/2/17, 15:44:41] Yi Xuen Chai: Huh C??
+  [4/2/17, 15:45:02] Yi Hein: No wait it's d
+  [4/2/17, 15:45:21] Yi Hein: No it's C
+  [4/2/17, 15:45:28] Yi Xuen Chai: What
+  [4/2/17, 15:45:31] Yi Xuen Chai: So it's what
+  [4/2/17, 15:45:38] Yi Hein: C
+  [4/2/17, 15:46:36] Yi Xuen Chai: Wait
+  [4/2/17, 15:46:43] Yi Xuen Chai: Current is opposite of electron flow is it
+  [4/2/17, 15:46:58] Yi Hein: Oh wait yeah
+  [4/2/17, 15:47:01] Yi Hein: No wonder
+  [4/2/17, 15:47:40] Yi Xuen Chai: Ya get it now
+  [4/2/17, 15:47:58] Yi Xuen Chai: ?
+  [4/2/17, 15:48:03] Yi Hein: Yeah
+  [4/2/17, 15:48:14] Yi Xuen Chai: Ok
+  [4/2/17, 15:48:37] Yi Hein: No thanks
+  [4/2/17, 15:48:41] Yi Hein: And you're welcome
+  [18/2/17, 18:13:21] Yi Xuen Chai: U coming back or not
+  [18/2/17, 18:13:21] Yi Xuen Chai: We need loads of help
+  [18/2/17, 18:13:22] Yi Xuen Chai: Come back earlier
+  [12/3/17, 13:08:40] Yi Xuen Chai: What number now
+  [12/3/17, 13:18:56] Yi Hein: 17
+  [12/3/17, 13:19:12] Yi Xuen Chai: WTH
+  [12/3/17, 13:19:16] Yi Xuen Chai: Waste my time
+  [12/3/17, 13:19:58] Yi Hein: Mummy tell you take bus home first
+  [16/3/17, 17:46:39] Yi Xuen Chai: U there?
+  [16/3/17, 17:49:07] Yi Hein: Wut
+  [16/3/17, 17:57:47] Yi Xuen Chai: Too late
+  [1/4/17, 17:38:04] Yi Xuen Chai: U reach alr?
+  [1/4/17, 17:38:22] Yi Xuen Chai: Go input ur order on the group
+  [1/4/17, 17:38:28] Yi Xuen Chai: If u there queue first
+  [2/4/17, 17:53:52] Yi Hein: Buy newspaper pls 🙏🏼🙏🏼🙏🏼
+  [2/4/17, 17:55:40] Yi Xuen Chai: Buy from where?
+  [2/4/17, 17:56:52] Yi Hein: 7-eleven? NTUC? cheers
+  [2/4/17, 18:00:11] Yi Xuen Chai: Ok bought
+  [5/5/17, 18:22:04] Yi Hein: Papa will be waiting for you at the car park so wait for him
+  [31/5/17, 07:31:51] Yi Hein: I'm lending your blazer for my conference for today and tmr
+  [31/5/17, 09:08:43] Yi Xuen Chai: Freak u
+  [31/5/17, 09:08:44] Yi Xuen Chai: Ok
+  [31/5/17, 09:08:48] Yi Xuen Chai: Don't dirty it u bitch
+  [23/6/17, 23:40:07] Yi Hein: Mummy is sleeping already
+  [24/6/17, 20:31:59] Yi Xuen Chai: Let me know if anything happens k
+  [24/6/17, 20:37:08] Yi Hein: K
+  [31/7/17, 07:02:40] Yi Xuen Chai: This is way too early
+  [31/7/17, 08:57:29] Yi Hein: If you took the next bus you'll arrive 7:35
+  [31/7/17, 09:02:56] Yi Xuen Chai: I eat then meet u?
+  [31/7/17, 09:04:48] Yi Xuen Chai: Where r u
+  [29/8/17, 22:13:32] Yi Hein: Do you want orange
+  [29/8/17, 22:18:18] Yi Xuen Chai: I want yellow
+  [29/8/17, 22:20:06] Yi Hein: Black and yellow?
+  [29/8/17, 22:20:17] Yi Hein: Nah orange is the new black
+  [17/9/17, 11:36:40] Yi Xuen Chai: What time u coming back
+  [17/9/17, 12:44:44] Yi Xuen Chai: Eh don't ignore me
+  [17/9/17, 12:54:17] Yi Hein: Dunno depends whether we going out to eat
+  [17/9/17, 12:54:19] Yi Hein: Why?
+  [17/9/17, 12:54:53] Yi Hein: I would prefer to stay till 9:30pm
+  [17/9/17, 12:59:03] Yi Xuen Chai: Cause gong gong asking
+  [17/9/17, 13:18:44] Yi Hein: So do Kang and I go back?
+  [30/10/17, 22:23:34] Yi Xuen Chai: ‎This message was deleted.
+  [30/10/17, 22:30:15] Yi Hein: ‎You deleted this message.
+  [1/11/17, 23:04:29] Yi Hein: ‎You deleted this message.
+  [18/11/17, 13:50:49] Yi Xuen Chai: What u want
+  [18/11/17, 13:50:53] Yi Xuen Chai: I'm at library
+  [21/11/17, 12:20:51] Yi Xuen Chai: Got come back eat today dinner?
+  [26/11/17, 14:12:17] Yi Hein: Yes
+  [26/11/17, 14:12:22] Yi Hein: Lmao
+  [16/1/18, 07:26:51] Yi Xuen Chai: Where u go?
+  [16/1/18, 07:27:16] Yi Xuen Chai: Am I supposed to lock the door?
+  [16/1/18, 10:06:14] Yi Hein: Went training
+  [16/1/18, 10:06:18] Yi Hein: I have Key
+  [16/1/18, 10:06:45] Yi Xuen Chai: Da shit
+  [16/1/18, 10:06:57] Yi Xuen Chai: I didn't lock the door, I thought u went gym
+  [16/1/18, 10:22:11] Yi Hein: Ok I'll be back soon
+  ‎[28/1/18, 17:09:50] Yi Xuen Chai: ‎<attached: 00000175-PHOTO-2018-01-28-17-09-50.jpg>
+  ‎[28/1/18, 17:09:51] Yi Xuen Chai: ‎<attached: 00000176-PHOTO-2018-01-28-17-09-51.jpg>
+  [28/1/18, 17:09:53] Yi Xuen Chai: Anything u want?
+  ‎[28/1/18, 19:39:48] Yi Xuen Chai: ‎<attached: 00000178-PHOTO-2018-01-28-19-39-48.jpg>
+  [28/1/18, 19:40:17] Yi Hein: YESSSSS
+  [22/2/18, 08:31:30] Yi Hein: I'll be using the blazer from Friday to Sunday
+  [22/2/18, 08:33:05] Yi Xuen Chai: Ok
+  [22/2/18, 19:46:52] Yi Xuen Chai: Where's my adapter
+  [22/2/18, 19:54:40] Yi Hein: Can't find it at the auditorium, checking with the IT department lost and found tmr
+  [22/2/18, 20:39:13] Yi Xuen Chai: ...
+  [27/2/18, 06:48:00] Yi Hein: Can help me take an picture of my economics assignment?
+  [27/2/18, 06:48:11] Yi Hein: Quite impt
+  [27/2/18, 06:48:16] Yi Hein: It's on my table
+  ‎[27/2/18, 07:57:35] Yi Xuen Chai: ‎<attached: 00000188-PHOTO-2018-02-27-07-57-35.jpg>
+  ‎[27/2/18, 07:57:35] Yi Xuen Chai: ‎<attached: 00000189-PHOTO-2018-02-27-07-57-35.jpg>
+  ‎[27/2/18, 07:57:36] Yi Xuen Chai: ‎<attached: 00000190-PHOTO-2018-02-27-07-57-36.jpg>
+  ‎[27/2/18, 07:57:36] Yi Xuen Chai: ‎<attached: 00000191-PHOTO-2018-02-27-07-57-36.jpg>
+  ‎[27/2/18, 07:57:37] Yi Xuen Chai: ‎<attached: 00000192-PHOTO-2018-02-27-07-57-37.jpg>
+  [27/2/18, 07:58:40] Yi Hein: Thanks
+  ‎[3/3/18, 21:48:20] Yi Xuen Chai: ‎<attached: 00000194-Qian Feng Jiang.vcf>
+  ‎[6/3/18, 20:00:39] Yi Xuen Chai: ‎<attached: 00000195-Benjamin Tan.vcf>
+  [6/3/18, 20:00:44] Yi Xuen Chai: He sleeping at 9
+  [6/3/18, 20:00:46] Yi Xuen Chai: Faster ask
+  [6/3/18, 20:00:48] Yi Xuen Chai: Make it quick
+  [6/3/18, 20:00:54] Yi Xuen Chai: The president is a busy man
+  [24/4/18, 17:19:37] Yi Xuen Chai: Call me for what
+  [24/4/18, 17:19:39] Yi Xuen Chai: I'm in lib
+  [24/4/18, 17:22:21] Yi Xuen Chai: Oi
+  [24/4/18, 17:22:24] Yi Xuen Chai: What u want
+  [24/4/18, 17:25:37] Yi Hein: Asking you whether you want dabao service
+  [24/4/18, 17:25:47] Yi Xuen Chai: I in school
+  [24/4/18, 17:25:54] Yi Xuen Chai: I eating in school
+  [24/4/18, 17:25:56] Yi Xuen Chai: U dabao from where
+  [24/4/18, 17:27:43] Yi Hein: Nuh
+  [24/4/18, 17:31:14] Yi Xuen Chai: If Kopitiam can get my Kopitiam
+  [24/4/18, 17:31:15] Yi Xuen Chai: Card
+  [24/4/18, 17:36:05] Yi Xuen Chai: Oi want or not
+  [24/4/18, 17:38:44] Yi Hein: I bought already :/
+  [24/4/18, 17:39:05] Yi Xuen Chai: Waste money
+  [12/7/18, 10:41:04] Yi Xuen Chai: What time u reaching home ah
+  [12/7/18, 10:53:13] Yi Hein: Ard 5, school ends at 4
+  ‎[2/8/18, 06:27:15] Yi Hein: ‎<attached: 00000216-PHOTO-2018-08-02-06-27-14.jpg>
+  [2/8/18, 07:57:12] Yi Xuen Chai: What u post
+  [2/8/18, 10:11:36] Yi Hein: 🤷🏻‍♂️
+  [9/8/18, 12:43:33] Yi Xuen Chai: https://play.typeracer.com?rt=tir3lu2pp
+  ‎[10/8/18, 20:41:31] Yi Hein: ‎<attached: 00000220-PHOTO-2018-08-10-20-41-31.jpg>
+  [10/8/18, 21:08:51] Yi Xuen Chai: Oh
+  [16/11/18, 13:57:57] Yi Hein: What time u coming back
+  [16/11/18, 14:21:48] Yi Xuen Chai: I got tuition at 3.30
+  [8/12/18, 10:04:44] Yi Xuen Chai: Can help buy some lettuce
+  [8/12/18, 10:42:05] Yi Hein: So confirm 1 broccoli and 1 lettuce?
+  [8/12/18, 10:42:27] Yi Xuen Chai: Actually just broccoli lah
+  [8/12/18, 10:46:27] Yi Hein: Ok no more changes gonna buy already
+  [8/12/18, 10:47:56] Yi Hein: I'm buying chocolate milk
+  [8/12/18, 10:48:08] Yi Xuen Chai: Why
+  [8/12/18, 10:48:11] Yi Hein: You want white one too?
+  [8/12/18, 10:48:19] Yi Xuen Chai: U want chocolate meh
+  [8/12/18, 10:48:24] Yi Hein: Cos I wanna drink
+  [8/12/18, 10:48:27] Yi Xuen Chai: Got increased sugar eh
+  [8/12/18, 10:48:45] Yi Hein: Idc tbh
+  [8/12/18, 10:48:52] Yi Hein: So buy 2?
+  [8/12/18, 10:48:54] Yi Xuen Chai: No point buying 2
+  [8/12/18, 10:48:57] Yi Xuen Chai: Cannot finish
+  [8/12/18, 10:49:09] Yi Xuen Chai: If u buy chocolate u better make sure u finish
+  [8/12/18, 10:49:14] Yi Hein: K can
+  [8/12/18, 10:49:14] Yi Xuen Chai: Nobody gonna help u finish
+  [8/12/18, 11:06:09] Yi Hein: I buying pineapple rice, you can cook chicken or whatever you want
+  [14/12/18, 20:29:19] Yi Xuen Chai: What time u reach home
+  [14/12/18, 20:43:28] Yi Hein: 10 min
+  ‎[15/12/18, 17:54:19] Yi Xuen Chai: ‎<attached: 00000244-PHOTO-2018-12-15-17-54-19.jpg>
+  [20/1/19, 15:50:39] Yi Hein: *Remark for Math HL*
+  1. Check for individual breakdown score
+  2. Check Math internal assessment (IA) score
+  ‎[29/1/19, 16:22:56] Yi Hein: Personal Statement (Draft 1) - Review.docx ‎<attached: 00000246-Personal Statement (Draft 1) - Review.docx>
+  [29/1/19, 16:23:02] Yi Hein: Help me see my personal statement
+  [29/1/19, 21:00:25] Yi Xuen Chai: Ill read when I have time
+  [29/1/19, 21:00:32] Yi Xuen Chai: When do u want it
+  [29/1/19, 21:01:29] Yi Hein: as soon as possible
+  [29/1/19, 21:01:42] Yi Hein: Want to finish second draft before cny to send to teacher
+  [29/1/19, 21:12:05] Yi Xuen Chai: I read attempt 2 is it
+  [29/1/19, 21:15:50] Yi Xuen Chai: My comments are not definite as they may be biased, so take it with a pinch of salt
+  [29/1/19, 21:17:23] Yi Xuen Chai: The metaphor at the start is a bit confusing and I’m not sure if it really brings the point across
+  [29/1/19, 21:18:12] Yi Xuen Chai: I think the rest of the statement sounds a bit like listing, since u have so many commitments, I rather u pick 3-4 and elaborate or to group similar ones together to draw a point
+  [29/1/19, 21:22:28] Yi Xuen Chai: Despite the question asking about ur experiences, it is not only limited to that
+  [29/1/19, 21:23:16] Yi Xuen Chai: I think it will be good to link ur experiences more to what it entails to be a doctor
+  [30/1/19, 07:02:16] Yi Hein: I'll go edit, can help send to some of your friends when I'm done
+  ‎[8/2/19, 04:41:34] Yi Hein: Personal Statement (final draft) - Review.docx • ‎7 pages ‎<attached: 00000259-Personal Statement (final draft) - Review.docx>
+  [8/2/19, 04:41:55] Yi Hein: Help me see and send to your friends to see too
+  [14/2/19, 15:50:56] Yi Hein: Application Number:  69011943 
+  PIN: EBTN8E63
+  [14/2/19, 15:51:27] Yi Hein: forwarded the email to you
+  [14/2/19, 17:05:28] Yi Xuen Chai: What haven’t u submitted
+  [14/2/19, 17:26:51] Yi Xuen Chai: And where are all the documents
+  [14/2/19, 22:18:59] Yi Hein: I haven't submitted anything
+  [15/2/19, 12:08:03] Yi Hein: Email: chaiyihein@gmail.com
+  Password: Neverdie1
+  [15/2/19, 12:08:19] Yi Hein: *note caps on 'N'
+  [15/2/19, 12:28:26] Yi Xuen Chai: Ok
+  [15/2/19, 18:28:33] Yi Hein: You need anything else for submission
+  [15/2/19, 18:28:38] Yi Hein: ?
+  [15/2/19, 18:32:34] Yi Xuen Chai: I dont think so
+  [2/3/19, 15:24:11] Yi Xuen Chai: What
+  [2/3/19, 15:24:23] Yi Hein: Why go for NTU open house tho
+  [2/3/19, 15:24:27] Yi Hein: I'm not applying
+  [2/3/19, 15:24:41] Yi Xuen Chai: Doesn’t mean u won’t apply next year
+  [9/3/19, 14:02:14] Yi Hein: For your NS disruption, did you have a choice to choose not to disrupt and continue with NS?
+  [9/3/19, 14:18:34] Yi Xuen Chai: I think so, but everyone will choose to disrupt. It stupid to not disrupt
+  [12/3/19, 16:39:21] Yi Hein: Does NUS provide you with free Microsoft office?
+  [12/3/19, 17:33:58] Yi Xuen Chai: Yes
+  [12/3/19, 17:34:56] Yi Hein: Can use on my surface?
+  [12/3/19, 17:35:02] Yi Hein: My school's subscription ran out
+  [12/3/19, 17:35:11] Yi Xuen Chai: But I log in alr though
+  [12/3/19, 17:35:19] Yi Xuen Chai: Not sure how many can I log in for
+  [12/3/19, 17:35:23] Yi Hein: Can use on 5 devices
+  [12/3/19, 17:37:09] Yi Xuen Chai: Ok ok
+  [16/3/19, 12:09:18] Yi Hein: Are you in school?
+  [16/3/19, 12:11:04] Yi Xuen Chai: Yes
+  [16/3/19, 12:11:42] Yi Hein: do u know about some medicine application prep thing going on?
+  [16/3/19, 12:29:29] Yi Xuen Chai: What’s that
+  [16/3/19, 12:33:43] Yi Hein: Saw some brochure, was wondering whether you'll be involved
+  [16/3/19, 13:32:55] Yi Hein: Lol Abraham is here
+  [16/3/19, 14:31:10] Yi Xuen Chai: What event is this
+  [16/3/19, 16:09:44] Yi Hein: Navigating Med school
+  [18/3/19, 08:44:41] Yi Hein: Applicant ID: P190087
+  Password: Neverdie1!
+  [18/3/19, 08:44:50] Yi Hein: ^ login details for YLL Application portal
+  [18/3/19, 08:44:59] Yi Hein: ‎You deleted this message.
+  [18/3/19, 08:45:25] Yi Hein: Steps:
+  1. Go to this website - https://itumed.nus.edu.sg/ram/application/home.aspx
+  ‎[18/3/19, 08:46:07] Yi Hein: ‎<attached: 00000298-PHOTO-2019-03-18-08-46-06.jpg>
+  ‎[18/3/19, 08:46:51] Yi Hein: ‎<attached: 00000299-PHOTO-2019-03-18-08-46-51.jpg>
+  [18/3/19, 08:47:03] Yi Hein: ^
+  ‎[18/3/19, 08:48:08] Yi Hein: ‎<attached: 00000301-PHOTO-2019-03-18-08-48-08.jpg>
+  ‎[18/3/19, 08:49:23] Yi Hein: ‎<attached: 00000302-PHOTO-2019-03-18-08-49-22.jpg>
+  ‎[18/3/19, 10:40:24] Yi Hein: ‎<attached: 00000303-PHOTO-2019-03-18-10-40-23.jpg>
+  [18/3/19, 12:47:12] Yi Xuen Chai: Yea take out
+  [18/3/19, 12:51:47] Yi Xuen Chai: When u want me to submit
+  [18/3/19, 19:37:30] Yi Hein: See whether got learnet then I tell you
+  [18/3/19, 19:54:26] Yi Xuen Chai: Ok ok
+  [18/3/19, 19:54:29] Yi Xuen Chai: How’s life
+  [18/3/19, 20:49:05] Yi Hein: Just admin stuff now
+  [24/3/19, 11:46:24] Yi Hein: U submit the application already?
+  [24/3/19, 11:52:21] Yi Xuen Chai: Not yet remind me today again
+  [24/3/19, 11:52:36] Yi Hein: Ok
+  [24/3/19, 19:18:47] Yi Hein: Help me submit
+  [24/3/19, 19:18:53] Yi Hein: And double check through
+  [24/3/19, 19:31:32] Yi Xuen Chai: The list of CCAs right
+  [24/3/19, 19:31:39] Yi Hein: Yeah
+  [24/3/19, 19:32:01] Yi Xuen Chai: Did u put it in the order of most important to least important
+  [24/3/19, 19:32:06] Yi Xuen Chai: Or was it random
+  [24/3/19, 19:32:11] Yi Hein: They order it by themselves
+  [24/3/19, 19:32:39] Yi Xuen Chai: Or was it the order u keyed in
+  [24/3/19, 19:33:11] Yi Hein: The order arranges by type of achievement
+  ‎[24/3/19, 19:33:33] Yi Xuen Chai: ‎<attached: 00000322-PHOTO-2019-03-24-19-33-33.jpg>
+  [24/3/19, 19:33:56] Yi Hein: Cos the first one is non-school
+  [24/3/19, 19:34:00] Yi Hein: Which is ordered first
+  [24/3/19, 19:34:07] Yi Xuen Chai: Ok ok
+  [24/3/19, 19:34:12] Yi Xuen Chai: If not the rest should be ok
+  [24/3/19, 19:34:30] Yi Xuen Chai: U got check grammar for personal statement?
+  [24/3/19, 19:35:06] Yi Hein: I did, can help check again in case I missed out
+  [24/3/19, 19:36:47] Yi Xuen Chai: Ok I think it’s ok
+  [24/3/19, 19:38:26] Yi Xuen Chai: Do I send?
+  [24/3/19, 20:39:14] Yi Hein: Yes thanks
+  [24/3/19, 20:39:28] Yi Xuen Chai: Submitted
+  [24/3/19, 20:39:51] Yi Xuen Chai: You should receive an acknowledgement email
+  [24/3/19, 20:39:55] Yi Hein: Received confirmation email
+  [24/3/19, 20:40:25] Yi Xuen Chai: When is ur rambutan hill thing
+  [24/3/19, 20:40:33] Yi Hein: What's that
+  [24/3/19, 20:44:37] Yi Xuen Chai: Sleep one night at some hill
+  [24/3/19, 20:44:51] Yi Hein: The solo night?
+  [24/3/19, 20:45:00] Yi Hein: Yeah finish
+  [24/3/19, 20:45:03] Yi Xuen Chai: Ya
+  [24/3/19, 20:49:10] Yi Xuen Chai: Wah so fast
+  [24/3/19, 20:49:21] Yi Xuen Chai: Got turn out so far or not
+  [24/3/19, 21:08:01] Yi Hein: Tonight should be
+  [25/3/19, 12:45:32] Yi Hein: Do you have the book for medical ethics
+  [25/3/19, 12:46:03] Yi Hein: Or like what website can I find it from?
+  [25/3/19, 13:02:08] Yi Xuen Chai: Erm SMC website can find
+  [25/3/19, 15:38:02] Yi Hein: Ok
+  [26/3/19, 09:47:10] Yi Xuen Chai: Call me for what
+  [26/3/19, 09:47:17] Yi Hein: Accidental press
+  [26/3/19, 09:54:00] Yi Hein: What's the list of preparation steps for interview
+  [26/3/19, 09:54:32] Yi Hein: And SJT
+  [26/3/19, 10:17:17] Yi Xuen Chai: What u mean
+  [26/3/19, 10:17:45] Yi Hein: Like do I have to do to prepare
+  [26/3/19, 16:15:27] Yi Xuen Chai: Just familiarise with the type of questions they will ask lo
+  [28/3/19, 07:15:19] Yi Hein: NUS Application Number : 69011943
+  Candidate Index No: C190949
+  Candidate Email: chaiyihein@gmail.com
+  [28/3/19, 07:15:30] Yi Hein: Ignore this message ; it's for my ease of reference
+  [4/4/19, 12:40:16] Yi Hein: I wear your black shoes tmr can
+  [4/4/19, 12:40:18] Yi Hein: ?
+  [4/4/19, 13:36:36] Yi Xuen Chai: Ok
+  [12/4/19, 15:19:20] Yi Xuen Chai: What’s the plan tmr?
+  [12/4/19, 15:19:27] Yi Xuen Chai: Where do I collect the ticket from you and what time
+  [12/4/19, 16:46:46] Yi Hein: I'm checking with them abt the details
+  [12/4/19, 17:06:10] Yi Xuen Chai: Ok
+  [12/4/19, 19:08:29] Yi Hein: What's the car plate number
+  [12/4/19, 19:08:34] Yi Xuen Chai: Lol
+  [12/4/19, 19:08:38] Yi Xuen Chai: I walk down check for u
+  [12/4/19, 19:08:51] Yi Hein: Yeah thanks asap
+  [12/4/19, 19:10:02] Yi Xuen Chai: SJG7482R
+  [12/4/19, 19:12:31] Yi Hein: Thanks
+  [12/4/19, 19:12:56] Yi Xuen Chai: I can’t find the family day letter
+  [12/4/19, 19:13:02] Yi Xuen Chai: U got even give me meh
+  [12/4/19, 19:19:51] Yi Xuen Chai: I remember seeing it on the dinning table like q Long age
+  [12/4/19, 19:22:06] Yi Xuen Chai: I search the whole house cannot find
+  [12/4/19, 19:22:26] Yi Xuen Chai: U better tell me where it is, or if u actually brought it back to camp
+  [12/4/19, 19:34:30] Yi Xuen Chai: And send the details!
+  [12/4/19, 21:02:44] Yi Hein: No I didn't
+  [12/4/19, 21:03:04] Yi Hein: Start 8.00am
+  [12/4/19, 21:03:24] Yi Hein: The guard house has been informed so you can just drive in
+  [12/4/19, 21:04:45] Yi Hein: Check my drawer under the studyroom table
+  [12/4/19, 22:48:48] Yi Xuen Chai: So no need ticket or anything ah
+  [12/4/19, 22:48:57] Yi Xuen Chai: So we drive to foxtrot?
+  [12/4/19, 23:21:19] Yi Hein: Yup
+  [12/4/19, 23:21:21] Yi Hein: No need
+  ‎[13/4/19, 11:51:34] Yi Xuen Chai: ‎<attached: 00000384-PHOTO-2019-04-13-11-51-34.jpg>
+  ‎[13/4/19, 11:51:35] Yi Xuen Chai: ‎<attached: 00000385-PHOTO-2019-04-13-11-51-35.jpg>
+  ‎[13/4/19, 11:51:36] Yi Xuen Chai: ‎<attached: 00000386-PHOTO-2019-04-13-11-51-36.jpg>
+  ‎[13/4/19, 11:51:36] Yi Xuen Chai: ‎<attached: 00000387-PHOTO-2019-04-13-11-51-36.jpg>
+  ‎[13/4/19, 11:51:37] Yi Xuen Chai: ‎<attached: 00000388-PHOTO-2019-04-13-11-51-37.jpg>
+  ‎[13/4/19, 11:51:38] Yi Xuen Chai: ‎<attached: 00000389-PHOTO-2019-04-13-11-51-38.jpg>
+  ‎[13/4/19, 11:51:39] Yi Xuen Chai: ‎<attached: 00000390-PHOTO-2019-04-13-11-51-39.jpg>
+  ‎[13/4/19, 11:51:39] Yi Xuen Chai: ‎<attached: 00000391-PHOTO-2019-04-13-11-51-39.jpg>
+  ‎[13/4/19, 11:51:39] Yi Xuen Chai: ‎<attached: 00000392-PHOTO-2019-04-13-11-51-39.jpg>
+  ‎[13/4/19, 11:51:39] Yi Xuen Chai: ‎<attached: 00000393-PHOTO-2019-04-13-11-51-39.jpg>
+  [17/4/19, 19:45:45] Yi Xuen Chai: What time bookout?
+  [17/4/19, 19:45:57] Yi Xuen Chai: I might not be able to pick u up depending on what time
+  [17/4/19, 21:19:52] Yi Hein: No idea
+  [17/4/19, 21:19:58] Yi Hein: Should be at night
+  [17/4/19, 21:20:11] Yi Hein: Ard 9-10pm?
+  [17/4/19, 21:23:55] Yi Xuen Chai: Ok keep me updated
+  [17/4/19, 21:24:08] Yi Xuen Chai: If ^ then can, I’ll be in Hwa Chong until about 8.30
+  [17/4/19, 21:26:24] Yi Hein: Ok will update you
+  [18/4/19, 11:34:00] Yi Xuen Chai: Ok I can’t drive to Hwa Chong so I need to go home get the car first if u want me to pick u
+  [18/4/19, 11:34:09] Yi Xuen Chai: Earliest I can reach SAFTI is 9.40
+  [18/4/19, 14:57:26] Yi Hein: Ok
+  [18/4/19, 20:31:17] Yi Xuen Chai: Any updates
+  [18/4/19, 20:58:47] Yi Hein: I go home myself
+  [18/4/19, 20:58:57] Yi Hein: Walking out now
+  [18/4/19, 21:02:59] Yi Xuen Chai: U sure ah
+  [18/4/19, 21:03:07] Yi Xuen Chai: Need me pick u up from somewhere?
+  [18/4/19, 21:08:04] Yi Xuen Chai: I text u when I’m back home
+  [18/4/19, 21:12:46] Yi Hein: It's ok
+  [18/4/19, 21:25:32] Yi Xuen Chai: Where u now
+  [18/4/19, 21:26:13] Yi Hein: On the train
+  [19/4/19, 12:58:46] Yi Xuen Chai: Will reach about 1.45
+  [19/4/19, 12:58:51] Yi Xuen Chai: Hungry eat something first
+  [19/4/19, 12:58:59] Yi Xuen Chai: Help heat up the Ludan in the fridge
+  ‎[21/4/19, 11:54:24] Yi Xuen Chai: ‎<attached: 00000417-PHOTO-2019-04-21-11-54-24.jpg>
+  [21/4/19, 11:58:29] Yi Xuen Chai: Let me know when u done I go the stairs pick u
+  [21/4/19, 12:00:33] Yi Hein: I'm done
+  [3/5/19, 21:08:11] Yi Xuen Chai: ^
+  [3/5/19, 21:08:22] Yi Hein: No it's the other one
+  [3/5/19, 21:08:42] Yi Hein: From the main portal
+  [3/5/19, 21:08:50] Yi Xuen Chai: ^
+  [3/5/19, 21:18:12] Yi Xuen Chai: What u mean by second wave
+  [3/5/19, 21:19:30] Yi Hein: Some ppl say they send out offers in batches
+  [3/5/19, 21:19:45] Yi Xuen Chai: What does yours say in the portal
+  [3/5/19, 21:20:19] Yi Hein: Invaild is
+  [3/5/19, 21:20:21] Yi Hein: *id
+  [3/5/19, 21:20:36] Yi Xuen Chai: Huh? Cannot log in?
+  [3/5/19, 21:20:41] Yi Hein: Yeah
+  [3/5/19, 21:20:52] Yi Xuen Chai: They got send u email?
+  [3/5/19, 21:20:58] Yi Hein: Nope
+  [3/5/19, 21:21:06] Yi Hein: Those who got also no email
+  [3/5/19, 21:21:27] Yi Xuen Chai: Most should be released together leh
+  [3/5/19, 21:21:31] Yi Xuen Chai: Unless those waiting list
+  [4/5/19, 15:35:59] Yi Xuen Chai: Let me know when u done
+  [4/5/19, 15:36:08] Yi Xuen Chai: I’ll leave the carpark and pick u at same place
+  [4/5/19, 15:40:10] Yi Hein: I'm done
+  [4/5/19, 15:40:24] Yi Xuen Chai: K
+  [27/7/19, 09:23:35] Yi Xuen Chai: Can u dabao lunch?
+  [27/7/19, 09:23:39] Yi Xuen Chai: For me and you?
+  [2/8/19, 09:17:57] Yi Xuen Chai: U better thank mummy
+  [2/8/19, 09:18:22] Yi Xuen Chai: She spent the whole week marinating ur BBQ stuff
+  [8/9/19, 12:41:04] Yi Xuen Chai: The table nobody sitting meh
+  [8/9/19, 12:42:00] Yi Hein: Shouldn’t be, they leaving soon anyways
+  [21/9/19, 15:55:40] Yi Hein: https://docs.google.com/document/d/1fpCjmnxb0xNiBocrN2fUGvZwFyJXDVL4mW3fFJO9kdU/edit?usp=sharing
+  [21/9/19, 15:55:54] Yi Hein: help me look at my uk personal statement thanks
+  [21/9/19, 17:31:28] Yi Xuen Chai: Ok I don’t know what the UK uni looking for
+  [21/9/19, 17:32:06] Yi Xuen Chai: But I’ll just read it based on my experience and my views on my batch mates that are currently in medicine
+  [21/9/19, 17:32:53] Yi Xuen Chai: I can go through it when u r home tmr?
+  [21/9/19, 17:33:34] Yi Hein: Ok
+  [21/9/19, 17:34:48] Yi Hein: https://www.undergraduate.study.cam.ac.uk/files/publications/key_criteria_for_medical_admissions.pdf
+  [21/9/19, 17:34:56] Yi Hein: If it helps
+  [24/9/19, 22:51:09] Yi Hein: https://docs.google.com/document/d/1fyIbBpYYg6Pw4FPzMAQmndhDVadPirsDtT-508I4jns/edit?usp=sharing
+  [24/9/19, 22:51:19] Yi Hein: draft 2 of my personal statement, help me look through when you've time
+  ‎[30/9/19, 20:40:13] Yi Hein: saq.pdf • ‎29 pages ‎<attached: 00000456-saq.pdf>
+  [30/9/19, 20:52:47] Yi Hein: What Happens Next?
+  
+  Once we have received your UCAS application, we will email you with a link to our Supplementary Application Questionnaire (SAQ) along with your personal log-in details.  Your application to the University of Cambridge will not be complete unless you also submit your SAQ as directed in that email.  Please note that you will only be requested to complete Sections 1 and 8 of the SAQ since you have already supplied most of the information we need on your COPA and we do not require you to answer questions twice.
+  [30/9/19, 20:53:01] Yi Hein: so check my email by 15th of October
+  [30/9/19, 20:53:10] Yi Hein: should see a link to enter the SAQ
+  [30/9/19, 20:53:27] Yi Hein: then complete the SAQ based on the word doc I sent, before 22 oct
+  [8/10/19, 21:06:25] Yi Xuen Chai: Check ur email still don’t have the email
+  [8/10/19, 21:06:34] Yi Xuen Chai: Can confirm the email haven’t receive yet?
+  [13/10/19, 09:36:43] Yi Xuen Chai: Idk what’s going on
+  [13/10/19, 09:36:57] Yi Xuen Chai: I went in to UCAS 2020 application and realise haven’t complete yet?
+  [13/10/19, 09:37:19] Yi Xuen Chai: I click a few check boxes
+  ‎[13/10/19, 09:37:34] Yi Xuen Chai: ‎<attached: 00000466-PHOTO-2019-10-13-09-37-34.jpg>
+  [13/10/19, 20:40:57] Yi Xuen Chai: Ur teacher also send some email
+  [13/10/19, 20:41:22] Yi Hein: Kk later I see what’s going on
+  ‎[13/10/19, 21:00:07] Yi Hein: ‎<attached: 00000469-PHOTO-2019-10-13-21-00-06.jpg>
+  [13/10/19, 21:02:27] Yi Xuen Chai: I don’t think this file is related
+  ‎[13/10/19, 21:04:32] Yi Xuen Chai: ‎<attached: 00000471-PHOTO-2019-10-13-21-04-32.jpg>
+  ‎[13/10/19, 21:12:20] Yi Xuen Chai: ‎<attached: 00000472-PHOTO-2019-10-13-21-12-20.jpg>
+  [13/10/19, 21:12:27] Yi Xuen Chai: Where do I find ur secondary school results
+  ‎[13/10/19, 21:27:38] Yi Hein: Transcripts.pdf • ‎7 pages ‎<attached: 00000474-Transcripts.pdf>
+  [13/10/19, 21:37:57] Yi Xuen Chai: What’s this for?
+  [13/10/19, 21:38:11] Yi Xuen Chai: I just went in UCAS and key in ur Sec school results
+  [13/10/19, 21:38:27] Yi Xuen Chai: High chance I keyed in wrongly
+  [13/10/19, 21:38:48] Yi Xuen Chai: I don’t think u will make the application deadline
+  [13/10/19, 21:38:58] Yi Xuen Chai: It’s in 2 days and the basic UCAS is not even complete
+  [13/10/19, 21:39:02] Yi Xuen Chai: Not even the SAQ
+  [13/10/19, 21:40:54] Yi Hein: So they rejected it due to lack of Sec school results?
+  [13/10/19, 21:41:22] Yi Xuen Chai: Idk this is the message from ur school
+  [13/10/19, 21:42:03] Yi Xuen Chai: See what’s the status tmr
+  [13/10/19, 22:07:28] Yi Hein: ‎You deleted this message.
+  [13/10/19, 22:52:08] Yi Hein: Ok I’ve settled that issue
+  [13/10/19, 22:54:52] Yi Hein: Ok UCAS should be settled my teacher sending it in
+  [13/10/19, 22:54:59] Yi Hein: Now just SAQ left
+  ‎[13/10/19, 23:05:19] Yi Hein: ‎<attached: 00000488-PHOTO-2019-10-13-23-05-18.jpg>
+  [14/10/19, 06:44:24] Yi Hein: Help me make sure all sections are marked as completed
+  [14/10/19, 06:44:53] Yi Hein: The sending in should be done by my teacher by 15 Oct
+  [14/10/19, 06:45:38] Yi Xuen Chai: Ok I’ll check
+  [15/11/19, 23:12:34] Yi Xuen Chai: Sleep in mummy’s room
+  [30/11/19, 12:41:12] Yi Hein: U need anything from decathlon?
+  [30/11/19, 13:02:36] Yi Xuen Chai: I need to go there and see
+  [30/11/19, 13:02:38] Yi Xuen Chai: So nvm bah
+  [30/11/19, 13:02:45] Yi Xuen Chai: Which decathlon u going
+  [2/12/19, 07:16:27] Yi Hein: Do u want to come for my commissioning parade?
+  [2/12/19, 07:50:05] Yi Xuen Chai: Yea why not
+  [2/12/19, 12:41:22] Yi Hein: Ok
+  [2/12/19, 12:57:00] Yi Xuen Chai: Not enough ticket ah
+  [2/12/19, 16:54:52] Yi Hein: No need to confirm whether you going cause I need to order dinner
+  [2/12/19, 17:04:33] Yi Xuen Chai: I thought dinner only for 2 person
+  [2/12/19, 17:04:57] Yi Hein: As in bento set not formal dinner
+  [2/12/19, 17:05:05] Yi Hein: Unless you want to eat outside after the parade
+  [2/12/19, 19:03:14] Yi Xuen Chai: Oh ok ok
+  ‎[15/12/19, 06:08:16] Yi Hein: ‎<attached: 00000506-Joe Sunil.vcf>
+  [27/12/19, 13:08:56] Yi Hein: I realised you should have just transferred all your money from second acc to first just using the gift opening
+  [27/12/19, 16:04:29] Yi Xuen Chai: I transferred SB like that last year
+  [27/12/19, 16:04:32] Yi Xuen Chai: Slipped my
+  Mind
+  [21/1/20, 20:56:10] Yi Hein: Wtf Nian Gao’da is not droppable?
+  [21/1/20, 20:56:53] Yi Xuen Chai: Yea it’s not
+  [21/1/20, 20:57:04] Yi Xuen Chai: 3 times loot is pretty valuable
+  [21/1/20, 20:57:08] Yi Xuen Chai: They trying to make it hard
+  [21/1/20, 20:57:30] Yi Hein: what so for mino run at which point u start lighting red candle?
+  [21/1/20, 20:59:53] Yi Xuen Chai: Ok so what people ideally try to do BEFORE LNY is reach mino
+  [21/1/20, 21:00:05] Yi Xuen Chai: Use a shadow trap to try to catch q a few shadow stalkers first
+  [21/1/20, 21:00:09] Yi Xuen Chai: But it wastes a lot of time
+  [21/1/20, 21:00:13] Yi Xuen Chai: What I’ll do is that
+  [21/1/20, 21:00:23] Yi Xuen Chai: I’ll just use forgotten
+  [21/1/20, 21:00:44] Yi Xuen Chai: Catch about 3-5 shadow stalker with 2 time candles (just in case in catch mino)
+  [21/1/20, 21:00:52] Yi Xuen Chai: Then switch to 3 times candle
+  [21/1/20, 21:01:01] Yi Xuen Chai: U gonna waste a bit more 3 times candle but bopian
+  [21/1/20, 21:01:06] Yi Hein: Huh what do you mean? How does it work in mino? Either catch mino or shadow stalker?
+  [21/1/20, 21:01:08] Yi Xuen Chai: So I had 30 Nian Gouda
+  [21/1/20, 21:01:19] Yi Xuen Chai: And I only got 7 candles
+  [21/1/20, 21:01:37] Yi Xuen Chai: So the more shadow stalker u catch the easier to catch mino
+  [21/1/20, 21:01:52] Yi Xuen Chai: So by I can’t remember but like something like 15 then the mino is like confirm catch
+  [21/1/20, 21:02:05] Yi Hein: So shadow trap confirm cannot catch mino?
+  [21/1/20, 21:02:12] Yi Xuen Chai: Lower chance
+  [21/1/20, 21:02:16] Yi Xuen Chai: But it’s q waste time
+  [21/1/20, 21:02:27] Yi Xuen Chai: I dint think is a good idea given LNY is here alr
+  [21/1/20, 21:02:40] Yi Hein: I only have warpath and mino anyway
+  [21/1/20, 21:41:00] Yi Xuen Chai: My mino took 11 red candles
+  [21/1/20, 21:41:22] Yi Hein: Looks like I’m only using red for warpath
+  [21/1/20, 21:41:28] Yi Hein: Warpath can also miss right
+  [21/1/20, 21:41:33] Yi Hein: So will waste red candle
+  [21/1/20, 21:42:10] Yi Xuen Chai: See how lo
+  ‎[23/1/20, 07:36:27] Yi Hein: ‎<attached: 00000538-PHOTO-2020-01-23-07-36-26.jpg>
+  [23/1/20, 07:46:25] Yi Xuen Chai: Lucky
+  ‎[23/1/20, 08:38:21] Yi Xuen Chai: ‎<attached: 00000540-PHOTO-2020-01-23-08-38-21.jpg>
+  [23/1/20, 08:42:47] Yi Hein: OMG sickkk
+  [23/1/20, 08:43:25] Yi Hein: Go get another warpath run, snipe the arty guy and triple loot strike box then repeat
+  [23/1/20, 08:44:13] Yi Xuen Chai: So mafan
+  ‎[23/1/20, 08:44:48] Yi Hein: ‎<attached: 00000544-PHOTO-2020-01-23-08-44-47.jpg>
+  [23/1/20, 08:45:37] Yi Xuen Chai: But I think since the base came out, the strike launch box is getting q common
+  [23/1/20, 08:45:47] Yi Xuen Chai: The price is not as high as before I think
+  [23/1/20, 08:45:59] Yi Hein: What’s the price
+  [23/1/20, 08:46:06] Yi Xuen Chai: Dk never check
+  [23/1/20, 08:46:18] Yi Xuen Chai: I don’t think it’s on market place
+  [23/1/20, 08:46:21] Yi Xuen Chai: Wait
+  [23/1/20, 08:46:24] Yi Xuen Chai: Is it even tradable
+  [23/1/20, 08:46:29] Yi Hein: On Facebook
+  ‎[24/1/20, 12:50:48] Yi Hein: ‎<attached: 00000553-PHOTO-2020-01-24-12-50-47.jpg>
+  [24/1/20, 13:02:34] Yi Xuen Chai: Finish mino?
+  [24/1/20, 14:33:19] Yi Hein: Yeah got shit...enigmatic cores
+  [24/1/20, 14:33:21] Yi Hein: Worthless
+  [26/1/20, 12:25:41] Yi Xuen Chai: Where u
+  [26/1/20, 12:25:50] Yi Xuen Chai: Everyone waiting for u
+  [26/1/20, 12:26:10] Yi Hein: You guys start first
+  [26/1/20, 12:26:17] Yi Xuen Chai: When u reaching
+  [26/1/20, 12:27:08] Yi Hein: 15-20mins
+  [26/1/20, 12:27:44] Yi Xuen Chai: Lousy
+  [3/2/20, 08:20:29] Yi Hein: U need surgical mask? 😷
+  [3/2/20, 08:25:46] Yi Xuen Chai: A few will do
+  [3/2/20, 08:25:57] Yi Xuen Chai: 1-2
+  ‎[9/2/20, 14:00:21] Yi Xuen Chai: ‎<attached: 00000566-PHOTO-2020-02-09-14-00-21.jpg>
+  ‎[9/2/20, 14:00:21] Yi Xuen Chai: ‎<attached: 00000567-PHOTO-2020-02-09-14-00-21.jpg>
+  ‎[9/2/20, 14:00:22] Yi Xuen Chai: ‎<attached: 00000568-PHOTO-2020-02-09-14-00-22.jpg>
+  ‎[3/6/20, 22:25:58] Yi Hein: ‎<attached: 00000569-PHOTO-2020-06-03-22-25-58.jpg>
+  [12/6/20, 17:48:57] Yi Xuen Chai: Ya she got cook ur portion
+  [12/6/20, 17:49:17] Yi Hein: Ok let her know I’m reaching home ard 9
+  [12/6/20, 17:49:36] Yi Xuen Chai: Then u not hungry meh?
+  [12/6/20, 17:50:02] Yi Hein: I’m eating some small snacks
+  [12/6/20, 17:50:02] Yi Xuen Chai: Eat some small stuff first
+  [29/6/20, 23:23:07] Yi Hein: Big jac is here
+  [29/6/20, 23:23:13] Yi Hein: Wild tonic now at 103K
+  [30/6/20, 07:19:01] Yi Xuen Chai: I need it at 110k to break even bro
+  [30/6/20, 08:10:03] Yi Xuen Chai: I don’t think the price will rise a lot
+  [30/6/20, 08:10:17] Yi Xuen Chai: A lot ppl complaining the drops not v good from the blooming plants
+  [30/6/20, 08:17:47] Yi Hein: Yeah a lot of people speculated the price too, so a lot of people selling
+  [30/6/20, 08:35:05] Yi Xuen Chai: I think safer to wait a few days for the demand to increase
+  ‎[30/6/20, 16:09:53] Yi Hein: ‎<attached: 00000582-PHOTO-2020-06-30-16-09-53.jpg>
+  [30/6/20, 16:10:26] Yi Xuen Chai: What the heck that’s a lot of mild
+  [30/6/20, 16:10:41] Yi Hein: tonic investment is a failure
+  [30/6/20, 16:10:42] Yi Xuen Chai: I haven’t traded yet but leave a decent amount of mild and medium
+  [30/6/20, 16:10:59] Yi Xuen Chai: I think I’m only trading up to hot
+  [30/6/20, 16:10:59] Yi Hein: 87k highest buying price now
+  [30/6/20, 16:11:07] Yi Xuen Chai: Ya it’s messed up
+  ‎[1/7/20, 18:44:46] Yi Hein: ‎<attached: 00000589-PHOTO-2020-07-01-18-44-46.jpg>
+  [1/7/20, 18:57:55] Yi Xuen Chai: Whut
+  [2/7/20, 20:29:16] Yi Hein: Sold 27% of my wild tonic at a loss of 7 million
+  [3/7/20, 14:06:22] Yi Xuen Chai: The market of qcgt maps is starting to crash
+  [15/7/20, 21:48:56] Yi Hein: Where can I find information about MOH future healthcare plans?
+  [15/7/20, 21:49:32] Yi Xuen Chai: Don’t think can find anywhere
+  [15/7/20, 21:49:50] Yi Xuen Chai: Maybe news articles if they mention build new polyclinics etc
+  [15/7/20, 21:50:01] Yi Hein: Huh then your teacher told you?
+  [15/7/20, 22:01:10] Yi Hein: Any more plans you know about?
+  [16/7/20, 10:40:55] Yi Xuen Chai: No
+  [16/7/20, 21:42:07] Yi Hein: Seems like very Low supply and high demand for sizzle mild tonight
+  [16/7/20, 21:42:20] Yi Hein: Time to jack up prices
+  [16/7/20, 21:49:47] Yi Xuen Chai: Always got periods where supply don’t match demand one
+  [17/7/20, 19:55:29] Yi Xuen Chai: Queso geyser is shit
+  [17/7/20, 19:55:36] Yi Xuen Chai: I used 400 hot leaves for 1 large run
+  [17/7/20, 19:55:44] Yi Xuen Chai: U need 4 large run to do one epic run
+  [18/7/20, 12:08:28] Yi Xuen Chai: https://www.linksys.com/us/support-article?articleNum=136155
+  ‎[29/7/20, 17:03:56] Yi Hein: ‎<attached: 00000606-PHOTO-2020-07-29-17-03-56.jpg>
+  [29/7/20, 17:06:22] Yi Xuen Chai: Ya it was the same 2 years ago
+  ‎[1/8/20, 16:55:02] Yi Hein: ‎<attached: 00000608-PHOTO-2020-08-01-16-55-02.jpg>
+  [1/8/20, 18:55:36] Yi Xuen Chai: What srs
+  [1/8/20, 18:55:38] Yi Xuen Chai: Don’t lie
+  [1/8/20, 19:17:49] Yi Hein: Found on reddit lol
+  ‎[2/8/20, 12:41:24] Yi Hein: ‎<attached: 00000612-PHOTO-2020-08-02-12-41-23.jpg>
+  [2/8/20, 12:41:40] Yi Xuen Chai: No one is at our seat
+  [2/8/20, 12:41:49] Yi Xuen Chai: Where’s mummy and papa
+  [2/8/20, 12:42:14] Yi Hein: Mummy want to go walk
+  [2/8/20, 12:42:21] Yi Xuen Chai: What the
+  [2/8/20, 12:42:28] Yi Xuen Chai: Then what am I supposed to do
+  [2/8/20, 12:42:51] Yi Hein: Papa going over
+  ‎[4/8/20, 10:18:57] Yi Hein: ‎<attached: 00000619-PHOTO-2020-08-04-10-18-57.jpg>
+  [4/8/20, 12:22:27] Yi Xuen Chai: Srs?
+  [4/8/20, 12:24:41] Yi Hein: Yeah
+  [4/8/20, 12:24:53] Yi Hein: But it’s only sachel of gold not pot of gold
+  [4/8/20, 12:26:48] Yi Xuen Chai: What’s the diff
+  [4/8/20, 12:26:56] Yi Hein: 3k catch / 28k active players = slightly less than 11% chance of catching
+  [4/8/20, 12:27:11] Yi Hein: Pot of gold got chance get $25
+  [4/8/20, 12:27:28] Yi Xuen Chai: Oh
+  [4/8/20, 12:27:34] Yi Xuen Chai: Wth why I never catch
+  [4/8/20, 12:27:38] Yi Xuen Chai: This is hullsbit
+  [4/8/20, 12:30:32] Yi Hein: Still got 7 days
+  [4/8/20, 12:54:39] Yi Hein: 11% catch rate is not equal to 100%
+  [11/8/20, 11:19:32] Yi Hein: I earned 780SB in 4 days, from Mino sniping
+  [11/8/20, 11:19:56] Yi Hein: Imagine if I get temporal shadow plate 😯
+  [11/8/20, 12:30:25] Yi Xuen Chai: Gay
+  [11/8/20, 16:16:53] Yi Xuen Chai: Can u bring my singlet back
+  [11/8/20, 16:53:56] Yi Hein: Ok pls remind me on Friday again, scared I forget
+  [11/8/20, 16:54:10] Yi Xuen Chai: Set reminder
+  [11/8/20, 16:56:42] Yi Hein: I realised Mino runs is Super worth it, 5.2mill from sniping, 1 mill from the mice
+  [11/8/20, 16:57:02] Yi Hein: 6.2mill every 2 days
+  [11/8/20, 16:57:08] Yi Hein: Until I run out of keys
+  [11/8/20, 16:57:37] Yi Hein: In 1 month I can buy a rib
+  ‎[11/8/20, 23:59:05] Yi Hein: ‎<attached: 00000641-PHOTO-2020-08-11-23-59-05.jpg>
+  ‎[12/8/20, 00:01:35] Yi Hein: ‎<attached: 00000642-PHOTO-2020-08-12-00-01-35.jpg>
+  [12/8/20, 07:42:20] Yi Xuen Chai: Wait is this Ronza
+  [12/8/20, 07:46:42] Yi Hein: Yeah the items in the MouseHunt database already
+  [12/8/20, 07:47:07] Yi Xuen Chai: Wait means Ronza not here yet?
+  [12/8/20, 07:47:09] Yi Xuen Chai: How u find
+  [12/8/20, 07:47:20] Yi Hein: Now is pre-Ronza event
+  [12/8/20, 07:47:24] Yi Hein: It’s all over discord
+  [12/8/20, 07:47:29] Yi Xuen Chai: Oh
+  [12/8/20, 07:47:32] Yi Xuen Chai: Will go and check
+  [12/8/20, 07:47:36] Yi Xuen Chai: What’s this
+  [12/8/20, 07:47:43] Yi Hein: Collect chrome bits
+  [12/8/20, 07:47:49] Yi Xuen Chai: Ohh
+  [12/8/20, 17:58:47] Yi Hein: I have complete monopoly for Mino sniping market
+  [12/8/20, 17:58:57] Yi Hein: Jacked up the price by 100SB and still got a deal
+  [12/8/20, 17:59:19] Yi Xuen Chai: It’s hard to find mino sniper
+  [12/8/20, 17:59:25] Yi Xuen Chai: People want progress instead
+  [12/8/20, 17:59:32] Yi Xuen Chai: Mino is not even compulsory
+  [12/8/20, 17:59:56] Yi Hein: I can do 1 Mino run a day now
+  [16/8/20, 14:02:53] Yi Xuen Chai: U got return my book not
+  [16/8/20, 15:04:09] Yi Hein: Yes
+  [16/8/20, 15:33:38] Yi Xuen Chai: Ok
+  [16/8/20, 16:05:03] Yi Hein: Only 2 right?
+  [16/8/20, 16:17:01] Yi Xuen Chai: Yup
+  [19/8/20, 07:23:52] Yi Hein: Just earned 32mill from buying and selling chrome celestial on 2/4 of my accounts
+  ‎[19/8/20, 13:56:09] Yi Hein: ‎<attached: 00000666-PHOTO-2020-08-19-13-56-08.jpg>
+  [19/8/20, 14:51:44] Yi Xuen Chai: U want it to drecrease right
+  [19/8/20, 15:01:10] Yi Hein: Yeah
+  [20/8/20, 20:40:41] Yi Xuen Chai: Sent
+  [27/8/20, 21:26:34] Yi Hein: Do you have 3 tooth to sell to me, I’ll pay SB based on MP price
+  [28/8/20, 11:14:22] Yi Xuen Chai: I was planning to keep cause in case the price rise
+  [28/8/20, 11:14:27] Yi Xuen Chai: But u need for trap is it?
+  [28/8/20, 11:14:35] Yi Xuen Chai: If u need I can sell u I Guess
+  [28/8/20, 12:22:06] Yi Hein: Price has already risen
+  [1/9/20, 05:41:01] Yi Hein: Also I was wrong, floating isles have no need shadow trap
+  ‎[8/9/20, 15:03:25] Yi Hein: ‎<attached: 00000676-PHOTO-2020-09-08-15-03-25.jpg>
+  [8/9/20, 15:03:34] Yi Hein: 1. One up on Wall Street
+  [8/9/20, 20:20:30] Yi Xuen Chai: Wait what’s this
+  ‎[8/9/20, 23:42:42] Yi Hein: ‎<attached: 00000679-PHOTO-2020-09-08-23-42-41.jpg>
+  [9/9/20, 06:45:24] Yi Xuen Chai: Ooo new area ah
+  [9/9/20, 06:45:29] Yi Xuen Chai: Don’t trust the difficult or whatever
+  [9/9/20, 06:45:34] Yi Xuen Chai: Need see catch date
+  [9/9/20, 06:45:50] Yi Xuen Chai: Rate
+  ‎[9/9/20, 10:12:01] Yi Xuen Chai: ‎<attached: 00000684-PHOTO-2020-09-09-10-12-01.jpg>
+  ‎[16/9/20, 09:34:29] Yi Hein: ‎<attached: 00000685-PHOTO-2020-09-16-09-34-28.jpg>
+  [17/9/20, 21:16:34] Yi Xuen Chai: ‎Missed group voice call
+  [19/9/20, 11:48:22] Yi Xuen Chai: What
+  [19/9/20, 11:48:36] Yi Hein: Need me to Dabao lunch?
+  [19/9/20, 11:48:47] Yi Hein: What’s the plan for lunch?
+  [19/9/20, 11:50:05] Yi Xuen Chai: Alight at Hillview
+  [19/9/20, 11:50:09] Yi Xuen Chai: We pick u up there
+  [19/9/20, 11:50:36] Yi Xuen Chai: Can or not
+  [19/9/20, 11:50:45] Yi Hein: Ok
+  [19/9/20, 11:50:50] Yi Hein: I need to change first
+  [19/9/20, 11:51:03] Yi Xuen Chai: U changing where
+  [19/9/20, 11:51:12] Yi Xuen Chai: At MRT or at home
+  [19/9/20, 11:51:15] Yi Hein: Hillview
+  [19/9/20, 11:51:23] Yi Xuen Chai: Ok how Long u need
+  [19/9/20, 11:52:02] Yi Hein: 10min
+  [19/9/20, 11:52:15] Yi Hein: 1202 hrs
+  [19/9/20, 11:53:30] Yi Xuen Chai: Where u now
+  [19/9/20, 11:54:44] Yi Hein: Changing
+  [19/9/20, 11:54:52] Yi Hein: Which bus stop
+  [19/9/20, 11:55:27] Yi Xuen Chai: Pickup point
+  [19/9/20, 11:55:46] Yi Xuen Chai: When come out of MRT gantry Turn Right”
+  [19/9/20, 11:55:58] Yi Xuen Chai: The direction the car goes towards Bukit Panjang
+  [19/9/20, 11:57:43] Yi Hein: I am there
+  [19/9/20, 11:58:43] Yi Xuen Chai: We leaving house now
+  [19/9/20, 12:10:13] Yi Xuen Chai: ‎Missed voice call
+  [25/9/20, 20:18:41] Yi Hein: Paper on YK desk, near my surface
+  [25/9/20, 20:20:08] Yi Xuen Chai: I send using mummy’s phone
+  [25/9/20, 20:20:19] Yi Hein: Got it thanks
+  [14/10/20, 22:34:33] Yi Hein: https://discordapp.com/channels/275500976662773761/275503712330448896/615574947183722496
+  [15/10/20, 07:29:06] Yi Xuen Chai: What’s this
+  [15/10/20, 07:29:15] Yi Xuen Chai: I never download discord
+  [15/10/20, 07:29:23] Yi Xuen Chai: Halloween rly start alr lol
+  ‎[16/10/20, 09:15:11] Yi Hein: ‎<attached: 00000717-PHOTO-2020-10-16-09-15-11.jpg>
+  [16/10/20, 09:15:21] Yi Xuen Chai: Nubbad
+  [16/10/20, 09:15:32] Yi Xuen Chai: Get TSP then say
+  [16/10/20, 09:15:41] Yi Hein: 4 Gouda per hunt
+  ‎[16/10/20, 09:25:14] Yi Hein: ‎<attached: 00000721-PHOTO-2020-10-16-09-25-14.jpg>
+  [16/10/20, 09:25:29] Yi Hein: I got a tooth 10 hunts ago also
+  [16/10/20, 09:30:05] Yi Xuen Chai: This one not v good
+  [16/10/20, 09:30:10] Yi Xuen Chai: This is sick tho
+  [16/10/20, 09:36:28] Yi Hein: Nope, Zokor boss loot 5 times more rare than tooth
+  [16/10/20, 09:36:57] Yi Xuen Chai: These are q common during winter event so no big deal
+  [16/10/20, 09:37:01] Yi Xuen Chai: Ok tooth also w common
+  [16/10/20, 09:37:07] Yi Xuen Chai: But Tooth can sell
+  [16/10/20, 09:37:43] Yi Hein: Boss loot sell in terms of mino snipes and TSP if from Mino
+  [16/10/20, 09:38:13] Yi Xuen Chai: Wasting hunts
+  [16/10/20, 09:38:20] Yi Xuen Chai: Tooth can just sell without hunting at all
+  [16/10/20, 11:09:36] Yi Xuen Chai: U want to round robin Halloween map?
+  ‎[16/10/20, 11:09:53] Yi Xuen Chai: ‎<attached: 00000733-PHOTO-2020-10-16-11-09-53.jpg>
+  [16/10/20, 11:37:10] Yi Hein: Nice
+  [16/10/20, 11:37:13] Yi Hein: Sure
+  [16/10/20, 11:37:16] Yi Hein: I’m using cheese now
+  [16/10/20, 11:37:26] Yi Xuen Chai: Find 2 more people
+  [16/10/20, 11:37:32] Yi Xuen Chai: I go find
+  [16/10/20, 11:37:35] Yi Xuen Chai: Take turn opening map
+  [16/10/20, 11:37:39] Yi Xuen Chai: Cost 5 ancient relic
+  [16/10/20, 11:38:12] Yi Xuen Chai: I go ask my friend
+  [16/10/20, 11:40:07] Yi Xuen Chai: Ok my second account will open map
+  [16/10/20, 11:41:38] Yi Xuen Chai: Invited
+  [16/10/20, 12:42:09] Yi Hein: ‎You deleted this message.
+  [16/10/20, 13:46:06] Yi Xuen Chai: Save my 2 friends as favourite for mapping
+  [16/10/20, 13:46:14] Yi Xuen Chai: So later u can invite them easily
+  ‎[18/10/20, 12:39:29] Yi Hein: ‎<attached: 00000747-PHOTO-2020-10-18-12-39-28.jpg>
+  [18/10/20, 12:40:27] Yi Xuen Chai: Minor difference only tho
+  [18/10/20, 12:40:36] Yi Xuen Chai: Tbh the geyser traps are so much easier to get
+  [18/10/20, 12:40:55] Yi Hein: No warpath trap even easier
+  [18/10/20, 12:40:58] Yi Xuen Chai: SoS takes way too Long and way too much gold
+  [18/10/20, 12:41:04] Yi Hein: Just buy
+  [18/10/20, 12:41:13] Yi Xuen Chai: Can’t buy
+  [18/10/20, 12:41:22] Yi Hein: But wait until chrome geyser traps comes
+  [18/10/20, 12:41:22] Yi Xuen Chai: SoS needs sand dollars
+  [18/10/20, 12:41:30] Yi Xuen Chai: Ggwp
+  ‎[19/10/20, 21:34:18] Yi Hein: ‎<attached: 00000757-PHOTO-2020-10-19-21-34-17.jpg>
+  [20/10/20, 08:25:32] Yi Hein: Pls invite me back the grand ghost ship map
+  [20/10/20, 08:25:35] Yi Hein: I accidentally left
+  [20/10/20, 08:30:05] Yi Xuen Chai: Invited
+  ‎[20/10/20, 11:00:48] Yi Hein: ‎<attached: 00000761-PHOTO-2020-10-20-11-00-48.jpg>
+  [30/10/20, 06:55:51] Yi Hein: Can u invite Arwa Buckner to the map?
+  [30/10/20, 06:56:59] Yi Xuen Chai: The map is full
+  [30/10/20, 06:57:13] Yi Hein: I just left
+  [30/10/20, 06:57:41] Yi Hein: ID is 8126957
+  [30/10/20, 07:01:09] Yi Hein: Send an invite to me also
+  [1/11/20, 14:42:18] Yi Hein: https://www.mousehuntgame.com/p.php?id=8126960
+  [1/11/20, 14:42:21] Yi Hein: invite this man
+  [1/11/20, 14:42:25] Yi Hein: to the map
+  [1/11/20, 15:09:30] Yi Hein: https://www.mousehuntgame.com/p.php?id=8126960
+  [1/11/20, 15:09:46] Yi Hein: its hashim not arwa
+  [1/11/20, 15:10:09] Yi Xuen Chai: Can’t invite
+  [1/11/20, 15:10:16] Yi Xuen Chai: Never change settings
+  ‎[1/11/20, 15:10:59] Yi Hein: ‎<attached: 00000774-PHOTO-2020-11-01-15-10-59.jpg>
+  [1/11/20, 15:32:11] Yi Xuen Chai: Invited
+  [2/11/20, 06:41:55] Yi Hein: https://www.mousehuntgame.com/p.php?id=8126959
+  [2/11/20, 06:41:59] Yi Hein: invite her
+  [2/11/20, 09:33:45] Yi Xuen Chai: Can’t invite
+  [2/11/20, 09:59:36] Yi Xuen Chai: Invited
+  [2/11/20, 19:00:04] Yi Xuen Chai: 2 mice left on map
+  [8/11/20, 09:02:55] Yi Xuen Chai: BTT/FTT learning points
+  Risk swinging wide if turn too late
+  Risk hitting kerb if turn too early
+  Speed up AS URE turning back to straight after bend 
+  12 Sec rule for scanning hazards
+  2sec rule for safe following distance (eg BEFORE overtaking)
+  4sec rule if tailgated, wet weather
+  13dp in 12 months Licence revoked for new driver 
+  Not allowed to make test appt if 13 or more dp
+  Overtaking- can move back to original lane when overtaken vehicle can be seen in rear view mirror 
+  First time no display probation plate, fine. Second time, licence revoked- can only apply for Licence again after 1 year 
+  Engage Reverse gear when parked downhill 1st gear when parked uphill
+  Steering heavy if tyre under-inflated, light dur aquaplaning
+  Engine revolution slightly drops when biting point reached
+  Front of car swings outwards when reversing 
+  Motorcycles w side cars not allowed on expressways
+  Maintain speed using accelerator when going through bend
+  Apply which brake just before moving off on a slope??? Footbrake when moving off downhill
+  Long vehicles will swing to the left first if turning right (and vice versa)
+  Car will sway to the side of punctured tyre- hold steering wheel firmly 
+  Signal 3 secs before turning
+  50-35m
+  60-45m
+  70-60m
+  80-75m
+  90-95m
+  100-110m
+  ‎[10/11/20, 09:55:51] Yi Hein: ‎<attached: 00000782-PHOTO-2020-11-10-09-55-51.jpg>
+  [10/11/20, 09:56:20] Yi Xuen Chai: Fk off
+  [10/11/20, 09:56:28] Yi Hein: +60 SB for snipe
+  ‎[10/11/20, 10:31:54] Yi Hein: ‎<attached: 00000785-PHOTO-2020-11-10-10-31-54.jpg>
+  ‎[16/11/20, 08:16:58] Yi Hein: ‎<attached: 00000786-PHOTO-2020-11-16-08-16-58.jpg>
+  [16/11/20, 08:17:25] Yi Xuen Chai: Not in the morning
+  [19/11/20, 17:48:56] Yi Xuen Chai: The record for most kalor without rib is 3141
+  [19/11/20, 17:49:28] Yi Hein: There’s on guy 12 full runs no rib
+  [19/11/20, 17:49:42] Yi Hein: Then after that in 6 runs get 3 ribs
+  [19/11/20, 17:50:02] Yi Hein: Where you get info from
+  [19/11/20, 18:03:40] Yi Xuen Chai: Reddit
+  [19/11/20, 18:03:46] Yi Xuen Chai: I mean discord
+  [19/11/20, 18:04:02] Yi Xuen Chai: Some guy ask about full wildfire for disappointment
+  [19/11/20, 18:04:10] Yi Xuen Chai: Then they tagged the guy who holds the record
+  [19/11/20, 18:04:17] Yi Xuen Chai: Then he updated the count
+  [19/11/20, 18:04:32] Yi Xuen Chai: TIL u can get 2 ribs in one run
+  [19/11/20, 18:04:59] Yi Hein: Also not like 200 mill is a lot of money
+  [27/11/20, 10:22:57] Yi Hein: Do you finish study the practical driving book before starting your first lesson?
+  [27/11/20, 10:23:08] Yi Xuen Chai: No
+  [27/11/20, 10:23:46] Yi Hein: can you survive starting the first practical lesson without reading the practical driving book?
+  [27/11/20, 10:23:56] Yi Xuen Chai: Ya
+  [27/11/20, 10:23:59] Yi Hein: like they'll teach everything from scratch?
+  [27/11/20, 10:24:03] Yi Hein: oki
+  ‎[28/11/20, 14:32:05] Yi Xuen Chai: ‎<attached: 00000805-PHOTO-2020-11-28-14-32-05.jpg>
+  [28/11/20, 14:32:22] Yi Xuen Chai: Off the macro?
+  [28/11/20, 14:32:27] Yi Hein: Yeah
+  [2/12/20, 10:46:15] Yi Hein: Can send me a picture of your driving record
+  [2/12/20, 10:46:22] Yi Hein: Need to plan ahead
+  ‎[2/12/20, 12:26:23] Yi Xuen Chai: ‎<attached: 00000810-PHOTO-2020-12-02-12-26-23.jpg>
+  [2/12/20, 15:54:13] Yi Hein: 5.01 cannot do before 4?
+  [2/12/20, 15:54:22] Yi Hein: Also what is RR?
+  [2/12/20, 16:22:50] Yi Xuen Chai: RR is revision I think
+  [2/12/20, 16:22:57] Yi Xuen Chai: Can’t remember if it’s compulsory or what
+  [2/12/20, 16:23:05] Yi Xuen Chai: I think last few is optional
+  [4/12/20, 15:28:39] Yi Hein: What’s your NUS Microsoft password, my licence credentials expiring
+  [4/12/20, 15:33:36] Yi Xuen Chai: I type for u when u home
+  [12/12/20, 08:53:52] Yi Xuen Chai: 5th tournament had 137 teams: 17 of them didn’t even get participant badge even tho they had at least 70 points
+  [12/12/20, 08:54:07] Yi Xuen Chai: New arrangement harder to get rewards
+  [12/12/20, 08:54:19] Yi Hein: Huh 137 teams only
+  [12/12/20, 08:54:28] Yi Hein: 137 places?
+  [12/12/20, 08:54:48] Yi Xuen Chai: One of the tournaments only at 137 participants last night
+  [12/12/20, 08:55:15] Yi Hein: Ohhh I see
+  [12/12/20, 08:55:45] Yi Hein: But 500 team will be easier that what you saw there
+  [12/12/20, 08:56:39] Yi Xuen Chai: Ya will be better but still it’s so bad compare with 2000 teams- all get at least competitor badge
+  ‎[12/12/20, 10:25:32] Yi Hein: ‎<attached: 00000826-PHOTO-2020-12-12-10-25-32.jpg>
+  [12/12/20, 10:25:55] Yi Xuen Chai: Huh which tourney
+  [12/12/20, 10:25:57] Yi Hein: Screw this lol
+  [12/12/20, 10:26:06] Yi Xuen Chai: Omg the current one
+  [12/12/20, 10:26:08] Yi Hein: They tweaked for all GWH tourneys
+  [12/12/20, 10:26:27] Yi Hein: Rip the cash cow
+  [12/12/20, 10:34:21] Yi Xuen Chai: Gg
+  [12/12/20, 10:34:24] Yi Xuen Chai: Winter event is over
+  [12/12/20, 10:37:10] Yi Hein: I’m investing in winter charms, expecting ppl to actually compete  in tourneys now
+  [12/12/20, 10:37:38] Yi Xuen Chai: I think a lot of people may just give up on tourneys
+  [12/12/20, 10:42:32] Yi Hein: Winter charm price just increased by 2k
+  [12/12/20, 10:42:40] Yi Hein: I bought at 24k, now it’s 26K
+  [12/12/20, 10:42:50] Yi Xuen Chai: All speculative lah
+  [12/12/20, 10:42:58] Yi Xuen Chai: No point playing with it
+  [12/12/20, 10:43:07] Yi Xuen Chai: The devs haven’t even confirm anything
+  [12/12/20, 10:43:17] Yi Xuen Chai: If they decide to revert, then will drop again
+  [12/12/20, 10:43:43] Yi Hein: Literally makes no sense to revert the points. It’s so broken in the first place
+  [12/12/20, 11:12:53] Yi Xuen Chai: I think got a lot of problems for us with new point system
+  [12/12/20, 11:12:58] Yi Xuen Chai: 1. The tie system is gone
+  [12/12/20, 11:13:20] Yi Xuen Chai: 2. It’s even harder to compete with other cashers cause all the non cash mouse just got nerfed
+  [12/12/20, 11:13:42] Yi Xuen Chai: Fking got 1 point for a mouse when prev I could get 10, yet all those cashers spamming the 100 point mouse
+  [12/12/20, 11:17:45] Yi Hein: Nah it’s fine
+  [12/12/20, 11:17:59] Yi Hein: Just think of it as tourneys doesn’t exist for F2P
+  [12/12/20, 16:11:54] Yi Hein: Need around 150 points to get participation
+  [12/12/20, 16:17:01] Yi Hein: I think still quite doable
+  ‎[12/12/20, 17:05:03] Yi Hein: ‎<attached: 00000851-PHOTO-2020-12-12-17-05-03.jpg>
+  [12/12/20, 17:11:48] Yi Xuen Chai: No must see after the tourney
+  [14/12/20, 09:10:15] Yi Hein: WTF I just realised
+  [14/12/20, 09:10:25] Yi Hein: You should use LISC ALL THE TIME
+  [14/12/20, 09:10:49] Yi Hein: as long as you buy LISC below 90,000, it’s FREE
+  [14/12/20, 09:11:01] Yi Hein: because if you crush all the parts you get and sell bells
+  [14/12/20, 09:14:36] Yi Hein: but use Gouda when using LISC
+  [14/12/20, 09:14:44] Yi Hein: To not lose out on the PP parts
+  [14/12/20, 09:29:12] Yi Xuen Chai: Wait so what do u even earn
+  ‎[14/12/20, 10:48:15] Yi Hein: ‎<attached: 00000860-PHOTO-2020-12-14-10-48-15.jpg>
+  [14/12/20, 10:48:41] Yi Hein: calculations are for my alts, which can't hit minluck, so for my paint the asnow/catch and asnow/hunt should be quite close
+  [14/12/20, 10:48:48] Yi Hein: *for my main
+  ‎[14/12/20, 10:49:58] Yi Hein: ‎<attached: 00000863-PHOTO-2020-12-14-10-49-58.jpg>
+  [14/12/20, 10:50:50] Yi Hein: Pecan Pericano with LISC earns you 100K gold per hunt, while PP with no charm earns you 69K per hunt. PP + LISC earns even more if you take into account high tourney profits
+  [14/12/20, 11:05:55] Yi Xuen Chai: Idk how to read ur sheets
+  [14/12/20, 11:17:58] Yi Xuen Chai: Eh this tourney I only using PP in the second half
+  [14/12/20, 11:18:55] Yi Xuen Chai: Nvm I realise my next tourney is damn Long later
+  [14/12/20, 11:18:58] Yi Xuen Chai: I’ll farm later
+  [14/12/20, 11:19:22] Yi Hein: It’s ok I can get participation either ways
+  ‎[14/12/20, 12:31:29] Yi Hein: ‎<attached: 00000870-PHOTO-2020-12-14-12-31-29.jpg>
+  [14/12/20, 12:31:32] Yi Hein: noooo i was so close
+  [14/12/20, 13:07:31] Yi Xuen Chai: So close to what
+  [14/12/20, 13:07:35] Yi Xuen Chai: I tot alr participant
+  [14/12/20, 13:14:54] Yi Hein: Close to challenger
+  [14/12/20, 13:15:03] Yi Hein: 125th for challenger
+  [14/12/20, 13:17:34] Yi Xuen Chai: Use let it snow is it
+  [14/12/20, 13:17:52] Yi Xuen Chai: That’s higher than what our entire team has achieved man
+  [14/12/20, 13:32:13] Yi Hein: Yeah all 4 accounts use let it snow
+  [14/12/20, 13:32:25] Yi Hein: LISC price will also correspond to bell price
+  [14/12/20, 13:32:33] Yi Hein: But bell is more sensitive I think
+  [14/12/20, 14:05:35] Yi Hein: why u not using lisc?
+  [14/12/20, 14:06:05] Yi Xuen Chai: U come back explain to me first
+  [14/12/20, 14:06:12] Yi Xuen Chai: But we a bit close ah
+  [14/12/20, 14:06:35] Yi Xuen Chai: Ok I use for next hunt
+  [14/12/20, 14:07:51] Yi Hein: ya loh stop being burden
+  [14/12/20, 14:14:25] Yi Hein: aiya ezgame
+  [14/12/20, 15:22:59] Yi Xuen Chai: Next tournament I got a boss coming ip
+  [14/12/20, 16:31:33] Yi Hein: So annoying bell price crashing but LISC not responding
+  [14/12/20, 16:31:54] Yi Hein: So my profits are getting thinner...still better than without LISC though
+  [14/12/20, 19:03:14] Yi Xuen Chai: What the heck why is no one online
+  ‎[14/12/20, 22:54:47] Yi Hein: ‎<attached: 00000891-PHOTO-2020-12-14-22-54-47.jpg>
+  ‎[16/12/20, 07:25:05] Yi Hein: ‎<attached: 00000892-PHOTO-2020-12-16-07-25-05.jpg>
+  [18/12/20, 07:58:04] Yi Xuen Chai: I left the 68th tournament cause I can horn
+  [18/12/20, 07:58:12] Yi Xuen Chai: U can go join that one
+  [18/12/20, 07:58:33] Yi Hein: Help me shift F6 on Lenovo computer if u have time
+  [18/12/20, 07:59:39] Yi Xuen Chai: I shut down computer?
+  [18/12/20, 08:00:11] Yi Hein: No don’t shutdown, might not be able to log in again cos keyboard problem
+  ‎[18/12/20, 17:33:01] Yi Xuen Chai: ‎<attached: 00000898-PHOTO-2020-12-18-17-33-01.jpg>
+  [18/12/20, 17:33:56] Yi Hein: Probability favours the ... large sample size
+  [18/12/20, 17:34:16] Yi Xuen Chai: Ya he said he hat like crazy to QG
+  [18/12/20, 17:34:45] Yi Hein: Anyways I can earn 2 ribs worth of gold in 3-4 days
+  [19/12/20, 12:03:18] Yi Hein: What
+  [19/12/20, 12:04:42] Yi Xuen Chai: What juice u want
+  [19/12/20, 12:04:50] Yi Xuen Chai: Mango and Apple ok?
+  [19/12/20, 12:06:34] Yi Hein: Anything
+  [19/12/20, 12:44:55] Yi Xuen Chai: Ur trace together token want to collect or not
+  [19/12/20, 12:45:17] Yi Hein: I collect myself
+  [20/12/20, 15:12:55] Yi Xuen Chai: How do I stop ur script
+  [20/12/20, 15:13:24] Yi Hein: Shift F6
+  [20/12/20, 16:35:57] Yi Hein: WTF 374th place
+  [20/12/20, 16:37:40] Yi Xuen Chai: Shiok
+  [20/12/20, 16:37:43] Yi Xuen Chai: Not good meh
+  [20/12/20, 16:37:57] Yi Hein: Damn lucky
+  ‎[21/12/20, 12:08:13] Yi Hein: ‎<attached: 00000914-PHOTO-2020-12-21-12-08-13.jpg>
+  [21/12/20, 12:09:04] Yi Xuen Chai: Arwa Buckner
+  [21/12/20, 12:09:09] Yi Xuen Chai: Fking dick
+  [21/12/20, 12:09:16] Yi Hein: x 8
+  [21/12/20, 12:09:32] Yi Hein: But some accounts only got 90mill
+  [21/12/20, 12:09:36] Yi Hein: Cos of kings reward
+  [21/12/20, 12:09:38] Yi Xuen Chai: No need play at like that
+  [21/12/20, 12:09:42] Yi Xuen Chai: Alr
+  [21/12/20, 12:09:47] Yi Xuen Chai: Just buy all ur jewel
+  [21/12/20, 12:09:51] Yi Xuen Chai: Then quit the game
+  [21/12/20, 12:10:15] Yi Hein: Actually I’ll be able to buy the jewels a few days from now
+  ‎[21/12/20, 12:11:06] Yi Hein: ‎<attached: 00000925-PHOTO-2020-12-21-12-11-06.jpg>
+  [21/12/20, 12:11:31] Yi Xuen Chai: Why not now
+  [21/12/20, 12:11:37] Yi Hein: Not enough
+  [21/12/20, 12:11:46] Yi Hein: I need 1.3-1.5 billion
+  [21/12/20, 12:11:48] Yi Xuen Chai: Can buy a few at least right
+  [21/12/20, 12:12:25] Yi Hein: Idk if spending 1.5 bill on Jewel or 1.5 bill on prestige better
+  [21/12/20, 12:12:41] Yi Hein: If I spend 1.5 bill on Jewel, I will be the first person the craft the trap
+  [21/12/20, 12:12:49] Yi Hein: which will be pretty cool achievement
+  [21/12/20, 12:13:08] Yi Xuen Chai: And fking suspicious no less
+  [21/12/20, 21:01:31] Yi Xuen Chai: My first Low altitude treasure
+  ‎[21/12/20, 21:02:58] Yi Xuen Chai: ‎<attached: 00000935-PHOTO-2020-12-21-21-02-58.jpg>
+  [21/12/20, 21:51:44] Yi Hein: nice
+  [21/12/20, 21:52:19] Yi Hein: check the marketplace for festive bell
+  [21/12/20, 21:52:23] Yi Hein: i wonder who is selling 55 bells
+  [21/12/20, 22:09:42] Yi Xuen Chai: Can’t see
+  [21/12/20, 22:09:48] Yi Xuen Chai: Think someone pushed u down
+  [21/12/20, 22:11:22] Yi Hein: ‎You deleted this message.
+  [24/12/20, 08:43:49] Yi Xuen Chai: Wtf u sent me so many Sb
+  [24/12/20, 08:43:54] Yi Xuen Chai: And thermal spring da heck
+  ‎[24/12/20, 09:16:45] Yi Hein: ‎<attached: 00000944-PHOTO-2020-12-24-09-16-45.jpg>
+  [24/12/20, 09:17:06] Yi Xuen Chai: Wait u sold the gold for cash?!
+  ‎[24/12/20, 10:28:31] Yi Hein: ‎<attached: 00000946-PHOTO-2020-12-24-10-28-31.jpg>
+  [24/12/20, 10:29:06] Yi Hein: Look at the marketplace, I wonder why SB price so high now
+  [24/12/20, 10:42:23] Yi Xuen Chai: Wait u not coming home for Christmas Eve dinner ah
+  [24/12/20, 10:44:50] Yi Hein: Nope
+  [25/12/20, 14:46:02] Yi Xuen Chai: ‎You blocked this contact
+  [26/12/20, 05:20:15] Yi Xuen Chai: ‎You unblocked this contact
+  [29/12/20, 09:07:07] Yi Xuen Chai: I going school bookshop to spend vouchers
+  [29/12/20, 09:07:11] Yi Xuen Chai: Got anything u need or not
+  [29/12/20, 09:48:57] Yi Hein: Check if have AAAA (quadruple A) battery
+  [29/12/20, 09:49:56] Yi Hein: Check if they sell 12V power supply
+  [29/12/20, 09:50:36] Yi Hein: Check if they sell DPDT Switch
+  [29/12/20, 09:57:50] Yi Xuen Chai: Ok anw they are closed
+  [29/12/20, 09:57:55] Yi Xuen Chai: Will go in Jan
+  [29/12/20, 09:58:09] Yi Xuen Chai: What’s this
+  [29/12/20, 09:58:23] Yi Xuen Chai: And this
+  [30/12/20, 08:49:33] Yi Hein: Join #332
+  [30/12/20, 08:50:23] Yi Hein: Wait nvm
+  [30/12/20, 08:50:30] Yi Xuen Chai: Why ah
+  [30/12/20, 08:50:39] Yi Hein: No #336
+  [30/12/20, 08:50:48] Yi Hein: Let’s make that 1st place
+  [30/12/20, 11:21:27] Yi Xuen Chai: Note #336 is 4.30 in the afternoon
+  [30/12/20, 11:21:30] Yi Xuen Chai: Not the next one
+  [30/12/20, 16:15:04] Yi Xuen Chai: Did u buy something from Kinokuniya
+  [30/12/20, 16:18:34] Yi Hein: No
+  [30/12/20, 16:19:07] Yi Xuen Chai: Maybe someone sent u a gift
+  ‎[30/12/20, 16:19:20] Yi Xuen Chai: ‎<attached: 00000975-PHOTO-2020-12-30-16-19-20.jpg>
+  [30/12/20, 16:43:18] Yi Xuen Chai: Tourney start alr u know right
+  [30/12/20, 16:57:05] Yi Hein: yiheinchai
+  [30/12/20, 16:57:11] Yi Hein: Neverdie1
+  [30/12/20, 16:57:14] Yi Hein: Help me sound
+  [30/12/20, 16:57:19] Yi Hein: And gift snapper
+  [30/12/20, 16:57:29] Yi Hein: I’m at driving
+  [30/12/20, 16:57:37] Yi Hein: Buy as many bells required to get first
+  [30/12/20, 16:57:38] Yi Xuen Chai: Ok
+  [30/12/20, 16:57:44] Yi Xuen Chai: For what zzz
+  [30/12/20, 16:57:48] Yi Xuen Chai: No need so hardcore
+  [30/12/20, 16:57:54] Yi Xuen Chai: When’s ur trap check
+  [30/12/20, 16:57:55] Yi Hein: I don’t care I’m getting first
+  [30/12/20, 16:58:02] Yi Hein: 30mins
+  [30/12/20, 16:58:37] Yi Xuen Chai: Incorrect username or password
+  [30/12/20, 16:59:24] Yi Hein: My pass word is neverdie
+  [30/12/20, 17:01:17] Yi Xuen Chai: I claim ur loot and send golem ah
+  [30/12/20, 17:08:32] Yi Hein: Yeah send send send all the way
+  [30/12/20, 18:01:26] Yi Xuen Chai: Ok u have one last giftnapper left
+  [30/12/20, 18:01:40] Yi Xuen Chai: Idk what’s ur threshold for belling
+  [30/12/20, 18:10:40] Yi Xuen Chai: I’ll bell once first
+  [30/12/20, 18:27:58] Yi Xuen Chai: Ok no more giftnapper, gonna observe first see if need bell
+  [30/12/20, 18:38:19] Yi Xuen Chai: I think the competing team slowly running out of steam, but need to monitor if they suddenly push
+  [30/12/20, 18:48:49] Yi Xuen Chai: Ok they ran out I think
+  [31/12/20, 19:18:28] Yi Xuen Chai: These 2 days got any day u come home earlier?
+  [31/12/20, 19:24:26] Yi Hein: No
+  ‎[6/1/21, 21:38:48] Yi Xuen Chai: ‎<attached: 00001001-PHOTO-2021-01-06-21-38-48.jpg>
+  [6/1/21, 21:41:33] Yi Hein: what did I get
+  [6/1/21, 21:41:48] Yi Xuen Chai: What u mean
+  [6/1/21, 21:41:58] Yi Xuen Chai: Prize?
+  [6/1/21, 21:42:00] Yi Xuen Chai: Prob nothing
+  ‎[6/1/21, 21:48:51] Yi Hein: ‎<attached: 00001006-PHOTO-2021-01-06-21-48-51.jpg>
+  [6/1/21, 21:49:16] Yi Xuen Chai: What the
+  [6/1/21, 21:49:19] Yi Xuen Chai: How
+  [6/1/21, 21:49:24] Yi Hein: All 8 accounts gone
+  [9/1/21, 14:24:16] Yi Hein: btw AERB + TDT + Gilded Charm == CWB + TDT + Rift Vacuum
+  [9/1/21, 14:24:30] Yi Hein: exact same stats - even taking into account rift stalker
+  ‎[9/1/21, 14:25:12] Yi Hein: ‎<attached: 00001012-PHOTO-2021-01-09-14-25-12.jpg>
+  [9/1/21, 14:27:05] Yi Xuen Chai: Oh rly ah
+  [9/1/21, 14:27:12] Yi Hein: yeah power and luck the same
+  [9/1/21, 14:27:19] Yi Hein: so i can skip CWB can get prestige directly
+  [9/1/21, 14:27:21] Yi Xuen Chai: It’s not v common tbh
+  [9/1/21, 14:27:52] Yi Xuen Chai: Well
+  [9/1/21, 14:28:03] Yi Xuen Chai: I’d still get CWB
+  [9/1/21, 14:28:11] Yi Xuen Chai: It takes a while to get near prestige base
+  [9/1/21, 14:28:15] Yi Xuen Chai: Even when people can get it
+  [9/1/21, 14:28:27] Yi Xuen Chai: They hold it off in order to upgrade the Vrift speed
+  [9/1/21, 14:28:33] Yi Xuen Chai: Cause speed helps a lot more
+  [9/1/21, 14:28:54] Yi Xuen Chai: And by then u alr doing UU runs, meaning u alr using q decent charms
+  [9/1/21, 14:28:59] Yi Xuen Chai: The rift bonus would be helpful
+  [9/1/21, 14:29:10] Yi Hein: but there is absolutely no reason for me to get CWB, using AERB removes the restriction of using only rift charms
+  [9/1/21, 14:30:56] Yi Hein: ‎You deleted this message.
+  ‎[9/1/21, 14:34:04] Yi Hein: ‎<attached: 00001027-PHOTO-2021-01-09-14-34-04.jpg>
+  [9/1/21, 14:34:15] Yi Xuen Chai: Oh right got AERB
+  ‎[9/1/21, 14:34:17] Yi Hein: ‎<attached: 00001029-PHOTO-2021-01-09-14-34-17.jpg>
+  [9/1/21, 14:34:18] Yi Xuen Chai: Ya then it’s ok
+  [9/1/21, 14:34:40] Yi Xuen Chai: But u just deal with slightly worse stats lol
+  [9/1/21, 14:35:03] Yi Xuen Chai: Do u have rift base?
+  [9/1/21, 14:35:19] Yi Hein: yeah but i mean i can expend all my 500 ULPC till i get prestige then i start using precious RULPC
+  [9/1/21, 14:40:26] Yi Hein: anyways i probably won't get a prestige base since my all-out prestige run I'll be using SSDB anyway
+  [9/1/21, 14:40:55] Yi Xuen Chai: What talking u
+  [9/1/21, 14:41:03] Yi Xuen Chai: Then ur all out prestige base for what
+  [9/1/21, 14:41:13] Yi Xuen Chai: U need to buy the base to accumulate the stats what
+  [9/1/21, 14:41:15] Yi Hein: as in all won't get a preliminary prestige base
+  [9/1/21, 14:41:25] Yi Xuen Chai: Oh
+  [9/1/21, 14:41:40] Yi Hein: *i
+  [9/1/21, 14:41:44] Yi Xuen Chai: Tbh if u want all out push
+  [9/1/21, 14:41:54] Yi Xuen Chai: Why spend so much money to golem the RULPC
+  [9/1/21, 14:42:02] Yi Xuen Chai: Isn’t buying timesplit or something q good also
+  [9/1/21, 14:42:29] Yi Hein: yeah that's true
+  [9/1/21, 14:43:03] Yi Hein: bell prices shooting up lol
+  [9/1/21, 14:43:06] Yi Hein: maybe it's time to sell
+  [9/1/21, 14:43:36] Yi Xuen Chai: Holy it’s about 2m again
+  [9/1/21, 14:43:44] Yi Xuen Chai: But still far from peak 3.2
+  [9/1/21, 16:25:00] Yi Hein: Wth times plot charm is better than RULPC?
+  [9/1/21, 16:25:05] Yi Hein: *timesplit
+  [9/1/21, 16:25:21] Yi Hein: Around the same price compared to golem RULPC
+  [9/1/21, 16:25:24] Yi Xuen Chai: Ya got rank one
+  [9/1/21, 16:25:49] Yi Xuen Chai: Ultimate>ember>timesplit>RULPC>RUPC
+  [9/1/21, 16:25:59] Yi Hein: I just wasted my entire GWH on whisker then
+  [9/1/21, 16:26:09] Yi Hein: I earn way more by selling bells
+  [9/1/21, 16:26:21] Yi Xuen Chai: Up to u
+  [9/1/21, 16:26:44] Yi Hein: What’s the point of goleming whisker
+  [9/1/21, 16:27:14] Yi Xuen Chai: So that u can farm during LNY
+  [9/1/21, 16:29:32] Yi Xuen Chai: https://www.reddit.com/r/mousehunt/comments/jqd7om/monstrous_black_widow_strategies_and_cycling/
+  [9/1/21, 16:29:49] Yi Xuen Chai: Basically u r after RUPC, RULC, and as a bonus ancient relics
+  [13/1/21, 14:58:30] Yi Xuen Chai: Need dabao dinner for u?
+  [13/1/21, 16:13:42] Yi Hein: Nope
+  [13/1/21, 16:31:20] Yi Xuen Chai: Ok
+  [22/1/21, 12:42:32] Yi Hein: To avoid catching Mino in lair arm shadow trap?
+  [22/1/21, 12:42:52] Yi Xuen Chai: Think so
+  [22/1/21, 12:42:57] Yi Xuen Chai: But not the anniversary trap
+  ‎[22/1/21, 18:52:02] Yi Xuen Chai: ‎<attached: 00001067-PHOTO-2021-01-22-18-52-02.jpg>
+  [22/1/21, 18:52:31] Yi Hein: LGS?
+  [22/1/21, 18:52:57] Yi Xuen Chai: Ya
+  [22/1/21, 18:53:05] Yi Xuen Chai: I open the small Sb pack for 3 days
+  [22/1/21, 18:53:26] Yi Xuen Chai: Prob gonna but 1 month LGS nearer to CNY
+  [3/2/21, 15:42:17] Yi Hein: Papa say if u busy you go do your work
+  [13/2/21, 19:17:53] Yi Hein: ‎You deleted this message.
+  [15/2/21, 15:09:54] Yi Xuen Chai: Btw I was wrong
+  [15/2/21, 15:10:11] Yi Xuen Chai: U need to leave q a few taunting charms to farm the cheese again
+  [15/2/21, 15:10:28] Yi Xuen Chai: Not 1, need q a lot depending on ur luck
+  [15/2/21, 15:44:49] Yi Hein: What doesn’t even make sense
+  [15/2/21, 15:45:18] Yi Hein: A surplus of taunting charms will be gained from using LLC for MBW
+  [15/2/21, 15:45:34] Yi Hein: No matter what you’ll have quite a lot of taunting remaining
+  [15/2/21, 15:45:46] Yi Hein: Just need to leave some when farming cheese to farm MBW
+  [15/2/21, 15:46:11] Yi Xuen Chai: Oh yea
+  [15/2/21, 15:46:23] Yi Xuen Chai: You’re right
+  [17/3/21, 17:51:59] Yi Xuen Chai: ‎Missed voice call
+  [28/3/21, 21:27:48] Yi Hein: Why don’t you have lucky golden shield?
+  `,
+  },
+  {
     name: "MAKE18 Unofficial",
     messageContent: `[13/9/17, 09:09:09] MAKE 2018 (UNOFFICAL): ‎Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them.
 [13/9/17, 09:09:09] ‎AJ Loy created this group
@@ -32069,1745 +34546,6 @@ Check with sir?
 [5/8/20, 15:37:54] ‎‎‪+1 (909) 542‑7434‬ changed their phone number to a new number. ‎Tap to message or add the new number.
 [6/2/21, 21:25:04] ‎‪+65 8596 6584‬ left
 `,
-  },
-  {
-    name: "Shannon",
-    messageContent: `[16/2/17, 20:01:37] Shannon: ‎Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them.
-  [16/2/17, 20:01:41] Yi Hein: Hey Shannon
-  [16/2/17, 20:02:06] Yi Hein: I'm Yi Hein
-  [16/2/17, 20:03:22] Yi Hein: My name is spelt wrongly in the class photo list, it should be "Yi Hein" instead of "Hien"
-  [16/2/17, 20:03:36] Yi Hein: Can you help me change it?
-  [16/2/17, 20:30:06] Shannon: OMG I'm so sorry HAHA I'll go change it now
-  [16/2/17, 20:30:09] Shannon: My apologies!!!
-  [16/2/17, 20:31:21] Yi Hein: Haha 😂 thanks!
-  ‎[16/2/17, 20:34:06] Shannon: ‎image omitted
-  [16/2/17, 20:40:44] Yi Hein: Yup thank you!
-  [16/2/17, 20:58:38] Shannon: Haha np!! Sorry for the mistake :P
-  [16/2/17, 21:10:22] Shannon: Oh right btw do you take econs?
-  [16/2/17, 23:54:56] Yi Hein: Yeah
-  [18/2/17, 20:05:47] Shannon: Sorry to bother you but!!! For the econs hw, are you just writing out your points for the question?
-  [18/2/17, 20:06:09] Shannon: Idk what we're supposed to do
-  [18/2/17, 20:06:13] Shannon: :(
-  [18/2/17, 21:20:19] Yi Hein: Sorry for late reply😅
-  [18/2/17, 21:20:30] Yi Hein: But I actually I'm not quite sure too
-  [18/2/17, 21:21:17] Yi Hein: I've only written my introductory paragraph, which is just paraphrasing key concepts in the slides
-  [18/2/17, 21:23:39] Yi Hein: I'm kind of waiting for the teacher to teach econs essay writing before I complete it; so there's no need to redo
-  [18/2/17, 21:52:18] Shannon: HAHA I'm so confused now, we have to talk about scarcity too?
-  [18/2/17, 21:52:42] Yi Hein: I guess it's all inter-related
-  [18/2/17, 21:53:00] Yi Hein: Because choices and sacrifices have to be made due to limited resources
-  [18/2/17, 21:54:56] Shannon: That's true
-  [18/2/17, 21:54:57] Shannon: Thanks!!
-  [18/2/17, 21:55:10] Shannon: Haha I think I'll just come up with points and not do the essay yet too :P
-  [18/2/17, 21:55:27] Yi Hein: Yeah me too
-  [18/2/17, 21:55:38] Yi Hein: Btw, have you done your Lang lit assignment?
-  [18/2/17, 21:56:07] Shannon: Haha currently 2/3 done!!
-  [18/2/17, 21:56:14] Shannon: I feel like I haven't written an essay in really Long
-  [18/2/17, 21:56:20] Shannon: Have you done it?
-  [18/2/17, 21:56:24] Yi Hein: Yeah me too
-  [18/2/17, 21:56:33] Yi Hein: I've done like one page
-  [18/2/17, 21:57:08] Yi Hein: But I'm struggling to complete one page even with all the "bullshit" and smoke 💨
-  [18/2/17, 22:06:21] Shannon: HAHAHA ikr!! And I'm taking so Long to do it :P
-  [18/2/17, 22:06:32] Shannon: I'm not even sure how much we are supposed to write
-  [18/2/17, 22:06:54] Shannon: I don't think my sentences make much sense it's all like weird BS 😂
-  [18/2/17, 22:07:01] Yi Hein: Hahaha
-  [18/2/17, 22:07:12] Yi Hein: Btw have gotten to know you yet
-  [18/2/17, 22:07:20] Yi Hein: What school were you from?
-  [18/2/17, 22:15:48] Shannon: MGS!!
-  [18/2/17, 22:15:55] Shannon: Same as Sian, Kim and bev :)
-  [18/2/17, 22:16:07] Shannon: You were from ACSI right
-  [18/2/17, 22:16:12] Yi Hein: Yeah
-  [18/2/17, 22:16:30] Yi Hein: That patriotism though 😂
-  [18/2/17, 22:16:51] Yi Hein: You guys did Lang Arts too right?
-  [18/2/17, 22:16:54] Shannon: HAHAH I miss MG
-  [18/2/17, 22:16:59] Shannon: Yep
-  [18/2/17, 22:17:08] Shannon: It was my worst subject before Chinese HAHA
-  [18/2/17, 22:17:24] Yi Hein: Haha same
-  [18/2/17, 22:17:41] Yi Hein: My worst subjects are literally Lang Arts, HCl, Malay
-  [18/2/17, 22:17:52] Yi Hein: Basically all the languages
-  [18/2/17, 22:18:10] Shannon: Oh you took malay?
-  [18/2/17, 22:18:18] Shannon: HAHA ya my french was horrid too
-  [18/2/17, 22:18:21] Yi Hein: Yeah MSP
-  [18/2/17, 22:19:07] Shannon: Actually it wasn't too bad in lower Sec but in upper Sec it suddenly deteriorated until I was struggling to pass HAHA
-  [18/2/17, 22:19:21] Shannon: At least I got a B3 :P
-  [18/2/17, 22:19:34] Shannon: Did you have to take o levels for Malay?
-  [18/2/17, 22:19:39] Yi Hein: Yeah
-  [18/2/17, 22:19:52] Yi Hein: Probably my worst nightmare
-  [18/2/17, 22:20:23] Yi Hein: I got a C5, surprised I passed though
-  [18/2/17, 22:21:29] Yi Hein: I stoned at the teacher for 5 minutes during the oral segment
-  [18/2/17, 22:21:42] Yi Hein: So awkward
-  [18/2/17, 22:25:05] Shannon: HAHAH congrats!!!
-  [18/2/17, 22:26:32] Shannon: Mine was really weird too, the teacher asked me what I liked to read, and I said Harry Potter; and when she asked me who my fav character was, I said that it was Sirius black because he was charming since that was the only adjective I knew
-  [18/2/17, 22:27:07] Shannon: For the compo I didn't know a lot of verbs so I came up with them HAHA
-  [18/2/17, 22:27:34] Shannon: Third languages are nightmares 😂
-  [18/2/17, 22:35:44] Yi Hein: I actually think our questions are the same but just in different languages
-  [18/2/17, 22:36:10] Yi Hein: Exactly the same except mine was about a movie and not a book
-  [18/2/17, 22:37:08] Yi Hein: Totally agreed, probably second worst mistake after IB
-  [18/2/17, 22:58:31] Shannon: I just finished my lang lit essay!!!
-  [18/2/17, 22:58:39] Shannon: Oh which movie did you say HAHA
-  [18/2/17, 22:59:07] Shannon: I feel like I should've taken an easier third lang like jap HAHA idk french felt very hard
-  [18/2/17, 22:59:16] Shannon: Do you regret taking IB?
-  [19/2/17, 08:01:38] Yi Hein: Gratz :)
-  [19/2/17, 08:02:45] Yi Hein: I was talking about "Suicide Squad" since it was just released then
-  [19/2/17, 08:12:28] Yi Hein: But I still feel Malay is easiest to learn of all the languages because of the grammar
-  [19/2/17, 08:13:35] Yi Hein: Not now, but probably yes when the workload starts increasing exponentially
-  [19/2/17, 08:41:54] Shannon: True, and it's a more useful language than french imo
-  [19/2/17, 08:42:07] Shannon: You'll be fine!!! Don't worry too much haha I'm sure you'll be able to cope
-  [19/2/17, 08:42:22] Shannon: Btw have you read the great Gatsby yet
-  [19/2/17, 08:42:35] Yi Hein: Only the first chapter
-  [19/2/17, 08:42:44] Yi Hein: Still have second chapt to read today
-  [19/2/17, 10:48:43] Shannon: HAHA sameee
-  [19/2/17, 10:48:57] Shannon: Oh right, you were in Nicole's and Lisa's OG right?
-  [19/2/17, 11:21:10] Yi Hein: Yup, you know them well?
-  [19/2/17, 14:01:25] Shannon: Yep!! They're both my good friends HAHA and Lisa's my second Cousin too :P
-  [19/2/17, 14:02:22] Shannon: Did you talk to them?
-  [19/2/17, 16:58:31] Yi Hein: Lisa isn't very close to my OG so I don't really know her well
-  [19/2/17, 17:02:22] Yi Hein: I know Nicole somewhat well
-  [19/2/17, 17:02:56] Yi Hein: She's literally the only person I've ever met with so much energy 😂
-  [19/2/17, 17:58:32] Shannon: Ohh yeah lisa is a quiet person
-  [19/2/17, 17:59:20] Shannon: HAHA ikr!! And she's so loud!! She sat next to me in Sec 3 and by the end of the term my right ear wasn't working properly
-  [19/2/17, 17:59:50] Shannon: And every time I talk to her I have to remind her to use her indoor voice 😂
-  [19/2/17, 18:01:06] Shannon: But she's really friendly, she was my first non-IP Friend in Sec 3 (cos she transferred from express)
-  [19/2/17, 19:16:07] Yi Hein: Yeah she's one of the few who made my OG really cheerful and uplifting
-  [19/2/17, 19:17:52] Yi Hein: Oh I see, didn't know MG also allows express to IP transfers
-  [19/2/17, 19:18:08] Yi Hein: I was actually from express too
-  [19/2/17, 21:22:51] Shannon: Haha is your OG really bonded? Your OG seems like a nice bunch 👍🏻
-  [19/2/17, 21:23:23] Shannon: Oh cool!! Was is hard to get in? I heard that the interview was hard
-  [20/2/17, 06:48:03] Yi Hein: I can't really gauge since I was the one who got in haha, but for me the interviewer asked really generic questions
-  [20/2/17, 06:49:06] Yi Hein: For others they asked really hard unique questions,  so I'm pretty fortunate
-  [20/2/17, 16:33:43] Shannon: Woahh that's really good for you; I think the MGS screening test wasn't that rigorous, particularly because a lot of the good o level people wanted to go to other schools instead of AC
-  [20/2/17, 16:34:19] Shannon: Oh right btw for the Chinese thing we only need to decide on the topic by wed right
-  [20/2/17, 16:58:03] Yi Hein: Yeah but good to think about it now
-  [20/2/17, 17:42:09] Shannon: Yep ofc!! Are you going to create a group or smth? :P
-  [20/2/17, 17:42:15] Shannon: Btw did you apply for student council?
-  [20/2/17, 17:54:30] Yi Hein: Yeah sounds like an idea
-  [20/2/17, 17:54:46] Yi Hein: Yup, did you apply too?
-  [20/2/17, 19:10:10] Shannon: Nope I didn't, idk I felt like student council here in AC isn't as meaningful as it was in MG (no offence though!!!)
-  [20/2/17, 19:10:35] Shannon: All the best!! I hope you get in HAHA I'll vote for you!
-  [20/2/17, 19:11:09] Yi Hein: thanks in advance, haha
-  [20/2/17, 19:11:30] Yi Hein: Well I'll make it meaningful if I get in
-  [20/2/17, 19:11:48] Shannon: HAHA I'll look forward to that!!
-  [20/2/17, 19:14:18] Shannon: Haha don't get me wrong lah, but I just felt like it was more of a position of glamour than one of actual service to the school
-  
-  I'm not saying that the councillors are snobbish it's just the vibes I get from the whole thing in general
-  [20/2/17, 19:14:50] Shannon: But ya you can make it better!! Haha my student leader teacher told me to try and get in and change it but nah, I decided not to :P
-  [20/2/17, 19:15:20] Yi Hein: Were you in MG prefectorial board?
-  [20/2/17, 19:17:28] Shannon: I was in the student leadership committee!! It's kinda similar, just that the prefects lead from the outside in, while the student leaders lead from the inside out
-  [20/2/17, 19:17:31] Shannon: HAHA does that make sense
-  [20/2/17, 19:17:34] Yi Hein: I have actually heard a few people telling me the same thing. But for me, I believe as long as my motives are right, I shouldn't miss the opportunity to serve because of what others think about it
-  [20/2/17, 19:18:00] Shannon: They merged everything into one board last year though (so my batch was the last one with two separate committees)
-  [20/2/17, 19:18:32] Shannon: Yep, that's good!! Haha you can be the change maker, and make it a better council overall :D
-  [20/2/17, 19:20:03] Yi Hein: ACSI is trying to start SLC (Student Leadership Committee) too, you have no idea the amount of politics, hate, mean-spiritness that is in the group
-  [20/2/17, 19:35:19] Yi Hein: I'm actually very curious about a few things, 
-  
-  1. What are the reasons that made you feel council is more of a position of glamour than Service to the school
-  
-  2. What is different about the leadership in MG that makes it more service oriented
-  [20/2/17, 19:38:22] Shannon: woah really? What's the diff between the SLC and council then?
-  [20/2/17, 19:38:41] Shannon: But why is there so much politics and bad stuff :( it sounds horrid; are you in it?
-  [20/2/17, 19:53:15] Shannon: HAHA ok let me try and answer that:
-  1) the most obvious reason would be that it really seems like a popularity race. I understand that the student leaders of the school have to be acknowledged by the students as their leaders, and hence the necessity of the voting portion of the election process. However, the campaigning bit is a bit over the top, and seems like a way through which nominees can buy the students' votes. Yes, the population needs to know who they're voting for, but I think a write up/ intro/ speech will do, with the campaigns being unnecessary. In the end, it's only going to be the well liked people, the popular kids, the ones who know the most people who get in, because they have the most friends, the most effective campaigns bc of their supporters and the best connections. Hence, those who become councillors are eventually those who are popular, and are thus in a position of glamour in the school. 
-  
-  Also, from what I've heard from my MG friends, the people trying for council from MG (not nice people) are all rather confident they'll get in because of their connections... I guess that just showed me how kinda messed up the whole thing is, like it's the popular people who get in and the legit leaders who get kicked out of the running. And the councillors are just the popular kids. And tbh they (those from MG who are gonna try) don't seem like those who are actually good at planning stuff and all, and they prob won't really serve the school with a true heart of thanksgivings, love and gratefulness to the school.
-  [20/2/17, 19:54:56] Shannon: ^^idk it might seem very cynical but yeah... tbvvvvvh my batch of MG IP people isn't like 100% nice sadly, we have like a handful of people who just aren't that....good (idk how to describe them, I don't really want to badmouth them HAHA but ya they're just the popular kids stereotype if you get what I mean)
-  [20/2/17, 19:55:11] Shannon: The previous batch was very nice though!! Our seniors are really great ✨😞
-  [20/2/17, 19:55:26] Shannon: *** 👍🏻 I meant this instead of the sad face sorry!!
-  [20/2/17, 20:00:14] Shannon: 2. Okay in MG, the leaders are hardly ever recognised, or acknowledged because we really believe in servant leadership, so whatever we do, we tend to do it behind the scenes and we're not usually thanked or congratulated. And we have to do tons of difficult work, and put up with a lot of difficult things, and it's really tough sometimes, but we find joy in really just serving the school and the people. Even though no one notices, the fact that we helped our school, or just made people's lives easier/ happier, brings us through and gives us strength!! We lead not by standing in the front, but in the shadows, we don't order others around, we do our best to support them and Ensure that the school body is as comfortable and happy as possible. I don't get the feeling from the council in AC, I feel like the people don't have a heart of service and love to the school, and are just doing all the council stuff that cos it's "cool" HAHA, or whatever their other reasons are.
-  [20/2/17, 20:00:22] Shannon: HAHA Sorry it's really Long
-  [20/2/17, 20:09:44] Yi Hein: Haha it okay, thanks so much it really enlightened me
-  [20/2/17, 20:10:47] Yi Hein: I think now I finally understand what my seniors have been telling me about council for years (since Y2)
-  [20/2/17, 20:15:32] Yi Hein: It really does show the huge contrast between the leadership body of MG and AC. And I really identify with the leadership model MG has taken up
-  [20/2/17, 20:17:23] Yi Hein: You've given me a clearer perspective on council, and perhaps I'm more certain now on what aspects should be changed and what it should be changed to
-  [20/2/17, 20:17:36] Yi Hein: ^ that is if I make it to council of course
-  [20/2/17, 20:18:59] Yi Hein: It's more of a united leadership body crossing over from all the Uniformed groups
-  [20/2/17, 20:20:16] Yi Hein: I'm technically not in SLC yet (since SLC doesn't exist currently),
-  but I'm in the discussion group. Perhaps I could show you the group for you to have a clear picture
-  [20/2/17, 20:21:37] Yi Hein: I don't really get what you mean by leading from outside in and leading from inside out
-  [20/2/17, 22:08:16] Shannon: Haha were they persuading or dissuading you from joining council?
-  [20/2/17, 22:08:43] Shannon: 👍🏻 yep it's one that really taught me to mature and grow not only as a leader, but as a person overall!!
-  [20/2/17, 22:09:06] Shannon: HAHA that's good!!! I'll support you! I really hope you'll get in, I think you'll do a great job
-  [20/2/17, 22:09:25] Shannon: Oh wow, then do you guys plan stuff for all the UGs?
-  [20/2/17, 22:09:48] Shannon: HAHA when is it gonna be finalised though? Jiayou though!!!
-  [20/2/17, 22:15:53] Shannon: Hmm okay it's kinda like this:
-  Leading from the outside in means to lead from the front, you would give instructions to everyone from the top. You're obviously higher up position, so you command authority, "obedience" and respect, and that's why people follow you. You're basically the face of your congregation, and you work in the spotlight where everyone can see. You inspire your people. 
-  
-  Leading from the inside out means to lead from within the group of people, so you most likely rally them, encourage them and Ensure that they stay on task/ continue moving forward though you don't exactly have to be the one who's in charge. You work mostly in the dark, and though you might not be seen as the leader leader, people would most likely look to you for guidance, support, and as, hopefully, a role model.
-  [20/2/17, 22:18:47] Shannon: Diff types of leadership styles!! Imo, you need both for the community to thrive :) you need the first to keep everything in order, and for stability and peace; but you need the second for hope and encouragement when things seem tough-- someone to depend on when it's difficult and to Ensure that everything is ok within the community
-  
-  Sometimes it's hard for the first group of leaders to understand about how the people really feel, and sometimes it's hard for the second group of leaders to see the larger picture. That's why both need to work together!
-  [20/2/17, 22:49:04] Yi Hein: Oh I see, thanks for sharing!
-  [21/2/17, 19:20:35] Yi Hein: They were mainly complaining about the selection system and the people who actually get in
-  [21/2/17, 19:23:21] Yi Hein: I feel like AC student councils, including past, present and likely the future councils, are lacking people like you.
-  [21/2/17, 19:28:09] Yi Hein: You are with no doubt, the kindest, most selfless, humble person I've ever met in school. And before knowing you I honestly didn't think it was possible
-  [21/2/17, 19:29:59] Yi Hein: I really admire how you remain so grounded to your values and moral judgement, with an unwavering passion to serve others
-  [21/2/17, 19:33:59] Yi Hein: It really is tough to be working behind the scenes, leading in the shadows, and yet sometimes not being appreciated by others. And I guess since you are able to do it in MG, it really does show your selfless, humble and steadfast character
-  [21/2/17, 19:38:46] Yi Hein: Don't get me wrong, I'm not trying to convince you to join council, I know that you've decided to look into other avenues to serve the school. But I just want to say that there's so much I look up to you, and there's so much I have yet to learn from you
-  [21/2/17, 19:44:57] Yi Hein: I know that my journey applying for council, and hopefully making a change in council will be a arduous one. Especially with when people with ill intentions and various personalities will be inside
-  [21/2/17, 19:47:41] Yi Hein: This is whole chunk of message is extremely weird, but I hope that should my motives, intentions and moral values shift during my journey, you can help guide and remind me?
-  [21/2/17, 21:27:12] Shannon: Hihi sorry for the late reply my mum was angry with me and I was trying to make her happy again
-  [21/2/17, 21:27:13] Shannon: 😭
-  [21/2/17, 21:30:16] Shannon: Anyway!! HAHA awww that's v nice of you but I'm sure that there will be a fraction of the councillors who get in who are legit good leaders (like you!!), so I hope that if/ when you get in, you'll be able to lead the rest well and just make the system better :D
-  [21/2/17, 21:32:35] Shannon: Nahhh that's not true!! Idk, I think if I were really a good person I would try for council like you with the right mindset and all, hoping to make everything better; but I'm instead choosing the easier path of inaction and criticism which doesn't actually do much help haha, and plus I just don't really want to work with all those popular people (sorry to stereotype idk how else to describe them) who get in cos knowing me I'll get really frustrated and angry HAHA; so the true selfless and humble person is you!
-  [21/2/17, 21:34:26] Shannon: HAHAH anyway it's too late for me to join council already. Honestly I don't think there's much you can learn from me, the greatest leader I can think of is Jesus!! (Are you Christian though?) and, I think anyone can be a true leader as Long as they have the heart and capacity to serve (like you do!!). But ofc if you need advice or anything I'll be here yeah
-  [21/2/17, 21:35:44] Shannon: Yeppp it'll definitely be tough, but I'm sure you'll do well!! I'll support you HAHA have faith in yourself!! Just make sure you always keep your values close to your heart bc really, that's the most important thing; don't let anything waver your heart
-  [21/2/17, 21:35:56] Shannon: Ofc!!! Sure, I'll always be there for you when you need me :)
-  [21/2/17, 21:38:50] Yi Hein: I'm not actually Christian though, I was raised by Buddhist values by my grandparents but I'm not Buddhist either. So I'm a free thinker
-  [21/2/17, 21:56:04] Yi Hein: Its understandable why joining council is not a good idea, I mean like my seniors from a few years ago literally said, "Be *very* careful of the people around you if you were to join council". And perhaps it is a much better idea to not join council, but being the rebel that I am I've decided to join. I've really wanted to make a positive change in council, for the school and the community. But with the "political and social climate" within council, I'm afraid that I'll be negatively influenced and steer away from my goal.
-  [21/2/17, 22:00:09] Yi Hein: To be honest, you've probably not seen it yet but I can be pretty selfish, ignorant and unkind at times. That's why I was saying you're the best person to make a change
-  [21/2/17, 22:44:47] Shannon: Ohh okay, I was raised as a Buddhist too! Then I became a Christian, so I'm the only Christian in my family now haha
-  [21/2/17, 22:53:38] Shannon: Haha I think what you're doing is really respectable and good though!! But yeah, the MG people who signed up for council this year aren't the legit people (as expected sigh), and I've seen my fair share of good people who become bad cos of bad company :( I Guess 近朱者赤，近墨者黑, so yep, it'll be really important for you to be steadfast and strong if you get in!! I'm sure you'll be fine but yep I'll be here for you too :)
-  [21/2/17, 22:56:59] Yi Hein: Thank you 😊
-  [21/2/17, 23:12:32] Shannon: All the best for your competition tmr btw!!
-  [21/2/17, 23:13:05] Shannon: Oh and HAHA you're like the first legit Friend I made in AC this year 😂
-  [22/2/17, 19:27:51] Shannon: Hey Yi Hein how long is your essay 😭
-  [22/2/17, 19:34:07] Yi Hein: Mine is only one and a quarter of a page without leaving lines
-  [22/2/17, 19:34:24] Yi Hein: I've no idea how I'm gonna lengthen it
-  [22/2/17, 19:50:57] Shannon: Same :((
-  [22/2/17, 19:51:04] Shannon: I think I'm just gonna leave it HAHA
-  [22/2/17, 19:54:08] Yi Hein: Me too haha, I've got too much work still not done
-  [22/2/17, 20:49:36] Shannon: Oh right btw the econs teacher said that we didn't have to do the essay HAHA
-  [22/2/17, 20:53:11] Yi Hein: Lol haha
-  [22/2/17, 20:53:18] Yi Hein: Anything else I missed today?
-  [22/2/17, 20:57:23] Shannon: Uhh during math the teacher went through the sigma notation briefly, basically everything that he covered is on pg 6 of the math book, if you don't get anything you can ask me tmr :)
-  
-  He also proved two of the formulas for us, which are standard results 5 and 6 (according to the math book) (actually he just did 5, and told us to do 6 based on his method for 5), I'll take a pic of it for you later!!
-  [22/2/17, 20:58:07] Shannon: During econs the teacher revised whatever was covered during the lecture, and she started on demand (I can take pic of my notes for you too!)
-  [22/2/17, 20:58:52] Shannon: During bio the teacher did an intro on cell theory but he didn't cover much
-  [22/2/17, 20:59:44] Shannon: During TOK we split into the two groups, if you're in the oranges team you have mr phee, if you're in the apples team you have the other guy (forgot his name)
-  [22/2/17, 21:00:32] Shannon: And during Chinese the teacher went through the written assignment, gave us hw, and revised the format for 演讲稿 (the normal Chinese people didn't learn it) and 议论文
-  [22/2/17, 21:00:37] Shannon: That's it!!
-  ‎[22/2/17, 21:02:38] Shannon: ‎image omitted
-  ‎[22/2/17, 21:02:55] Shannon: ‎image omitted
-  ‎[22/2/17, 21:03:07] Shannon: ‎image omitted
-  ‎[22/2/17, 21:03:08] Shannon: ‎image omitted
-  ‎[22/2/17, 21:04:58] Shannon: ‎image omitted
-  [22/2/17, 21:05:34] Yi Hein: Thank you so much!
-  [22/2/17, 21:05:59] Yi Hein: Your notes are on an another level of neat
-  [22/2/17, 21:07:41] Yi Hein: Btw are you oranges or Apple?
-  [22/2/17, 21:08:55] Shannon: HAHAHA thanks
-  [22/2/17, 21:09:02] Shannon: Oranges!!
-  [22/2/17, 21:09:09] Shannon: You?
-  [22/2/17, 21:25:56] Yi Hein: Oranges too!
-  [22/2/17, 21:31:38] Shannon: Oh yay!! Haha, we have to go out of class for TOK; when we were supposed to decide which half had to go out, our group kept insisting that they wanted to go out cos that way we would get mr phee (apparently he's a better teacher idk)
-  [22/2/17, 21:36:18] Shannon: Oh yeah!!! Forgot to include: the teacher showed us an easier method for the Super complicated 3 + 33 + 333 question
-  ‎[22/2/17, 21:36:24] Shannon: ‎image omitted
-  [22/2/17, 21:47:58] Yi Hein: Oh I see
-  [22/2/17, 21:48:03] Yi Hein: That much simpler
-  [22/2/17, 21:48:35] Yi Hein: I can never understand how other come up with these genius methods
-  [22/2/17, 22:04:32] Shannon: HAHAHAH ikr!!! Idek how people think of these stuff
-  [22/2/17, 22:04:46] Shannon: Have you finished the AP/ GP worksheet?
-  [22/2/17, 22:06:16] Yi Hein: No, I did a few questions and then gave up and moved on to other assignments
-  [23/2/17, 17:35:54] Yi Hein: Hey Shannon, just saw your snap
-  [23/2/17, 17:36:01] Yi Hein: Are you okay? That looks really painful
-  [23/2/17, 17:36:51] Yi Hein: Rinse it gently with water add a gauze and tape it on 4 sides
-  [23/2/17, 17:37:17] Yi Hein: And apply direct pressure to stop the bleeding
-  [23/2/17, 18:05:33] Shannon: HAHAHHAA yeah I'm fine!!! Thanks for asking though :P it was q painful but I've been through worse, and it's much better now after it stopped bleeding :D
-  [23/2/17, 18:05:49] Shannon: It was really embarrassing when I fell though HAHAHA I hope no one I knew saw it
-  [23/2/17, 18:06:29] Yi Hein: Haha glad to hear it's fine
-  [23/2/17, 18:06:55] Yi Hein: You fell when getting home?
-  [23/2/17, 18:39:09] Shannon: HAHA I fell at the spa frame
-  [23/2/17, 18:39:12] Shannon: *space frame
-  [23/2/17, 18:40:04] Shannon: Idek how I fell, I was walking and then the ground accelerated towards me 😂 I couldn't even break my fall so now I have a bruise on my chin too, it was Super embarrassing
-  [23/2/17, 19:07:14] Yi Hein: Is falling really that embarrassing? Haha I don't get why though
-  [23/2/17, 19:12:18] Yi Hein: In year1-4, we did really crazy and stupid stuff. Like people fall for trying to climb over fences and walls, fall while sliding on railings, jumping down a flight of stairs. And perhaps the most common is to slide tackle someone at full speed on the AstroTurf, which most often leads to one guy having a fracture arm/leg
-  [23/2/17, 19:28:17] Shannon: HAHAHAHA nah it's not the falling itself that's embarrassing it's the tripping over nothing and then hurting myself that's quite embarrassing 😂
-  [23/2/17, 19:28:27] Shannon: HAHAHA omg slide tackling?? What's that
-  ‎[23/2/17, 19:38:42] Yi Hein: ‎GIF omitted
-  [23/2/17, 22:13:39] Shannon: OH WOW that looks violent and scary HAHAH
-  [23/2/17, 22:13:47] Shannon: It must hurt
-  [23/2/17, 22:14:03] Shannon: Btw, do you find it hard to follow the chem teacher's lessons
-  [23/2/17, 23:22:31] Yi Hein: I find it quite okay
-  [23/2/17, 23:23:13] Yi Hein: Probably because stuff like back titration was covered in Y4 already so it was basically a repeat
-  [23/2/17, 23:23:32] Yi Hein: I do find math lessons incredibly hard to follow
-  [23/2/17, 23:31:08] Shannon: HAHAHA idk I find it very hard to follow and understand what the teacher is saying
-  [23/2/17, 23:32:23] Shannon: I think it's the way she says stuff, like she says everything so forcefully, it's like repetitive punches, and she keeps breaking the words into half which is Super unnerving 😭
-  [23/2/17, 23:33:04] Yi Hein: Hahahahaha
-  [23/2/17, 23:33:05] Shannon: I get the content though cos we learnt it alr but I'm kinda worried about understanding the new topics she's teaching
-  [23/2/17, 23:33:41] Yi Hein: Me and Jordan couldn't stop laughing when she started breaking every word up
-  [23/2/17, 23:34:13] Shannon: I think math is okay cos I like math HAHA, but chem.... I didn't particularly like the subject but now the teacher is so 😞
-  [23/2/17, 23:34:25] Shannon: HAHA ikr!!!! Same so that's why I can't follow
-  [23/2/17, 23:35:24] Yi Hein: How do you like math though, I always get pissed when a fail over and over again when doing assignment questions
-  [23/2/17, 23:36:37] Yi Hein: Yeah agreed, and her teaching style seemed rather one sided to me
-  [23/2/17, 23:37:11] Yi Hein: But she did raise rather interesting points that other teacher probably won't even mention
-  [24/2/17, 00:14:04] Shannon: HAHAHA idk I feel like doing math is really calming because everything just makes sense in a logical way, there's no unexpected surprises or any random twists; I just find comfort in the regularity
-  [24/2/17, 00:14:08] Shannon: ^does that sound weird
-  [24/2/17, 00:14:16] Shannon: I think I'm gonna sleep late today
-  [24/2/17, 00:14:30] Shannon: True!!
-  [24/2/17, 00:14:41] Shannon: Sigh I really hope I won't flunk chem...
-  [24/2/17, 00:19:33] Yi Hein: Hahahaha I am reading this after getting stuck at a question for 30 minutes
-  [24/2/17, 00:19:55] Yi Hein: I think I'll try again tomorrow
-  [24/2/17, 00:20:05] Yi Hein: *ill try again later today
-  [24/2/17, 00:20:29] Shannon: OMG sorry haha I Guess people are all diff
-  [24/2/17, 00:20:38] Shannon: Chem is sad :((
-  [24/2/17, 00:21:03] Shannon: Btw did you do the 理解问答
-  [24/2/17, 00:21:08] Shannon: And how was your LL essay
-  [24/2/17, 00:21:16] Yi Hein: Nope
-  [24/2/17, 00:21:38] Yi Hein: It took me like 3 hours to finish it, with some research and stuff
-  [24/2/17, 00:21:56] Yi Hein: But I still think it's quite bad, hoping it's worth more than a 5 though
-  [24/2/17, 00:22:53] Yi Hein: Gtg need to get some rest now
-  [24/2/17, 00:23:04] Shannon: HAHAHA good night!!!
-  [24/2/17, 00:23:09] Shannon: See you tmr/ later
-  [24/2/17, 00:25:14] Yi Hein: Yeah good night
-  [24/2/17, 01:13:13] Shannon: I'm sure it'll be fine!!! Haha she'll see how much effort you put into it 👍🏻
-  [24/2/17, 15:37:14] Shannon: Hey how was the student leader briefing!! Did you go for the uni talk btw
-  [24/2/17, 15:37:39] Yi Hein: I didn't go for Uni talk, had to rush to CCA
-  [24/2/17, 15:38:01] Yi Hein: The SC briefing was mainly about details on the duty mentorship phase they are having
-  [24/2/17, 15:38:23] Yi Hein: But I'm quite worried cause apparently my name wasn't on the list of applicants
-  [24/2/17, 15:38:41] Shannon: Oh no why wasn't it there?
-  [24/2/17, 15:38:42] Yi Hein: Hopefully they'll get back to me soon
-  [24/2/17, 15:38:57] Shannon: Did you get the return email thing that they said you had to screenshot
-  [24/2/17, 15:39:00] Yi Hein: Perhaps some admin screw up on their side
-  [24/2/17, 15:39:08] Yi Hein: Yeah
-  [24/2/17, 15:39:28] Shannon: Oh then you should be fine!!! Don't worry! I really hope you get in HAHA
-  [24/2/17, 15:39:35] Shannon: What's the duty mentorship phase?
-  [24/2/17, 15:39:38] Yi Hein: Did no one else from our class sign up for council?
-  [24/2/17, 15:40:00] Shannon: Idk about the guys but I don't think any of the girls did!
-  [24/2/17, 15:40:19] Yi Hein: We're expected to follow a student councillor mentor for morning duties, like chasing people out of class
-  [24/2/17, 15:40:37] Shannon: Actually I'm not sure maybe they did sign up but the last time I asked none of them were really interested
-  [24/2/17, 15:41:00] Yi Hein: On the list, there wasn't a single person from 5.13
-  [24/2/17, 15:41:22] Shannon: HAHA oh well, I guess you can be our sole councillor
-  [24/2/17, 15:41:37] Yi Hein: Quite an abnormally cause other classes all had about 10 people applying
-  [24/2/17, 15:41:48] Yi Hein: Haha I guess it's just ASP class
-  [24/2/17, 15:41:56] Shannon: TBH I kinda want to join class comm instead :P idk if that's what the rest are thinking
-  [24/2/17, 15:42:27] Shannon: Oh wow, that's like about 160 people overall, and then only 30 people are gonna be selected right?
-  [24/2/17, 15:42:39] Shannon: Gosh that's so intense
-  [24/2/17, 15:42:43] Shannon: All the best!!!!
-  [24/2/17, 15:43:08] Yi Hein: There's 136 + 1 people applying, yeah it's a really strict selection process
-  [24/2/17, 15:43:51] Shannon: Is there an interview?
-  [24/2/17, 15:44:13] Yi Hein: There's a selection camp at end of march to scale the numbers down to 64
-  [24/2/17, 15:44:27] Yi Hein: Then there's elections to cut down to final 32
-  [24/2/17, 15:44:59] Yi Hein: I think interviews should be incorporated in the selection camp
-  [24/2/17, 15:46:23] Yi Hein: Thanks! I'll focus on getting past the camp for now
-  [24/2/17, 16:10:03] Shannon: Ohh okay
-  [24/2/17, 16:10:24] Shannon: Yep you'll cross the bridge when you come to it :)
-  [24/2/17, 16:10:51] Shannon: This is really random but!!! I'm gonna quit photog HAHAHA
-  [24/2/17, 16:46:22] Yi Hein: Why did you choose to quit? What are you joining then?
-  [24/2/17, 20:59:05] Shannon: I felt like the atmosphere in photog is really stifling and suffocating; it's really rigid
-  [24/2/17, 21:00:41] Shannon: I dunno, it's just the vibes I keep getting every time I go for a meeting, and the people don't seem very friendly HAHA
-  [24/2/17, 21:00:54] Shannon: I'm probably gonna join Netball recreational!
-  [24/2/17, 21:16:58] Yi Hein: Hmm... could it be just maybe you guys don't know each other well yet?
-  [24/2/17, 21:17:29] Yi Hein: Do you find the atmosphere in AC unwelcoming?
-  [24/2/17, 21:37:23] Shannon: HAHAHA idk maybe! I dunno, it's just the overall feel I get from the whole group, and I'm q a sensitive person so I get affected by these kind of stuff easily 😓
-  [24/2/17, 21:45:45] Shannon: TBH I did, and it was really scary and horrid during orientation, I didn't talk to many people + I even had a panic attack once 
-  
-  But I think our class is really nice!!! Haha I felt much more at ease once school started
-  [24/2/17, 21:46:50] Shannon: Idk I just really didn't click well with my OG
-  [24/2/17, 21:58:15] Yi Hein: Perhaps that gave a really bad first experience for you. It really depends on who's in your orientation group I guess
-  [24/2/17, 21:59:32] Yi Hein: For me it was kind of the opposite, my orientation group was really fun and uplifting, but for our class it feel like it is a bit too competitive (especially those who were from ACS class)
-  [24/2/17, 22:00:29] Yi Hein: Was you OG really competitive? Cause you mentioned that you felt the school had a competitive atmosphere
-  [24/2/17, 22:12:48] Shannon: HAHA yeah it was q bad but I have a habit of forgetting bad memories so I've kinda forgotten 80% of orientation already
-  [24/2/17, 22:15:46] Yi Hein: I feel it's quite sad cause orientation is supposed to be fun but many of my friends didn't enjoy it either
-  [24/2/17, 22:16:38] Shannon: Yeah my OG was Super competitive and intense; they really _really_ wanted to get first; this guy was like "if anyone gets in the way of our OG winning, I'll punch them idc who they are!!!" And on the mass games day he said "during capture the flag let's not just tap the people to get them out, we must shove them to the ground so that there's a higher chance of injury and they'll be out of the game"
-  [24/2/17, 22:16:44] Shannon: ^^^ scary right
-  [24/2/17, 22:17:08] Yi Hein: Holy crap, that's actually quite bad
-  [24/2/17, 22:17:11] Shannon: And he kept shouting and me cos I was pretty much useless HAHA
-  [24/2/17, 22:17:14] Shannon: *at
-  [24/2/17, 22:18:07] Shannon: It was insane, I spent as much time as I could away from my OG haha so I mostly went to my friends' OGs
-  [24/2/17, 22:18:13] Yi Hein: That's really unkind... my OG was probably the polar opposite
-  [24/2/17, 22:19:24] Shannon: Yeah ik!! Nicole kept saying that we should've switched places HAHA (though I bet your OG would've less fun without her) cos she would fit in with my more enthusiastic and intense group
-  [24/2/17, 22:20:07] Yi Hein: For me, my OG was probably one of the nicest cause nobody bothered to try and win, so during Games 1 and 2 we were losing and drawing all our matches but everyone was still in high spirits, cause we just wanted to have fun before IB. But the biggest irony is that, being probably the least competitive OG, we won almost every single game for the ACSiting Race, and won overall.
-  [24/2/17, 22:20:51] Yi Hein: Yeah Nicole was probably the one that pulled the OG together
-  [24/2/17, 22:21:40] Shannon: HAHAHAH that's really cool though!!! I think your OG was really good (a lot of my close friends were in it too haha)
-  [24/2/17, 22:21:43] Shannon: Do you miss it?
-  [24/2/17, 22:22:19] Shannon: Haha when the teacher was talking about how some people would never get over their OG I was just like nope not me
-  [24/2/17, 22:23:38] Yi Hein: Yeah I kind of the experiences within the OG
-  [24/2/17, 22:24:40] Yi Hein: But well, I still see my OG mates everyday in school and it's really nice having them as friends
-  [24/2/17, 22:25:53] Yi Hein: *i kind of miss the experiences
-  [24/2/17, 22:26:27] Shannon: Ohh that's good for you!!
-  [24/2/17, 22:26:37] Yi Hein: It really depends on who is in the OG, that creates the overall mood
-  [24/2/17, 22:27:02] Shannon: Yeah HAHA but I Guess everyone plays a part in making the OG enjoyable and I can't exactly say I did my part anyway
-  [24/2/17, 22:27:24] Shannon: So I Guess I'm partly at fault for making myself have a miserable time :P
-  [24/2/17, 22:28:12] Yi Hein: I think it's just a conflict of personality, so like perhaps people in your OG couldn't relate to each other
-  [24/2/17, 22:28:29] Yi Hein: Which would naturally lead to unfriendliness
-  [24/2/17, 22:29:27] Shannon: HAHA at least the rest of them had a good time together I think, and they're all quite good friends now so I feel happy for them
-  [24/2/17, 22:30:14] Shannon: I can't even be seen in the OG photos HAHAHA I bet they'd forget that I was in their OG by next year 😂
-  [24/2/17, 22:30:44] Yi Hein: 😔
-  [24/2/17, 22:30:49] Shannon: Orientation was still kinda okay at some parts though!! Cos I got to hang out a lot with my old friends and all HAHAH
-  [24/2/17, 22:31:38] Shannon: Sorry does that make me sound very pathetic 😓nicole keeps telling me not to be so pessimistic when it comes to myself HAHA
-  [24/2/17, 22:32:02] Shannon: Idk I always see myself as an optimistic person though 🤔
-  [24/2/17, 22:32:11] Shannon: Oops sorry I'm rambling 😓
-  [24/2/17, 22:32:27] Yi Hein: Haha no it doesn't really seem pessimistic
-  [24/2/17, 22:33:53] Yi Hein: I feel like you cared more about others enjoying themselves than you actually thinking about enjoying?
-  [24/2/17, 22:34:47] Yi Hein: Shows how you always think about others first too
-  [24/2/17, 22:35:36] Yi Hein: Well I'm glad that you like our current class, cause our class will be together for our entire IB journey
-  [24/2/17, 22:37:37] Yi Hein: I feel quite fortunate too being in this class. Cause I keep on hearing from my OGmates about how bad their class is
-  [24/2/17, 22:38:41] Shannon: HAHA nah I was just afraid that my reservation about the group would dampen their overall experience (though I guess it kinda did cos I played a role in them not winning overall) which would be q selfish of me and unfair to them
-  [24/2/17, 22:41:11] Shannon: Idk I'm usually only friendly when I'm around people I'm comfortable with, and no one made me feel welcome in the OG haha; I wasn't close to any of the MG girls (like I was friends with them but i hardly talked to them, and I had some friendship issue with one last year haha), so that's why I never got to assimilate well into my OH
-  [24/2/17, 22:41:13] Shannon: *OG
-  [24/2/17, 22:45:32] Shannon: Yeah!! I feel like the people are very nice, and though sometimes I feel slightly inferior, I just tell myself that it's fine bc God created me as I am :D
-  [24/2/17, 22:45:56] Shannon: Ikr!! Quite a few of my friends don't like their class, and miss their OG too :(
-  [25/2/17, 15:04:45] Yi Hein: I can't emphasise it enough but you are the most altruistic person I've ever met
-  [25/2/17, 15:12:44] Yi Hein: And speaking about being selfless, I need your advice/opinion on something that happened, cause it's haunting me and I feel really guilty
-  [25/2/17, 15:32:23] Shannon: Oh no what happened :(
-  [25/2/17, 15:36:50] Yi Hein: So I was at the bus stop when a middle aged Indian man approached me and asked for money to buy food
-  [25/2/17, 15:38:20] Yi Hein: I didn't know what to do, so I asked him how much he needed and he requested for $10
-  [25/2/17, 15:39:24] Yi Hein: And I told him I couldn't give him $10 and told him to ask someone else
-  [25/2/17, 15:41:00] Yi Hein: I want to know whats your perspective on it, cause I'm really confused and in a dilemma
-  [25/2/17, 15:41:47] Yi Hein: and perhaps what would you have done?
-  [25/2/17, 16:27:18] Shannon: Hmm in my opinion, I don't think you did anything wrong, so you don't have to beat yourself up over it. 
-  
-  I get why you feel guilty, bc you couldn't help him, but honestly to me, $10 is a big sum of money, and really, no one expects you to donate it to him! The fact that you asked him how much he needed shows that you actually did care about his situation, and was willing to give him a sum of money if you could; that already reflects that you are a good person (at least in my book!). Honestly, I think most people would've just ignored him, avoided him or just shooed him away, so really, you don't have to beat yourself up!! You're a good person through and through so don't worry about it :)
-  
-  I understand that you feel guilty bc you couldn't help him, and frankly speaking, there's really nothing you can do to now (except pray for him but you're not Christian haha). True, your $10 could've helped him have a meal today, and _perhaps_ he would have to skip a meal now, but really, it's okay. It's not your fault, so don't blame yourself! I'm not saying that you should maintain the "I can't help so I don't care" attitude now, but rather, I mean that instead of looking inward regarding the issue now, you can look outwards and think of ways you can help others next time. If you couldn't do it this time, you can do it next time :) 
-  
-  I know it'll be really hard to get rid of the guilt (to me, guilt is like a red stain on a white tablecloth-- it's so painfully obvious and no matter what you do it'll always be there, as a a reminder of a mistake), so you should try to use that guilt and turn it into something positive. Instead of beating yourself up, you can do more good/ kind deeds to others as a penance to the man, although you shouldn't do good deeds just so that you'll let yourself feel better, I think this will definitely ease your heart. 
-  
-  I'm not sure if this will be helpful to you, but I just hope that you won't beat yourself up and degrade yourself over this incident.
-  [25/2/17, 16:30:53] Shannon: Hm I'm not sure if you saw my wallet when I showed it to Beverly but I'm seriously broke, I don't have much money in my wallet bc I keep lending it to people; so I wouldn't have had $10 to give him either. I would give him whatever money I had _if_ I could though (I.e If i didn't need the money), if not, I would have apologised and told him I didn't have enough money. Honestly, I don't think I would feel bad if I didn't give him any money bc I wasn't being selfish or lying. I would say a short prayer for him and hope that he would be able to get enough to have a meal
-  [25/2/17, 16:33:21] Shannon: Don't worry Yi Hein!! If you're afraid that your act was selfish, or maybe even self-centered, I don't think so, and seriously, you're a very nice moral person! So don't worry too much okay? :)
-  [25/2/17, 16:52:41] Yi Hein: Thanks for your advice and taking time to type this!
-  [25/2/17, 17:14:45] Yi Hein: I'll try to be as honest as I can. I don't consider myself to be selfless, and you will start to understand that with time. But that is also why I admire you so much. You'll always help others without hesitation, and only consider you own needs later. The truth is, I had enough money to give it to the man, and I didn't need the money. I was given the choice and I chose to not give him the money. It's probably because I don't think is going to help him, as I don't think it is a sustainable way of living. Like giving him money only gives temporary relief. And on the other hand, I feel like I don't have the right to give money since the money is not mine, but my parent's. But I felt like I missed the opportunity make a change to his life, even if it doesn't involve money. And that's probably the part I regretted most.
-  [25/2/17, 17:15:26] Yi Hein: What you said really helped me clear my thoughts and reflect
-  [25/2/17, 17:16:51] Yi Hein: But as you can already observe, I would consider myself before considering others and perhaps that's one of my flaws
-  [25/2/17, 17:18:16] Yi Hein: Hopefully next time when I had another chance I would be able to difference for others
-  [25/2/17, 17:36:30] Shannon: Ohh that's another way of thinking though! Like it wouldn't really be helping him, but it does also show that you do care about him, but in a diff way!!
-  [25/2/17, 17:36:34] Shannon: Haha Glad I could help :)
-  [25/2/17, 17:36:57] Shannon: Yep!! That's a good attitude to have
-  [25/2/17, 17:37:57] Shannon: If everyone could care about each other, and put others before themselves, everyone would live so happily haha
-  [25/2/17, 18:56:29] Yi Hein: Yeah, haha well if there were 7 billion Shannons world peace would be achieved
-  [26/2/17, 09:39:52] Yi Hein: Whoops sry accidentally pressed call
-  [26/2/17, 09:40:12] Yi Hein: Btw how's the concert yesterday?
-  [26/2/17, 11:06:36] Shannon: HAHA it's fine!!
-  [26/2/17, 11:06:55] Shannon: It was really cool!!! The stage effects were great, and the lighting was so awesome haha
-  [26/2/17, 11:07:34] Shannon: And our seats were really good, so we could see 张学友 up close it was kinda surreal HAHA
-  [26/2/17, 11:07:44] Shannon: What kind of music do you like though
-  [26/2/17, 12:17:41] Yi Hein: Woah, i saw your snap, looks amazing!
-  [26/2/17, 12:19:11] Yi Hein: I don't really listen to music frequently, but i like calm soothing music
-  [26/2/17, 18:47:30] Yi Hein: Hey Shannon, for the Chinese Compo, did Mdm Xu say we must strictly follow the word limit or is it just a guide
-  [26/2/17, 18:52:20] Shannon: Must follow :((
-  [26/2/17, 18:52:32] Shannon: Max is 480, i think they will deduct marks if you exceed it
-  [26/2/17, 18:52:54] Shannon: It's really short right sigh
-  [26/2/17, 18:56:50] Yi Hein: Yeah probably means they are looking out for quality which makes it all the more harder
-  [26/2/17, 19:52:05] Shannon: Ikr sighhh
-  [26/2/17, 19:52:10] Shannon: I think mine was a bit odd
-  [26/2/17, 19:52:15] Shannon: Btw is there any bio homework due?
-  [26/2/17, 19:53:13] Yi Hein: there homework given but there no assigned due date
-  [26/2/17, 19:53:36] Yi Hein: the cells worksheet probably not due anytime soon since he have not finished the chapter
-  [26/2/17, 19:54:00] Yi Hein: we're supposed to do the lab worksheet though
-  [26/2/17, 19:56:39] Shannon: Okay thanks!! Is the lab worksheet the one where we had to look at the microscope and stuff
-  [26/2/17, 19:58:16] Yi Hein: yup, its the one with a cell with microvilli on the front apge
-  [26/2/17, 20:07:09] Shannon: Okay thanks!!
-  [26/2/17, 20:13:27] Yi Hein: np :)
-  [27/2/17, 20:31:13] Yi Hein: Hey Shannon, this is pretty ironic asking you but, when's the Lang Lit TGG essay due
-  [27/2/17, 20:32:50] Shannon: HAHAHA Thursday!!
-  [27/2/17, 20:32:57] Shannon: And I haven't even finished reading the book
-  [27/2/17, 20:32:59] Shannon: I'm dead
-  [27/2/17, 21:14:21] Yi Hein: Hahaha, I've only read chapter 1 and I need to reread cause I didn't understand it well
-  [27/2/17, 21:15:01] Yi Hein: Looks like I'm going to get slayed by her again...
-  [27/2/17, 21:50:16] Shannon: HAHAHAHA I just realised that the essay must be based on chapter 1 and 2 so maybe I'm not dead yet
-  [27/2/17, 21:50:24] Shannon: It's okay!! My essay is probably worse than yours
-  [27/2/17, 21:50:33] Shannon: I hope she doesn't publicly shame me tmr or something
-  [27/2/17, 21:50:48] Yi Hein: Hahaha me too
-  [27/2/17, 21:51:07] Yi Hein: I still fail to understand how TGG is considered interesting
-  [27/2/17, 21:51:43] Yi Hein: There's like half a page of description of a house
-  [27/2/17, 21:52:22] Yi Hein: And now I'm reading pages after pages of trivial conversations
-  [27/2/17, 22:35:44] Shannon: HAHAHAHA
-  [27/2/17, 22:36:09] Shannon: I find the metaphors and similes used very over the top and sometimes a bit hard to decipher
-  ‎[27/2/17, 22:36:22] Shannon: ‎image omitted
-  [27/2/17, 22:36:26] Shannon: I feel bad
-  [27/2/17, 22:37:25] Yi Hein: Well if I were you I would be honest and say the environment is not suitable
-  [27/2/17, 22:37:37] Yi Hein: Or you can say our interest has changed
-  [27/2/17, 22:37:59] Yi Hein: *your interest has changed
-  [27/2/17, 22:39:28] Shannon: Okay!!! Thanksss
-  [27/2/17, 22:39:41] Shannon: Sigh I feel like I was very unproductive today
-  [27/2/17, 22:39:50] Yi Hein: Haha me too
-  [27/2/17, 22:40:06] Yi Hein: Don't think I'll be sleeping early tonight 😔
-  [27/2/17, 22:40:16] Yi Hein: Hey btw do you know who Joel Mui is?
-  [1/3/17, 11:06:23] Shannon: School mag :((((( is very sad :((((
-  [1/3/17, 12:29:06] Yi Hein: Is it because of Micheal Hee?
-  [1/3/17, 13:22:08] Shannon: Nahh not just him it's just that I'm the only girl so it's really awkward
-  [1/3/17, 13:22:17] Shannon: (Talking to guys is scary HAHA)
-  [1/3/17, 13:22:27] Shannon: And I didn't really understand what was going on
-  [1/3/17, 13:22:44] Shannon: Btw I asked the bio teacher and he said to just fill up the worksheet for the "lab report" due this week!
-  [1/3/17, 14:17:27] Yi Hein: Oh haha makes sense
-  [1/3/17, 14:17:54] Yi Hein: I'll feel really uncomfortable if I were you
-  [1/3/17, 14:19:08] Yi Hein: Yay :)
-  [1/3/17, 14:20:12] Yi Hein: You confirm you're joining Netball?
-  [2/3/17, 00:10:34] Yi Hein: Finally managed to memorise it
-  [2/3/17, 19:45:32] Shannon: Oh how was track and field?
-  [2/3/17, 19:45:50] Shannon: HAHA sorry didn't see your message; I think there's a 80% chance I will join Netball :P
-  [2/3/17, 19:46:00] Shannon: Unless the Michael Heah guy somehow manages to convince me HAHAH
-  [2/3/17, 19:46:14] Shannon: Do you think it's kinda cowardly to quit school mag
-  [2/3/17, 19:46:27] Shannon: Just cos I feel Super burden and uncomfortable haha
-  [2/3/17, 20:32:21] Yi Hein: I honestly think if you don't like the environment there's no point forcing yourself to stay
-  [2/3/17, 20:33:27] Yi Hein: I don't really know Michael Heah but sometimes you should give them time before making judgements...(flashback to TGG hahaha)
-  [2/3/17, 20:33:46] Yi Hein: But it is pretty weird since your the only girl
-  [2/3/17, 20:34:36] Yi Hein: It's not cowardly at all...I mean like no ones gonna judge you for quitting something you don't like
-  [2/3/17, 20:35:15] Yi Hein: I don't know why but I feel that Netball will probably be more welcoming for you
-  [2/3/17, 20:35:47] Yi Hein: Pretty bad :((
-  [2/3/17, 20:36:42] Yi Hein: And it's not because I ran slowly. It's because after running 5k, they told me they didn't record my time and DQed me
-  [2/3/17, 20:38:33] Yi Hein: And then I tried to give some suggestions so that others won't experience the same thing as me.
-  [2/3/17, 20:39:25] Yi Hein: And I got scolded pretty badly by the teacher because I have no "authority to give suggestions on how to run the event" and my "feedback is not needed"
-  [2/3/17, 21:17:14] Shannon: HAHAHA true true idk I'm q a judgemental person (see I'm not that nice a person :P)
-  [2/3/17, 21:18:30] Shannon: Same!!! Cos all my friends are there hahaha
-  [2/3/17, 21:19:05] Shannon: What????? That's really unprofessional and bad
-  [2/3/17, 21:19:18] Shannon: Oh no.... that teacher sounds so scary :(((
-  [2/3/17, 21:19:48] Shannon: Oh dear
-  [2/3/17, 21:20:04] Shannon: Don't be too upset okay!!!
-  [2/3/17, 21:20:39] Shannon: Idk some people are just really narrow minded and don't want to listen to others
-  [2/3/17, 21:24:07] Yi Hein: After what he did it's pretty insane not to judge him, unless the person is so clueless
-  [2/3/17, 21:27:31] Yi Hein: Yeah I'll try. Today was pretty horrible for me though. Like even for the house captain selection. After seeing the results, I'm like okay, if there's a person who is more suitable to serve the house, it's for the best. But I got really upset when I found out it was rigged for my house
-  [2/3/17, 21:28:14] Shannon: Oh you tried for house cap?
-  [2/3/17, 21:28:16] Yi Hein: It's actually surprising how I always ask you for moral advice now 😂
-  [2/3/17, 21:28:17] Shannon: It was rigged?
-  [2/3/17, 21:28:54] Yi Hein: Yeah, not for other houses (at least I would like to think). But definitely rigged for my house
-  [2/3/17, 21:29:02] Yi Hein: But I've got over it
-  [2/3/17, 21:29:13] Shannon: What.... that's Super corrupted....
-  [2/3/17, 21:29:21] Shannon: How did you know it was rigged though
-  [2/3/17, 21:29:31] Yi Hein: Haha like they are not even hiding that they are rigging the selection
-  [2/3/17, 21:30:25] Yi Hein: My house captain literally said to one guy that he's going to help one of the applicants get in. And that is before the selection test even started
-  [2/3/17, 21:30:50] Yi Hein: But he said he was impartial for the selection test so I though he'll be fair
-  [2/3/17, 21:31:00] Yi Hein: But turns out the guy and the girl got in
-  [2/3/17, 21:32:13] Yi Hein: I'm curious how do you always remain so optimistic haha
-  [2/3/17, 21:34:22] Shannon: OMG that's Super corrupted and just bad and despicable
-  [2/3/17, 21:34:31] Shannon: I don't even know what to say
-  [2/3/17, 21:35:37] Shannon: Sigh are you sad over it? I'd be really upset
-  [2/3/17, 21:36:05] Shannon: HAHA I'm really not an optimistic person nicole always says I'm a pessimistic person when it comes to myself
-  [2/3/17, 21:38:30] Yi Hein: I've kind of got over it. I've got to accept it I Guess. I've heard council selection is more rigged so good to have mental preparation haha
-  [2/3/17, 21:39:32] Shannon: Ohh
-  [2/3/17, 21:39:35] Shannon: Wow...
-  [2/3/17, 21:39:45] Shannon: I really hope you get it and change this messed up system
-  [2/3/17, 21:40:24] Yi Hein: Yeah I hope so, but that if I can somehow get into the system though
-  [2/3/17, 21:42:05] Yi Hein: Yeah but that's cause you always think about yourself last, you're  optimistic about others though
-  [2/3/17, 21:43:03] Yi Hein: That's actually an admirable trait but you should also have more trust in yourself too
-  [2/3/17, 21:43:53] Shannon: Idkekkdkfn idk haha I'm currently having a random self loathing moment now
-  [2/3/17, 21:44:08] Shannon: It's like this self absorbed thing that happens to me once in a while HAHA
-  [2/3/17, 21:44:35] Shannon: Sorry haha idk I have a lot of self pity you can just ignore me
-  [2/3/17, 21:49:23] Yi Hein: Why would you even hate yourself 😔, if I were as nice as you I'll love myself
-  [2/3/17, 21:50:49] Yi Hein: And even though you think you become self-absorbed for a while, you are still not as self-absorbed compared to many people in the society
-  [2/3/17, 21:56:34] Shannon: Idk
-  [2/3/17, 21:56:38] Shannon: I'm quite messed up
-  [2/3/17, 21:57:11] Yi Hein: Well haha I don't mind you telling me how messed up it is
-  [2/3/17, 21:57:23] Yi Hein: I don't judge
-  [2/3/17, 21:57:27] Shannon: HAHHAA it's Super like
-  [2/3/17, 21:57:28] Shannon: Bad
-  [2/3/17, 21:57:29] Shannon: Idk
-  [2/3/17, 21:57:37] Yi Hein: I won't judge like honestly
-  [2/3/17, 21:57:37] Shannon: You'll probably find me Super weird afterwards
-  [2/3/17, 21:57:58] Yi Hein: You probably think I've very high expectations of you
-  [2/3/17, 21:58:17] Yi Hein: But I don't judge, I'm weird too
-  [2/3/17, 21:58:31] Shannon: I have like Super Low self esteem haha
-  [2/3/17, 21:58:31] Shannon: Like seriously Low
-  [2/3/17, 21:58:55] Shannon: And I get emo very easily I'm Super sensitive
-  [2/3/17, 21:59:24] Shannon: I've lost a lot of friendships cos of that haha bc I keep thinking I'm a burden
-  [2/3/17, 21:59:31] Shannon: Idk I thought it got better but I Guess it didn't
-  [2/3/17, 21:59:44] Shannon: I think school mag made it worse haha it really made me feel like crap
-  [2/3/17, 21:59:51] Shannon: I have social anxiety too
-  [2/3/17, 22:00:13] Yi Hein: Wait I'm still waiting for the messed up part
-  [2/3/17, 22:00:19] Shannon: I freak out when I'm around strangers and stuff
-  [2/3/17, 22:00:20] Shannon: HAHAHA
-  [2/3/17, 22:00:27] Shannon: Isn't that whole thing q messed up
-  [2/3/17, 22:00:28] Shannon: Idkdkdkdkjdof
-  [2/3/17, 22:00:40] Shannon: Like my whole mental health is messed up
-  [2/3/17, 22:00:42] Shannon: Idk man
-  [2/3/17, 22:01:17] Yi Hein: Well I wouldn't call it messed up just Low-self esteem
-  [2/3/17, 22:01:49] Yi Hein: I was probably way worse than you last time. Especially in primary school
-  [2/3/17, 22:02:14] Yi Hein: It takes time to build it up
-  [2/3/17, 22:03:22] Shannon: Haha idk what to say
-  [2/3/17, 22:03:23] Shannon: Sorry
-  [2/3/17, 22:03:26] Yi Hein: Haha I'm quite sensitive too but it got better
-  [2/3/17, 22:03:39] Shannon: Don't worry I'm not usually like this ok!!
-  [2/3/17, 22:03:43] Shannon: It's very random
-  [2/3/17, 22:04:11] Shannon: HAHA you should just forget everything
-  [2/3/17, 22:04:19] Yi Hein: I'm not judging haha, if not you seem much more relatable
-  [2/3/17, 22:04:36] Yi Hein: I was probably much more messed up haha
-  [2/3/17, 22:05:32] Yi Hein: Your messed up isn't as bad as mine....
-  [2/3/17, 22:05:52] Shannon: Idk I don't really wanna talk about it haha
-  [2/3/17, 22:06:18] Yi Hein: Don't tell anyone but I've actually tried killing myself quite a few times haha, but didn't have the guts
-  [2/3/17, 22:06:24] Yi Hein: Oh well
-  [2/3/17, 22:06:39] Yi Hein: Well it's good to face it
-  [2/3/17, 22:06:46] Shannon: :/
-  [2/3/17, 22:06:50] Shannon: Hope you're better now
-  [2/3/17, 22:06:54] Yi Hein: That's how you build your self-esteem up though
-  [2/3/17, 22:07:07] Shannon: I'm v cowardly so I always run away from problems
-  [2/3/17, 22:07:11] Shannon: This is very depressing
-  [2/3/17, 22:07:23] Shannon: Please don't hate yourself you're a nice person
-  [2/3/17, 22:07:30] Yi Hein: Well then the next time you feel like running away, I'll make you stay
-  [2/3/17, 22:07:34] Yi Hein: Break the cycle
-  [2/3/17, 22:08:34] Yi Hein: I mean nothing will change if you don't do anything
-  [2/3/17, 22:10:05] Yi Hein: And for the School Mag thing, that's not even running away, that 's staying away from weird people, a logical choice in my opinion
-  [2/3/17, 22:14:11] Yi Hein: Well if you really don't want to be cowardly, don't run away from the problem of being cowardly
-  [2/3/17, 22:14:35] Shannon: Thanks
-  [2/3/17, 22:14:36] Shannon: Haha
-  [2/3/17, 22:14:50] Shannon: Sorry i feel quite crap now I don't really know what to say
-  [2/3/17, 22:15:09] Yi Hein: Why?
-  [2/3/17, 22:15:38] Shannon: Idk haha I Guess it's just cos I suck at a lot of stuff
-  [2/3/17, 22:15:56] Yi Hein: Such as what?
-  [2/3/17, 22:16:05] Yi Hein: It's okay to share
-  [2/3/17, 22:16:15] Shannon: Like
-  [2/3/17, 22:16:17] Shannon: Everything
-  [2/3/17, 22:16:25] Shannon: Except acads
-  [2/3/17, 22:16:32] Shannon: Which is Super pathetic
-  [2/3/17, 22:17:24] Yi Hein: You got to be more specific, you can start with what's bothering you most
-  [2/3/17, 22:17:42] Shannon: Haha are you annoyed
-  [2/3/17, 22:17:43] Shannon: I'm sorry
-  [2/3/17, 22:17:50] Yi Hein: No haha
-  [2/3/17, 22:17:58] Yi Hein: Not at all
-  [2/3/17, 22:18:00] Shannon: Honestly idek
-  [2/3/17, 22:18:12] Shannon: I think it's mostly stemming from school mag and being afraid of being left out
-  [2/3/17, 22:18:13] Shannon: In class
-  [2/3/17, 22:18:31] Shannon: I'm half obsessed with cliques forming and today was the first time I sat with the class for recess
-  [2/3/17, 22:18:48] Shannon: And it was so awkward i didn't know what to do
-  [2/3/17, 22:19:06] Shannon: And like during SCH mag I'm such a burden I can't help at all
-  [2/3/17, 22:19:13] Shannon: And like one of the guys told me my photos suck ha ha ha
-  [2/3/17, 22:19:21] Shannon: Ok he told my Friend who told me but still
-  [2/3/17, 22:20:07] Yi Hein: Well I feel like you fit really well in class, you can ask other people too. Like honestly, you are thinking too much
-  [2/3/17, 22:20:18] Shannon: Haha
-  [2/3/17, 22:20:22] Shannon: Nicole says that all the time
-  [2/3/17, 22:20:30] Yi Hein: Like 9 people voted you to be welfare rep for a reason
-  [2/3/17, 22:21:16] Yi Hein: I'll help you ask the others secretly/ discreetly. I'm sure they share the same opinion as me
-  [2/3/17, 22:21:23] Shannon: HAHAHA it's fine
-  [2/3/17, 22:21:28] Shannon: It's probably all in my head
-  [2/3/17, 22:22:12] Shannon: It's like so ironic I know everything is probably just me over thinking but I still feel very jsiekdkfkekdk
-  [2/3/17, 22:22:40] Yi Hein: And well it's pretty mean for him to say your photos suck. But since he said that, you should try to improve your skills. I'm sure there quite a few people in our class who's not bad at photog
-  [2/3/17, 22:22:56] Yi Hein: I know a few friends who are really good too
-  [2/3/17, 22:23:01] Shannon: Ikr
-  [2/3/17, 22:23:04] Yi Hein: Maybe they can help you
-  [2/3/17, 22:23:06] Shannon: Idk
-  [2/3/17, 22:23:11] Shannon: Idek why I'm sad HAHA
-  [2/3/17, 22:23:33] Shannon: I Guess if I'm happy most of the time then the sadness will just come randomly all at one shot
-  [2/3/17, 22:23:49] Shannon: I think I'm gonna quit school mag I feel like I'm gonna be more stressed if I stay
-  [2/3/17, 22:24:25] Yi Hein: I mean you overthinking is probably stemming from your Low-self esteem so maybe you can start by slowing building that up
-  [2/3/17, 22:25:18] Yi Hein: Try not to hide too sad things to yourself, like it's okay to share with others
-  [2/3/17, 22:27:47] Yi Hein: Wanna talk in school tomorrow? I'm open to anything
-  [2/3/17, 22:28:32] Shannon: TBH not really
-  [2/3/17, 22:28:38] Shannon: I don't like talking about it
-  [2/3/17, 22:29:10] Shannon: It's like acknowledging it exists which makes it harder to pretend it doesn't exist hahaha
-  [2/3/17, 22:29:47] Shannon: Just pretend you don't know okay HAHA I wouldn't know what to say if you talk to me about it
-  [2/3/17, 22:29:49] Yi Hein: Well pretending it doesn't exist is not the way to go
-  [2/3/17, 22:30:06] Yi Hein: Of all the times I've pretended I'm not sad, nothing has changed
-  [2/3/17, 22:30:13] Shannon: Idk I believe in
-  [2/3/17, 22:30:16] Shannon: Mind over matter
-  [2/3/17, 22:30:22] Shannon: If I keep telling myself it's okay I will be okay
-  [2/3/17, 22:30:51] Yi Hein: Things change when you start facing it, resolve the root cause and not calm the symptoms
-  [2/3/17, 22:30:56] Yi Hein: I know it takes a Long time
-  [2/3/17, 22:32:05] Shannon: Idk how to improve my self esteem though haha
-  [2/3/17, 22:32:10] Yi Hein: But feel free to talk to me when you feel ready, or even if your don't feel like you're ready to acknowledge it
-  [2/3/17, 22:32:13] Shannon: It's way better than last year alr though
-  [2/3/17, 22:32:17] Shannon: It was Super bad last year
-  [2/3/17, 22:32:39] Yi Hein: I fell like more about confidence
-  [2/3/17, 22:32:39] Shannon: Actually it was the worst in Sec 2 HAHA I would randomly break down in school which sucked a lot
-  [2/3/17, 22:33:18] Shannon: Thanks though for listening to me even though I don't think I made much sense
-  [2/3/17, 22:33:21] Shannon: I feel better hahaha
-  [2/3/17, 22:33:54] Yi Hein: Haha this probably sound Super un-manly but when I was in Sec 3 cried until my pillows were drenched
-  [2/3/17, 22:36:05] Yi Hein: Well I started my thinking about myself more, which sounds really self-Centred. But I realised that always trying to be selfless actually causes more harm than good to the people around me
-  [2/3/17, 22:42:50] Shannon: HAHA I think about myself a lot though
-  [2/3/17, 22:42:54] Shannon: I don't think I'm very selfless
-  [2/3/17, 22:42:58] Shannon: Ah well
-  [2/3/17, 22:43:02] Shannon: I feel much better now
-  [2/3/17, 22:43:14] Shannon: It's fine haha
-  [2/3/17, 22:43:24] Shannon: Thanks though
-  [2/3/17, 22:43:26] Shannon: For everything haha
-  [2/3/17, 22:48:10] Yi Hein: Yeah feel free to talk to me when you feel like it
-  [2/3/17, 22:48:36] Yi Hein: Btw, this seems pretty selfless to me
-  [2/3/17, 22:49:12] Shannon: No it's Super annoying
-  [2/3/17, 22:49:14] Shannon: For
-  [2/3/17, 22:49:16] Shannon: The other person
-  [2/3/17, 22:49:20] Shannon: It's very tiring to be friends with me
-  [2/3/17, 22:49:25] Shannon: As in close friends HAHA
-  [2/3/17, 22:49:39] Shannon: cos I need a lot of affirmation or I'll get all emo and stuff
-  [2/3/17, 22:49:58] Shannon: It's Super pathetic
-  [2/3/17, 22:50:26] Shannon: Then if I feel like I'm Super burden I'll just distance myself from the person until idk we don't even talk anymore
-  [2/3/17, 22:50:29] Yi Hein: Well everyone needs affirmation, oh yeah I forgot it's also that I started improving my Low-self esteem
-  [2/3/17, 22:50:34] Shannon: That's why I avoid a lot of people in our level HAHAH
-  [2/3/17, 22:50:49] Yi Hein: But why would you what to distance yourself?
-  [2/3/17, 22:51:03] Shannon: Cos I feel like I'm too much of a burden to the people
-  [2/3/17, 22:51:07] Shannon: It's way too tiring for them
-  [2/3/17, 22:51:23] Yi Hein: Exactly, you're thinking about how others feel first
-  [2/3/17, 22:51:34] Yi Hein: It's kind of a vicious cycle if you think about it
-  [2/3/17, 22:51:38] Shannon: Yeah
-  [2/3/17, 22:52:16] Yi Hein: So perhaps you can try to stop thinking you're a burden cause other people can be even more burden too
-  [2/3/17, 22:52:31] Shannon: I haven't really met any burden friends though
-  [2/3/17, 22:52:44] Shannon: HAHA anyway when people rely on me I feel less useless
-  [2/3/17, 22:52:59] Shannon: Which is pretty selfish
-  [2/3/17, 22:52:59] Shannon: TBH
-  [2/3/17, 22:53:08] Shannon: Now that I think of it it's Super self centered
-  [2/3/17, 22:53:41] Yi Hein: Well if you think that to make yourself less selfish, you'll not let others rely on you isn't that worse ?
-  [2/3/17, 22:53:57] Yi Hein: Think of feeling less useless a by-product
-  [2/3/17, 22:54:11] Shannon: HAHA by product
-  [2/3/17, 22:54:13] Shannon: Science student
-  [2/3/17, 22:54:17] Yi Hein: Hahaha
-  [2/3/17, 22:54:36] Shannon: Nah I just feel like I shouldn't feel that people relying on me is good
-  [2/3/17, 22:54:37] Shannon: Because
-  [2/3/17, 22:54:46] Shannon: If they need to rely on someone in the first place
-  [2/3/17, 22:54:55] Shannon: It means that they're in a bad position
-  [2/3/17, 22:54:57] Shannon: Which is sad
-  [2/3/17, 22:55:01] Shannon: So I shouldn't feel good
-  [2/3/17, 22:55:25] Yi Hein: Why though?
-  [2/3/17, 22:55:49] Shannon: Why would you need to rely on someone if you're perfectly happy
-  [2/3/17, 22:55:54] Yi Hein: Everyone relies on one another
-  [2/3/17, 22:56:33] Yi Hein: Like I've accomplished nothing by myself
-  [2/3/17, 22:56:43] Yi Hein: And I think that goes for everyone
-  [2/3/17, 22:56:53] Shannon: Oh
-  [2/3/17, 22:56:55] Shannon: Yeah
-  [2/3/17, 22:56:56] Shannon: True
-  [2/3/17, 22:58:04] Yi Hein: People rely on you because they need you to help them. Just like you'll need others to help you too
-  [2/3/17, 22:58:41] Yi Hein: It goes two ways I guess
-  [2/3/17, 23:00:37] Shannon: Yeah
-  [2/3/17, 23:00:50] Shannon: I'm gonna sleep now haha
-  [2/3/17, 23:00:51] Shannon: Good night
-  [2/3/17, 23:00:57] Yi Hein: Yeah good night
-  [2/3/17, 23:01:03] Shannon: Thanks for listening HAHA even though it was v weird and prob made little sense
-  [2/3/17, 23:02:22] Shannon: I hope I won't become a burden to you one day HAHAH and I hope you don't think I'm like weird and emo and stuff idk
-  [2/3/17, 23:04:55] Yi Hein: HAHAHA, feel free to be a burden, cause I'm going to be a burden too 😂
-  [4/3/17, 18:32:05] Yi Hein: Hey Shannon you did your bio lab report yet?
-  [4/3/17, 19:21:29] Shannon: Nope I spent the whole day doing chem HAHA
-  [4/3/17, 19:21:39] Shannon: I'm really worried I will fail chem or at least do badly
-  [4/3/17, 19:21:52] Shannon: I'm gonna do the bio thing once I reach home (it's due on Monday right)
-  [4/3/17, 19:22:07] Yi Hein: Yup
-  [4/3/17, 19:22:38] Yi Hein: Come on you're not that bad, you did well for chem in MG right?
-  [4/3/17, 19:22:43] Shannon: Btw for the Chinese WA practice must we write the whole thing or just the intro
-  [4/3/17, 19:22:58] Yi Hein: The whole thing
-  [4/3/17, 19:23:05] Shannon: Ohh okay thanks
-  [4/3/17, 19:23:11] Shannon: Uhh chem was my worst science haha
-  [4/3/17, 19:23:25] Shannon: I barely got a 7, and I think a lot of people got like mid 80s or higher
-  [3/4/17, 22:28:09] Yi Hein: Hey Shannon you've done your Chem Lab Report right?
-  [3/4/17, 22:28:24] Shannon: Yeah
-  ‎[3/4/17, 22:28:31] Shannon: ‎image omitted
-  [3/4/17, 22:28:33] Shannon: ^ Hao Chen sigh
-  [3/4/17, 22:28:44] Shannon: How is tim my Boyfriend what even
-  [3/4/17, 22:29:05] Yi Hein: Hahaha
-  [3/4/17, 22:29:19] Shannon: Do you need help w chem?
-  [3/4/17, 22:29:31] Shannon: Do people actually think tim and I have something on btw
-  [3/4/17, 22:29:32] Yi Hein: I think there's a crush polygon spreading around
-  [3/4/17, 22:29:50] Shannon: What's a crush polygon HAHAHAHA like an extended version of love triangle?
-  ‎[3/4/17, 22:29:56] Yi Hein: ‎image omitted
-  [3/4/17, 22:30:10] Yi Hein: Haha yeah something like that
-  [3/4/17, 22:30:37] Yi Hein: My CaCO3 mass is more than mass of egg she'll
-  [3/4/17, 22:30:44] Shannon: HAHA oh can you share it with me
-  [3/4/17, 22:30:52] Shannon: Oh yeah Gideon and I had that problem
-  [3/4/17, 22:31:07] Yi Hein: I asked Jordan and he said his was fine
-  [3/4/17, 22:31:18] Shannon: Did you forget to include the 250 cm3 in ur calculations
-  [3/4/17, 22:31:20] Yi Hein: And his volume of NaOH used as about the same as me
-  [3/4/17, 22:31:30] Yi Hein: Wait a minute
-  [3/4/17, 22:32:23] Yi Hein: OMG no wonder
-  [3/4/17, 22:32:28] Shannon: YA IKR haha
-  [3/4/17, 22:32:35] Shannon: Gideon and I were like omggggg
-  [3/4/17, 22:32:40] Shannon: When we figured it out
-  [3/4/17, 22:33:46] Yi Hein: I think it's Darren> Shannon> Tim + Sian> Elliot + Joe<>Nahian
-  [3/4/17, 22:33:55] Yi Hein: HAHAHA act like you don't know about it
-  [3/4/17, 22:34:05] Shannon: WHAT
-  [3/4/17, 22:34:06] Shannon: HAHAHAHAHHAA
-  [3/4/17, 22:34:10] Shannon: HAHAHAHA
-  [3/4/17, 22:34:17] Shannon: So darren likes me but I like tim?
-  [3/4/17, 22:34:22] Shannon: How did people even get that
-  [3/4/17, 22:34:34] Shannon: And Tim and Sian like Elliot?
-  [3/4/17, 22:34:48] Yi Hein: This is actually quite interesting to hear from two perspectives
-  [3/4/17, 22:35:03] Shannon: What two perspectives
-  [3/4/17, 22:35:08] Shannon: EXPLAIN YOURSELF YI HEINNNNN
-  [3/4/17, 22:35:14] Yi Hein: Hahahahaha
-  [3/4/17, 22:35:21] Yi Hein: Don't kill me
-  [3/4/17, 22:35:24] Shannon: DONT YOU DARE GO OFFLINE NOW HAHAHA
-  [3/4/17, 22:35:28] Shannon: I won't
-  [3/4/17, 22:35:54] Yi Hein: Lmao jk
-  [3/4/17, 22:36:00] Yi Hein: Ok so
-  [3/4/17, 22:37:04] Yi Hein: Apparently you wanted to Sian to switch seats with Tim so that you can sit with him (and there's probably another reason which I'm not told)
-  [3/4/17, 22:37:23] Shannon: HAHAHAHA
-  [3/4/17, 22:37:24] Shannon: OMG
-  [3/4/17, 22:37:25] Shannon: WHAT
-  [3/4/17, 22:37:28] Yi Hein: And Darren keeps wanting to talk to you so yeah
-  [3/4/17, 22:37:31] Shannon: I DIDNT WAIT SIAN TO SWITXH
-  [3/4/17, 22:37:37] Shannon: SHE KEPT ASKING ME TO SWITCH
-  [3/4/17, 22:38:05] Yi Hein: OMG Shannon calm down
-  [3/4/17, 22:38:08] Shannon: Like since end of t1, she kept telling me she wanted to switch seats bc she couldn't see
-  [3/4/17, 22:38:19] Shannon: And I happened to know that tim wanted to change seats too
-  [3/4/17, 22:38:29] Shannon: So I was like, ok why don't you two change
-  [3/4/17, 22:38:57] Shannon: GROSS who came up with this
-  I won't dislike the person don't worry I just want to know who stirred this thing up
-  [3/4/17, 22:39:01] Shannon: Was it Joe/ Nahian
-  [3/4/17, 22:39:05] Shannon: Or like Isaiah
-  [3/4/17, 22:39:06] Yi Hein: OOooh I see
-  [3/4/17, 22:39:23] Shannon: I know Isaiah thought that tim and I had smth on idk why tho
-  [3/4/17, 22:39:54] Yi Hein: I think people kinda just inferred from what they saw
-  [3/4/17, 22:40:15] Shannon: HAHA but tim and I don't even talk
-  [3/4/17, 22:40:30] Shannon: How many people think this though
-  [3/4/17, 22:40:44] Shannon: But tim and Sian both like Elliot?
-  [3/4/17, 22:40:51] Yi Hein: I don't know actually
-  [3/4/17, 22:40:57] Yi Hein: WAIT WHAT
-  [3/4/17, 22:41:00] Shannon: I don't think tim is fat
-  [3/4/17, 22:41:03] Shannon: *gay
-  [3/4/17, 22:41:05] Shannon: HAHAHAHA
-  [3/4/17, 22:41:07] Shannon: YOUR ARROWS
-  [3/4/17, 22:41:10] Shannon: AND YOUR +
-  [3/4/17, 22:41:14] Yi Hein: Oh no it's not that
-  [3/4/17, 22:41:40] Shannon: And Joe and Nahian are together?
-  [3/4/17, 22:41:41] Shannon: HAHAHA
-  [3/4/17, 22:41:50] Yi Hein: + represents a different system, it's a summation of the crush equations
-  [3/4/17, 22:41:50] Shannon: Who did you hear it from tho
-  [3/4/17, 22:41:54] Shannon: I see
-  [3/4/17, 22:42:02] Shannon: Sigma notation
-  [3/4/17, 22:42:16] Shannon: Why must I be involved
-  [3/4/17, 22:42:20] Yi Hein: There was some joke about them being gay, it's just for laughs haha
-  [3/4/17, 22:42:23] Shannon: I bet it was JY
-  [3/4/17, 22:42:27] Shannon: He's so loud
-  [3/4/17, 22:42:38] Yi Hein: Definitely not
-  [3/4/17, 22:42:37] Shannon: And he keep saying that Tim GCPed for me which is so not true
-  [3/4/17, 22:42:45] Yi Hein: Wait really
-  [3/4/17, 22:43:04] Yi Hein: I didn't even know JY knew about it
-  [3/4/17, 22:43:14] Shannon: Yeah cos tim and I are pretty close friends actually HAHA but I don't think people know that
-  [3/4/17, 22:43:23] Shannon: Oh
-  [3/4/17, 22:43:27] Shannon: So it's the back row?
-  [3/4/17, 22:43:35] Shannon: 😾
-  [3/4/17, 22:43:38] Shannon: HAHAHA
-  [3/4/17, 22:43:41] Shannon: Thanks for telling me though
-  [3/4/17, 22:43:48] Yi Hein: Hahahaha don't kill them please
-  [3/4/17, 22:43:51] Shannon: Hao chen said he heard it from many people
-  [3/4/17, 22:43:58] Shannon: I won't HAHA
-  [3/4/17, 22:44:00] Yi Hein: Yeah it's complicated
-  [3/4/17, 22:44:05] Shannon: I just want to know why they think that way
-  [3/4/17, 22:44:07] Shannon: Like I don't get it
-  [3/4/17, 22:44:16] Shannon: I thought v few people knew that tim and I were close friends
-  [3/4/17, 22:44:58] Yi Hein: Yeah indeed
-  [3/4/17, 22:45:07] Yi Hein: That's probably why they inferred wrongly
-  [3/4/17, 22:45:24] Shannon: But the only thing is the Seat switching thing?
-  [3/4/17, 22:45:29] Shannon: That's so unreliable
-  [3/4/17, 22:45:46] Shannon: Or was it Benedict HAHAHAH
-  [3/4/17, 22:45:48] Yi Hein: That what I heard, I'm sure there's much more that I'm not aware of
-  [3/4/17, 22:45:56] Shannon: He saw us studying together before
-  [3/4/17, 22:46:03] Shannon: But that was only once
-  [3/4/17, 22:46:09] Shannon: Sighhhhhhhhhhhh
-  [3/4/17, 22:46:16] Shannon: Why all this gossipppppp
-  [3/4/17, 22:46:31] Shannon: Please tell me if you hear anything else HAHAHAH
-  [3/4/17, 22:46:44] Yi Hein: Cause some people have been in a Boy's school for 10 years
-  [3/4/17, 22:47:17] Yi Hein: So they think everything has to do with a relationship
-  [3/4/17, 22:47:18] Shannon: No one thinks that tim likes me back right
-  [3/4/17, 22:47:26] Shannon: I Guess that's good for him at least HAHAHA
-  [3/4/17, 22:47:37] Shannon: Yucks it's so not true
-  [3/4/17, 22:48:06] Yi Hein: But btw
-  [3/4/17, 22:48:26] Yi Hein: I need your advice now
-  [3/4/17, 22:48:31] Shannon: Oh
-  [3/4/17, 22:48:34] Shannon: What happened
-  [3/4/17, 22:49:04] Yi Hein: I've been pretty stupid today 😔
-  [3/4/17, 22:49:26] Shannon: Why :(
-  [3/4/17, 22:51:37] Yi Hein: Ok so, l was climbing up the stairs when a my SC situational group mate said like "Hi" and was smiling (according to my friend). And like I wasn't paying attention so I accidentally ignored her, apparently she didn't look happy after that
-  [3/4/17, 22:51:53] Yi Hein: I think I did it to another person too
-  [3/4/17, 22:51:59] Shannon: Ohh
-  [3/4/17, 22:52:05] Shannon: Don't worry too much about it!!
-  [3/4/17, 22:52:11] Yi Hein: Gosh it's so cringy
-  [3/4/17, 22:52:24] Shannon: If you see her next time just say hey (name)
-  [3/4/17, 22:52:31] Shannon: Make sure you include the name, it's more personal
-  [3/4/17, 22:52:39] Shannon: And smile
-  [3/4/17, 22:52:40] Yi Hein: Hahaha okie
-  [3/4/17, 22:52:47] Shannon: So that she'll know that you're not ignoring her or smth
-  [3/4/17, 22:52:57] Shannon: It's a totally honest mistake you don't have to feel bad about it!!
-  [3/4/17, 22:53:24] Shannon: I'm sure you'll get a chance to write the wrong
-  [3/4/17, 22:53:26] Shannon: *eight
-  [3/4/17, 22:53:28] Shannon: *right
-  [3/4/17, 22:53:31] Shannon: :)
-  [3/4/17, 22:53:40] Yi Hein: Yup thanks haha
-  [3/4/17, 22:54:06] Yi Hein: Btw gotta weird question to ask
-  [3/4/17, 22:54:21] Shannon: HAHA ok
-  [3/4/17, 22:54:32] Yi Hein: Be honest ok
-  [3/4/17, 22:54:31] Shannon: I'm guessing it's not chem
-  [3/4/17, 22:54:35] Shannon: Okay
-  [3/4/17, 22:54:40] Shannon: This is scary
-  [3/4/17, 22:54:48] Shannon: I hope it's not a hard question
-  [3/4/17, 22:54:59] Yi Hein: Were you pissed off at me at some point?
-  [3/4/17, 22:55:07] Shannon: HAHAHA no
-  [3/4/17, 22:55:21] Shannon: I don't get pi**ed off at people easily
-  [3/4/17, 22:55:33] Yi Hein: Or just annoyed?
-  [3/4/17, 22:55:33] Shannon: Like I haven't been really angry this year yet, just mildly annoyed
-  [3/4/17, 22:55:40] Shannon: Not at you though
-  [3/4/17, 22:55:51] Shannon: At Isaiah yes
-  [3/4/17, 22:56:00] Shannon: But not you HAHA cos you didn't cross any lines
-  [3/4/17, 22:56:17] Shannon: Likes when you were teasing me about the darren thing you didn't go too far so it's okay
-  [3/4/17, 22:56:20] Shannon: Isaiah did though
-  [3/4/17, 22:57:09] Yi Hein: Just curious what are the things you can't stand ( "lines" )
-  [3/4/17, 22:57:15] Shannon: HAHA
-  [3/4/17, 22:57:24] Shannon: Like mentioning awkward moments
-  [3/4/17, 22:57:31] Shannon: Like there peanut *cough* butter
-  [3/4/17, 22:57:34] Shannon: *the
-  [3/4/17, 22:57:58] Shannon: Esp when I'm actually really bothered by it
-  [3/4/17, 22:58:09] Shannon: Cos I was really ugh about the darren thing (though I think it's ok now)
-  [3/4/17, 22:58:41] Yi Hein: Ah ok I see
-  [3/4/17, 22:59:03] Shannon: Thanks for asking though
-  [3/4/17, 22:59:06] Shannon: You're really nice HAHAH
-  [3/4/17, 22:59:27] Yi Hein: No haha you don't know the real me
-  [3/4/17, 23:00:01] Shannon: HAHA I'm sure everyone has their own bad parts and good parts
-  [3/4/17, 23:00:54] Shannon: But like Sirius black once said, "the world isn't split into good people and death eaters. We've all got both light and dark inside us. What matters is the part we choose to act on. That's who we really are."
-  [3/4/17, 23:01:31] Shannon: So even if you're not that good 99% of the time, and you're nice and good 1% of the time (which is def true bc I've seen your nice part), you're alr a good person!
-  [3/4/17, 23:03:00] Yi Hein: So philosophical haha 🤔
-  [17/5/17, 22:15:18] Yi Hein: Hey Shannon can you bring the calculator you mentioned to class tmr?
-  [19/5/17, 22:11:02] Yi Hein: Btw, you can consult Hao Chen for $5 MCs
-  [19/5/17, 22:11:12] Shannon: HAHAHA What are $5 MCs
-  [19/5/17, 22:11:18] Shannon: No I legit don't feel well haha
-  [19/5/17, 22:11:56] Yi Hein: Oh
-  [19/5/17, 22:13:26] Yi Hein: Probably too little sleep hahaha gws
-  [20/5/17, 09:21:58] Shannon: Tsk I can't believe you thought that I was gonna skip bc of a not legit excuse
-  [20/5/17, 09:22:14] Shannon: I slept for more than half the amount of time I've slept in the whole week last night
-  [20/5/17, 09:22:18] Shannon: So scary
-  [20/5/17, 11:11:45] Yi Hein: HAHAHA normally asking whether you need MC implies ponning
-  [20/5/17, 11:12:59] Yi Hein: I Guess I kinda thought that coz my classmates kept ponning last year
-  [20/5/17, 11:13:13] Shannon: Pfft
-  [20/5/17, 11:13:25] Shannon: Do we need to sit with our classes
-  [20/5/17, 11:13:26] Shannon: OH YA
-  [20/5/17, 11:13:31] Shannon: What bio worksheets are due on monday
-  [20/5/17, 11:13:33] Yi Hein: 👍🏼👏🏼
-  [20/5/17, 11:13:58] Yi Hein: Not very sure
-  [20/5/17, 11:14:29] Yi Hein: You're coming today?
-  [20/5/17, 11:14:56] Yi Hein: Yeah we need to sit with our classes
-  [2/8/17, 19:13:28] Shannon: Hey yi Hein!!!!!
-  [2/8/17, 23:58:51] Shannon: Are you still awake :((
-  [3/8/17, 05:11:42] Yi Hein: Sorry I crashed, what happened?
-  [3/8/17, 19:26:56] Shannon: Hey yi Hein, could you help me ask if any of the councillors will be willing to come down from 9-1pm on sat to help us usher for SYPC? CAS hours will be given :)) we need 2!!
-  [3/8/17, 19:27:05] Shannon: Or one is fine too actually
-  [3/8/17, 19:29:19] Yi Hein: I believe they've already asked yesterday, not sure who signed up though?
-  [3/8/17, 19:32:25] Yi Hein: Where's it btw?
-  [3/8/17, 19:32:46] Shannon: Oh okay
-  [3/8/17, 19:32:51] Shannon: Thanks!
-  [3/8/17, 19:32:55] Shannon: School!
-  [3/8/17, 19:32:57] Shannon: CPA1
-  [3/8/17, 19:33:37] Shannon: And like we need SJAB person/ first aider too haha for the whole day so it'll be nice if the person could do first aid ( can claim more hours )
-  But like if cannot then it's fine
-  [3/8/17, 19:33:40] Shannon: Thanks so much haha
-  [3/8/17, 20:18:54] Yi Hein: Can double up as a first aider? Sounds pretty tempting lmao
-  [3/8/17, 20:20:29] Shannon: Yes yi Hein!!!!
-  [3/8/17, 20:20:35] Shannon: You are like totally the best person for the job haha
-  [3/8/17, 20:20:46] Shannon: That's also what I wanted to ask haha
-  ‎[3/8/17, 20:59:46] Yi Hein: ‎image omitted
-  [3/8/17, 20:59:58] Yi Hein: But yeah I can go for it
-  [3/8/17, 21:00:09] Shannon: HAHAHAH what
-  [3/8/17, 21:00:11] Shannon: I didn't say that
-  [3/8/17, 21:00:20] Shannon: I said isaiah lived nearby
-  [3/8/17, 21:00:26] Shannon: And he can be the first aid person
-  [3/8/17, 21:00:29] Shannon: But he rejected me HAHA
-  [3/8/17, 21:00:50] Yi Hein: So is it from 1130 or 9?
-  [3/8/17, 22:22:06] Shannon: 9!
-  [3/8/17, 22:22:09] Shannon: 9-1 :)
-  [3/8/17, 22:22:12] Shannon: Are you okay with it!!
-  [4/8/17, 21:03:36] Yi Hein: Can you update me on the timeline of events and procedure for tmr?
-  [4/8/17, 21:03:44] Shannon: Yep okay! Give me a moment
-  [4/8/17, 21:03:47] Shannon: 10 min ahha
-  [4/8/17, 21:03:49] Shannon: I just got home
-  [4/8/17, 22:07:33] Shannon: Hi yi Hein sorry the 10 min became 1h haha
-  [4/8/17, 22:12:27] Shannon: Anyway this is what you should take note of:
-  - you can report after your training! Just text me when you arrive and I'll come meet you
-  - GOH will come at about 12.15pm, so get into your blazer and stuff by 12pm! He will be at the new boardroom so you'll walk him to CPA 1 and guide him around
-  - I'll do a run through with you tmr morn as well when you arrive ok!
-  [4/8/17, 22:12:34] Shannon: Everything should end by 1pm
-  [4/8/17, 22:37:37] Yi Hein: Alright thanks
-  [16/8/17, 20:44:50] Shannon: Hello yi hein
-  [16/8/17, 21:24:09] Shannon: Does he hate me
-  [16/8/17, 21:24:17] Shannon: I suppose he does right
-  [16/8/17, 21:36:01] Yi Hein: dhc?
-  [16/8/17, 21:36:55] Shannon: Yeah
-  [16/8/17, 21:37:06] Shannon: He told you what happened right
-  [16/8/17, 21:42:55] Yi Hein: kinda quite briefly though
-  [16/8/17, 21:44:28] Yi Hein: i don't think hate would be the right word?
-  [16/8/17, 21:44:39] Shannon: He's hurt?
-  [16/8/17, 21:44:46] Shannon: He thinks I betrayed him right
-  [16/8/17, 21:44:49] Shannon: And was a bad Friend
-  [16/8/17, 21:45:07] Yi Hein: yup
-  [16/8/17, 21:45:33] Shannon: Okay
-  [16/8/17, 21:45:45] Shannon: It's alright
-  [16/8/17, 21:45:46] Shannon: I
-  [16/8/17, 21:45:48] Shannon: I deserve it
-  [16/8/17, 21:47:15] Yi Hein: what did he say that really made you feel super uncomfortable?
-  [16/8/17, 21:47:38] Shannon: I never wanted this
-  [16/8/17, 21:47:41] Shannon: I
-  [16/8/17, 21:47:46] Shannon: Don't know anymore
-  [16/8/17, 21:47:49] Shannon: Maybe nothing happened
-  [16/8/17, 21:47:54] Shannon: Maybe I imagined the past four months
-  [16/8/17, 21:48:02] Shannon: I probably overreacted or something
-  [16/8/17, 21:48:18] Shannon: He probably did nothing wrong
-  [16/8/17, 21:48:18] Shannon: It's all my fault probably
-  [16/8/17, 21:48:18] Shannon: Yes it is
-  [16/8/17, 21:48:19] Shannon: I think it is
-  [16/8/17, 21:48:19] Shannon: I
-  [16/8/17, 21:48:19] Shannon: I
-  [16/8/17, 21:48:31] Shannon: I'm sorry
-  [16/8/17, 21:49:07] Yi Hein: Yeah it can feel unreal when so many things happen so fast
-  [16/8/17, 21:50:15] Yi Hein: I think it's mistakes on both parts?
-  [16/8/17, 21:50:28] Shannon: No it's all mine sigh
-  [16/8/17, 21:50:29] Shannon: It's okay
-  [16/8/17, 21:51:00] Shannon: I understand
-  [16/8/17, 21:51:08] Shannon: I don't deserve his forgiveness
-  [16/8/17, 21:51:16] Shannon: I don't expect him to forgive me
-  [16/8/17, 21:51:43] Shannon: Nevermind it's ok!
-  [16/8/17, 21:51:45] Shannon: I'm ok!
-  [16/8/17, 21:58:05] Yi Hein: Tbh I think he's already gotten over it so yeah try to put all the bad things that happened in the past
-  [16/8/17, 21:59:39] Yi Hein: I guess the best thing now is too look forward and see at the situation from his perspective, and he should look at the situation from your perspective
-  [16/8/17, 22:00:11] Yi Hein: You never know maybe you'll be great friends with him again :)
-  [16/8/17, 22:01:14] Yi Hein: Well the strongest friendships are forged through things like these
-  [16/8/17, 22:01:55] Yi Hein: So yeah give yourself sometime to take it in and then move on from there
-  [16/8/17, 22:04:26] Shannon: I can see it from his perspective
-  [16/8/17, 22:04:28] Shannon: And it sucks
-  [16/8/17, 22:04:32] Shannon: I would hate me too I guess
-  [16/8/17, 22:04:35] Shannon: And so I do
-  [16/8/17, 22:04:44] Shannon: And I hope it makes him happy
-  [16/8/17, 22:04:49] Yi Hein: Well if he sees it from your perspective
-  [16/8/17, 22:04:51] Yi Hein: It sucks
-  [16/8/17, 22:04:56] Shannon: Because I can see what a terrible person I am
-  [16/8/17, 22:05:02] Shannon: If he sees it from my perspective
-  [16/8/17, 22:05:04] Shannon: I hope
-  [16/8/17, 22:05:07] Shannon: He knows how sorry I am
-  [16/8/17, 22:05:12] Shannon: And how much I do love him still
-  [16/8/17, 22:05:14] Shannon: As a Friend
-  [16/8/17, 22:05:21] Shannon: And that I'd do everything out of love
-  [16/8/17, 22:05:36] Shannon: Does the class hate me?
-  [16/8/17, 22:06:58] Yi Hein: Nah, why would they lol
-  [16/8/17, 22:07:00] Yi Hein: i think everyone wants to help in anyway they can
-  [16/8/17, 22:07:05] Shannon: But
-  [16/8/17, 22:07:09] Shannon: Didn't he tell them what I did
-  [16/8/17, 22:07:59] Yi Hein: I think Isaiah have told some ppl but very generally
-  [16/8/17, 22:08:12] Yi Hein: And they understand your position
-  [16/8/17, 22:09:48] Yi Hein: Tbh I think majority of the class are siding with you
-  [16/8/17, 22:10:33] Yi Hein: I'm also worried is what they'll think of dhc
-  [16/8/17, 22:10:41] Shannon: He
-  [16/8/17, 22:10:43] Shannon: Sigh
-  [16/8/17, 22:10:50] Shannon: He has the back row doesnt he
-  [16/8/17, 22:10:57] Shannon: Sigh
-  [16/8/17, 22:10:59] Shannon: I
-  [16/8/17, 22:11:10] Shannon: Never wanted this either
-  [16/8/17, 22:12:28] Yi Hein: I talked to joe and others, honestly they don't seem interested and bother to be involved
-  [16/8/17, 22:13:04] Shannon: Oh that's good
-  [16/8/17, 22:13:17] Yi Hein: :(
-  [16/8/17, 22:14:02] Shannon: Huh why
-  [16/8/17, 22:14:06] Shannon: I mean that's good right haha
-  [16/8/17, 22:14:08] Shannon: Why da deface
-  [16/8/17, 22:14:11] Shannon: *sad face
-  [16/8/17, 22:14:14] Shannon: Like
-  [16/8/17, 22:14:18] Shannon: It's better to not care
-  [16/8/17, 22:14:39] Shannon: I mean it'll be better if they could give him the support he needed/ wanted but the next best thing would be to not care right
-  [16/8/17, 22:15:46] Yi Hein: No it's cause the class really seems divided
-  [16/8/17, 22:15:57] Shannon: Oh
-  [16/8/17, 22:15:59] Shannon: Really
-  [16/8/17, 22:16:01] Shannon: Like how
-  [16/8/17, 22:16:06] Shannon: Sigh it's all my fault I'm so sorry
-  [16/8/17, 22:17:01] Yi Hein: Nah it cause the fact that they are taking sides instead of looking at it objectively
-  [16/8/17, 22:17:34] Yi Hein: I think I'll be good for you and dhc to come to a consensus and clear things up to the class
-  [16/8/17, 22:18:20] Shannon: Huh didn't you just say that they don't care haha
-  [16/8/17, 22:18:27] Shannon: I'm not allowed to talk to him
-  [16/8/17, 22:18:37] Shannon: Or interact with him really
-  [16/8/17, 22:18:54] Yi Hein: Your parents don't allow or like it's best not to?
-  [16/8/17, 22:19:27] Shannon: Teachers
-  [16/8/17, 22:19:38] Shannon: I didn't want to block him either
-  [16/8/17, 22:19:47] Shannon: I was forced to
-  [16/8/17, 22:19:53] Shannon: On all social media
-  [16/8/17, 22:22:19] Yi Hein: Oh well just let things calm down first
-  [16/8/17, 22:43:59] Yi Hein: As a friend, I'll advice that it would be beneficial to adhere closely to your beliefs and words truthfully in all situations
-  ‎[19/9/17, 19:11:46] Shannon: ‎Contact card omitted
-  [19/9/17, 19:11:48] Shannon: Hellos
-  [19/9/17, 19:11:54] Shannon: She would like me to give you her number
-  [19/9/17, 19:32:50] Yi Hein: Yess lmao when to call the staff room thrice today and she's not in
-  ‎[3/11/17, 13:03:48] Shannon: ‎image omitted
-  [3/11/17, 13:04:42] Shannon: Yi Hein
-  [3/11/17, 13:04:52] Shannon: Yi hein stay strong
-  [3/11/17, 13:05:13] Shannon: I feel scared to you
-  [3/11/17, 13:05:14] Shannon: *for
-  [3/11/17, 15:07:15] Yi Hein: Oh crap
-  [3/11/17, 15:07:37] Shannon: Yeahhh
-  [3/11/17, 15:07:39] Shannon: Atb
-  [3/11/17, 15:08:17] Yi Hein: Alright I'm heading there now
-  [3/11/17, 15:14:53] Yi Hein: Welp I survived
-  [3/11/17, 15:15:15] Yi Hein: Btw she helped me keep microscope is it?
-  [3/11/17, 15:15:30] Yi Hein: *the microscope
-  [3/11/17, 15:17:00] Shannon: Yep
-  [3/11/17, 15:17:04] Shannon: Haha okay good
-  [3/11/17, 15:17:06] Shannon: I’m Glad
-  [3/11/17, 15:17:09] Shannon: Did she scold you
-  [3/11/17, 15:17:32] Yi Hein: Kinda
-  [3/11/17, 15:17:59] Yi Hein: I think she got a pay rise or sth she not as grumpy tdy
-  [3/11/17, 15:18:40] Yi Hein: She just told me to buy the person who helped me keep the microscope a drink
-  [3/11/17, 15:20:26] Shannon: HAHA
-  [3/11/17, 15:20:27] Shannon: Okay
-  [3/11/17, 15:20:35] Shannon: do you know how she looks like
-  [3/11/17, 15:30:51] Yi Hein: I may have seen her, but can't match the name to a face
-  [14/11/17, 08:27:00] Shannon: Hi! Just to confirm, are you interested in the KDF befriending programme? It’s every second Friday of the month, from 1.30 pm to 3.30 pm.
-  [14/11/17, 16:40:24] Yi Hein: Yeah
-  [14/11/17, 16:41:06] Yi Hein: Btw each interactor will join one or more than one Programme?
-  [14/11/17, 19:50:02] Shannon: At least one
-  [4/12/17, 22:37:26] Yi Hein: hey shannon, i'll be able to go for the KDF session afterall, my flight would be on the next day haha
-  [6/12/17, 21:44:29] Yi Hein: what's the travel history for btw?
-  [6/12/17, 21:45:45] Shannon: For patients’ safety
-  [6/12/17, 21:46:00] Shannon: So like if you went to a country where there was an out break they wouldn’t want you to come near the patients
-  [6/12/17, 21:49:10] Yi Hein: ohhh i see
-  [6/12/17, 21:49:56] Yi Hein: went to Chiang Mai, Thailand from 11-15/11/17
-  [6/12/17, 21:49:58] Yi Hein: thats about it
-  [8/12/17, 13:25:06] Yi Hein: Where are y'all meeting for the session lol
-  [8/12/17, 13:29:07] Shannon: What do you mean
-  [8/12/17, 13:30:27] Yi Hein: Ah it's fine, I'm inside, was wondering where the rest were
-  [8/12/17, 13:30:34] Shannon: Oh haha
-  [8/12/17, 13:30:45] Shannon: Yeah the other’s probably a little late
-  I’ll be a little late
-  [8/12/17, 13:30:53] Shannon: Did you tell mr loi you’re new?
-  [8/12/17, 13:30:56] Shannon: He’ll give you a briefing
-  [22/1/18, 21:56:34] Yi Hein: Hey Shannon is HVG starting this week?
-  [22/1/18, 22:13:09] Shannon: Yep most probably
-  [22/1/18, 22:13:18] Shannon: Still discussing some details will update you by tmr
-  [22/1/18, 23:01:21] Yi Hein: Ok can thanks
-  [25/1/18, 21:21:45] Shannon: Yi hein!!!!
-  [25/1/18, 21:21:51] Shannon: Is there no econs teat tmr
-  [25/1/18, 21:21:53] Shannon: *test
-  [25/1/18, 21:22:20] Yi Hein: Why?
-  [25/1/18, 21:22:26] Shannon: I just saw his message
-  [25/1/18, 21:22:29] Shannon: In the group
-  ‎[25/1/18, 21:22:57] Shannon: ‎image omitted
-  [25/1/18, 21:23:53] Yi Hein: Oh just saw it
-  [25/1/18, 21:24:07] Shannon: So no test?
-  [25/1/18, 21:24:38] Yi Hein: Yeah that what he said
-  [25/1/18, 21:24:39] Shannon: Yay okay
-  [25/1/18, 21:24:42] Shannon: So I don’t need to study
-  [25/1/18, 21:25:05] Yi Hein: Haha lol at least it forced me to prioritise Econs for a day ;)
-  [25/1/18, 21:25:06] Shannon: Hahaha
-  [25/1/18, 21:25:14] Shannon: Yayy okay
-  [25/1/18, 21:25:23] Shannon: Don’t forget to do your DRQ
-  [25/1/18, 21:25:40] Yi Hein: Where the qn btw
-  [25/1/18, 21:25:42] Shannon: The purple book
-  [25/1/18, 21:25:51] Shannon: At the back
-  [25/1/18, 21:26:01] Shannon: I can’t remember what page but it’s Nov 17 I think
-  [25/1/18, 21:26:15] Yi Hein: Ooooh ok I remember now
-  [25/1/18, 21:26:45] Yi Hein: Lol prob gonna do it tmr
-  [25/1/18, 21:26:49] Yi Hein: Too shagged out
-  [25/1/18, 21:36:46] Shannon: haha sigh rest well yeah
-  [6/2/18, 21:46:34] Yi Hein: I can't make it this Friday
-  [6/2/18, 21:46:50] Yi Hein: Have SIRC and orientation
-  [6/2/18, 21:49:02] Shannon: Alright sure
-  [14/2/18, 20:10:07] Yi Hein: Wait Shannon am I involved in the cny thing?
-  [14/2/18, 20:10:12] Yi Hein: Can't remember :/
-  [14/2/18, 20:10:16] Shannon: If you didn’t sign up then no haha
-  [14/2/18, 20:10:21] Shannon: Hm I don’t think you did
-  [14/2/18, 20:10:22] Shannon: Do you want to go tho?
-  [14/2/18, 20:10:25] Shannon: Is your elderly going?
-  [14/2/18, 20:10:41] Yi Hein: No idea didn't go for HVG tdy
-  [14/2/18, 20:10:46] Shannon: Oh
-  [14/2/18, 20:10:51] Shannon: Can you check w your group
-  [14/2/18, 20:10:54] Shannon: Sean is going tho
-  [14/2/18, 20:11:15] Yi Hein: Tbh idm it's better than sitting there and watching celebrations
-  [14/2/18, 20:11:25] Yi Hein: Ok will check
-  [14/2/18, 20:11:29] Shannon: Oh okay
-  [14/2/18, 20:23:20] Shannon: Hm Yi hein
-  [14/2/18, 20:23:42] Shannon: If you dk if your elderly is going
-  [14/2/18, 20:23:47] Shannon: Can you just put your name down first?
-  [14/2/18, 20:24:00] Shannon: If needed you can go a bit earlier to his house or smth?
-  [14/2/18, 20:24:04] Shannon: Or call now to check?
-  [14/2/18, 20:25:42] Shannon: Cos anyways we need ppl to go fetch the elderly
-  [14/2/18, 20:25:46] Yi Hein: Sean said he doesn't think so
-  [14/2/18, 20:25:52] Shannon: Oh ok
-  [14/2/18, 20:25:57] Shannon: Oh wait sorry
-  [14/2/18, 20:26:02] Shannon: What’s your wldelry’s name
-  [14/2/18, 20:26:40] Yi Hein: Hi Shannon, I managed to get one more resident who agreed to meet up with your today. Mrs Omar @ 85062390, BLK 4,#10-374.Dover Road..
-  [14/2/18, 20:27:19] Shannon: Ah ok thanks
-  Idk if she’s going haha
-  [14/2/18, 20:33:51] Shannon: Can one of you just go tmr?
-  [14/2/18, 20:33:56] Shannon: And then check then?
-  [14/2/18, 20:34:09] Yi Hein: Haha ok can 👌🏼
-  [14/2/18, 20:34:20] Shannon: Okay thanks! Ask someone to come w us then
-  [14/2/18, 20:41:28] Yi Hein: Sean is coming
-  [14/2/18, 20:41:51] Shannon: Oh ok ask him to add his name then
-  [14/2/18, 20:44:19] Shannon: Great thanks!
-  [15/2/18, 08:35:41] Shannon: Yi Hein is your elderly coming
-  [22/2/18, 23:09:29] Yi Hein: Hey Shannon do you have an adapter for mini-display port to vga?
-  [22/2/18, 23:10:13] Shannon: nope sorry i only have the mac one
-  ‎[22/2/18, 23:10:32] Yi Hein: ‎image omitted
-  [22/2/18, 23:10:55] Shannon: haha uh
-  [22/2/18, 23:11:04] Shannon: idk tim might have
-  [22/2/18, 23:11:08] Shannon: he has one haha
-  [22/2/18, 23:11:29] Shannon: im not sure if it's the same as the mac one
-  [22/2/18, 23:11:49] Yi Hein: Is your mac new? The older versions are the same
-  [22/2/18, 23:12:01] Shannon: oh okay then yeah it's the same
-  ‎[22/2/18, 23:12:23] Shannon: ‎image omitted
-  [22/2/18, 23:12:34] Yi Hein: Yup yes that works
-  [22/2/18, 23:12:52] Shannon: But I’m lending it to yangqing tmr for Tok I think
-  When do you need it?
-  [22/2/18, 23:13:04] Yi Hein: In the morning, before during assembly
-  [22/2/18, 23:13:13] Shannon: Oh okay should be fine then
-  [22/2/18, 23:13:17] Yi Hein: What time are you coming to school tmr
-  [22/2/18, 23:13:21] Shannon: I’ll pass it to you in the morning before sch?
-  [22/2/18, 23:13:25] Shannon: I usually come at about 7
-  [22/2/18, 23:13:32] Shannon: Do you want me to come earlier?
-  [22/2/18, 23:13:37] Yi Hein: Alright can
-  [22/2/18, 23:13:40] Yi Hein: 7 is fine
-  [22/2/18, 23:13:47] Yi Hein: Thanks so much!
-  [22/2/18, 23:13:49] Shannon: Okay thanks
-  [22/2/18, 23:13:55] Yi Hein: Life saver omg ☺️
-  [23/2/18, 06:59:21] Yi Hein: Hey Shannon tell me when you've arrived in school
-  [23/2/18, 07:00:24] Shannon: Hey yi Hein I just reached
-  [23/2/18, 07:03:12] Yi Hein: Are you at class?
-  [23/2/18, 07:05:01] Shannon: Left it on your table
-  [23/2/18, 07:05:16] Yi Hein: Ok thanks so much :)
-  [23/2/18, 08:35:52] Shannon: Can you pass it to yangqing later thanks
-  [23/2/18, 09:41:32] Yi Hein: Yup passed it to her
-  [4/3/18, 15:26:32] Shannon: Hey Yi hein
-  [4/3/18, 15:26:36] Shannon: I just printied
-  [4/3/18, 15:26:39] Shannon: Printed
-  [4/3/18, 15:26:49] Shannon: E solo at sunshine plaza
-  [4/3/18, 15:26:50] Yi Hein: they print it on the day itself
-  [4/3/18, 15:26:52] Yi Hein: ?
-  [4/3/18, 15:26:56] Shannon: $25 for A0 30 min
-  [4/3/18, 15:27:11] Shannon: Can go online and check
-  [4/3/18, 15:27:19] Shannon: Yeah
-  [4/3/18, 15:27:27] Shannon: I just went there and gave my design in PDF
-  [4/3/18, 15:27:28] Yi Hein: is it hard backing?
-  [4/3/18, 15:27:37] Shannon: Yeah they do both
-  [4/3/18, 15:27:45] Shannon: They have a website too
-  [4/3/18, 15:27:53] Yi Hein: ok checking the site
-  [4/3/18, 15:28:16] Shannon: Can call the guy to check
-  [4/3/18, 15:28:30] Shannon: 9039 3378
-  [4/3/18, 15:28:36] Shannon: The guy is rly nice too
-  [4/3/18, 15:37:50] Shannon: If youre going today
-  [4/3/18, 15:37:53] Shannon: They close at 6pm
-  [4/3/18, 15:38:09] Yi Hein: yeah i'm going tdy
-  [4/3/18, 15:41:17] Shannon: Okay save it in PDF first and put it in a thumb drive
-  [4/3/18, 15:58:59] Yi Hein: Okies
-  [4/3/18, 16:01:31] Shannon: If you can’t find it just message yeah
-  [4/3/18, 16:04:07] Yi Hein: btw do you know what magnification the school microscope has
-  [4/3/18, 16:04:13] Shannon: No haha
-  [4/3/18, 16:04:19] Shannon: I know there’s 50x
-  [4/3/18, 16:04:27] Shannon: Which is the red one I think
-  [4/3/18, 16:04:28] Shannon: That’s it
-  [4/3/18, 16:04:31] Shannon: I can’t remember the rest
-  [4/3/18, 16:04:34] Yi Hein: oh i see
-  [4/3/18, 16:04:41] Shannon: Probably 100x and 20x? Idk not sure about those
-  [4/3/18, 16:04:41] Yi Hein: the lens is 10x apparently
-  [4/3/18, 16:04:52] Shannon: Idk sorry
-  [4/3/18, 16:04:56] Shannon: Wait I can check my IA file
-  [4/3/18, 16:04:58] Shannon: Give me a bit
-  [4/3/18, 16:05:12] Yi Hein: yes thank youu
-  ‎[4/3/18, 16:26:07] Shannon: ‎image omitted
-  ‎[4/3/18, 16:26:23] Shannon: ‎image omitted
-  [4/3/18, 16:26:34] Shannon: So 4,10,40,100
-  [4/3/18, 16:26:42] Shannon: Oops I was wrong haha
-  [4/3/18, 16:27:53] Yi Hein: Omg thanks so much
-  [4/3/18, 16:28:15] Yi Hein: Wait what's magnification of the lens
-  [4/3/18, 16:28:35] Shannon: what do you mean
-  [4/3/18, 16:28:38] Shannon: like
-  [4/3/18, 16:28:46] Yi Hein: Oh wait ok got it
-  [4/3/18, 16:28:52] Shannon: haha okay
-  [4/3/18, 19:33:15] Yi Hein: Ok managed to print the poster in time
-  [4/3/18, 19:33:22] Yi Hein: Thanks so much for the recommendation haha
-  [4/3/18, 19:33:47] Yi Hein: Was about to go to the shop that cost $65 per poster
-  [4/3/18, 19:34:09] Yi Hein: *charged
-  [4/3/18, 19:41:10] Shannon: Yay okay that’s good!
-  [4/3/18, 19:41:12] Shannon: Np haha
-  [4/3/18, 19:41:14] Shannon: Everything okay?
-  [4/3/18, 19:41:29] Yi Hein: Yeah
-  [4/3/18, 19:41:59] Yi Hein: Now's the time for mad EE rush hahaha
-  [7/3/18, 06:45:28] Yi Hein: Hey Shannon I wanna buy the Interact shirt
-  [7/3/18, 19:57:50] Shannon: Okay
-  [7/3/18, 20:18:28] Shannon: Hi
-  [7/3/18, 20:18:30] Shannon: What’s your size
-  [7/3/18, 20:18:43] Yi Hein: S
-  [7/3/18, 20:18:48] Shannon: Okay
-  [8/3/18, 21:15:39] Yi Hein: Hey Shannon sry Ill be late tmr for KDF 😓
-  [8/3/18, 22:06:34] Shannon: okay
-  [8/3/18, 22:06:39] Shannon: can you pay for interact shirt tmr
-  [8/3/18, 22:06:40] Shannon: ?
-  [8/3/18, 22:08:40] Yi Hein: Yeah can
-  [28/4/18, 07:01:24] Yi Hein: hey shannon, could you help me update my HVG hours? I went thrice so far
-  [29/4/18, 18:16:50] Shannon: Okay sure
-  [29/4/18, 18:17:04] Shannon: Also, could you help me do a short 50-100 word reflections on the KDF befriending Programme? It’s for the CAS exhibition that Interact club is taking part in
-  [30/4/18, 05:51:37] Yi Hein: Ok!
-  [30/4/18, 18:49:29] Shannon: Can you send it to me ASAP haha
-  [30/4/18, 18:49:33] Shannon: I need to do the poster by tonight
-  [30/4/18, 20:42:38] Yi Hein: Crap sorry had to settle council stuff
-  [30/4/18, 20:42:41] Yi Hein: Typing it now
-  [30/4/18, 22:00:52] Yi Hein: Volunteering and befriending the patients at KDF was no doubt an enriching experience. I felt that it was very interesting to hear about their stories and listen to the life lessons they shared. At times, I was so engrossed that before I knew it, the befriending session was over and looked forward to the next session. Seeing the patients smile and laugh while playing board games with them was also very heartwarming and fulfilling. It was at these times where I felt that I am indeed making a positive difference to the lives of others and hence strengthening my belief that what I am doing is very meaningful.
-  [30/4/18, 22:01:24] Yi Hein: Sflr 😓
-  [30/4/18, 22:01:46] Shannon: Thanks so muchhhh
-  [30/4/18, 22:32:20] Shannon: thanks so much!! you shall be featured in the poster 👍🏻
-  [6/5/18, 15:44:33] Yi Hein: Hey Shannon, do you happen to have picture of Fei Yue day camp from last year?
-  [6/5/18, 16:18:33] Yi Hein: And also pics from KDF (the group pic after each session)
-  [6/5/18, 17:43:49] Shannon: Hi Yi Hein, it’s in the class group somewhere
-  [6/5/18, 17:44:13] Shannon: I sent it to the group I think, but I think he hasn’t sent me the rest, I’ll ask Mr Loi
-  [6/5/18, 18:16:00] Yi Hein: Thanks!
-  [6/5/18, 21:26:50] Shannon: Hey Yi hein if we’re not going for prom do we have to fill up the form?
-  [7/5/18, 07:07:56] Yi Hein: No you won't need to
-  [7/5/18, 20:33:12] Shannon: Okay thanks!
-  [31/7/18, 09:32:27] Shannon: Hello haha
-  Here’s my notes https://1drv.ms/f/s!AqOzi1btmBkxjG23LM0Y3Rdsjfsz
-  Since you don’t use mac just look at the PDF folder
-  I didn’t do for the poems this year tho cos I thought the poems were sufficient
-  [31/7/18, 09:32:35] Shannon: All the best haha
-  [31/7/18, 09:34:30] Shannon: Also Not sure if you know this but here’s the scenes tested for Macbeth:
-  act 1 scene 2-7 except 4 and 6, act 2 scene 1-3, act 3 scene 1 and 4, act 4 scene 1 and act 5 scene1,5
-  [31/7/18, 09:34:54] Shannon: Haha Dylan and I sort of compiled this from various sources idk if it will be useful
-  [31/7/18, 13:36:43] Yi Hein: Thanks so much!
-  [28/9/18, 13:45:00] Shannon: Hi Yi hein were the other 2018 interact stuff there?
-  [28/9/18, 13:45:12] Shannon: Other than KDF
-  [28/9/18, 13:57:04] Yi Hein: Weekly home visit is there
-  [28/9/18, 13:58:03] Yi Hein: Didn't go for Interact camp/PHD so that should be it
-  [28/9/18, 19:14:48] Shannon: Okay great thanks
-  [15/11/18, 22:09:18] Shannon: Hey Yi hein would you be free this sat for the KDF lunch? Haha looking to see if anyone else is free cos from the y6s it’s only me and Gideon now...
-  [15/11/18, 22:29:24] Yi Hein: Hmmm I've sth at ard 3:30pm what time would it end?
-  [16/11/18, 09:32:50] Shannon: Haha the earliest time you can leave is 12
-  [16/11/18, 09:32:57] Shannon: After that is lunch but you can leave anytime
-  [16/11/18, 09:44:52] Yi Hein: Yeah I should be able to make it then
-  [16/11/18, 22:14:24] Shannon: Thanks!! Dress code is smart casual :) see you!
-  [29/4/19, 00:06:38] Shannon: ‎This message was deleted.
-  [29/4/19, 04:50:43] Yi Hein: ???
-  [29/4/19, 04:50:52] Shannon: Ignore HAHA
-  [29/4/19, 04:50:53] Shannon: Sorry
-  [29/4/19, 04:50:59] Yi Hein: Did u get NTU btw?
-  [29/4/19, 04:51:03] Shannon: Yeah I did
-  [29/4/19, 04:51:11] Shannon: I heard you didn’t apply tho
-  [29/4/19, 04:51:15] Yi Hein: Woah nice congrats!!!
-  [29/4/19, 04:51:19] Shannon: Thanks haha
-  [29/4/19, 04:51:19] Yi Hein: Yeah I didn't
-  [29/4/19, 04:51:23] Shannon: Did you just wake up
-  [29/4/19, 04:51:28] Yi Hein: Dr Lee HAHAHA
-  [29/4/19, 04:51:31] Yi Hein: Yup
-  [29/4/19, 04:51:51] Shannon: Wa okay I hope army is going okay for you
-  [29/4/19, 04:51:59] Shannon: All the best for NUS next week!
-  [29/4/19, 04:52:00] Shannon: Or this week
-  [29/4/19, 04:52:13] Shannon: Do you know anyone else who got in haha
-  [29/4/19, 04:52:17] Yi Hein: Yeah it's fine, good thing is Labour Day this week :)))
-  [29/4/19, 04:52:28] Yi Hein: In our class, only trina
-  [29/4/19, 04:53:10] Yi Hein: My platoon has 5 who got in which is 1/6 of everyone
-  [29/4/19, 04:53:17] Yi Hein: Pretty insane actly
-  [29/4/19, 04:53:19] Shannon: Omg what
-  [29/4/19, 04:53:28] Shannon: Wow
-  [29/4/19, 04:53:57] Yi Hein: Honestly feels bad for gideon 😔
-  [29/4/19, 04:54:03] Shannon: yeah me too
-  [29/4/19, 04:54:03] Shannon: sigh
-  [29/4/19, 04:54:10] Shannon: i think he's quite disappointed
-  [29/4/19, 04:54:25] Yi Hein: I don't even know what the admissions committee are doing
-  [29/4/19, 04:54:31] Yi Hein: They're blind or sth
-  [29/4/19, 04:54:58] Yi Hein: U wake up so early?
-  [29/4/19, 04:55:08] Shannon: ERM
-  [29/4/19, 04:55:08] Shannon: i havent slept
-  [29/4/19, 04:55:14] Yi Hein: Wuttttt
-  [29/4/19, 04:55:18] Yi Hein: Why tho
-  [29/4/19, 04:55:23] Shannon: idk, can't sleep haha
-  [29/4/19, 04:55:27] Shannon: ya sigh and like dylan
-  [29/4/19, 04:55:31] Shannon: :///
-  [29/4/19, 04:55:34] Shannon: hope nus is better haha
-  [29/4/19, 04:55:38] Yi Hein: Yeah man
-  [29/4/19, 04:56:35] Yi Hein: You volunteering now?
-  [29/4/19, 04:57:06] Shannon: yep
-  [29/4/19, 04:57:13] Shannon: i volunteer at MINDS
-  [29/4/19, 04:57:26] Shannon: actually if you want you can join also HAHA but idk if you can make it cos of army
-  [29/4/19, 04:57:29] Shannon: dylan comes too!
-  [29/4/19, 04:57:38] Yi Hein: Omg I volunteered there before!
-  [29/4/19, 04:57:47] Yi Hein: Over the weekends?
-  [29/4/19, 04:58:09] Shannon: yep every sat
-  [29/4/19, 04:58:13] Shannon: oh really? what did you do
-  [29/4/19, 04:58:30] Yi Hein: We invited them to our school every week then Organised activities for them
-  [29/4/19, 04:58:42] Yi Hein: did it under St. John's
-  [29/4/19, 05:00:42] Yi Hein: You've any work during weekdays?
-  [29/4/19, 05:01:22] Shannon: Oh I see, eh cool, how was your experience working with the trainees?
-  [29/4/19, 05:01:56] Shannon: Tried to find work HAHA but then cos of my volunteering stuff it's quite hard to do office hours (I also give tuition to kids w special needs) so in the end I'm just doing random ad hoc stuff
-  [29/4/19, 05:02:12] Yi Hein: Trainees?
-  [29/4/19, 05:02:44] Shannon: oh like the beneficiaries hahah
-  [29/4/19, 05:02:54] Shannon: idk what you called them, usually MINDS calls them trainees or clients
-  [29/4/19, 05:03:08] Yi Hein: Ah yes
-  [29/4/19, 05:03:44] Yi Hein: They're really fun to interact with, at the start was a bit hard to communicate but after a while really got to know them
-  [29/4/19, 05:04:13] Yi Hein: Do you know who is Melissa ?
-  [1/5/19, 00:05:27] Shannon: Sflr I’m in Hong Kong now HAHA
-  [1/5/19, 00:05:34] Shannon: Yeah haha get what you mean
-  [1/5/19, 00:05:37] Shannon: Nope who’s that
-  [1/5/19, 05:00:47] Yi Hein: Oh it was a client I interact with quite a bit
-  [1/5/19, 05:00:57] Yi Hein: Was wondering whether she was still there
-  [3/5/19, 19:41:52] Shannon: you hein did you get NUS!!
-  [3/5/19, 19:41:55] Shannon: *yi hein
-  [3/5/19, 19:41:56] Shannon: I didn’t haha
-  [3/5/19, 20:08:20] Yi Hein: I can't check?!??!?
-  [3/5/19, 20:08:36] Yi Hein: Issit the main portal where you submit the NUS application?
-  [3/5/19, 20:08:44] Shannon: https://jointacceptance.edu.sg/pls/webexe/joint_accept.login_verify
-  [3/5/19, 20:08:46] Shannon: Check here
-  [3/5/19, 20:08:47] Yi Hein: 😥
-  [3/5/19, 20:08:54] Shannon: Idk my friend just sent me this link to check HAHA
-  [3/5/19, 20:08:57] Shannon: Idk where she got it from
-  [3/5/19, 20:09:17] Shannon: It’s where you accept your offers I think
-  [3/5/19, 20:09:23] Yi Hein: It's says invaild login
-  [3/5/19, 20:09:24] Shannon: Like from the diff local units
-  [3/5/19, 20:09:27] Shannon: *unis
-  [3/5/19, 20:09:28] Shannon: Huhhh
-  [3/5/19, 20:09:36] Shannon: Use your 6xxxx id
-  [3/5/19, 20:09:40] Shannon: It worked for me and Gideon
-  [3/5/19, 20:09:46] Shannon: Like the applicant ID
-  [3/5/19, 20:13:50] Yi Hein: Gideon got?
-  [3/5/19, 20:13:55] Shannon: Nope
-  [3/5/19, 20:14:00] Shannon: Dylan also didn’t :/
-  [3/5/19, 20:14:01] Shannon: Did you?
-  [3/5/19, 20:14:04] Shannon: My Friend did though
-  [3/5/19, 20:14:07] Shannon: Yu Chun
-  [3/5/19, 20:14:32] Yi Hein: Ok I'll check when I'm back home
-  [3/5/19, 20:14:36] Yi Hein: Booking out now
-  [3/5/19, 20:14:42] Yi Hein: WHAT THE
-  [3/5/19, 20:14:47] Shannon: Okay
-  [3/5/19, 20:14:49] Shannon: YA
-  [3/5/19, 20:14:59] Shannon: Stay safe though
-  [3/5/19, 21:14:12] Yi Hein: This is 8 digit right?
-  [3/5/19, 21:14:19] Shannon: Yeah
-  [3/5/19, 21:14:24] Yi Hein: Yeah doesn't work
-  [3/5/19, 21:14:30] Shannon: Huh really
-  [3/5/19, 21:14:34] Yi Hein: If I don't get an offer, would it still work?
-  [3/5/19, 21:14:35] Shannon: That’s weird!!
-  [3/5/19, 21:31:25] Yi Hein: What did it say when you entered the portal!
-  [3/5/19, 21:31:28] Yi Hein: *?
-  [3/5/19, 21:33:28] Shannon: Not sure... but I think maybe they also haven’t fully updated everyone yet cos some ppl who didn’t apply to other unis didn’t get a reply either
-  [3/5/19, 21:33:30] Shannon: Like Claudia
-  ‎[3/5/19, 21:33:34] Shannon: ‎image omitted
-  [3/5/19, 21:33:45] Shannon: Cos you’re only waiting for NUS right and you don’t have second choice
-  [3/5/19, 21:36:51] Yi Hein: Yeah
-  [3/5/19, 21:37:21] Yi Hein: I believe I can't login cos I don't have an offer
-  [3/5/19, 21:38:13] Shannon: Yeah
-  [3/5/19, 21:38:16] Shannon: Maybe next week then
-  [3/5/19, 21:38:24] Shannon: Cos I think they’re not done updating for everyone else
-  [3/5/19, 21:38:32] Shannon: Like that might be why they haven’t sent out the emails yet
-  [3/5/19, 21:38:36] Shannon: Don’t lose hope okay!!!
-  [3/5/19, 21:38:40] Shannon: And don’t stress over this
-  [3/5/19, 21:39:40] Yi Hein: Apparently they send all at once, not in batches
-  [3/5/19, 21:39:51] Yi Hein: So I'm suspecting a waiting list
-  [3/5/19, 21:43:02] Yi Hein: Did you get any rejection letter/ waitlist?
-  [3/5/19, 21:43:09] Shannon: Nope didn’t get any email at all
-  [4/5/19, 01:08:16] Yi Hein: got my rejection letter
-  [4/5/19, 08:06:28] Shannon: Oh :/
-  [4/5/19, 08:06:31] Shannon: Through email?
-  [4/5/19, 08:08:50] Yi Hein: Uas
-  [4/5/19, 09:42:52] Shannon: Oh
-  [4/5/19, 09:42:55] Shannon: Okay ya I just saw it too
-  [4/5/19, 09:42:57] Shannon: SIGH
-  [4/5/19, 09:43:01] Shannon: Are you okayy
-  [4/5/19, 09:43:03] Shannon: *?
-  [4/5/19, 09:43:10] Yi Hein: yeah
-  [4/5/19, 09:43:13] Yi Hein: it stings quite a bit
-  [4/5/19, 09:43:15] Yi Hein: but i can move on
-  [4/5/19, 09:43:18] Yi Hein: i'll never give up
-  [4/5/19, 09:43:21] Yi Hein: no matter what
-  [4/5/19, 09:43:29] Yi Hein: nus med is not gonna stop me hahahaa
-  [4/5/19, 09:43:36] Yi Hein: i'll go india if i have to
-  [4/5/19, 09:43:51] Shannon: Yay that’s good to hear!!
-  [4/5/19, 09:44:01] Shannon: Yeah just take some time to accept it and move on
-  [4/5/19, 09:44:05] Yi Hein: yup
-  [4/5/19, 09:44:13] Yi Hein: life takes unexpected turns at times
-  [4/5/19, 09:44:19] Yi Hein: but that's what makes it exciting :)
-  [4/5/19, 09:44:33] Shannon: you can applyNTU next year right? Just take BMAt again
-  [4/5/19, 09:44:37] Shannon: Haha
-  [4/5/19, 09:44:41] Shannon: You’re cool 👍🏻
-  [4/5/19, 09:44:56] Yi Hein: yup
-  [20/5/19, 23:01:59] Yi Hein: Hey Shannon did u ask AChia for your Med application referee?
-  [21/5/19, 08:37:02] Shannon: Nope I asked mr Azmi and Mr tang jie
-  [21/5/19, 08:37:03] Shannon: Why?
-  [21/5/19, 08:37:06] Shannon: Btw are you appealing
-  [21/5/19, 10:03:37] Yi Hein: Yup
-  [21/5/19, 10:03:40] Yi Hein: Are you?
-  [21/5/19, 10:43:36] Shannon: Yeah my dad wants me to
-  [21/5/19, 10:43:42] Shannon: Haha he’s like quite upset I didn’t get nus idk why
-  [21/5/19, 10:44:04] Shannon: By any chance, have you heard from Dylan recently?
-  [21/5/19, 12:16:23] Yi Hein: Hmm i didn't
-  [21/5/19, 12:16:27] Yi Hein: Did he get waitlist?
-  [21/5/19, 12:18:35] Shannon: Oh wait did you get waitlist for nus med?
-  [21/5/19, 12:18:41] Shannon: Yeah he did for ntu
-  [21/5/19, 12:18:49] Shannon: He’s been ignoring all my messages :/  idk why
-  [21/5/19, 12:19:00] Shannon: I think he’s kind of upset that he didn’t get both NUS and ntu
-  [21/5/19, 13:07:40] Yi Hein: OMG that's amazing
-  [21/5/19, 13:07:51] Yi Hein: why would he be upset?
-  [21/5/19, 13:15:25] Yi Hein: Getting into local Med is incredible already
-  [21/5/19, 13:48:16] Yi Hein: He's probably busy man
-  [21/5/19, 15:56:15] Shannon: Haha... for 2 weeks alr
-  [21/5/19, 15:56:45] Shannon: And he read them and stuff, it’s like “hi Dylan are you okay?” cos I was checking up on him after he got rejected
-  [21/5/19, 15:56:58] Shannon: Then he just didn’t reply sigh idk if he’s annoyed with me or smth
-  [21/5/19, 15:57:07] Shannon: So I’ll just give him space I guess
-  [21/5/19, 15:57:36] Shannon: Cos he thinks NUS better HAHA and his friends’ sons all got into both NTU and NUS 😔🙃
-  [21/5/19, 15:57:47] Shannon: Did you?
-  [21/5/19, 18:30:02] Yi Hein: Nope lol
-  [21/5/19, 18:30:17] Yi Hein: Did he tell you he got NTU Med?
-  [21/5/19, 18:30:27] Shannon: Huh Dylan got ntu med?
-  [21/5/19, 18:30:46] Yi Hein: Wait no he didn't
-  [21/5/19, 18:30:48] Shannon: I only knew he was on the waitlist
-  [21/5/19, 18:30:49] Shannon: HAHA
-  [21/5/19, 18:30:59] Yi Hein: Ohhhh I read wrongly
-  [21/5/19, 18:31:02] Shannon: I didn’t get waitlistEd either for nus
-  [21/5/19, 18:31:14] Shannon: Like I didn’t get anything from them
-  [21/5/19, 18:31:14] Yi Hein: I thought you said he got waitlist
-  [21/5/19, 18:31:15] Shannon: BUT RIGHT
-  [21/5/19, 18:31:29] Shannon: I got the nus scholarship 😭
-  [21/5/19, 18:31:33] Shannon: For ntu
-  [21/5/19, 23:26:02] Yi Hein: Omg feelsbadman
-  [22/5/19, 17:37:19] Yi Hein: Dylan no chance to get accepted from waitlist :(
-  [22/5/19, 17:37:22] Yi Hein: His ranking too Low
-  [22/5/19, 19:36:58] Shannon: Huh what rankling?
-  [22/5/19, 19:37:01] Shannon: *ranking
-  [22/5/19, 20:17:23] Yi Hein: They rank candidates based on interview scores
-  [22/5/19, 20:22:31] Shannon: 😰😱 how do you know your rank
-  [22/5/19, 20:22:34] Shannon: You talked to him ah
-  [22/5/19, 21:02:31] Yi Hein: He emailed lol
-  [22/5/19, 21:02:33] Yi Hein: Yeah
-  [22/5/19, 21:02:44] Shannon: Omg
-  [22/5/19, 21:02:51] Shannon: They told him no chance?????
-  [22/5/19, 21:02:52] Shannon: That’s harsh
-  [22/5/19, 21:02:57] Shannon: SHIT
-  [22/5/19, 21:03:01] Shannon: I think he’s rly annoyed with me
-  [22/5/19, 21:03:01] Shannon: Sigh
-  [22/5/19, 21:03:04] Shannon: Idk what I did
-  [22/5/19, 21:03:09] Yi Hein: No lah they said he's 15th percentile
-  [22/5/19, 21:03:19] Shannon: Like ntu?
-  [22/5/19, 21:03:22] Yi Hein: yu
-  [22/5/19, 21:03:26] Yi Hein: *yup
-  [22/5/19, 21:03:26] Shannon: I wonder if nus will say
-  [22/5/19, 21:03:37] Yi Hein: Yeah I'm gonna email them for feedback
-  [22/5/19, 21:03:58] Yi Hein: You last messaged him on the day results released?
-  [22/5/19, 21:04:13] Shannon: that was when he stopped replying
-  [22/5/19, 21:04:22] Shannon: Then I messaged again the next day to check on him
-  [22/5/19, 21:04:29] Shannon: Then last week I sent another message
-  [22/5/19, 21:04:35] Shannon: He ignored all of them 🙃😩
-  [22/5/19, 21:04:43] Shannon: Okay let me know how it goes!
-  [22/5/19, 21:04:57] Yi Hein: Yeah ok!
-  [22/5/19, 21:05:10] Yi Hein: 🙃
-  [22/5/19, 21:05:36] Yi Hein: Tbh idk how he's coping cos haven't met him in person since meeting him during FSA
-  [31/5/19, 17:29:11] Shannon: YI HEIN
-  [31/5/19, 17:29:20] Shannon: I just saw the list of ppl who got accepted into nus med
-  [31/5/19, 17:29:24] Shannon: Hahaha sorry
-  [31/5/19, 17:29:35] Shannon: Idk but I feel quite salty ESP FOR GIDEON YOU AND DYLAN
-  [31/5/19, 22:34:17] Yi Hein: Hahaha it's ok
-  [31/5/19, 22:34:25] Yi Hein: See it as opportunities to explore more possibilities
-  [31/5/19, 22:34:38] Yi Hein: Can I see the list?
-  [31/5/19, 22:35:20] Shannon: keith gan
-  jian shuin
-  sam chang
-  noah
-  gab tham
-  chris low
-  chloe goh
-  fergus 
-  zavier lim
-  joel lau
-  joseph cheng
-  kaveen
-  reo
-  sabine
-  caitlin loh
-  zach chan
-  ryan seow
-  luke yeo
-  Ryan Tay (6.10) 
-  harshita
-  yu han
-  Yu Chun
-  Joseph see
-  Bryan Theng
-  Sean
-  [31/5/19, 22:35:26] Shannon: ☹️😔
-  [31/5/19, 22:35:37] Shannon: Idk how to deal with it personally
-  [31/5/19, 22:49:21] Yi Hein: Ok lah the ppl that got in are quite nice
-  [31/5/19, 22:50:38] Shannon: Yeah I guess
-  [31/5/19, 22:50:43] Shannon: Is the last Sean Sean Tan HAHA
-  [31/5/19, 22:50:52] Yi Hein: Yu
-  [31/5/19, 22:50:52] Shannon: It’s mainly the popz people haha
-  [31/5/19, 22:51:01] Shannon: Legit he got in ah
-  [31/5/19, 22:51:02] Yi Hein: Yeah from our class
-  [31/5/19, 22:51:04] Shannon: Okay haha
-  [31/5/19, 22:51:56] Shannon: How do you feel
-  [31/5/19, 22:52:31] Yi Hein: Not really 🤔
-  [31/5/19, 22:52:56] Yi Hein: Aren't you satisfied with NTU
-  [31/5/19, 22:59:12] Shannon: really
-  [31/5/19, 22:59:17] Shannon: i thought those people are popz HAHA
-  [31/5/19, 22:59:22] Shannon: ya i am
-  [31/5/19, 22:59:24] Shannon: it's just that idk
-  [31/5/19, 22:59:37] Shannon: i feel like all the portfolio stuff are quite useless in retrospect
-  [31/5/19, 22:59:48] Shannon: i mean i obv didnt do all of them for the portfolio
-  [31/5/19, 22:59:59] Shannon: like volunteering etc i did those cos i actually enjoyed it
-  [31/5/19, 23:00:08] Shannon: but i dunno, i realise that objectively theyre all quite useless
-  [31/5/19, 23:00:16] Shannon: like a star scholarship, ssef, 45 points etc
-  [31/5/19, 23:00:36] Shannon: i mean what's the point of all that haha
-  [31/5/19, 23:00:39] Shannon: when you think abt it now
-  [31/5/19, 23:00:45] Shannon: i could have spent that time doing something else
-  [31/5/19, 23:00:55] Shannon: interact exco and all that
-  [31/5/19, 23:01:42] Yi Hein: Yeah that's sth I realise for this selection, portfolio is downplayed
-  [31/5/19, 23:01:50] Shannon: yeah
-  [31/5/19, 23:02:07] Yi Hein: quite a lot of ppl with good portfolios didn't get in
-  [31/5/19, 23:02:15] Shannon: yeah
-  [31/5/19, 23:02:31] Yi Hein: Hmmm but I don't regret doing any of it
-  [31/5/19, 23:02:36] Shannon: really
-  [31/5/19, 23:02:48] Yi Hein: Even if I know that it would lower my chances to Med school I'll still do it
-  [31/5/19, 23:02:50] Shannon: that's good
-  [31/5/19, 23:02:59] Shannon: yeah that's true
-  [31/5/19, 23:03:03] Shannon: i would do everything still
-  [31/5/19, 23:03:05] Shannon: except for asp HAHA
-  [31/5/19, 23:03:08] Shannon: i think that was a mistake
-  [31/5/19, 23:03:44] Shannon: you're right though
-  [31/5/19, 23:04:46] Yi Hein: why though?
-  [31/5/19, 23:04:56] Yi Hein: legit get better Teachers
-  [31/5/19, 23:05:09] Shannon: haha achia??
-  [31/5/19, 23:05:20] Yi Hein: Hey he's an amazing bio teacher
-  [31/5/19, 23:05:20] Shannon: but doesnt matter we all self learnt bio anyway
-  [31/5/19, 23:05:25] Shannon: HAHAH okay
-  [31/5/19, 23:05:35] Shannon: no lah i just feel like the environment wasnt good for me
-  [31/5/19, 23:05:36] Yi Hein: He teaches things that can't be self taught
-  [31/5/19, 23:05:42] Yi Hein: Ah ok I se
-  [31/5/19, 23:05:50] Shannon: and tbh i made a lot of mistakes friendships wise in class
-  [31/5/19, 23:05:53] Shannon: which i rly regret
-  [31/5/19, 23:06:12] Shannon: oh well
-  [31/5/19, 23:07:01] Yi Hein: actly just curious why did u decide to leave the class group?
-  [31/5/19, 23:09:06] Shannon: oh
-  [31/5/19, 23:09:31] Shannon: cos it was getting quite spammy and vulgar + i get upset everytime i see his name
-  [31/5/19, 23:10:02] Yi Hein: I Guess you're referring to DHC?
-  [31/5/19, 23:10:08] Shannon: yeah
-  [31/5/19, 23:10:35] Shannon: 🙃
-  [31/5/19, 23:10:35] Shannon: how is he though
-  [31/5/19, 23:10:37] Shannon: he's in army now?
-  [31/5/19, 23:10:41] Yi Hein: yup
-  [31/5/19, 23:11:17] Shannon: is he happy haha
-  [31/5/19, 23:12:30] Yi Hein: His PES is quite Low so life is chill
-  [31/5/19, 23:12:44] Shannon: oh that's good
-  [31/5/19, 23:13:08] Shannon: is yun ye still dating that guy
-  [31/5/19, 23:13:12] Shannon: OH NO i forgot his name
-  [31/5/19, 23:13:14] Shannon: kevin?
-  [31/5/19, 23:13:23] Shannon: kenji
-  [31/5/19, 23:13:26] Shannon: right yes sorry
-  [31/5/19, 23:13:44] Yi Hein: He got a stay out vocation (go home Everyday) so jealous omg HAHAHAHA
-  [31/5/19, 23:13:55] Yi Hein: Eh tbh idk
-  [31/5/19, 23:14:04] Yi Hein: OMG WUT HAHAHAA
-  [31/5/19, 23:14:26] Shannon: oh wow HAHA
-  [31/5/19, 23:14:34] Shannon: i suppose junyang also?
-  [31/5/19, 23:14:49] Shannon: SORRY ive actually never talked to him before
-  [31/5/19, 23:15:15] Yi Hein: He's stay in for now but will stay out soon
-  [31/5/19, 23:15:23] Shannon: oh okay
-  [31/5/19, 23:15:29] Shannon: haha is the class group dead
-  [31/5/19, 23:15:43] Shannon: or do you all have bonding stuff and whatever
-  [31/5/19, 23:15:50] Yi Hein: Some chats here and there
-  [31/5/19, 23:15:58] Shannon: im just glad that dhc is happy i guess haha
-  [30/6/19, 23:00:04] Yi Hein: Hey when does your school term start?
-  [1/7/19, 21:27:54] Shannon: Hello! 5 Aug
-  [1/7/19, 21:28:05] Shannon: Did you hear anything from nus or NTU?
-  [1/7/19, 21:28:37] Yi Hein: Nope lol
-  [1/7/19, 21:29:01] Shannon: Haha I got a rejection letter from nus
-  [1/7/19, 21:29:13] Shannon: Btw can I ask what social night is
-  [1/7/19, 21:29:17] Yi Hein: Hmm the general one right
-  [1/7/19, 21:29:54] Yi Hein: Basically a dinner, sth like prom but for OCS
-  [1/7/19, 21:30:01] Yi Hein: Hahaha did someone ask you to go?
-  [1/7/19, 21:30:12] Shannon: Ya Benedict HAHA
-  [1/7/19, 21:31:08] Yi Hein: Yeah everyone has to bring a date or sign 3 extra duties LOLOL
-  [1/7/19, 21:31:45] Shannon: Omg rly
-  [1/7/19, 21:31:51] Shannon: Then who did you bring
-  ‎[1/7/19, 21:31:52] Yi Hein: ‎image omitted
-  [1/7/19, 21:32:04] Shannon: HAHA
-  [1/7/19, 21:32:06] Yi Hein: Mines on thurs lololol
-  [1/7/19, 21:32:15] Shannon: HAHA all the best
-  [1/7/19, 21:32:33] Yi Hein: Is this from YLL or the general rejection letter
-  [1/7/19, 21:33:21] Shannon: Actually I didn’t read it my mum did cos it came when I was in Penang
-  [1/7/19, 21:33:26] Shannon: Let me go find it then take pic for you
-  [1/7/19, 21:33:38] Yi Hein: Oh it’s a physical letter
-  [1/7/19, 21:33:42] Shannon: Yeah
-  ‎[1/7/19, 21:42:52] Shannon: ‎image omitted
-  [1/7/19, 21:50:49] Yi Hein: Oh but yours is cos you had another placing right
-  [1/7/19, 21:50:57] Shannon: Yeah
-  [1/7/19, 21:51:02] Shannon: I got life sciences and psych
-  [1/7/19, 21:51:07] Shannon: Double major
-  [1/7/19, 21:51:30] Shannon: Eh so who are you bringing!! Is it from sch
-  [1/7/19, 21:53:23] Yi Hein: from acjc lol
-  [1/7/19, 21:53:37] Shannon: omg yi hein is it your gf hahaha
-  [1/7/19, 21:53:38] Shannon: are you attached?
-  [1/7/19, 21:53:49] Yi Hein: no wth HAHAHAHAHA
-  [1/7/19, 21:54:05] Yi Hein: do you actually think I’ll have a gf
-  [1/7/19, 21:55:14] Shannon: HAHA why not
-  [1/7/19, 21:55:25] Shannon: then where did she come from!!
-  [1/7/19, 21:57:10] Yi Hein: met her randomly lol, honestly don’t know her well?!?!,!
-  [1/7/19, 21:57:18] Shannon: HAHA WHAT
-  [1/7/19, 21:57:21] Shannon: omggg
-  [1/7/19, 21:57:30] Shannon: you like her isit
-  [1/7/19, 21:57:33] Shannon: it's ok
-  [1/7/19, 21:57:44] Yi Hein: NO
-  [1/7/19, 21:58:31] Yi Hein: anything to not sign extras man
-  [1/7/19, 21:59:39] Yi Hein: that escalated quickly HAHAHA
-  [1/7/19, 21:59:45] Shannon: HAHAH
-  [1/7/19, 21:59:46] Shannon: funny lah
-  [1/7/19, 22:00:01] Shannon: all the best for your social night
-  [1/7/19, 22:00:10] Shannon: 😂😂
-  [1/7/19, 22:00:14] Yi Hein: Haha thanks
-  [7/7/19, 21:03:47] Shannon: How did your date go!!!
-  [7/7/19, 21:30:28] Yi Hein: Ok lah
-  [7/7/19, 21:31:04] Yi Hein: honestly can’t really celebrate the end of service term cos pro term has already started and it’s a shitstorm ahead
-  [24/7/19, 09:55:13] Yi Hein: Hey shannon,  we’ll be having a class gathering on *3rd August* from *6 pm onwards*. Let me know if you can make it :))
-  
-  Address: 45 Hume Ave, Singapore 598740
-  Date: 3rd August, Saturday
-  Time: 6pm onwards
-  [26/7/19, 03:13:44] Yi Hein: ✊🏼bump
-  [26/7/19, 08:36:48] Shannon: Oh no so sorry I forgot to reply!
-  [26/7/19, 08:36:55] Shannon: I was in orientation haha it just ended yesterday
-  [26/7/19, 08:37:26] Shannon: Whose house is it ahah
-  [26/7/19, 08:37:34] Yi Hein: Mine lol
-  [26/7/19, 18:28:41] Yi Hein: Also Dylan is coming :)
-  [26/7/19, 19:23:49] Shannon: Ahh reallyyy
-  [26/7/19, 19:23:54] Shannon: Sigh I rly want to talk to him haha
-  [26/7/19, 19:23:58] Shannon: So generous HAHA
-  [26/7/19, 19:24:05] Shannon: I’ll try to make it I’ll let you know later
-  [26/7/19, 19:24:17] Shannon: Cos I might be going to Malaysia before Uni starts
-  [26/7/19, 19:43:54] Yi Hein: Woah nice sounds fun 😮
-  [26/7/19, 19:44:02] Yi Hein: Alright sure
-  [28/7/19, 16:27:00] Yi Hein: hey Shannon could you let me know by tmr? Cos I’ve to plan for the food and cost
-  [29/7/19, 09:04:10] Shannon: Hey yi hein!!  So sorry for the late reply and being burden haha
-  [29/7/19, 09:04:25] Shannon: I checked w my parents and we’re going to Penang from thur to sun so I won’t be able to make it :( sorry
-  [29/7/19, 09:04:28] Shannon: Thanks for inviting tho
-  [29/7/19, 09:04:31] Shannon: I rly appreciate it haha
-  [29/7/19, 09:04:37] Shannon: It’s nice to know someone remembers me HAHA
-  [29/7/19, 11:28:05] Yi Hein: No worries! Enjoy your trip :)))
-  [3/8/19, 17:49:20] Shannon: Hey yi hein!! I hope the gathering goes well :)) could you help me tell Dylan hi!! Thanks haha
-  [3/8/19, 17:55:08] Yi Hein: Yeah sure :)
-  [15/8/19, 16:07:02] Shannon: Hi Yi hein! You have a surface pro right? My friend is looking to buy one! Would you recommend it?
-  [15/8/19, 18:37:54] Yi Hein: Yeah
-  [15/8/19, 18:38:16] Yi Hein: Can’t give much info now..still overseas
-  [15/8/19, 18:38:26] Yi Hein: tell you when I get back in sept
-  [26/12/19, 19:23:36] Shannon: hellooo yi hein! are you gonna apply for med this cycle?
-  [26/12/19, 19:51:51] Yi Hein: Yup
-  [26/12/19, 19:52:00] Shannon: where!
-  [26/12/19, 19:52:01] Yi Hein: Not NTU though
-  [26/12/19, 19:52:05] Shannon: ohh
-  [26/12/19, 19:52:06] Shannon: whyy
-  [26/12/19, 19:52:07] Shannon: hahaha
-  [26/12/19, 19:52:08] Yi Hein: cos messed up BMAT again
-  [26/12/19, 19:52:13] Shannon: aiyo
-  [26/12/19, 19:52:15] Shannon: just apply la
-  [26/12/19, 19:52:19] Shannon: what did you get
-  [26/12/19, 19:52:43] Yi Hein: No lah only get one chance so better apply when I actually have time to study for BMAT
-  [26/12/19, 19:52:46] Shannon: my bmat wasnt fantastic either tbh
-  [26/12/19, 19:52:47] Shannon: oh wait
-  [26/12/19, 19:52:50] Shannon: got one chance only?
-  [26/12/19, 19:52:51] Yi Hein: 4.3, 5.5, 3A
-  [26/12/19, 19:52:58] Shannon: mmm okay
-  [26/12/19, 19:53:12] Shannon: you applying overseas?
-  [26/12/19, 19:53:14] Shannon: atb!! update me okays
-  [26/12/19, 19:53:18] Yi Hein: Yeah I heard no one got in on second attempt
-  [26/12/19, 19:53:24] Yi Hein: why though?
-  [26/12/19, 19:53:31] Shannon: nahh just wondering!
-  [26/12/19, 19:53:34] Yi Hein: Ah ok
-  [26/12/19, 19:53:40] Shannon: cos thought of you when i saw your post on ig haha
-  [26/12/19, 19:53:46] Yi Hein: Yeah, applied to a few UK schools
-  [26/12/19, 19:53:53] Shannon: what abt dylan
-  [26/12/19, 19:54:12] Yi Hein: His BMAT is pretty good so yeah he’s applying NTU and NUS
-  [26/12/19, 19:54:18] Yi Hein: he didn’t apply overseas
-  [26/12/19, 19:54:26] Shannon: oh nicee
-  [26/12/19, 19:54:27] Shannon: okayy
-  [26/12/19, 19:56:40] Yi Hein: how’s Med school for you
-  [7/1/20, 14:41:14] Shannon: ‎This message was deleted.
-  [7/1/20, 14:41:22] Shannon: ‎This message was deleted.
-  [8/1/20, 09:24:26] Yi Hein: ??
-  [8/1/20, 09:34:50] Shannon: Haha no la cos I was talking to some of my friends who got into ntu second try
-  [8/1/20, 09:35:31] Shannon: But they actually didn’t get interview first try
-  [8/1/20, 09:37:22] Shannon: So I wanted to tell you this wasn’t true haha but then I realised that that’s prob not what you meant haha, like you were referring to ppl w interview
-  [8/1/20, 09:38:03] Shannon: Did you do bus interview last year?
-  [8/1/20, 09:38:10] Shannon: *nus
-  [8/1/20, 09:38:12] Shannon: You did right!!
-  [8/1/20, 09:38:39] Shannon: Cos you can only do mmi once I think
-  [8/1/20, 09:39:56] Yi Hein: Yup NUS interview last year
-  [8/1/20, 09:40:07] Yi Hein: So applying EIS this time
-  [8/1/20, 09:42:51] Shannon: Ooh okay
-  [8/1/20, 09:42:53] Shannon: With what!!
-  [8/1/20, 09:50:09] Yi Hein: Erm idk actly
-  [8/1/20, 09:50:31] Yi Hein: Prob NYAA Gold, OCS, community service?
-  [8/1/20, 09:50:42] Yi Hein: haven’t looked into their criteria
-  [8/1/20, 11:59:50] Shannon: ohh
-  [8/1/20, 11:59:53] Shannon: haha okok atb!!
-  [8/1/20, 12:00:00] Shannon: what community service do you do?
-  [8/1/20, 13:17:48] Yi Hein: honestly most is from IB times :/
-  [8/1/20, 18:50:18] Shannon: hmm
-  [8/1/20, 18:50:19] Shannon: are you v busy now!!
-  [8/1/20, 18:50:31] Shannon: as in, generally, with army and all
-  [8/1/20, 18:50:39] Shannon: if not, i would rly suggest you go volunteer more haha
-  [8/1/20, 18:50:57] Shannon: i know q a few ppl who got in through eis, but they rly volunteered a lot!
-  [8/1/20, 18:53:44] Yi Hein: Ohh I see
-  [8/1/20, 18:53:54] Yi Hein: This month is pretty hectic
-  [8/1/20, 18:53:58] Yi Hein: After that probably can
-  [8/1/20, 18:56:59] Shannon: do you have anywhere in mind!!
-  [8/1/20, 18:57:27] Yi Hein: I’m currently volunteering at CATCH+ but haven’t gone in quite a while
-  [8/1/20, 18:58:01] Shannon: ooh okay thats nice
-  [8/1/20, 18:58:23] Shannon: haha idk if you remember but i volunteer at minds! so if youre looking for anywhere to volunteer, you can always comeee :)
-  [8/1/20, 18:58:35] Shannon: if not can also consider red cross haha
-  [8/1/20, 18:59:04] Yi Hein: Oh yeah volunteered there before for St. John
-  [8/1/20, 18:59:20] Yi Hein: see how will consider when I’m more free
-  `,
   },
   {
     name: "Glad Event Planning",
@@ -47175,5 +47913,1744 @@ Reminders to take medication and sleep, continuous health monitoring
 [27/10/20, 10:23:27] Yi Hein: first and second post
 [27/10/20, 13:25:44] Trina: 👍🏻👍🏻!!! will read!!
 `,
+  },
+  {
+    name: "Shannon",
+    messageContent: `[16/2/17, 20:01:37] Shannon: ‎Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them.
+  [16/2/17, 20:01:41] Yi Hein: Hey Shannon
+  [16/2/17, 20:02:06] Yi Hein: I'm Yi Hein
+  [16/2/17, 20:03:22] Yi Hein: My name is spelt wrongly in the class photo list, it should be "Yi Hein" instead of "Hien"
+  [16/2/17, 20:03:36] Yi Hein: Can you help me change it?
+  [16/2/17, 20:30:06] Shannon: OMG I'm so sorry HAHA I'll go change it now
+  [16/2/17, 20:30:09] Shannon: My apologies!!!
+  [16/2/17, 20:31:21] Yi Hein: Haha 😂 thanks!
+  ‎[16/2/17, 20:34:06] Shannon: ‎image omitted
+  [16/2/17, 20:40:44] Yi Hein: Yup thank you!
+  [16/2/17, 20:58:38] Shannon: Haha np!! Sorry for the mistake :P
+  [16/2/17, 21:10:22] Shannon: Oh right btw do you take econs?
+  [16/2/17, 23:54:56] Yi Hein: Yeah
+  [18/2/17, 20:05:47] Shannon: Sorry to bother you but!!! For the econs hw, are you just writing out your points for the question?
+  [18/2/17, 20:06:09] Shannon: Idk what we're supposed to do
+  [18/2/17, 20:06:13] Shannon: :(
+  [18/2/17, 21:20:19] Yi Hein: Sorry for late reply😅
+  [18/2/17, 21:20:30] Yi Hein: But I actually I'm not quite sure too
+  [18/2/17, 21:21:17] Yi Hein: I've only written my introductory paragraph, which is just paraphrasing key concepts in the slides
+  [18/2/17, 21:23:39] Yi Hein: I'm kind of waiting for the teacher to teach econs essay writing before I complete it; so there's no need to redo
+  [18/2/17, 21:52:18] Shannon: HAHA I'm so confused now, we have to talk about scarcity too?
+  [18/2/17, 21:52:42] Yi Hein: I guess it's all inter-related
+  [18/2/17, 21:53:00] Yi Hein: Because choices and sacrifices have to be made due to limited resources
+  [18/2/17, 21:54:56] Shannon: That's true
+  [18/2/17, 21:54:57] Shannon: Thanks!!
+  [18/2/17, 21:55:10] Shannon: Haha I think I'll just come up with points and not do the essay yet too :P
+  [18/2/17, 21:55:27] Yi Hein: Yeah me too
+  [18/2/17, 21:55:38] Yi Hein: Btw, have you done your Lang lit assignment?
+  [18/2/17, 21:56:07] Shannon: Haha currently 2/3 done!!
+  [18/2/17, 21:56:14] Shannon: I feel like I haven't written an essay in really Long
+  [18/2/17, 21:56:20] Shannon: Have you done it?
+  [18/2/17, 21:56:24] Yi Hein: Yeah me too
+  [18/2/17, 21:56:33] Yi Hein: I've done like one page
+  [18/2/17, 21:57:08] Yi Hein: But I'm struggling to complete one page even with all the "bullshit" and smoke 💨
+  [18/2/17, 22:06:21] Shannon: HAHAHA ikr!! And I'm taking so Long to do it :P
+  [18/2/17, 22:06:32] Shannon: I'm not even sure how much we are supposed to write
+  [18/2/17, 22:06:54] Shannon: I don't think my sentences make much sense it's all like weird BS 😂
+  [18/2/17, 22:07:01] Yi Hein: Hahaha
+  [18/2/17, 22:07:12] Yi Hein: Btw have gotten to know you yet
+  [18/2/17, 22:07:20] Yi Hein: What school were you from?
+  [18/2/17, 22:15:48] Shannon: MGS!!
+  [18/2/17, 22:15:55] Shannon: Same as Sian, Kim and bev :)
+  [18/2/17, 22:16:07] Shannon: You were from ACSI right
+  [18/2/17, 22:16:12] Yi Hein: Yeah
+  [18/2/17, 22:16:30] Yi Hein: That patriotism though 😂
+  [18/2/17, 22:16:51] Yi Hein: You guys did Lang Arts too right?
+  [18/2/17, 22:16:54] Shannon: HAHAH I miss MG
+  [18/2/17, 22:16:59] Shannon: Yep
+  [18/2/17, 22:17:08] Shannon: It was my worst subject before Chinese HAHA
+  [18/2/17, 22:17:24] Yi Hein: Haha same
+  [18/2/17, 22:17:41] Yi Hein: My worst subjects are literally Lang Arts, HCl, Malay
+  [18/2/17, 22:17:52] Yi Hein: Basically all the languages
+  [18/2/17, 22:18:10] Shannon: Oh you took malay?
+  [18/2/17, 22:18:18] Shannon: HAHA ya my french was horrid too
+  [18/2/17, 22:18:21] Yi Hein: Yeah MSP
+  [18/2/17, 22:19:07] Shannon: Actually it wasn't too bad in lower Sec but in upper Sec it suddenly deteriorated until I was struggling to pass HAHA
+  [18/2/17, 22:19:21] Shannon: At least I got a B3 :P
+  [18/2/17, 22:19:34] Shannon: Did you have to take o levels for Malay?
+  [18/2/17, 22:19:39] Yi Hein: Yeah
+  [18/2/17, 22:19:52] Yi Hein: Probably my worst nightmare
+  [18/2/17, 22:20:23] Yi Hein: I got a C5, surprised I passed though
+  [18/2/17, 22:21:29] Yi Hein: I stoned at the teacher for 5 minutes during the oral segment
+  [18/2/17, 22:21:42] Yi Hein: So awkward
+  [18/2/17, 22:25:05] Shannon: HAHAH congrats!!!
+  [18/2/17, 22:26:32] Shannon: Mine was really weird too, the teacher asked me what I liked to read, and I said Harry Potter; and when she asked me who my fav character was, I said that it was Sirius black because he was charming since that was the only adjective I knew
+  [18/2/17, 22:27:07] Shannon: For the compo I didn't know a lot of verbs so I came up with them HAHA
+  [18/2/17, 22:27:34] Shannon: Third languages are nightmares 😂
+  [18/2/17, 22:35:44] Yi Hein: I actually think our questions are the same but just in different languages
+  [18/2/17, 22:36:10] Yi Hein: Exactly the same except mine was about a movie and not a book
+  [18/2/17, 22:37:08] Yi Hein: Totally agreed, probably second worst mistake after IB
+  [18/2/17, 22:58:31] Shannon: I just finished my lang lit essay!!!
+  [18/2/17, 22:58:39] Shannon: Oh which movie did you say HAHA
+  [18/2/17, 22:59:07] Shannon: I feel like I should've taken an easier third lang like jap HAHA idk french felt very hard
+  [18/2/17, 22:59:16] Shannon: Do you regret taking IB?
+  [19/2/17, 08:01:38] Yi Hein: Gratz :)
+  [19/2/17, 08:02:45] Yi Hein: I was talking about "Suicide Squad" since it was just released then
+  [19/2/17, 08:12:28] Yi Hein: But I still feel Malay is easiest to learn of all the languages because of the grammar
+  [19/2/17, 08:13:35] Yi Hein: Not now, but probably yes when the workload starts increasing exponentially
+  [19/2/17, 08:41:54] Shannon: True, and it's a more useful language than french imo
+  [19/2/17, 08:42:07] Shannon: You'll be fine!!! Don't worry too much haha I'm sure you'll be able to cope
+  [19/2/17, 08:42:22] Shannon: Btw have you read the great Gatsby yet
+  [19/2/17, 08:42:35] Yi Hein: Only the first chapter
+  [19/2/17, 08:42:44] Yi Hein: Still have second chapt to read today
+  [19/2/17, 10:48:43] Shannon: HAHA sameee
+  [19/2/17, 10:48:57] Shannon: Oh right, you were in Nicole's and Lisa's OG right?
+  [19/2/17, 11:21:10] Yi Hein: Yup, you know them well?
+  [19/2/17, 14:01:25] Shannon: Yep!! They're both my good friends HAHA and Lisa's my second Cousin too :P
+  [19/2/17, 14:02:22] Shannon: Did you talk to them?
+  [19/2/17, 16:58:31] Yi Hein: Lisa isn't very close to my OG so I don't really know her well
+  [19/2/17, 17:02:22] Yi Hein: I know Nicole somewhat well
+  [19/2/17, 17:02:56] Yi Hein: She's literally the only person I've ever met with so much energy 😂
+  [19/2/17, 17:58:32] Shannon: Ohh yeah lisa is a quiet person
+  [19/2/17, 17:59:20] Shannon: HAHA ikr!! And she's so loud!! She sat next to me in Sec 3 and by the end of the term my right ear wasn't working properly
+  [19/2/17, 17:59:50] Shannon: And every time I talk to her I have to remind her to use her indoor voice 😂
+  [19/2/17, 18:01:06] Shannon: But she's really friendly, she was my first non-IP Friend in Sec 3 (cos she transferred from express)
+  [19/2/17, 19:16:07] Yi Hein: Yeah she's one of the few who made my OG really cheerful and uplifting
+  [19/2/17, 19:17:52] Yi Hein: Oh I see, didn't know MG also allows express to IP transfers
+  [19/2/17, 19:18:08] Yi Hein: I was actually from express too
+  [19/2/17, 21:22:51] Shannon: Haha is your OG really bonded? Your OG seems like a nice bunch 👍🏻
+  [19/2/17, 21:23:23] Shannon: Oh cool!! Was is hard to get in? I heard that the interview was hard
+  [20/2/17, 06:48:03] Yi Hein: I can't really gauge since I was the one who got in haha, but for me the interviewer asked really generic questions
+  [20/2/17, 06:49:06] Yi Hein: For others they asked really hard unique questions,  so I'm pretty fortunate
+  [20/2/17, 16:33:43] Shannon: Woahh that's really good for you; I think the MGS screening test wasn't that rigorous, particularly because a lot of the good o level people wanted to go to other schools instead of AC
+  [20/2/17, 16:34:19] Shannon: Oh right btw for the Chinese thing we only need to decide on the topic by wed right
+  [20/2/17, 16:58:03] Yi Hein: Yeah but good to think about it now
+  [20/2/17, 17:42:09] Shannon: Yep ofc!! Are you going to create a group or smth? :P
+  [20/2/17, 17:42:15] Shannon: Btw did you apply for student council?
+  [20/2/17, 17:54:30] Yi Hein: Yeah sounds like an idea
+  [20/2/17, 17:54:46] Yi Hein: Yup, did you apply too?
+  [20/2/17, 19:10:10] Shannon: Nope I didn't, idk I felt like student council here in AC isn't as meaningful as it was in MG (no offence though!!!)
+  [20/2/17, 19:10:35] Shannon: All the best!! I hope you get in HAHA I'll vote for you!
+  [20/2/17, 19:11:09] Yi Hein: thanks in advance, haha
+  [20/2/17, 19:11:30] Yi Hein: Well I'll make it meaningful if I get in
+  [20/2/17, 19:11:48] Shannon: HAHA I'll look forward to that!!
+  [20/2/17, 19:14:18] Shannon: Haha don't get me wrong lah, but I just felt like it was more of a position of glamour than one of actual service to the school
+  
+  I'm not saying that the councillors are snobbish it's just the vibes I get from the whole thing in general
+  [20/2/17, 19:14:50] Shannon: But ya you can make it better!! Haha my student leader teacher told me to try and get in and change it but nah, I decided not to :P
+  [20/2/17, 19:15:20] Yi Hein: Were you in MG prefectorial board?
+  [20/2/17, 19:17:28] Shannon: I was in the student leadership committee!! It's kinda similar, just that the prefects lead from the outside in, while the student leaders lead from the inside out
+  [20/2/17, 19:17:31] Shannon: HAHA does that make sense
+  [20/2/17, 19:17:34] Yi Hein: I have actually heard a few people telling me the same thing. But for me, I believe as long as my motives are right, I shouldn't miss the opportunity to serve because of what others think about it
+  [20/2/17, 19:18:00] Shannon: They merged everything into one board last year though (so my batch was the last one with two separate committees)
+  [20/2/17, 19:18:32] Shannon: Yep, that's good!! Haha you can be the change maker, and make it a better council overall :D
+  [20/2/17, 19:20:03] Yi Hein: ACSI is trying to start SLC (Student Leadership Committee) too, you have no idea the amount of politics, hate, mean-spiritness that is in the group
+  [20/2/17, 19:35:19] Yi Hein: I'm actually very curious about a few things, 
+  
+  1. What are the reasons that made you feel council is more of a position of glamour than Service to the school
+  
+  2. What is different about the leadership in MG that makes it more service oriented
+  [20/2/17, 19:38:22] Shannon: woah really? What's the diff between the SLC and council then?
+  [20/2/17, 19:38:41] Shannon: But why is there so much politics and bad stuff :( it sounds horrid; are you in it?
+  [20/2/17, 19:53:15] Shannon: HAHA ok let me try and answer that:
+  1) the most obvious reason would be that it really seems like a popularity race. I understand that the student leaders of the school have to be acknowledged by the students as their leaders, and hence the necessity of the voting portion of the election process. However, the campaigning bit is a bit over the top, and seems like a way through which nominees can buy the students' votes. Yes, the population needs to know who they're voting for, but I think a write up/ intro/ speech will do, with the campaigns being unnecessary. In the end, it's only going to be the well liked people, the popular kids, the ones who know the most people who get in, because they have the most friends, the most effective campaigns bc of their supporters and the best connections. Hence, those who become councillors are eventually those who are popular, and are thus in a position of glamour in the school. 
+  
+  Also, from what I've heard from my MG friends, the people trying for council from MG (not nice people) are all rather confident they'll get in because of their connections... I guess that just showed me how kinda messed up the whole thing is, like it's the popular people who get in and the legit leaders who get kicked out of the running. And the councillors are just the popular kids. And tbh they (those from MG who are gonna try) don't seem like those who are actually good at planning stuff and all, and they prob won't really serve the school with a true heart of thanksgivings, love and gratefulness to the school.
+  [20/2/17, 19:54:56] Shannon: ^^idk it might seem very cynical but yeah... tbvvvvvh my batch of MG IP people isn't like 100% nice sadly, we have like a handful of people who just aren't that....good (idk how to describe them, I don't really want to badmouth them HAHA but ya they're just the popular kids stereotype if you get what I mean)
+  [20/2/17, 19:55:11] Shannon: The previous batch was very nice though!! Our seniors are really great ✨😞
+  [20/2/17, 19:55:26] Shannon: *** 👍🏻 I meant this instead of the sad face sorry!!
+  [20/2/17, 20:00:14] Shannon: 2. Okay in MG, the leaders are hardly ever recognised, or acknowledged because we really believe in servant leadership, so whatever we do, we tend to do it behind the scenes and we're not usually thanked or congratulated. And we have to do tons of difficult work, and put up with a lot of difficult things, and it's really tough sometimes, but we find joy in really just serving the school and the people. Even though no one notices, the fact that we helped our school, or just made people's lives easier/ happier, brings us through and gives us strength!! We lead not by standing in the front, but in the shadows, we don't order others around, we do our best to support them and Ensure that the school body is as comfortable and happy as possible. I don't get the feeling from the council in AC, I feel like the people don't have a heart of service and love to the school, and are just doing all the council stuff that cos it's "cool" HAHA, or whatever their other reasons are.
+  [20/2/17, 20:00:22] Shannon: HAHA Sorry it's really Long
+  [20/2/17, 20:09:44] Yi Hein: Haha it okay, thanks so much it really enlightened me
+  [20/2/17, 20:10:47] Yi Hein: I think now I finally understand what my seniors have been telling me about council for years (since Y2)
+  [20/2/17, 20:15:32] Yi Hein: It really does show the huge contrast between the leadership body of MG and AC. And I really identify with the leadership model MG has taken up
+  [20/2/17, 20:17:23] Yi Hein: You've given me a clearer perspective on council, and perhaps I'm more certain now on what aspects should be changed and what it should be changed to
+  [20/2/17, 20:17:36] Yi Hein: ^ that is if I make it to council of course
+  [20/2/17, 20:18:59] Yi Hein: It's more of a united leadership body crossing over from all the Uniformed groups
+  [20/2/17, 20:20:16] Yi Hein: I'm technically not in SLC yet (since SLC doesn't exist currently),
+  but I'm in the discussion group. Perhaps I could show you the group for you to have a clear picture
+  [20/2/17, 20:21:37] Yi Hein: I don't really get what you mean by leading from outside in and leading from inside out
+  [20/2/17, 22:08:16] Shannon: Haha were they persuading or dissuading you from joining council?
+  [20/2/17, 22:08:43] Shannon: 👍🏻 yep it's one that really taught me to mature and grow not only as a leader, but as a person overall!!
+  [20/2/17, 22:09:06] Shannon: HAHA that's good!!! I'll support you! I really hope you'll get in, I think you'll do a great job
+  [20/2/17, 22:09:25] Shannon: Oh wow, then do you guys plan stuff for all the UGs?
+  [20/2/17, 22:09:48] Shannon: HAHA when is it gonna be finalised though? Jiayou though!!!
+  [20/2/17, 22:15:53] Shannon: Hmm okay it's kinda like this:
+  Leading from the outside in means to lead from the front, you would give instructions to everyone from the top. You're obviously higher up position, so you command authority, "obedience" and respect, and that's why people follow you. You're basically the face of your congregation, and you work in the spotlight where everyone can see. You inspire your people. 
+  
+  Leading from the inside out means to lead from within the group of people, so you most likely rally them, encourage them and Ensure that they stay on task/ continue moving forward though you don't exactly have to be the one who's in charge. You work mostly in the dark, and though you might not be seen as the leader leader, people would most likely look to you for guidance, support, and as, hopefully, a role model.
+  [20/2/17, 22:18:47] Shannon: Diff types of leadership styles!! Imo, you need both for the community to thrive :) you need the first to keep everything in order, and for stability and peace; but you need the second for hope and encouragement when things seem tough-- someone to depend on when it's difficult and to Ensure that everything is ok within the community
+  
+  Sometimes it's hard for the first group of leaders to understand about how the people really feel, and sometimes it's hard for the second group of leaders to see the larger picture. That's why both need to work together!
+  [20/2/17, 22:49:04] Yi Hein: Oh I see, thanks for sharing!
+  [21/2/17, 19:20:35] Yi Hein: They were mainly complaining about the selection system and the people who actually get in
+  [21/2/17, 19:23:21] Yi Hein: I feel like AC student councils, including past, present and likely the future councils, are lacking people like you.
+  [21/2/17, 19:28:09] Yi Hein: You are with no doubt, the kindest, most selfless, humble person I've ever met in school. And before knowing you I honestly didn't think it was possible
+  [21/2/17, 19:29:59] Yi Hein: I really admire how you remain so grounded to your values and moral judgement, with an unwavering passion to serve others
+  [21/2/17, 19:33:59] Yi Hein: It really is tough to be working behind the scenes, leading in the shadows, and yet sometimes not being appreciated by others. And I guess since you are able to do it in MG, it really does show your selfless, humble and steadfast character
+  [21/2/17, 19:38:46] Yi Hein: Don't get me wrong, I'm not trying to convince you to join council, I know that you've decided to look into other avenues to serve the school. But I just want to say that there's so much I look up to you, and there's so much I have yet to learn from you
+  [21/2/17, 19:44:57] Yi Hein: I know that my journey applying for council, and hopefully making a change in council will be a arduous one. Especially with when people with ill intentions and various personalities will be inside
+  [21/2/17, 19:47:41] Yi Hein: This is whole chunk of message is extremely weird, but I hope that should my motives, intentions and moral values shift during my journey, you can help guide and remind me?
+  [21/2/17, 21:27:12] Shannon: Hihi sorry for the late reply my mum was angry with me and I was trying to make her happy again
+  [21/2/17, 21:27:13] Shannon: 😭
+  [21/2/17, 21:30:16] Shannon: Anyway!! HAHA awww that's v nice of you but I'm sure that there will be a fraction of the councillors who get in who are legit good leaders (like you!!), so I hope that if/ when you get in, you'll be able to lead the rest well and just make the system better :D
+  [21/2/17, 21:32:35] Shannon: Nahhh that's not true!! Idk, I think if I were really a good person I would try for council like you with the right mindset and all, hoping to make everything better; but I'm instead choosing the easier path of inaction and criticism which doesn't actually do much help haha, and plus I just don't really want to work with all those popular people (sorry to stereotype idk how else to describe them) who get in cos knowing me I'll get really frustrated and angry HAHA; so the true selfless and humble person is you!
+  [21/2/17, 21:34:26] Shannon: HAHAH anyway it's too late for me to join council already. Honestly I don't think there's much you can learn from me, the greatest leader I can think of is Jesus!! (Are you Christian though?) and, I think anyone can be a true leader as Long as they have the heart and capacity to serve (like you do!!). But ofc if you need advice or anything I'll be here yeah
+  [21/2/17, 21:35:44] Shannon: Yeppp it'll definitely be tough, but I'm sure you'll do well!! I'll support you HAHA have faith in yourself!! Just make sure you always keep your values close to your heart bc really, that's the most important thing; don't let anything waver your heart
+  [21/2/17, 21:35:56] Shannon: Ofc!!! Sure, I'll always be there for you when you need me :)
+  [21/2/17, 21:38:50] Yi Hein: I'm not actually Christian though, I was raised by Buddhist values by my grandparents but I'm not Buddhist either. So I'm a free thinker
+  [21/2/17, 21:56:04] Yi Hein: Its understandable why joining council is not a good idea, I mean like my seniors from a few years ago literally said, "Be *very* careful of the people around you if you were to join council". And perhaps it is a much better idea to not join council, but being the rebel that I am I've decided to join. I've really wanted to make a positive change in council, for the school and the community. But with the "political and social climate" within council, I'm afraid that I'll be negatively influenced and steer away from my goal.
+  [21/2/17, 22:00:09] Yi Hein: To be honest, you've probably not seen it yet but I can be pretty selfish, ignorant and unkind at times. That's why I was saying you're the best person to make a change
+  [21/2/17, 22:44:47] Shannon: Ohh okay, I was raised as a Buddhist too! Then I became a Christian, so I'm the only Christian in my family now haha
+  [21/2/17, 22:53:38] Shannon: Haha I think what you're doing is really respectable and good though!! But yeah, the MG people who signed up for council this year aren't the legit people (as expected sigh), and I've seen my fair share of good people who become bad cos of bad company :( I Guess 近朱者赤，近墨者黑, so yep, it'll be really important for you to be steadfast and strong if you get in!! I'm sure you'll be fine but yep I'll be here for you too :)
+  [21/2/17, 22:56:59] Yi Hein: Thank you 😊
+  [21/2/17, 23:12:32] Shannon: All the best for your competition tmr btw!!
+  [21/2/17, 23:13:05] Shannon: Oh and HAHA you're like the first legit Friend I made in AC this year 😂
+  [22/2/17, 19:27:51] Shannon: Hey Yi Hein how long is your essay 😭
+  [22/2/17, 19:34:07] Yi Hein: Mine is only one and a quarter of a page without leaving lines
+  [22/2/17, 19:34:24] Yi Hein: I've no idea how I'm gonna lengthen it
+  [22/2/17, 19:50:57] Shannon: Same :((
+  [22/2/17, 19:51:04] Shannon: I think I'm just gonna leave it HAHA
+  [22/2/17, 19:54:08] Yi Hein: Me too haha, I've got too much work still not done
+  [22/2/17, 20:49:36] Shannon: Oh right btw the econs teacher said that we didn't have to do the essay HAHA
+  [22/2/17, 20:53:11] Yi Hein: Lol haha
+  [22/2/17, 20:53:18] Yi Hein: Anything else I missed today?
+  [22/2/17, 20:57:23] Shannon: Uhh during math the teacher went through the sigma notation briefly, basically everything that he covered is on pg 6 of the math book, if you don't get anything you can ask me tmr :)
+  
+  He also proved two of the formulas for us, which are standard results 5 and 6 (according to the math book) (actually he just did 5, and told us to do 6 based on his method for 5), I'll take a pic of it for you later!!
+  [22/2/17, 20:58:07] Shannon: During econs the teacher revised whatever was covered during the lecture, and she started on demand (I can take pic of my notes for you too!)
+  [22/2/17, 20:58:52] Shannon: During bio the teacher did an intro on cell theory but he didn't cover much
+  [22/2/17, 20:59:44] Shannon: During TOK we split into the two groups, if you're in the oranges team you have mr phee, if you're in the apples team you have the other guy (forgot his name)
+  [22/2/17, 21:00:32] Shannon: And during Chinese the teacher went through the written assignment, gave us hw, and revised the format for 演讲稿 (the normal Chinese people didn't learn it) and 议论文
+  [22/2/17, 21:00:37] Shannon: That's it!!
+  ‎[22/2/17, 21:02:38] Shannon: ‎image omitted
+  ‎[22/2/17, 21:02:55] Shannon: ‎image omitted
+  ‎[22/2/17, 21:03:07] Shannon: ‎image omitted
+  ‎[22/2/17, 21:03:08] Shannon: ‎image omitted
+  ‎[22/2/17, 21:04:58] Shannon: ‎image omitted
+  [22/2/17, 21:05:34] Yi Hein: Thank you so much!
+  [22/2/17, 21:05:59] Yi Hein: Your notes are on an another level of neat
+  [22/2/17, 21:07:41] Yi Hein: Btw are you oranges or Apple?
+  [22/2/17, 21:08:55] Shannon: HAHAHA thanks
+  [22/2/17, 21:09:02] Shannon: Oranges!!
+  [22/2/17, 21:09:09] Shannon: You?
+  [22/2/17, 21:25:56] Yi Hein: Oranges too!
+  [22/2/17, 21:31:38] Shannon: Oh yay!! Haha, we have to go out of class for TOK; when we were supposed to decide which half had to go out, our group kept insisting that they wanted to go out cos that way we would get mr phee (apparently he's a better teacher idk)
+  [22/2/17, 21:36:18] Shannon: Oh yeah!!! Forgot to include: the teacher showed us an easier method for the Super complicated 3 + 33 + 333 question
+  ‎[22/2/17, 21:36:24] Shannon: ‎image omitted
+  [22/2/17, 21:47:58] Yi Hein: Oh I see
+  [22/2/17, 21:48:03] Yi Hein: That much simpler
+  [22/2/17, 21:48:35] Yi Hein: I can never understand how other come up with these genius methods
+  [22/2/17, 22:04:32] Shannon: HAHAHAH ikr!!! Idek how people think of these stuff
+  [22/2/17, 22:04:46] Shannon: Have you finished the AP/ GP worksheet?
+  [22/2/17, 22:06:16] Yi Hein: No, I did a few questions and then gave up and moved on to other assignments
+  [23/2/17, 17:35:54] Yi Hein: Hey Shannon, just saw your snap
+  [23/2/17, 17:36:01] Yi Hein: Are you okay? That looks really painful
+  [23/2/17, 17:36:51] Yi Hein: Rinse it gently with water add a gauze and tape it on 4 sides
+  [23/2/17, 17:37:17] Yi Hein: And apply direct pressure to stop the bleeding
+  [23/2/17, 18:05:33] Shannon: HAHAHHAA yeah I'm fine!!! Thanks for asking though :P it was q painful but I've been through worse, and it's much better now after it stopped bleeding :D
+  [23/2/17, 18:05:49] Shannon: It was really embarrassing when I fell though HAHAHA I hope no one I knew saw it
+  [23/2/17, 18:06:29] Yi Hein: Haha glad to hear it's fine
+  [23/2/17, 18:06:55] Yi Hein: You fell when getting home?
+  [23/2/17, 18:39:09] Shannon: HAHA I fell at the spa frame
+  [23/2/17, 18:39:12] Shannon: *space frame
+  [23/2/17, 18:40:04] Shannon: Idek how I fell, I was walking and then the ground accelerated towards me 😂 I couldn't even break my fall so now I have a bruise on my chin too, it was Super embarrassing
+  [23/2/17, 19:07:14] Yi Hein: Is falling really that embarrassing? Haha I don't get why though
+  [23/2/17, 19:12:18] Yi Hein: In year1-4, we did really crazy and stupid stuff. Like people fall for trying to climb over fences and walls, fall while sliding on railings, jumping down a flight of stairs. And perhaps the most common is to slide tackle someone at full speed on the AstroTurf, which most often leads to one guy having a fracture arm/leg
+  [23/2/17, 19:28:17] Shannon: HAHAHAHA nah it's not the falling itself that's embarrassing it's the tripping over nothing and then hurting myself that's quite embarrassing 😂
+  [23/2/17, 19:28:27] Shannon: HAHAHA omg slide tackling?? What's that
+  ‎[23/2/17, 19:38:42] Yi Hein: ‎GIF omitted
+  [23/2/17, 22:13:39] Shannon: OH WOW that looks violent and scary HAHAH
+  [23/2/17, 22:13:47] Shannon: It must hurt
+  [23/2/17, 22:14:03] Shannon: Btw, do you find it hard to follow the chem teacher's lessons
+  [23/2/17, 23:22:31] Yi Hein: I find it quite okay
+  [23/2/17, 23:23:13] Yi Hein: Probably because stuff like back titration was covered in Y4 already so it was basically a repeat
+  [23/2/17, 23:23:32] Yi Hein: I do find math lessons incredibly hard to follow
+  [23/2/17, 23:31:08] Shannon: HAHAHA idk I find it very hard to follow and understand what the teacher is saying
+  [23/2/17, 23:32:23] Shannon: I think it's the way she says stuff, like she says everything so forcefully, it's like repetitive punches, and she keeps breaking the words into half which is Super unnerving 😭
+  [23/2/17, 23:33:04] Yi Hein: Hahahahaha
+  [23/2/17, 23:33:05] Shannon: I get the content though cos we learnt it alr but I'm kinda worried about understanding the new topics she's teaching
+  [23/2/17, 23:33:41] Yi Hein: Me and Jordan couldn't stop laughing when she started breaking every word up
+  [23/2/17, 23:34:13] Shannon: I think math is okay cos I like math HAHA, but chem.... I didn't particularly like the subject but now the teacher is so 😞
+  [23/2/17, 23:34:25] Shannon: HAHA ikr!!!! Same so that's why I can't follow
+  [23/2/17, 23:35:24] Yi Hein: How do you like math though, I always get pissed when a fail over and over again when doing assignment questions
+  [23/2/17, 23:36:37] Yi Hein: Yeah agreed, and her teaching style seemed rather one sided to me
+  [23/2/17, 23:37:11] Yi Hein: But she did raise rather interesting points that other teacher probably won't even mention
+  [24/2/17, 00:14:04] Shannon: HAHAHA idk I feel like doing math is really calming because everything just makes sense in a logical way, there's no unexpected surprises or any random twists; I just find comfort in the regularity
+  [24/2/17, 00:14:08] Shannon: ^does that sound weird
+  [24/2/17, 00:14:16] Shannon: I think I'm gonna sleep late today
+  [24/2/17, 00:14:30] Shannon: True!!
+  [24/2/17, 00:14:41] Shannon: Sigh I really hope I won't flunk chem...
+  [24/2/17, 00:19:33] Yi Hein: Hahahaha I am reading this after getting stuck at a question for 30 minutes
+  [24/2/17, 00:19:55] Yi Hein: I think I'll try again tomorrow
+  [24/2/17, 00:20:05] Yi Hein: *ill try again later today
+  [24/2/17, 00:20:29] Shannon: OMG sorry haha I Guess people are all diff
+  [24/2/17, 00:20:38] Shannon: Chem is sad :((
+  [24/2/17, 00:21:03] Shannon: Btw did you do the 理解问答
+  [24/2/17, 00:21:08] Shannon: And how was your LL essay
+  [24/2/17, 00:21:16] Yi Hein: Nope
+  [24/2/17, 00:21:38] Yi Hein: It took me like 3 hours to finish it, with some research and stuff
+  [24/2/17, 00:21:56] Yi Hein: But I still think it's quite bad, hoping it's worth more than a 5 though
+  [24/2/17, 00:22:53] Yi Hein: Gtg need to get some rest now
+  [24/2/17, 00:23:04] Shannon: HAHAHA good night!!!
+  [24/2/17, 00:23:09] Shannon: See you tmr/ later
+  [24/2/17, 00:25:14] Yi Hein: Yeah good night
+  [24/2/17, 01:13:13] Shannon: I'm sure it'll be fine!!! Haha she'll see how much effort you put into it 👍🏻
+  [24/2/17, 15:37:14] Shannon: Hey how was the student leader briefing!! Did you go for the uni talk btw
+  [24/2/17, 15:37:39] Yi Hein: I didn't go for Uni talk, had to rush to CCA
+  [24/2/17, 15:38:01] Yi Hein: The SC briefing was mainly about details on the duty mentorship phase they are having
+  [24/2/17, 15:38:23] Yi Hein: But I'm quite worried cause apparently my name wasn't on the list of applicants
+  [24/2/17, 15:38:41] Shannon: Oh no why wasn't it there?
+  [24/2/17, 15:38:42] Yi Hein: Hopefully they'll get back to me soon
+  [24/2/17, 15:38:57] Shannon: Did you get the return email thing that they said you had to screenshot
+  [24/2/17, 15:39:00] Yi Hein: Perhaps some admin screw up on their side
+  [24/2/17, 15:39:08] Yi Hein: Yeah
+  [24/2/17, 15:39:28] Shannon: Oh then you should be fine!!! Don't worry! I really hope you get in HAHA
+  [24/2/17, 15:39:35] Shannon: What's the duty mentorship phase?
+  [24/2/17, 15:39:38] Yi Hein: Did no one else from our class sign up for council?
+  [24/2/17, 15:40:00] Shannon: Idk about the guys but I don't think any of the girls did!
+  [24/2/17, 15:40:19] Yi Hein: We're expected to follow a student councillor mentor for morning duties, like chasing people out of class
+  [24/2/17, 15:40:37] Shannon: Actually I'm not sure maybe they did sign up but the last time I asked none of them were really interested
+  [24/2/17, 15:41:00] Yi Hein: On the list, there wasn't a single person from 5.13
+  [24/2/17, 15:41:22] Shannon: HAHA oh well, I guess you can be our sole councillor
+  [24/2/17, 15:41:37] Yi Hein: Quite an abnormally cause other classes all had about 10 people applying
+  [24/2/17, 15:41:48] Yi Hein: Haha I guess it's just ASP class
+  [24/2/17, 15:41:56] Shannon: TBH I kinda want to join class comm instead :P idk if that's what the rest are thinking
+  [24/2/17, 15:42:27] Shannon: Oh wow, that's like about 160 people overall, and then only 30 people are gonna be selected right?
+  [24/2/17, 15:42:39] Shannon: Gosh that's so intense
+  [24/2/17, 15:42:43] Shannon: All the best!!!!
+  [24/2/17, 15:43:08] Yi Hein: There's 136 + 1 people applying, yeah it's a really strict selection process
+  [24/2/17, 15:43:51] Shannon: Is there an interview?
+  [24/2/17, 15:44:13] Yi Hein: There's a selection camp at end of march to scale the numbers down to 64
+  [24/2/17, 15:44:27] Yi Hein: Then there's elections to cut down to final 32
+  [24/2/17, 15:44:59] Yi Hein: I think interviews should be incorporated in the selection camp
+  [24/2/17, 15:46:23] Yi Hein: Thanks! I'll focus on getting past the camp for now
+  [24/2/17, 16:10:03] Shannon: Ohh okay
+  [24/2/17, 16:10:24] Shannon: Yep you'll cross the bridge when you come to it :)
+  [24/2/17, 16:10:51] Shannon: This is really random but!!! I'm gonna quit photog HAHAHA
+  [24/2/17, 16:46:22] Yi Hein: Why did you choose to quit? What are you joining then?
+  [24/2/17, 20:59:05] Shannon: I felt like the atmosphere in photog is really stifling and suffocating; it's really rigid
+  [24/2/17, 21:00:41] Shannon: I dunno, it's just the vibes I keep getting every time I go for a meeting, and the people don't seem very friendly HAHA
+  [24/2/17, 21:00:54] Shannon: I'm probably gonna join Netball recreational!
+  [24/2/17, 21:16:58] Yi Hein: Hmm... could it be just maybe you guys don't know each other well yet?
+  [24/2/17, 21:17:29] Yi Hein: Do you find the atmosphere in AC unwelcoming?
+  [24/2/17, 21:37:23] Shannon: HAHAHA idk maybe! I dunno, it's just the overall feel I get from the whole group, and I'm q a sensitive person so I get affected by these kind of stuff easily 😓
+  [24/2/17, 21:45:45] Shannon: TBH I did, and it was really scary and horrid during orientation, I didn't talk to many people + I even had a panic attack once 
+  
+  But I think our class is really nice!!! Haha I felt much more at ease once school started
+  [24/2/17, 21:46:50] Shannon: Idk I just really didn't click well with my OG
+  [24/2/17, 21:58:15] Yi Hein: Perhaps that gave a really bad first experience for you. It really depends on who's in your orientation group I guess
+  [24/2/17, 21:59:32] Yi Hein: For me it was kind of the opposite, my orientation group was really fun and uplifting, but for our class it feel like it is a bit too competitive (especially those who were from ACS class)
+  [24/2/17, 22:00:29] Yi Hein: Was you OG really competitive? Cause you mentioned that you felt the school had a competitive atmosphere
+  [24/2/17, 22:12:48] Shannon: HAHA yeah it was q bad but I have a habit of forgetting bad memories so I've kinda forgotten 80% of orientation already
+  [24/2/17, 22:15:46] Yi Hein: I feel it's quite sad cause orientation is supposed to be fun but many of my friends didn't enjoy it either
+  [24/2/17, 22:16:38] Shannon: Yeah my OG was Super competitive and intense; they really _really_ wanted to get first; this guy was like "if anyone gets in the way of our OG winning, I'll punch them idc who they are!!!" And on the mass games day he said "during capture the flag let's not just tap the people to get them out, we must shove them to the ground so that there's a higher chance of injury and they'll be out of the game"
+  [24/2/17, 22:16:44] Shannon: ^^^ scary right
+  [24/2/17, 22:17:08] Yi Hein: Holy crap, that's actually quite bad
+  [24/2/17, 22:17:11] Shannon: And he kept shouting and me cos I was pretty much useless HAHA
+  [24/2/17, 22:17:14] Shannon: *at
+  [24/2/17, 22:18:07] Shannon: It was insane, I spent as much time as I could away from my OG haha so I mostly went to my friends' OGs
+  [24/2/17, 22:18:13] Yi Hein: That's really unkind... my OG was probably the polar opposite
+  [24/2/17, 22:19:24] Shannon: Yeah ik!! Nicole kept saying that we should've switched places HAHA (though I bet your OG would've less fun without her) cos she would fit in with my more enthusiastic and intense group
+  [24/2/17, 22:20:07] Yi Hein: For me, my OG was probably one of the nicest cause nobody bothered to try and win, so during Games 1 and 2 we were losing and drawing all our matches but everyone was still in high spirits, cause we just wanted to have fun before IB. But the biggest irony is that, being probably the least competitive OG, we won almost every single game for the ACSiting Race, and won overall.
+  [24/2/17, 22:20:51] Yi Hein: Yeah Nicole was probably the one that pulled the OG together
+  [24/2/17, 22:21:40] Shannon: HAHAHAH that's really cool though!!! I think your OG was really good (a lot of my close friends were in it too haha)
+  [24/2/17, 22:21:43] Shannon: Do you miss it?
+  [24/2/17, 22:22:19] Shannon: Haha when the teacher was talking about how some people would never get over their OG I was just like nope not me
+  [24/2/17, 22:23:38] Yi Hein: Yeah I kind of the experiences within the OG
+  [24/2/17, 22:24:40] Yi Hein: But well, I still see my OG mates everyday in school and it's really nice having them as friends
+  [24/2/17, 22:25:53] Yi Hein: *i kind of miss the experiences
+  [24/2/17, 22:26:27] Shannon: Ohh that's good for you!!
+  [24/2/17, 22:26:37] Yi Hein: It really depends on who is in the OG, that creates the overall mood
+  [24/2/17, 22:27:02] Shannon: Yeah HAHA but I Guess everyone plays a part in making the OG enjoyable and I can't exactly say I did my part anyway
+  [24/2/17, 22:27:24] Shannon: So I Guess I'm partly at fault for making myself have a miserable time :P
+  [24/2/17, 22:28:12] Yi Hein: I think it's just a conflict of personality, so like perhaps people in your OG couldn't relate to each other
+  [24/2/17, 22:28:29] Yi Hein: Which would naturally lead to unfriendliness
+  [24/2/17, 22:29:27] Shannon: HAHA at least the rest of them had a good time together I think, and they're all quite good friends now so I feel happy for them
+  [24/2/17, 22:30:14] Shannon: I can't even be seen in the OG photos HAHAHA I bet they'd forget that I was in their OG by next year 😂
+  [24/2/17, 22:30:44] Yi Hein: 😔
+  [24/2/17, 22:30:49] Shannon: Orientation was still kinda okay at some parts though!! Cos I got to hang out a lot with my old friends and all HAHAH
+  [24/2/17, 22:31:38] Shannon: Sorry does that make me sound very pathetic 😓nicole keeps telling me not to be so pessimistic when it comes to myself HAHA
+  [24/2/17, 22:32:02] Shannon: Idk I always see myself as an optimistic person though 🤔
+  [24/2/17, 22:32:11] Shannon: Oops sorry I'm rambling 😓
+  [24/2/17, 22:32:27] Yi Hein: Haha no it doesn't really seem pessimistic
+  [24/2/17, 22:33:53] Yi Hein: I feel like you cared more about others enjoying themselves than you actually thinking about enjoying?
+  [24/2/17, 22:34:47] Yi Hein: Shows how you always think about others first too
+  [24/2/17, 22:35:36] Yi Hein: Well I'm glad that you like our current class, cause our class will be together for our entire IB journey
+  [24/2/17, 22:37:37] Yi Hein: I feel quite fortunate too being in this class. Cause I keep on hearing from my OGmates about how bad their class is
+  [24/2/17, 22:38:41] Shannon: HAHA nah I was just afraid that my reservation about the group would dampen their overall experience (though I guess it kinda did cos I played a role in them not winning overall) which would be q selfish of me and unfair to them
+  [24/2/17, 22:41:11] Shannon: Idk I'm usually only friendly when I'm around people I'm comfortable with, and no one made me feel welcome in the OG haha; I wasn't close to any of the MG girls (like I was friends with them but i hardly talked to them, and I had some friendship issue with one last year haha), so that's why I never got to assimilate well into my OH
+  [24/2/17, 22:41:13] Shannon: *OG
+  [24/2/17, 22:45:32] Shannon: Yeah!! I feel like the people are very nice, and though sometimes I feel slightly inferior, I just tell myself that it's fine bc God created me as I am :D
+  [24/2/17, 22:45:56] Shannon: Ikr!! Quite a few of my friends don't like their class, and miss their OG too :(
+  [25/2/17, 15:04:45] Yi Hein: I can't emphasise it enough but you are the most altruistic person I've ever met
+  [25/2/17, 15:12:44] Yi Hein: And speaking about being selfless, I need your advice/opinion on something that happened, cause it's haunting me and I feel really guilty
+  [25/2/17, 15:32:23] Shannon: Oh no what happened :(
+  [25/2/17, 15:36:50] Yi Hein: So I was at the bus stop when a middle aged Indian man approached me and asked for money to buy food
+  [25/2/17, 15:38:20] Yi Hein: I didn't know what to do, so I asked him how much he needed and he requested for $10
+  [25/2/17, 15:39:24] Yi Hein: And I told him I couldn't give him $10 and told him to ask someone else
+  [25/2/17, 15:41:00] Yi Hein: I want to know whats your perspective on it, cause I'm really confused and in a dilemma
+  [25/2/17, 15:41:47] Yi Hein: and perhaps what would you have done?
+  [25/2/17, 16:27:18] Shannon: Hmm in my opinion, I don't think you did anything wrong, so you don't have to beat yourself up over it. 
+  
+  I get why you feel guilty, bc you couldn't help him, but honestly to me, $10 is a big sum of money, and really, no one expects you to donate it to him! The fact that you asked him how much he needed shows that you actually did care about his situation, and was willing to give him a sum of money if you could; that already reflects that you are a good person (at least in my book!). Honestly, I think most people would've just ignored him, avoided him or just shooed him away, so really, you don't have to beat yourself up!! You're a good person through and through so don't worry about it :)
+  
+  I understand that you feel guilty bc you couldn't help him, and frankly speaking, there's really nothing you can do to now (except pray for him but you're not Christian haha). True, your $10 could've helped him have a meal today, and _perhaps_ he would have to skip a meal now, but really, it's okay. It's not your fault, so don't blame yourself! I'm not saying that you should maintain the "I can't help so I don't care" attitude now, but rather, I mean that instead of looking inward regarding the issue now, you can look outwards and think of ways you can help others next time. If you couldn't do it this time, you can do it next time :) 
+  
+  I know it'll be really hard to get rid of the guilt (to me, guilt is like a red stain on a white tablecloth-- it's so painfully obvious and no matter what you do it'll always be there, as a a reminder of a mistake), so you should try to use that guilt and turn it into something positive. Instead of beating yourself up, you can do more good/ kind deeds to others as a penance to the man, although you shouldn't do good deeds just so that you'll let yourself feel better, I think this will definitely ease your heart. 
+  
+  I'm not sure if this will be helpful to you, but I just hope that you won't beat yourself up and degrade yourself over this incident.
+  [25/2/17, 16:30:53] Shannon: Hm I'm not sure if you saw my wallet when I showed it to Beverly but I'm seriously broke, I don't have much money in my wallet bc I keep lending it to people; so I wouldn't have had $10 to give him either. I would give him whatever money I had _if_ I could though (I.e If i didn't need the money), if not, I would have apologised and told him I didn't have enough money. Honestly, I don't think I would feel bad if I didn't give him any money bc I wasn't being selfish or lying. I would say a short prayer for him and hope that he would be able to get enough to have a meal
+  [25/2/17, 16:33:21] Shannon: Don't worry Yi Hein!! If you're afraid that your act was selfish, or maybe even self-centered, I don't think so, and seriously, you're a very nice moral person! So don't worry too much okay? :)
+  [25/2/17, 16:52:41] Yi Hein: Thanks for your advice and taking time to type this!
+  [25/2/17, 17:14:45] Yi Hein: I'll try to be as honest as I can. I don't consider myself to be selfless, and you will start to understand that with time. But that is also why I admire you so much. You'll always help others without hesitation, and only consider you own needs later. The truth is, I had enough money to give it to the man, and I didn't need the money. I was given the choice and I chose to not give him the money. It's probably because I don't think is going to help him, as I don't think it is a sustainable way of living. Like giving him money only gives temporary relief. And on the other hand, I feel like I don't have the right to give money since the money is not mine, but my parent's. But I felt like I missed the opportunity make a change to his life, even if it doesn't involve money. And that's probably the part I regretted most.
+  [25/2/17, 17:15:26] Yi Hein: What you said really helped me clear my thoughts and reflect
+  [25/2/17, 17:16:51] Yi Hein: But as you can already observe, I would consider myself before considering others and perhaps that's one of my flaws
+  [25/2/17, 17:18:16] Yi Hein: Hopefully next time when I had another chance I would be able to difference for others
+  [25/2/17, 17:36:30] Shannon: Ohh that's another way of thinking though! Like it wouldn't really be helping him, but it does also show that you do care about him, but in a diff way!!
+  [25/2/17, 17:36:34] Shannon: Haha Glad I could help :)
+  [25/2/17, 17:36:57] Shannon: Yep!! That's a good attitude to have
+  [25/2/17, 17:37:57] Shannon: If everyone could care about each other, and put others before themselves, everyone would live so happily haha
+  [25/2/17, 18:56:29] Yi Hein: Yeah, haha well if there were 7 billion Shannons world peace would be achieved
+  [26/2/17, 09:39:52] Yi Hein: Whoops sry accidentally pressed call
+  [26/2/17, 09:40:12] Yi Hein: Btw how's the concert yesterday?
+  [26/2/17, 11:06:36] Shannon: HAHA it's fine!!
+  [26/2/17, 11:06:55] Shannon: It was really cool!!! The stage effects were great, and the lighting was so awesome haha
+  [26/2/17, 11:07:34] Shannon: And our seats were really good, so we could see 张学友 up close it was kinda surreal HAHA
+  [26/2/17, 11:07:44] Shannon: What kind of music do you like though
+  [26/2/17, 12:17:41] Yi Hein: Woah, i saw your snap, looks amazing!
+  [26/2/17, 12:19:11] Yi Hein: I don't really listen to music frequently, but i like calm soothing music
+  [26/2/17, 18:47:30] Yi Hein: Hey Shannon, for the Chinese Compo, did Mdm Xu say we must strictly follow the word limit or is it just a guide
+  [26/2/17, 18:52:20] Shannon: Must follow :((
+  [26/2/17, 18:52:32] Shannon: Max is 480, i think they will deduct marks if you exceed it
+  [26/2/17, 18:52:54] Shannon: It's really short right sigh
+  [26/2/17, 18:56:50] Yi Hein: Yeah probably means they are looking out for quality which makes it all the more harder
+  [26/2/17, 19:52:05] Shannon: Ikr sighhh
+  [26/2/17, 19:52:10] Shannon: I think mine was a bit odd
+  [26/2/17, 19:52:15] Shannon: Btw is there any bio homework due?
+  [26/2/17, 19:53:13] Yi Hein: there homework given but there no assigned due date
+  [26/2/17, 19:53:36] Yi Hein: the cells worksheet probably not due anytime soon since he have not finished the chapter
+  [26/2/17, 19:54:00] Yi Hein: we're supposed to do the lab worksheet though
+  [26/2/17, 19:56:39] Shannon: Okay thanks!! Is the lab worksheet the one where we had to look at the microscope and stuff
+  [26/2/17, 19:58:16] Yi Hein: yup, its the one with a cell with microvilli on the front apge
+  [26/2/17, 20:07:09] Shannon: Okay thanks!!
+  [26/2/17, 20:13:27] Yi Hein: np :)
+  [27/2/17, 20:31:13] Yi Hein: Hey Shannon, this is pretty ironic asking you but, when's the Lang Lit TGG essay due
+  [27/2/17, 20:32:50] Shannon: HAHAHA Thursday!!
+  [27/2/17, 20:32:57] Shannon: And I haven't even finished reading the book
+  [27/2/17, 20:32:59] Shannon: I'm dead
+  [27/2/17, 21:14:21] Yi Hein: Hahaha, I've only read chapter 1 and I need to reread cause I didn't understand it well
+  [27/2/17, 21:15:01] Yi Hein: Looks like I'm going to get slayed by her again...
+  [27/2/17, 21:50:16] Shannon: HAHAHAHA I just realised that the essay must be based on chapter 1 and 2 so maybe I'm not dead yet
+  [27/2/17, 21:50:24] Shannon: It's okay!! My essay is probably worse than yours
+  [27/2/17, 21:50:33] Shannon: I hope she doesn't publicly shame me tmr or something
+  [27/2/17, 21:50:48] Yi Hein: Hahaha me too
+  [27/2/17, 21:51:07] Yi Hein: I still fail to understand how TGG is considered interesting
+  [27/2/17, 21:51:43] Yi Hein: There's like half a page of description of a house
+  [27/2/17, 21:52:22] Yi Hein: And now I'm reading pages after pages of trivial conversations
+  [27/2/17, 22:35:44] Shannon: HAHAHAHA
+  [27/2/17, 22:36:09] Shannon: I find the metaphors and similes used very over the top and sometimes a bit hard to decipher
+  ‎[27/2/17, 22:36:22] Shannon: ‎image omitted
+  [27/2/17, 22:36:26] Shannon: I feel bad
+  [27/2/17, 22:37:25] Yi Hein: Well if I were you I would be honest and say the environment is not suitable
+  [27/2/17, 22:37:37] Yi Hein: Or you can say our interest has changed
+  [27/2/17, 22:37:59] Yi Hein: *your interest has changed
+  [27/2/17, 22:39:28] Shannon: Okay!!! Thanksss
+  [27/2/17, 22:39:41] Shannon: Sigh I feel like I was very unproductive today
+  [27/2/17, 22:39:50] Yi Hein: Haha me too
+  [27/2/17, 22:40:06] Yi Hein: Don't think I'll be sleeping early tonight 😔
+  [27/2/17, 22:40:16] Yi Hein: Hey btw do you know who Joel Mui is?
+  [1/3/17, 11:06:23] Shannon: School mag :((((( is very sad :((((
+  [1/3/17, 12:29:06] Yi Hein: Is it because of Micheal Hee?
+  [1/3/17, 13:22:08] Shannon: Nahh not just him it's just that I'm the only girl so it's really awkward
+  [1/3/17, 13:22:17] Shannon: (Talking to guys is scary HAHA)
+  [1/3/17, 13:22:27] Shannon: And I didn't really understand what was going on
+  [1/3/17, 13:22:44] Shannon: Btw I asked the bio teacher and he said to just fill up the worksheet for the "lab report" due this week!
+  [1/3/17, 14:17:27] Yi Hein: Oh haha makes sense
+  [1/3/17, 14:17:54] Yi Hein: I'll feel really uncomfortable if I were you
+  [1/3/17, 14:19:08] Yi Hein: Yay :)
+  [1/3/17, 14:20:12] Yi Hein: You confirm you're joining Netball?
+  [2/3/17, 00:10:34] Yi Hein: Finally managed to memorise it
+  [2/3/17, 19:45:32] Shannon: Oh how was track and field?
+  [2/3/17, 19:45:50] Shannon: HAHA sorry didn't see your message; I think there's a 80% chance I will join Netball :P
+  [2/3/17, 19:46:00] Shannon: Unless the Michael Heah guy somehow manages to convince me HAHAH
+  [2/3/17, 19:46:14] Shannon: Do you think it's kinda cowardly to quit school mag
+  [2/3/17, 19:46:27] Shannon: Just cos I feel Super burden and uncomfortable haha
+  [2/3/17, 20:32:21] Yi Hein: I honestly think if you don't like the environment there's no point forcing yourself to stay
+  [2/3/17, 20:33:27] Yi Hein: I don't really know Michael Heah but sometimes you should give them time before making judgements...(flashback to TGG hahaha)
+  [2/3/17, 20:33:46] Yi Hein: But it is pretty weird since your the only girl
+  [2/3/17, 20:34:36] Yi Hein: It's not cowardly at all...I mean like no ones gonna judge you for quitting something you don't like
+  [2/3/17, 20:35:15] Yi Hein: I don't know why but I feel that Netball will probably be more welcoming for you
+  [2/3/17, 20:35:47] Yi Hein: Pretty bad :((
+  [2/3/17, 20:36:42] Yi Hein: And it's not because I ran slowly. It's because after running 5k, they told me they didn't record my time and DQed me
+  [2/3/17, 20:38:33] Yi Hein: And then I tried to give some suggestions so that others won't experience the same thing as me.
+  [2/3/17, 20:39:25] Yi Hein: And I got scolded pretty badly by the teacher because I have no "authority to give suggestions on how to run the event" and my "feedback is not needed"
+  [2/3/17, 21:17:14] Shannon: HAHAHA true true idk I'm q a judgemental person (see I'm not that nice a person :P)
+  [2/3/17, 21:18:30] Shannon: Same!!! Cos all my friends are there hahaha
+  [2/3/17, 21:19:05] Shannon: What????? That's really unprofessional and bad
+  [2/3/17, 21:19:18] Shannon: Oh no.... that teacher sounds so scary :(((
+  [2/3/17, 21:19:48] Shannon: Oh dear
+  [2/3/17, 21:20:04] Shannon: Don't be too upset okay!!!
+  [2/3/17, 21:20:39] Shannon: Idk some people are just really narrow minded and don't want to listen to others
+  [2/3/17, 21:24:07] Yi Hein: After what he did it's pretty insane not to judge him, unless the person is so clueless
+  [2/3/17, 21:27:31] Yi Hein: Yeah I'll try. Today was pretty horrible for me though. Like even for the house captain selection. After seeing the results, I'm like okay, if there's a person who is more suitable to serve the house, it's for the best. But I got really upset when I found out it was rigged for my house
+  [2/3/17, 21:28:14] Shannon: Oh you tried for house cap?
+  [2/3/17, 21:28:16] Yi Hein: It's actually surprising how I always ask you for moral advice now 😂
+  [2/3/17, 21:28:17] Shannon: It was rigged?
+  [2/3/17, 21:28:54] Yi Hein: Yeah, not for other houses (at least I would like to think). But definitely rigged for my house
+  [2/3/17, 21:29:02] Yi Hein: But I've got over it
+  [2/3/17, 21:29:13] Shannon: What.... that's Super corrupted....
+  [2/3/17, 21:29:21] Shannon: How did you know it was rigged though
+  [2/3/17, 21:29:31] Yi Hein: Haha like they are not even hiding that they are rigging the selection
+  [2/3/17, 21:30:25] Yi Hein: My house captain literally said to one guy that he's going to help one of the applicants get in. And that is before the selection test even started
+  [2/3/17, 21:30:50] Yi Hein: But he said he was impartial for the selection test so I though he'll be fair
+  [2/3/17, 21:31:00] Yi Hein: But turns out the guy and the girl got in
+  [2/3/17, 21:32:13] Yi Hein: I'm curious how do you always remain so optimistic haha
+  [2/3/17, 21:34:22] Shannon: OMG that's Super corrupted and just bad and despicable
+  [2/3/17, 21:34:31] Shannon: I don't even know what to say
+  [2/3/17, 21:35:37] Shannon: Sigh are you sad over it? I'd be really upset
+  [2/3/17, 21:36:05] Shannon: HAHA I'm really not an optimistic person nicole always says I'm a pessimistic person when it comes to myself
+  [2/3/17, 21:38:30] Yi Hein: I've kind of got over it. I've got to accept it I Guess. I've heard council selection is more rigged so good to have mental preparation haha
+  [2/3/17, 21:39:32] Shannon: Ohh
+  [2/3/17, 21:39:35] Shannon: Wow...
+  [2/3/17, 21:39:45] Shannon: I really hope you get it and change this messed up system
+  [2/3/17, 21:40:24] Yi Hein: Yeah I hope so, but that if I can somehow get into the system though
+  [2/3/17, 21:42:05] Yi Hein: Yeah but that's cause you always think about yourself last, you're  optimistic about others though
+  [2/3/17, 21:43:03] Yi Hein: That's actually an admirable trait but you should also have more trust in yourself too
+  [2/3/17, 21:43:53] Shannon: Idkekkdkfn idk haha I'm currently having a random self loathing moment now
+  [2/3/17, 21:44:08] Shannon: It's like this self absorbed thing that happens to me once in a while HAHA
+  [2/3/17, 21:44:35] Shannon: Sorry haha idk I have a lot of self pity you can just ignore me
+  [2/3/17, 21:49:23] Yi Hein: Why would you even hate yourself 😔, if I were as nice as you I'll love myself
+  [2/3/17, 21:50:49] Yi Hein: And even though you think you become self-absorbed for a while, you are still not as self-absorbed compared to many people in the society
+  [2/3/17, 21:56:34] Shannon: Idk
+  [2/3/17, 21:56:38] Shannon: I'm quite messed up
+  [2/3/17, 21:57:11] Yi Hein: Well haha I don't mind you telling me how messed up it is
+  [2/3/17, 21:57:23] Yi Hein: I don't judge
+  [2/3/17, 21:57:27] Shannon: HAHHAA it's Super like
+  [2/3/17, 21:57:28] Shannon: Bad
+  [2/3/17, 21:57:29] Shannon: Idk
+  [2/3/17, 21:57:37] Yi Hein: I won't judge like honestly
+  [2/3/17, 21:57:37] Shannon: You'll probably find me Super weird afterwards
+  [2/3/17, 21:57:58] Yi Hein: You probably think I've very high expectations of you
+  [2/3/17, 21:58:17] Yi Hein: But I don't judge, I'm weird too
+  [2/3/17, 21:58:31] Shannon: I have like Super Low self esteem haha
+  [2/3/17, 21:58:31] Shannon: Like seriously Low
+  [2/3/17, 21:58:55] Shannon: And I get emo very easily I'm Super sensitive
+  [2/3/17, 21:59:24] Shannon: I've lost a lot of friendships cos of that haha bc I keep thinking I'm a burden
+  [2/3/17, 21:59:31] Shannon: Idk I thought it got better but I Guess it didn't
+  [2/3/17, 21:59:44] Shannon: I think school mag made it worse haha it really made me feel like crap
+  [2/3/17, 21:59:51] Shannon: I have social anxiety too
+  [2/3/17, 22:00:13] Yi Hein: Wait I'm still waiting for the messed up part
+  [2/3/17, 22:00:19] Shannon: I freak out when I'm around strangers and stuff
+  [2/3/17, 22:00:20] Shannon: HAHAHA
+  [2/3/17, 22:00:27] Shannon: Isn't that whole thing q messed up
+  [2/3/17, 22:00:28] Shannon: Idkdkdkdkjdof
+  [2/3/17, 22:00:40] Shannon: Like my whole mental health is messed up
+  [2/3/17, 22:00:42] Shannon: Idk man
+  [2/3/17, 22:01:17] Yi Hein: Well I wouldn't call it messed up just Low-self esteem
+  [2/3/17, 22:01:49] Yi Hein: I was probably way worse than you last time. Especially in primary school
+  [2/3/17, 22:02:14] Yi Hein: It takes time to build it up
+  [2/3/17, 22:03:22] Shannon: Haha idk what to say
+  [2/3/17, 22:03:23] Shannon: Sorry
+  [2/3/17, 22:03:26] Yi Hein: Haha I'm quite sensitive too but it got better
+  [2/3/17, 22:03:39] Shannon: Don't worry I'm not usually like this ok!!
+  [2/3/17, 22:03:43] Shannon: It's very random
+  [2/3/17, 22:04:11] Shannon: HAHA you should just forget everything
+  [2/3/17, 22:04:19] Yi Hein: I'm not judging haha, if not you seem much more relatable
+  [2/3/17, 22:04:36] Yi Hein: I was probably much more messed up haha
+  [2/3/17, 22:05:32] Yi Hein: Your messed up isn't as bad as mine....
+  [2/3/17, 22:05:52] Shannon: Idk I don't really wanna talk about it haha
+  [2/3/17, 22:06:18] Yi Hein: Don't tell anyone but I've actually tried killing myself quite a few times haha, but didn't have the guts
+  [2/3/17, 22:06:24] Yi Hein: Oh well
+  [2/3/17, 22:06:39] Yi Hein: Well it's good to face it
+  [2/3/17, 22:06:46] Shannon: :/
+  [2/3/17, 22:06:50] Shannon: Hope you're better now
+  [2/3/17, 22:06:54] Yi Hein: That's how you build your self-esteem up though
+  [2/3/17, 22:07:07] Shannon: I'm v cowardly so I always run away from problems
+  [2/3/17, 22:07:11] Shannon: This is very depressing
+  [2/3/17, 22:07:23] Shannon: Please don't hate yourself you're a nice person
+  [2/3/17, 22:07:30] Yi Hein: Well then the next time you feel like running away, I'll make you stay
+  [2/3/17, 22:07:34] Yi Hein: Break the cycle
+  [2/3/17, 22:08:34] Yi Hein: I mean nothing will change if you don't do anything
+  [2/3/17, 22:10:05] Yi Hein: And for the School Mag thing, that's not even running away, that 's staying away from weird people, a logical choice in my opinion
+  [2/3/17, 22:14:11] Yi Hein: Well if you really don't want to be cowardly, don't run away from the problem of being cowardly
+  [2/3/17, 22:14:35] Shannon: Thanks
+  [2/3/17, 22:14:36] Shannon: Haha
+  [2/3/17, 22:14:50] Shannon: Sorry i feel quite crap now I don't really know what to say
+  [2/3/17, 22:15:09] Yi Hein: Why?
+  [2/3/17, 22:15:38] Shannon: Idk haha I Guess it's just cos I suck at a lot of stuff
+  [2/3/17, 22:15:56] Yi Hein: Such as what?
+  [2/3/17, 22:16:05] Yi Hein: It's okay to share
+  [2/3/17, 22:16:15] Shannon: Like
+  [2/3/17, 22:16:17] Shannon: Everything
+  [2/3/17, 22:16:25] Shannon: Except acads
+  [2/3/17, 22:16:32] Shannon: Which is Super pathetic
+  [2/3/17, 22:17:24] Yi Hein: You got to be more specific, you can start with what's bothering you most
+  [2/3/17, 22:17:42] Shannon: Haha are you annoyed
+  [2/3/17, 22:17:43] Shannon: I'm sorry
+  [2/3/17, 22:17:50] Yi Hein: No haha
+  [2/3/17, 22:17:58] Yi Hein: Not at all
+  [2/3/17, 22:18:00] Shannon: Honestly idek
+  [2/3/17, 22:18:12] Shannon: I think it's mostly stemming from school mag and being afraid of being left out
+  [2/3/17, 22:18:13] Shannon: In class
+  [2/3/17, 22:18:31] Shannon: I'm half obsessed with cliques forming and today was the first time I sat with the class for recess
+  [2/3/17, 22:18:48] Shannon: And it was so awkward i didn't know what to do
+  [2/3/17, 22:19:06] Shannon: And like during SCH mag I'm such a burden I can't help at all
+  [2/3/17, 22:19:13] Shannon: And like one of the guys told me my photos suck ha ha ha
+  [2/3/17, 22:19:21] Shannon: Ok he told my Friend who told me but still
+  [2/3/17, 22:20:07] Yi Hein: Well I feel like you fit really well in class, you can ask other people too. Like honestly, you are thinking too much
+  [2/3/17, 22:20:18] Shannon: Haha
+  [2/3/17, 22:20:22] Shannon: Nicole says that all the time
+  [2/3/17, 22:20:30] Yi Hein: Like 9 people voted you to be welfare rep for a reason
+  [2/3/17, 22:21:16] Yi Hein: I'll help you ask the others secretly/ discreetly. I'm sure they share the same opinion as me
+  [2/3/17, 22:21:23] Shannon: HAHAHA it's fine
+  [2/3/17, 22:21:28] Shannon: It's probably all in my head
+  [2/3/17, 22:22:12] Shannon: It's like so ironic I know everything is probably just me over thinking but I still feel very jsiekdkfkekdk
+  [2/3/17, 22:22:40] Yi Hein: And well it's pretty mean for him to say your photos suck. But since he said that, you should try to improve your skills. I'm sure there quite a few people in our class who's not bad at photog
+  [2/3/17, 22:22:56] Yi Hein: I know a few friends who are really good too
+  [2/3/17, 22:23:01] Shannon: Ikr
+  [2/3/17, 22:23:04] Yi Hein: Maybe they can help you
+  [2/3/17, 22:23:06] Shannon: Idk
+  [2/3/17, 22:23:11] Shannon: Idek why I'm sad HAHA
+  [2/3/17, 22:23:33] Shannon: I Guess if I'm happy most of the time then the sadness will just come randomly all at one shot
+  [2/3/17, 22:23:49] Shannon: I think I'm gonna quit school mag I feel like I'm gonna be more stressed if I stay
+  [2/3/17, 22:24:25] Yi Hein: I mean you overthinking is probably stemming from your Low-self esteem so maybe you can start by slowing building that up
+  [2/3/17, 22:25:18] Yi Hein: Try not to hide too sad things to yourself, like it's okay to share with others
+  [2/3/17, 22:27:47] Yi Hein: Wanna talk in school tomorrow? I'm open to anything
+  [2/3/17, 22:28:32] Shannon: TBH not really
+  [2/3/17, 22:28:38] Shannon: I don't like talking about it
+  [2/3/17, 22:29:10] Shannon: It's like acknowledging it exists which makes it harder to pretend it doesn't exist hahaha
+  [2/3/17, 22:29:47] Shannon: Just pretend you don't know okay HAHA I wouldn't know what to say if you talk to me about it
+  [2/3/17, 22:29:49] Yi Hein: Well pretending it doesn't exist is not the way to go
+  [2/3/17, 22:30:06] Yi Hein: Of all the times I've pretended I'm not sad, nothing has changed
+  [2/3/17, 22:30:13] Shannon: Idk I believe in
+  [2/3/17, 22:30:16] Shannon: Mind over matter
+  [2/3/17, 22:30:22] Shannon: If I keep telling myself it's okay I will be okay
+  [2/3/17, 22:30:51] Yi Hein: Things change when you start facing it, resolve the root cause and not calm the symptoms
+  [2/3/17, 22:30:56] Yi Hein: I know it takes a Long time
+  [2/3/17, 22:32:05] Shannon: Idk how to improve my self esteem though haha
+  [2/3/17, 22:32:10] Yi Hein: But feel free to talk to me when you feel ready, or even if your don't feel like you're ready to acknowledge it
+  [2/3/17, 22:32:13] Shannon: It's way better than last year alr though
+  [2/3/17, 22:32:17] Shannon: It was Super bad last year
+  [2/3/17, 22:32:39] Yi Hein: I fell like more about confidence
+  [2/3/17, 22:32:39] Shannon: Actually it was the worst in Sec 2 HAHA I would randomly break down in school which sucked a lot
+  [2/3/17, 22:33:18] Shannon: Thanks though for listening to me even though I don't think I made much sense
+  [2/3/17, 22:33:21] Shannon: I feel better hahaha
+  [2/3/17, 22:33:54] Yi Hein: Haha this probably sound Super un-manly but when I was in Sec 3 cried until my pillows were drenched
+  [2/3/17, 22:36:05] Yi Hein: Well I started my thinking about myself more, which sounds really self-Centred. But I realised that always trying to be selfless actually causes more harm than good to the people around me
+  [2/3/17, 22:42:50] Shannon: HAHA I think about myself a lot though
+  [2/3/17, 22:42:54] Shannon: I don't think I'm very selfless
+  [2/3/17, 22:42:58] Shannon: Ah well
+  [2/3/17, 22:43:02] Shannon: I feel much better now
+  [2/3/17, 22:43:14] Shannon: It's fine haha
+  [2/3/17, 22:43:24] Shannon: Thanks though
+  [2/3/17, 22:43:26] Shannon: For everything haha
+  [2/3/17, 22:48:10] Yi Hein: Yeah feel free to talk to me when you feel like it
+  [2/3/17, 22:48:36] Yi Hein: Btw, this seems pretty selfless to me
+  [2/3/17, 22:49:12] Shannon: No it's Super annoying
+  [2/3/17, 22:49:14] Shannon: For
+  [2/3/17, 22:49:16] Shannon: The other person
+  [2/3/17, 22:49:20] Shannon: It's very tiring to be friends with me
+  [2/3/17, 22:49:25] Shannon: As in close friends HAHA
+  [2/3/17, 22:49:39] Shannon: cos I need a lot of affirmation or I'll get all emo and stuff
+  [2/3/17, 22:49:58] Shannon: It's Super pathetic
+  [2/3/17, 22:50:26] Shannon: Then if I feel like I'm Super burden I'll just distance myself from the person until idk we don't even talk anymore
+  [2/3/17, 22:50:29] Yi Hein: Well everyone needs affirmation, oh yeah I forgot it's also that I started improving my Low-self esteem
+  [2/3/17, 22:50:34] Shannon: That's why I avoid a lot of people in our level HAHAH
+  [2/3/17, 22:50:49] Yi Hein: But why would you what to distance yourself?
+  [2/3/17, 22:51:03] Shannon: Cos I feel like I'm too much of a burden to the people
+  [2/3/17, 22:51:07] Shannon: It's way too tiring for them
+  [2/3/17, 22:51:23] Yi Hein: Exactly, you're thinking about how others feel first
+  [2/3/17, 22:51:34] Yi Hein: It's kind of a vicious cycle if you think about it
+  [2/3/17, 22:51:38] Shannon: Yeah
+  [2/3/17, 22:52:16] Yi Hein: So perhaps you can try to stop thinking you're a burden cause other people can be even more burden too
+  [2/3/17, 22:52:31] Shannon: I haven't really met any burden friends though
+  [2/3/17, 22:52:44] Shannon: HAHA anyway when people rely on me I feel less useless
+  [2/3/17, 22:52:59] Shannon: Which is pretty selfish
+  [2/3/17, 22:52:59] Shannon: TBH
+  [2/3/17, 22:53:08] Shannon: Now that I think of it it's Super self centered
+  [2/3/17, 22:53:41] Yi Hein: Well if you think that to make yourself less selfish, you'll not let others rely on you isn't that worse ?
+  [2/3/17, 22:53:57] Yi Hein: Think of feeling less useless a by-product
+  [2/3/17, 22:54:11] Shannon: HAHA by product
+  [2/3/17, 22:54:13] Shannon: Science student
+  [2/3/17, 22:54:17] Yi Hein: Hahaha
+  [2/3/17, 22:54:36] Shannon: Nah I just feel like I shouldn't feel that people relying on me is good
+  [2/3/17, 22:54:37] Shannon: Because
+  [2/3/17, 22:54:46] Shannon: If they need to rely on someone in the first place
+  [2/3/17, 22:54:55] Shannon: It means that they're in a bad position
+  [2/3/17, 22:54:57] Shannon: Which is sad
+  [2/3/17, 22:55:01] Shannon: So I shouldn't feel good
+  [2/3/17, 22:55:25] Yi Hein: Why though?
+  [2/3/17, 22:55:49] Shannon: Why would you need to rely on someone if you're perfectly happy
+  [2/3/17, 22:55:54] Yi Hein: Everyone relies on one another
+  [2/3/17, 22:56:33] Yi Hein: Like I've accomplished nothing by myself
+  [2/3/17, 22:56:43] Yi Hein: And I think that goes for everyone
+  [2/3/17, 22:56:53] Shannon: Oh
+  [2/3/17, 22:56:55] Shannon: Yeah
+  [2/3/17, 22:56:56] Shannon: True
+  [2/3/17, 22:58:04] Yi Hein: People rely on you because they need you to help them. Just like you'll need others to help you too
+  [2/3/17, 22:58:41] Yi Hein: It goes two ways I guess
+  [2/3/17, 23:00:37] Shannon: Yeah
+  [2/3/17, 23:00:50] Shannon: I'm gonna sleep now haha
+  [2/3/17, 23:00:51] Shannon: Good night
+  [2/3/17, 23:00:57] Yi Hein: Yeah good night
+  [2/3/17, 23:01:03] Shannon: Thanks for listening HAHA even though it was v weird and prob made little sense
+  [2/3/17, 23:02:22] Shannon: I hope I won't become a burden to you one day HAHAH and I hope you don't think I'm like weird and emo and stuff idk
+  [2/3/17, 23:04:55] Yi Hein: HAHAHA, feel free to be a burden, cause I'm going to be a burden too 😂
+  [4/3/17, 18:32:05] Yi Hein: Hey Shannon you did your bio lab report yet?
+  [4/3/17, 19:21:29] Shannon: Nope I spent the whole day doing chem HAHA
+  [4/3/17, 19:21:39] Shannon: I'm really worried I will fail chem or at least do badly
+  [4/3/17, 19:21:52] Shannon: I'm gonna do the bio thing once I reach home (it's due on Monday right)
+  [4/3/17, 19:22:07] Yi Hein: Yup
+  [4/3/17, 19:22:38] Yi Hein: Come on you're not that bad, you did well for chem in MG right?
+  [4/3/17, 19:22:43] Shannon: Btw for the Chinese WA practice must we write the whole thing or just the intro
+  [4/3/17, 19:22:58] Yi Hein: The whole thing
+  [4/3/17, 19:23:05] Shannon: Ohh okay thanks
+  [4/3/17, 19:23:11] Shannon: Uhh chem was my worst science haha
+  [4/3/17, 19:23:25] Shannon: I barely got a 7, and I think a lot of people got like mid 80s or higher
+  [3/4/17, 22:28:09] Yi Hein: Hey Shannon you've done your Chem Lab Report right?
+  [3/4/17, 22:28:24] Shannon: Yeah
+  ‎[3/4/17, 22:28:31] Shannon: ‎image omitted
+  [3/4/17, 22:28:33] Shannon: ^ Hao Chen sigh
+  [3/4/17, 22:28:44] Shannon: How is tim my Boyfriend what even
+  [3/4/17, 22:29:05] Yi Hein: Hahaha
+  [3/4/17, 22:29:19] Shannon: Do you need help w chem?
+  [3/4/17, 22:29:31] Shannon: Do people actually think tim and I have something on btw
+  [3/4/17, 22:29:32] Yi Hein: I think there's a crush polygon spreading around
+  [3/4/17, 22:29:50] Shannon: What's a crush polygon HAHAHAHA like an extended version of love triangle?
+  ‎[3/4/17, 22:29:56] Yi Hein: ‎image omitted
+  [3/4/17, 22:30:10] Yi Hein: Haha yeah something like that
+  [3/4/17, 22:30:37] Yi Hein: My CaCO3 mass is more than mass of egg she'll
+  [3/4/17, 22:30:44] Shannon: HAHA oh can you share it with me
+  [3/4/17, 22:30:52] Shannon: Oh yeah Gideon and I had that problem
+  [3/4/17, 22:31:07] Yi Hein: I asked Jordan and he said his was fine
+  [3/4/17, 22:31:18] Shannon: Did you forget to include the 250 cm3 in ur calculations
+  [3/4/17, 22:31:20] Yi Hein: And his volume of NaOH used as about the same as me
+  [3/4/17, 22:31:30] Yi Hein: Wait a minute
+  [3/4/17, 22:32:23] Yi Hein: OMG no wonder
+  [3/4/17, 22:32:28] Shannon: YA IKR haha
+  [3/4/17, 22:32:35] Shannon: Gideon and I were like omggggg
+  [3/4/17, 22:32:40] Shannon: When we figured it out
+  [3/4/17, 22:33:46] Yi Hein: I think it's Darren> Shannon> Tim + Sian> Elliot + Joe<>Nahian
+  [3/4/17, 22:33:55] Yi Hein: HAHAHA act like you don't know about it
+  [3/4/17, 22:34:05] Shannon: WHAT
+  [3/4/17, 22:34:06] Shannon: HAHAHAHAHHAA
+  [3/4/17, 22:34:10] Shannon: HAHAHAHA
+  [3/4/17, 22:34:17] Shannon: So darren likes me but I like tim?
+  [3/4/17, 22:34:22] Shannon: How did people even get that
+  [3/4/17, 22:34:34] Shannon: And Tim and Sian like Elliot?
+  [3/4/17, 22:34:48] Yi Hein: This is actually quite interesting to hear from two perspectives
+  [3/4/17, 22:35:03] Shannon: What two perspectives
+  [3/4/17, 22:35:08] Shannon: EXPLAIN YOURSELF YI HEINNNNN
+  [3/4/17, 22:35:14] Yi Hein: Hahahahaha
+  [3/4/17, 22:35:21] Yi Hein: Don't kill me
+  [3/4/17, 22:35:24] Shannon: DONT YOU DARE GO OFFLINE NOW HAHAHA
+  [3/4/17, 22:35:28] Shannon: I won't
+  [3/4/17, 22:35:54] Yi Hein: Lmao jk
+  [3/4/17, 22:36:00] Yi Hein: Ok so
+  [3/4/17, 22:37:04] Yi Hein: Apparently you wanted to Sian to switch seats with Tim so that you can sit with him (and there's probably another reason which I'm not told)
+  [3/4/17, 22:37:23] Shannon: HAHAHAHA
+  [3/4/17, 22:37:24] Shannon: OMG
+  [3/4/17, 22:37:25] Shannon: WHAT
+  [3/4/17, 22:37:28] Yi Hein: And Darren keeps wanting to talk to you so yeah
+  [3/4/17, 22:37:31] Shannon: I DIDNT WAIT SIAN TO SWITXH
+  [3/4/17, 22:37:37] Shannon: SHE KEPT ASKING ME TO SWITCH
+  [3/4/17, 22:38:05] Yi Hein: OMG Shannon calm down
+  [3/4/17, 22:38:08] Shannon: Like since end of t1, she kept telling me she wanted to switch seats bc she couldn't see
+  [3/4/17, 22:38:19] Shannon: And I happened to know that tim wanted to change seats too
+  [3/4/17, 22:38:29] Shannon: So I was like, ok why don't you two change
+  [3/4/17, 22:38:57] Shannon: GROSS who came up with this
+  I won't dislike the person don't worry I just want to know who stirred this thing up
+  [3/4/17, 22:39:01] Shannon: Was it Joe/ Nahian
+  [3/4/17, 22:39:05] Shannon: Or like Isaiah
+  [3/4/17, 22:39:06] Yi Hein: OOooh I see
+  [3/4/17, 22:39:23] Shannon: I know Isaiah thought that tim and I had smth on idk why tho
+  [3/4/17, 22:39:54] Yi Hein: I think people kinda just inferred from what they saw
+  [3/4/17, 22:40:15] Shannon: HAHA but tim and I don't even talk
+  [3/4/17, 22:40:30] Shannon: How many people think this though
+  [3/4/17, 22:40:44] Shannon: But tim and Sian both like Elliot?
+  [3/4/17, 22:40:51] Yi Hein: I don't know actually
+  [3/4/17, 22:40:57] Yi Hein: WAIT WHAT
+  [3/4/17, 22:41:00] Shannon: I don't think tim is fat
+  [3/4/17, 22:41:03] Shannon: *gay
+  [3/4/17, 22:41:05] Shannon: HAHAHAHA
+  [3/4/17, 22:41:07] Shannon: YOUR ARROWS
+  [3/4/17, 22:41:10] Shannon: AND YOUR +
+  [3/4/17, 22:41:14] Yi Hein: Oh no it's not that
+  [3/4/17, 22:41:40] Shannon: And Joe and Nahian are together?
+  [3/4/17, 22:41:41] Shannon: HAHAHA
+  [3/4/17, 22:41:50] Yi Hein: + represents a different system, it's a summation of the crush equations
+  [3/4/17, 22:41:50] Shannon: Who did you hear it from tho
+  [3/4/17, 22:41:54] Shannon: I see
+  [3/4/17, 22:42:02] Shannon: Sigma notation
+  [3/4/17, 22:42:16] Shannon: Why must I be involved
+  [3/4/17, 22:42:20] Yi Hein: There was some joke about them being gay, it's just for laughs haha
+  [3/4/17, 22:42:23] Shannon: I bet it was JY
+  [3/4/17, 22:42:27] Shannon: He's so loud
+  [3/4/17, 22:42:38] Yi Hein: Definitely not
+  [3/4/17, 22:42:37] Shannon: And he keep saying that Tim GCPed for me which is so not true
+  [3/4/17, 22:42:45] Yi Hein: Wait really
+  [3/4/17, 22:43:04] Yi Hein: I didn't even know JY knew about it
+  [3/4/17, 22:43:14] Shannon: Yeah cos tim and I are pretty close friends actually HAHA but I don't think people know that
+  [3/4/17, 22:43:23] Shannon: Oh
+  [3/4/17, 22:43:27] Shannon: So it's the back row?
+  [3/4/17, 22:43:35] Shannon: 😾
+  [3/4/17, 22:43:38] Shannon: HAHAHA
+  [3/4/17, 22:43:41] Shannon: Thanks for telling me though
+  [3/4/17, 22:43:48] Yi Hein: Hahahaha don't kill them please
+  [3/4/17, 22:43:51] Shannon: Hao chen said he heard it from many people
+  [3/4/17, 22:43:58] Shannon: I won't HAHA
+  [3/4/17, 22:44:00] Yi Hein: Yeah it's complicated
+  [3/4/17, 22:44:05] Shannon: I just want to know why they think that way
+  [3/4/17, 22:44:07] Shannon: Like I don't get it
+  [3/4/17, 22:44:16] Shannon: I thought v few people knew that tim and I were close friends
+  [3/4/17, 22:44:58] Yi Hein: Yeah indeed
+  [3/4/17, 22:45:07] Yi Hein: That's probably why they inferred wrongly
+  [3/4/17, 22:45:24] Shannon: But the only thing is the Seat switching thing?
+  [3/4/17, 22:45:29] Shannon: That's so unreliable
+  [3/4/17, 22:45:46] Shannon: Or was it Benedict HAHAHAH
+  [3/4/17, 22:45:48] Yi Hein: That what I heard, I'm sure there's much more that I'm not aware of
+  [3/4/17, 22:45:56] Shannon: He saw us studying together before
+  [3/4/17, 22:46:03] Shannon: But that was only once
+  [3/4/17, 22:46:09] Shannon: Sighhhhhhhhhhhh
+  [3/4/17, 22:46:16] Shannon: Why all this gossipppppp
+  [3/4/17, 22:46:31] Shannon: Please tell me if you hear anything else HAHAHAH
+  [3/4/17, 22:46:44] Yi Hein: Cause some people have been in a Boy's school for 10 years
+  [3/4/17, 22:47:17] Yi Hein: So they think everything has to do with a relationship
+  [3/4/17, 22:47:18] Shannon: No one thinks that tim likes me back right
+  [3/4/17, 22:47:26] Shannon: I Guess that's good for him at least HAHAHA
+  [3/4/17, 22:47:37] Shannon: Yucks it's so not true
+  [3/4/17, 22:48:06] Yi Hein: But btw
+  [3/4/17, 22:48:26] Yi Hein: I need your advice now
+  [3/4/17, 22:48:31] Shannon: Oh
+  [3/4/17, 22:48:34] Shannon: What happened
+  [3/4/17, 22:49:04] Yi Hein: I've been pretty stupid today 😔
+  [3/4/17, 22:49:26] Shannon: Why :(
+  [3/4/17, 22:51:37] Yi Hein: Ok so, l was climbing up the stairs when a my SC situational group mate said like "Hi" and was smiling (according to my friend). And like I wasn't paying attention so I accidentally ignored her, apparently she didn't look happy after that
+  [3/4/17, 22:51:53] Yi Hein: I think I did it to another person too
+  [3/4/17, 22:51:59] Shannon: Ohh
+  [3/4/17, 22:52:05] Shannon: Don't worry too much about it!!
+  [3/4/17, 22:52:11] Yi Hein: Gosh it's so cringy
+  [3/4/17, 22:52:24] Shannon: If you see her next time just say hey (name)
+  [3/4/17, 22:52:31] Shannon: Make sure you include the name, it's more personal
+  [3/4/17, 22:52:39] Shannon: And smile
+  [3/4/17, 22:52:40] Yi Hein: Hahaha okie
+  [3/4/17, 22:52:47] Shannon: So that she'll know that you're not ignoring her or smth
+  [3/4/17, 22:52:57] Shannon: It's a totally honest mistake you don't have to feel bad about it!!
+  [3/4/17, 22:53:24] Shannon: I'm sure you'll get a chance to write the wrong
+  [3/4/17, 22:53:26] Shannon: *eight
+  [3/4/17, 22:53:28] Shannon: *right
+  [3/4/17, 22:53:31] Shannon: :)
+  [3/4/17, 22:53:40] Yi Hein: Yup thanks haha
+  [3/4/17, 22:54:06] Yi Hein: Btw gotta weird question to ask
+  [3/4/17, 22:54:21] Shannon: HAHA ok
+  [3/4/17, 22:54:32] Yi Hein: Be honest ok
+  [3/4/17, 22:54:31] Shannon: I'm guessing it's not chem
+  [3/4/17, 22:54:35] Shannon: Okay
+  [3/4/17, 22:54:40] Shannon: This is scary
+  [3/4/17, 22:54:48] Shannon: I hope it's not a hard question
+  [3/4/17, 22:54:59] Yi Hein: Were you pissed off at me at some point?
+  [3/4/17, 22:55:07] Shannon: HAHAHA no
+  [3/4/17, 22:55:21] Shannon: I don't get pi**ed off at people easily
+  [3/4/17, 22:55:33] Yi Hein: Or just annoyed?
+  [3/4/17, 22:55:33] Shannon: Like I haven't been really angry this year yet, just mildly annoyed
+  [3/4/17, 22:55:40] Shannon: Not at you though
+  [3/4/17, 22:55:51] Shannon: At Isaiah yes
+  [3/4/17, 22:56:00] Shannon: But not you HAHA cos you didn't cross any lines
+  [3/4/17, 22:56:17] Shannon: Likes when you were teasing me about the darren thing you didn't go too far so it's okay
+  [3/4/17, 22:56:20] Shannon: Isaiah did though
+  [3/4/17, 22:57:09] Yi Hein: Just curious what are the things you can't stand ( "lines" )
+  [3/4/17, 22:57:15] Shannon: HAHA
+  [3/4/17, 22:57:24] Shannon: Like mentioning awkward moments
+  [3/4/17, 22:57:31] Shannon: Like there peanut *cough* butter
+  [3/4/17, 22:57:34] Shannon: *the
+  [3/4/17, 22:57:58] Shannon: Esp when I'm actually really bothered by it
+  [3/4/17, 22:58:09] Shannon: Cos I was really ugh about the darren thing (though I think it's ok now)
+  [3/4/17, 22:58:41] Yi Hein: Ah ok I see
+  [3/4/17, 22:59:03] Shannon: Thanks for asking though
+  [3/4/17, 22:59:06] Shannon: You're really nice HAHAH
+  [3/4/17, 22:59:27] Yi Hein: No haha you don't know the real me
+  [3/4/17, 23:00:01] Shannon: HAHA I'm sure everyone has their own bad parts and good parts
+  [3/4/17, 23:00:54] Shannon: But like Sirius black once said, "the world isn't split into good people and death eaters. We've all got both light and dark inside us. What matters is the part we choose to act on. That's who we really are."
+  [3/4/17, 23:01:31] Shannon: So even if you're not that good 99% of the time, and you're nice and good 1% of the time (which is def true bc I've seen your nice part), you're alr a good person!
+  [3/4/17, 23:03:00] Yi Hein: So philosophical haha 🤔
+  [17/5/17, 22:15:18] Yi Hein: Hey Shannon can you bring the calculator you mentioned to class tmr?
+  [19/5/17, 22:11:02] Yi Hein: Btw, you can consult Hao Chen for $5 MCs
+  [19/5/17, 22:11:12] Shannon: HAHAHA What are $5 MCs
+  [19/5/17, 22:11:18] Shannon: No I legit don't feel well haha
+  [19/5/17, 22:11:56] Yi Hein: Oh
+  [19/5/17, 22:13:26] Yi Hein: Probably too little sleep hahaha gws
+  [20/5/17, 09:21:58] Shannon: Tsk I can't believe you thought that I was gonna skip bc of a not legit excuse
+  [20/5/17, 09:22:14] Shannon: I slept for more than half the amount of time I've slept in the whole week last night
+  [20/5/17, 09:22:18] Shannon: So scary
+  [20/5/17, 11:11:45] Yi Hein: HAHAHA normally asking whether you need MC implies ponning
+  [20/5/17, 11:12:59] Yi Hein: I Guess I kinda thought that coz my classmates kept ponning last year
+  [20/5/17, 11:13:13] Shannon: Pfft
+  [20/5/17, 11:13:25] Shannon: Do we need to sit with our classes
+  [20/5/17, 11:13:26] Shannon: OH YA
+  [20/5/17, 11:13:31] Shannon: What bio worksheets are due on monday
+  [20/5/17, 11:13:33] Yi Hein: 👍🏼👏🏼
+  [20/5/17, 11:13:58] Yi Hein: Not very sure
+  [20/5/17, 11:14:29] Yi Hein: You're coming today?
+  [20/5/17, 11:14:56] Yi Hein: Yeah we need to sit with our classes
+  [2/8/17, 19:13:28] Shannon: Hey yi Hein!!!!!
+  [2/8/17, 23:58:51] Shannon: Are you still awake :((
+  [3/8/17, 05:11:42] Yi Hein: Sorry I crashed, what happened?
+  [3/8/17, 19:26:56] Shannon: Hey yi Hein, could you help me ask if any of the councillors will be willing to come down from 9-1pm on sat to help us usher for SYPC? CAS hours will be given :)) we need 2!!
+  [3/8/17, 19:27:05] Shannon: Or one is fine too actually
+  [3/8/17, 19:29:19] Yi Hein: I believe they've already asked yesterday, not sure who signed up though?
+  [3/8/17, 19:32:25] Yi Hein: Where's it btw?
+  [3/8/17, 19:32:46] Shannon: Oh okay
+  [3/8/17, 19:32:51] Shannon: Thanks!
+  [3/8/17, 19:32:55] Shannon: School!
+  [3/8/17, 19:32:57] Shannon: CPA1
+  [3/8/17, 19:33:37] Shannon: And like we need SJAB person/ first aider too haha for the whole day so it'll be nice if the person could do first aid ( can claim more hours )
+  But like if cannot then it's fine
+  [3/8/17, 19:33:40] Shannon: Thanks so much haha
+  [3/8/17, 20:18:54] Yi Hein: Can double up as a first aider? Sounds pretty tempting lmao
+  [3/8/17, 20:20:29] Shannon: Yes yi Hein!!!!
+  [3/8/17, 20:20:35] Shannon: You are like totally the best person for the job haha
+  [3/8/17, 20:20:46] Shannon: That's also what I wanted to ask haha
+  ‎[3/8/17, 20:59:46] Yi Hein: ‎image omitted
+  [3/8/17, 20:59:58] Yi Hein: But yeah I can go for it
+  [3/8/17, 21:00:09] Shannon: HAHAHAH what
+  [3/8/17, 21:00:11] Shannon: I didn't say that
+  [3/8/17, 21:00:20] Shannon: I said isaiah lived nearby
+  [3/8/17, 21:00:26] Shannon: And he can be the first aid person
+  [3/8/17, 21:00:29] Shannon: But he rejected me HAHA
+  [3/8/17, 21:00:50] Yi Hein: So is it from 1130 or 9?
+  [3/8/17, 22:22:06] Shannon: 9!
+  [3/8/17, 22:22:09] Shannon: 9-1 :)
+  [3/8/17, 22:22:12] Shannon: Are you okay with it!!
+  [4/8/17, 21:03:36] Yi Hein: Can you update me on the timeline of events and procedure for tmr?
+  [4/8/17, 21:03:44] Shannon: Yep okay! Give me a moment
+  [4/8/17, 21:03:47] Shannon: 10 min ahha
+  [4/8/17, 21:03:49] Shannon: I just got home
+  [4/8/17, 22:07:33] Shannon: Hi yi Hein sorry the 10 min became 1h haha
+  [4/8/17, 22:12:27] Shannon: Anyway this is what you should take note of:
+  - you can report after your training! Just text me when you arrive and I'll come meet you
+  - GOH will come at about 12.15pm, so get into your blazer and stuff by 12pm! He will be at the new boardroom so you'll walk him to CPA 1 and guide him around
+  - I'll do a run through with you tmr morn as well when you arrive ok!
+  [4/8/17, 22:12:34] Shannon: Everything should end by 1pm
+  [4/8/17, 22:37:37] Yi Hein: Alright thanks
+  [16/8/17, 20:44:50] Shannon: Hello yi hein
+  [16/8/17, 21:24:09] Shannon: Does he hate me
+  [16/8/17, 21:24:17] Shannon: I suppose he does right
+  [16/8/17, 21:36:01] Yi Hein: dhc?
+  [16/8/17, 21:36:55] Shannon: Yeah
+  [16/8/17, 21:37:06] Shannon: He told you what happened right
+  [16/8/17, 21:42:55] Yi Hein: kinda quite briefly though
+  [16/8/17, 21:44:28] Yi Hein: i don't think hate would be the right word?
+  [16/8/17, 21:44:39] Shannon: He's hurt?
+  [16/8/17, 21:44:46] Shannon: He thinks I betrayed him right
+  [16/8/17, 21:44:49] Shannon: And was a bad Friend
+  [16/8/17, 21:45:07] Yi Hein: yup
+  [16/8/17, 21:45:33] Shannon: Okay
+  [16/8/17, 21:45:45] Shannon: It's alright
+  [16/8/17, 21:45:46] Shannon: I
+  [16/8/17, 21:45:48] Shannon: I deserve it
+  [16/8/17, 21:47:15] Yi Hein: what did he say that really made you feel super uncomfortable?
+  [16/8/17, 21:47:38] Shannon: I never wanted this
+  [16/8/17, 21:47:41] Shannon: I
+  [16/8/17, 21:47:46] Shannon: Don't know anymore
+  [16/8/17, 21:47:49] Shannon: Maybe nothing happened
+  [16/8/17, 21:47:54] Shannon: Maybe I imagined the past four months
+  [16/8/17, 21:48:02] Shannon: I probably overreacted or something
+  [16/8/17, 21:48:18] Shannon: He probably did nothing wrong
+  [16/8/17, 21:48:18] Shannon: It's all my fault probably
+  [16/8/17, 21:48:18] Shannon: Yes it is
+  [16/8/17, 21:48:19] Shannon: I think it is
+  [16/8/17, 21:48:19] Shannon: I
+  [16/8/17, 21:48:19] Shannon: I
+  [16/8/17, 21:48:31] Shannon: I'm sorry
+  [16/8/17, 21:49:07] Yi Hein: Yeah it can feel unreal when so many things happen so fast
+  [16/8/17, 21:50:15] Yi Hein: I think it's mistakes on both parts?
+  [16/8/17, 21:50:28] Shannon: No it's all mine sigh
+  [16/8/17, 21:50:29] Shannon: It's okay
+  [16/8/17, 21:51:00] Shannon: I understand
+  [16/8/17, 21:51:08] Shannon: I don't deserve his forgiveness
+  [16/8/17, 21:51:16] Shannon: I don't expect him to forgive me
+  [16/8/17, 21:51:43] Shannon: Nevermind it's ok!
+  [16/8/17, 21:51:45] Shannon: I'm ok!
+  [16/8/17, 21:58:05] Yi Hein: Tbh I think he's already gotten over it so yeah try to put all the bad things that happened in the past
+  [16/8/17, 21:59:39] Yi Hein: I guess the best thing now is too look forward and see at the situation from his perspective, and he should look at the situation from your perspective
+  [16/8/17, 22:00:11] Yi Hein: You never know maybe you'll be great friends with him again :)
+  [16/8/17, 22:01:14] Yi Hein: Well the strongest friendships are forged through things like these
+  [16/8/17, 22:01:55] Yi Hein: So yeah give yourself sometime to take it in and then move on from there
+  [16/8/17, 22:04:26] Shannon: I can see it from his perspective
+  [16/8/17, 22:04:28] Shannon: And it sucks
+  [16/8/17, 22:04:32] Shannon: I would hate me too I guess
+  [16/8/17, 22:04:35] Shannon: And so I do
+  [16/8/17, 22:04:44] Shannon: And I hope it makes him happy
+  [16/8/17, 22:04:49] Yi Hein: Well if he sees it from your perspective
+  [16/8/17, 22:04:51] Yi Hein: It sucks
+  [16/8/17, 22:04:56] Shannon: Because I can see what a terrible person I am
+  [16/8/17, 22:05:02] Shannon: If he sees it from my perspective
+  [16/8/17, 22:05:04] Shannon: I hope
+  [16/8/17, 22:05:07] Shannon: He knows how sorry I am
+  [16/8/17, 22:05:12] Shannon: And how much I do love him still
+  [16/8/17, 22:05:14] Shannon: As a Friend
+  [16/8/17, 22:05:21] Shannon: And that I'd do everything out of love
+  [16/8/17, 22:05:36] Shannon: Does the class hate me?
+  [16/8/17, 22:06:58] Yi Hein: Nah, why would they lol
+  [16/8/17, 22:07:00] Yi Hein: i think everyone wants to help in anyway they can
+  [16/8/17, 22:07:05] Shannon: But
+  [16/8/17, 22:07:09] Shannon: Didn't he tell them what I did
+  [16/8/17, 22:07:59] Yi Hein: I think Isaiah have told some ppl but very generally
+  [16/8/17, 22:08:12] Yi Hein: And they understand your position
+  [16/8/17, 22:09:48] Yi Hein: Tbh I think majority of the class are siding with you
+  [16/8/17, 22:10:33] Yi Hein: I'm also worried is what they'll think of dhc
+  [16/8/17, 22:10:41] Shannon: He
+  [16/8/17, 22:10:43] Shannon: Sigh
+  [16/8/17, 22:10:50] Shannon: He has the back row doesnt he
+  [16/8/17, 22:10:57] Shannon: Sigh
+  [16/8/17, 22:10:59] Shannon: I
+  [16/8/17, 22:11:10] Shannon: Never wanted this either
+  [16/8/17, 22:12:28] Yi Hein: I talked to joe and others, honestly they don't seem interested and bother to be involved
+  [16/8/17, 22:13:04] Shannon: Oh that's good
+  [16/8/17, 22:13:17] Yi Hein: :(
+  [16/8/17, 22:14:02] Shannon: Huh why
+  [16/8/17, 22:14:06] Shannon: I mean that's good right haha
+  [16/8/17, 22:14:08] Shannon: Why da deface
+  [16/8/17, 22:14:11] Shannon: *sad face
+  [16/8/17, 22:14:14] Shannon: Like
+  [16/8/17, 22:14:18] Shannon: It's better to not care
+  [16/8/17, 22:14:39] Shannon: I mean it'll be better if they could give him the support he needed/ wanted but the next best thing would be to not care right
+  [16/8/17, 22:15:46] Yi Hein: No it's cause the class really seems divided
+  [16/8/17, 22:15:57] Shannon: Oh
+  [16/8/17, 22:15:59] Shannon: Really
+  [16/8/17, 22:16:01] Shannon: Like how
+  [16/8/17, 22:16:06] Shannon: Sigh it's all my fault I'm so sorry
+  [16/8/17, 22:17:01] Yi Hein: Nah it cause the fact that they are taking sides instead of looking at it objectively
+  [16/8/17, 22:17:34] Yi Hein: I think I'll be good for you and dhc to come to a consensus and clear things up to the class
+  [16/8/17, 22:18:20] Shannon: Huh didn't you just say that they don't care haha
+  [16/8/17, 22:18:27] Shannon: I'm not allowed to talk to him
+  [16/8/17, 22:18:37] Shannon: Or interact with him really
+  [16/8/17, 22:18:54] Yi Hein: Your parents don't allow or like it's best not to?
+  [16/8/17, 22:19:27] Shannon: Teachers
+  [16/8/17, 22:19:38] Shannon: I didn't want to block him either
+  [16/8/17, 22:19:47] Shannon: I was forced to
+  [16/8/17, 22:19:53] Shannon: On all social media
+  [16/8/17, 22:22:19] Yi Hein: Oh well just let things calm down first
+  [16/8/17, 22:43:59] Yi Hein: As a friend, I'll advice that it would be beneficial to adhere closely to your beliefs and words truthfully in all situations
+  ‎[19/9/17, 19:11:46] Shannon: ‎Contact card omitted
+  [19/9/17, 19:11:48] Shannon: Hellos
+  [19/9/17, 19:11:54] Shannon: She would like me to give you her number
+  [19/9/17, 19:32:50] Yi Hein: Yess lmao when to call the staff room thrice today and she's not in
+  ‎[3/11/17, 13:03:48] Shannon: ‎image omitted
+  [3/11/17, 13:04:42] Shannon: Yi Hein
+  [3/11/17, 13:04:52] Shannon: Yi hein stay strong
+  [3/11/17, 13:05:13] Shannon: I feel scared to you
+  [3/11/17, 13:05:14] Shannon: *for
+  [3/11/17, 15:07:15] Yi Hein: Oh crap
+  [3/11/17, 15:07:37] Shannon: Yeahhh
+  [3/11/17, 15:07:39] Shannon: Atb
+  [3/11/17, 15:08:17] Yi Hein: Alright I'm heading there now
+  [3/11/17, 15:14:53] Yi Hein: Welp I survived
+  [3/11/17, 15:15:15] Yi Hein: Btw she helped me keep microscope is it?
+  [3/11/17, 15:15:30] Yi Hein: *the microscope
+  [3/11/17, 15:17:00] Shannon: Yep
+  [3/11/17, 15:17:04] Shannon: Haha okay good
+  [3/11/17, 15:17:06] Shannon: I’m Glad
+  [3/11/17, 15:17:09] Shannon: Did she scold you
+  [3/11/17, 15:17:32] Yi Hein: Kinda
+  [3/11/17, 15:17:59] Yi Hein: I think she got a pay rise or sth she not as grumpy tdy
+  [3/11/17, 15:18:40] Yi Hein: She just told me to buy the person who helped me keep the microscope a drink
+  [3/11/17, 15:20:26] Shannon: HAHA
+  [3/11/17, 15:20:27] Shannon: Okay
+  [3/11/17, 15:20:35] Shannon: do you know how she looks like
+  [3/11/17, 15:30:51] Yi Hein: I may have seen her, but can't match the name to a face
+  [14/11/17, 08:27:00] Shannon: Hi! Just to confirm, are you interested in the KDF befriending programme? It’s every second Friday of the month, from 1.30 pm to 3.30 pm.
+  [14/11/17, 16:40:24] Yi Hein: Yeah
+  [14/11/17, 16:41:06] Yi Hein: Btw each interactor will join one or more than one Programme?
+  [14/11/17, 19:50:02] Shannon: At least one
+  [4/12/17, 22:37:26] Yi Hein: hey shannon, i'll be able to go for the KDF session afterall, my flight would be on the next day haha
+  [6/12/17, 21:44:29] Yi Hein: what's the travel history for btw?
+  [6/12/17, 21:45:45] Shannon: For patients’ safety
+  [6/12/17, 21:46:00] Shannon: So like if you went to a country where there was an out break they wouldn’t want you to come near the patients
+  [6/12/17, 21:49:10] Yi Hein: ohhh i see
+  [6/12/17, 21:49:56] Yi Hein: went to Chiang Mai, Thailand from 11-15/11/17
+  [6/12/17, 21:49:58] Yi Hein: thats about it
+  [8/12/17, 13:25:06] Yi Hein: Where are y'all meeting for the session lol
+  [8/12/17, 13:29:07] Shannon: What do you mean
+  [8/12/17, 13:30:27] Yi Hein: Ah it's fine, I'm inside, was wondering where the rest were
+  [8/12/17, 13:30:34] Shannon: Oh haha
+  [8/12/17, 13:30:45] Shannon: Yeah the other’s probably a little late
+  I’ll be a little late
+  [8/12/17, 13:30:53] Shannon: Did you tell mr loi you’re new?
+  [8/12/17, 13:30:56] Shannon: He’ll give you a briefing
+  [22/1/18, 21:56:34] Yi Hein: Hey Shannon is HVG starting this week?
+  [22/1/18, 22:13:09] Shannon: Yep most probably
+  [22/1/18, 22:13:18] Shannon: Still discussing some details will update you by tmr
+  [22/1/18, 23:01:21] Yi Hein: Ok can thanks
+  [25/1/18, 21:21:45] Shannon: Yi hein!!!!
+  [25/1/18, 21:21:51] Shannon: Is there no econs teat tmr
+  [25/1/18, 21:21:53] Shannon: *test
+  [25/1/18, 21:22:20] Yi Hein: Why?
+  [25/1/18, 21:22:26] Shannon: I just saw his message
+  [25/1/18, 21:22:29] Shannon: In the group
+  ‎[25/1/18, 21:22:57] Shannon: ‎image omitted
+  [25/1/18, 21:23:53] Yi Hein: Oh just saw it
+  [25/1/18, 21:24:07] Shannon: So no test?
+  [25/1/18, 21:24:38] Yi Hein: Yeah that what he said
+  [25/1/18, 21:24:39] Shannon: Yay okay
+  [25/1/18, 21:24:42] Shannon: So I don’t need to study
+  [25/1/18, 21:25:05] Yi Hein: Haha lol at least it forced me to prioritise Econs for a day ;)
+  [25/1/18, 21:25:06] Shannon: Hahaha
+  [25/1/18, 21:25:14] Shannon: Yayy okay
+  [25/1/18, 21:25:23] Shannon: Don’t forget to do your DRQ
+  [25/1/18, 21:25:40] Yi Hein: Where the qn btw
+  [25/1/18, 21:25:42] Shannon: The purple book
+  [25/1/18, 21:25:51] Shannon: At the back
+  [25/1/18, 21:26:01] Shannon: I can’t remember what page but it’s Nov 17 I think
+  [25/1/18, 21:26:15] Yi Hein: Ooooh ok I remember now
+  [25/1/18, 21:26:45] Yi Hein: Lol prob gonna do it tmr
+  [25/1/18, 21:26:49] Yi Hein: Too shagged out
+  [25/1/18, 21:36:46] Shannon: haha sigh rest well yeah
+  [6/2/18, 21:46:34] Yi Hein: I can't make it this Friday
+  [6/2/18, 21:46:50] Yi Hein: Have SIRC and orientation
+  [6/2/18, 21:49:02] Shannon: Alright sure
+  [14/2/18, 20:10:07] Yi Hein: Wait Shannon am I involved in the cny thing?
+  [14/2/18, 20:10:12] Yi Hein: Can't remember :/
+  [14/2/18, 20:10:16] Shannon: If you didn’t sign up then no haha
+  [14/2/18, 20:10:21] Shannon: Hm I don’t think you did
+  [14/2/18, 20:10:22] Shannon: Do you want to go tho?
+  [14/2/18, 20:10:25] Shannon: Is your elderly going?
+  [14/2/18, 20:10:41] Yi Hein: No idea didn't go for HVG tdy
+  [14/2/18, 20:10:46] Shannon: Oh
+  [14/2/18, 20:10:51] Shannon: Can you check w your group
+  [14/2/18, 20:10:54] Shannon: Sean is going tho
+  [14/2/18, 20:11:15] Yi Hein: Tbh idm it's better than sitting there and watching celebrations
+  [14/2/18, 20:11:25] Yi Hein: Ok will check
+  [14/2/18, 20:11:29] Shannon: Oh okay
+  [14/2/18, 20:23:20] Shannon: Hm Yi hein
+  [14/2/18, 20:23:42] Shannon: If you dk if your elderly is going
+  [14/2/18, 20:23:47] Shannon: Can you just put your name down first?
+  [14/2/18, 20:24:00] Shannon: If needed you can go a bit earlier to his house or smth?
+  [14/2/18, 20:24:04] Shannon: Or call now to check?
+  [14/2/18, 20:25:42] Shannon: Cos anyways we need ppl to go fetch the elderly
+  [14/2/18, 20:25:46] Yi Hein: Sean said he doesn't think so
+  [14/2/18, 20:25:52] Shannon: Oh ok
+  [14/2/18, 20:25:57] Shannon: Oh wait sorry
+  [14/2/18, 20:26:02] Shannon: What’s your wldelry’s name
+  [14/2/18, 20:26:40] Yi Hein: Hi Shannon, I managed to get one more resident who agreed to meet up with your today. Mrs Omar @ 85062390, BLK 4,#10-374.Dover Road..
+  [14/2/18, 20:27:19] Shannon: Ah ok thanks
+  Idk if she’s going haha
+  [14/2/18, 20:33:51] Shannon: Can one of you just go tmr?
+  [14/2/18, 20:33:56] Shannon: And then check then?
+  [14/2/18, 20:34:09] Yi Hein: Haha ok can 👌🏼
+  [14/2/18, 20:34:20] Shannon: Okay thanks! Ask someone to come w us then
+  [14/2/18, 20:41:28] Yi Hein: Sean is coming
+  [14/2/18, 20:41:51] Shannon: Oh ok ask him to add his name then
+  [14/2/18, 20:44:19] Shannon: Great thanks!
+  [15/2/18, 08:35:41] Shannon: Yi Hein is your elderly coming
+  [22/2/18, 23:09:29] Yi Hein: Hey Shannon do you have an adapter for mini-display port to vga?
+  [22/2/18, 23:10:13] Shannon: nope sorry i only have the mac one
+  ‎[22/2/18, 23:10:32] Yi Hein: ‎image omitted
+  [22/2/18, 23:10:55] Shannon: haha uh
+  [22/2/18, 23:11:04] Shannon: idk tim might have
+  [22/2/18, 23:11:08] Shannon: he has one haha
+  [22/2/18, 23:11:29] Shannon: im not sure if it's the same as the mac one
+  [22/2/18, 23:11:49] Yi Hein: Is your mac new? The older versions are the same
+  [22/2/18, 23:12:01] Shannon: oh okay then yeah it's the same
+  ‎[22/2/18, 23:12:23] Shannon: ‎image omitted
+  [22/2/18, 23:12:34] Yi Hein: Yup yes that works
+  [22/2/18, 23:12:52] Shannon: But I’m lending it to yangqing tmr for Tok I think
+  When do you need it?
+  [22/2/18, 23:13:04] Yi Hein: In the morning, before during assembly
+  [22/2/18, 23:13:13] Shannon: Oh okay should be fine then
+  [22/2/18, 23:13:17] Yi Hein: What time are you coming to school tmr
+  [22/2/18, 23:13:21] Shannon: I’ll pass it to you in the morning before sch?
+  [22/2/18, 23:13:25] Shannon: I usually come at about 7
+  [22/2/18, 23:13:32] Shannon: Do you want me to come earlier?
+  [22/2/18, 23:13:37] Yi Hein: Alright can
+  [22/2/18, 23:13:40] Yi Hein: 7 is fine
+  [22/2/18, 23:13:47] Yi Hein: Thanks so much!
+  [22/2/18, 23:13:49] Shannon: Okay thanks
+  [22/2/18, 23:13:55] Yi Hein: Life saver omg ☺️
+  [23/2/18, 06:59:21] Yi Hein: Hey Shannon tell me when you've arrived in school
+  [23/2/18, 07:00:24] Shannon: Hey yi Hein I just reached
+  [23/2/18, 07:03:12] Yi Hein: Are you at class?
+  [23/2/18, 07:05:01] Shannon: Left it on your table
+  [23/2/18, 07:05:16] Yi Hein: Ok thanks so much :)
+  [23/2/18, 08:35:52] Shannon: Can you pass it to yangqing later thanks
+  [23/2/18, 09:41:32] Yi Hein: Yup passed it to her
+  [4/3/18, 15:26:32] Shannon: Hey Yi hein
+  [4/3/18, 15:26:36] Shannon: I just printied
+  [4/3/18, 15:26:39] Shannon: Printed
+  [4/3/18, 15:26:49] Shannon: E solo at sunshine plaza
+  [4/3/18, 15:26:50] Yi Hein: they print it on the day itself
+  [4/3/18, 15:26:52] Yi Hein: ?
+  [4/3/18, 15:26:56] Shannon: $25 for A0 30 min
+  [4/3/18, 15:27:11] Shannon: Can go online and check
+  [4/3/18, 15:27:19] Shannon: Yeah
+  [4/3/18, 15:27:27] Shannon: I just went there and gave my design in PDF
+  [4/3/18, 15:27:28] Yi Hein: is it hard backing?
+  [4/3/18, 15:27:37] Shannon: Yeah they do both
+  [4/3/18, 15:27:45] Shannon: They have a website too
+  [4/3/18, 15:27:53] Yi Hein: ok checking the site
+  [4/3/18, 15:28:16] Shannon: Can call the guy to check
+  [4/3/18, 15:28:30] Shannon: 9039 3378
+  [4/3/18, 15:28:36] Shannon: The guy is rly nice too
+  [4/3/18, 15:37:50] Shannon: If youre going today
+  [4/3/18, 15:37:53] Shannon: They close at 6pm
+  [4/3/18, 15:38:09] Yi Hein: yeah i'm going tdy
+  [4/3/18, 15:41:17] Shannon: Okay save it in PDF first and put it in a thumb drive
+  [4/3/18, 15:58:59] Yi Hein: Okies
+  [4/3/18, 16:01:31] Shannon: If you can’t find it just message yeah
+  [4/3/18, 16:04:07] Yi Hein: btw do you know what magnification the school microscope has
+  [4/3/18, 16:04:13] Shannon: No haha
+  [4/3/18, 16:04:19] Shannon: I know there’s 50x
+  [4/3/18, 16:04:27] Shannon: Which is the red one I think
+  [4/3/18, 16:04:28] Shannon: That’s it
+  [4/3/18, 16:04:31] Shannon: I can’t remember the rest
+  [4/3/18, 16:04:34] Yi Hein: oh i see
+  [4/3/18, 16:04:41] Shannon: Probably 100x and 20x? Idk not sure about those
+  [4/3/18, 16:04:41] Yi Hein: the lens is 10x apparently
+  [4/3/18, 16:04:52] Shannon: Idk sorry
+  [4/3/18, 16:04:56] Shannon: Wait I can check my IA file
+  [4/3/18, 16:04:58] Shannon: Give me a bit
+  [4/3/18, 16:05:12] Yi Hein: yes thank youu
+  ‎[4/3/18, 16:26:07] Shannon: ‎image omitted
+  ‎[4/3/18, 16:26:23] Shannon: ‎image omitted
+  [4/3/18, 16:26:34] Shannon: So 4,10,40,100
+  [4/3/18, 16:26:42] Shannon: Oops I was wrong haha
+  [4/3/18, 16:27:53] Yi Hein: Omg thanks so much
+  [4/3/18, 16:28:15] Yi Hein: Wait what's magnification of the lens
+  [4/3/18, 16:28:35] Shannon: what do you mean
+  [4/3/18, 16:28:38] Shannon: like
+  [4/3/18, 16:28:46] Yi Hein: Oh wait ok got it
+  [4/3/18, 16:28:52] Shannon: haha okay
+  [4/3/18, 19:33:15] Yi Hein: Ok managed to print the poster in time
+  [4/3/18, 19:33:22] Yi Hein: Thanks so much for the recommendation haha
+  [4/3/18, 19:33:47] Yi Hein: Was about to go to the shop that cost $65 per poster
+  [4/3/18, 19:34:09] Yi Hein: *charged
+  [4/3/18, 19:41:10] Shannon: Yay okay that’s good!
+  [4/3/18, 19:41:12] Shannon: Np haha
+  [4/3/18, 19:41:14] Shannon: Everything okay?
+  [4/3/18, 19:41:29] Yi Hein: Yeah
+  [4/3/18, 19:41:59] Yi Hein: Now's the time for mad EE rush hahaha
+  [7/3/18, 06:45:28] Yi Hein: Hey Shannon I wanna buy the Interact shirt
+  [7/3/18, 19:57:50] Shannon: Okay
+  [7/3/18, 20:18:28] Shannon: Hi
+  [7/3/18, 20:18:30] Shannon: What’s your size
+  [7/3/18, 20:18:43] Yi Hein: S
+  [7/3/18, 20:18:48] Shannon: Okay
+  [8/3/18, 21:15:39] Yi Hein: Hey Shannon sry Ill be late tmr for KDF 😓
+  [8/3/18, 22:06:34] Shannon: okay
+  [8/3/18, 22:06:39] Shannon: can you pay for interact shirt tmr
+  [8/3/18, 22:06:40] Shannon: ?
+  [8/3/18, 22:08:40] Yi Hein: Yeah can
+  [28/4/18, 07:01:24] Yi Hein: hey shannon, could you help me update my HVG hours? I went thrice so far
+  [29/4/18, 18:16:50] Shannon: Okay sure
+  [29/4/18, 18:17:04] Shannon: Also, could you help me do a short 50-100 word reflections on the KDF befriending Programme? It’s for the CAS exhibition that Interact club is taking part in
+  [30/4/18, 05:51:37] Yi Hein: Ok!
+  [30/4/18, 18:49:29] Shannon: Can you send it to me ASAP haha
+  [30/4/18, 18:49:33] Shannon: I need to do the poster by tonight
+  [30/4/18, 20:42:38] Yi Hein: Crap sorry had to settle council stuff
+  [30/4/18, 20:42:41] Yi Hein: Typing it now
+  [30/4/18, 22:00:52] Yi Hein: Volunteering and befriending the patients at KDF was no doubt an enriching experience. I felt that it was very interesting to hear about their stories and listen to the life lessons they shared. At times, I was so engrossed that before I knew it, the befriending session was over and looked forward to the next session. Seeing the patients smile and laugh while playing board games with them was also very heartwarming and fulfilling. It was at these times where I felt that I am indeed making a positive difference to the lives of others and hence strengthening my belief that what I am doing is very meaningful.
+  [30/4/18, 22:01:24] Yi Hein: Sflr 😓
+  [30/4/18, 22:01:46] Shannon: Thanks so muchhhh
+  [30/4/18, 22:32:20] Shannon: thanks so much!! you shall be featured in the poster 👍🏻
+  [6/5/18, 15:44:33] Yi Hein: Hey Shannon, do you happen to have picture of Fei Yue day camp from last year?
+  [6/5/18, 16:18:33] Yi Hein: And also pics from KDF (the group pic after each session)
+  [6/5/18, 17:43:49] Shannon: Hi Yi Hein, it’s in the class group somewhere
+  [6/5/18, 17:44:13] Shannon: I sent it to the group I think, but I think he hasn’t sent me the rest, I’ll ask Mr Loi
+  [6/5/18, 18:16:00] Yi Hein: Thanks!
+  [6/5/18, 21:26:50] Shannon: Hey Yi hein if we’re not going for prom do we have to fill up the form?
+  [7/5/18, 07:07:56] Yi Hein: No you won't need to
+  [7/5/18, 20:33:12] Shannon: Okay thanks!
+  [31/7/18, 09:32:27] Shannon: Hello haha
+  Here’s my notes https://1drv.ms/f/s!AqOzi1btmBkxjG23LM0Y3Rdsjfsz
+  Since you don’t use mac just look at the PDF folder
+  I didn’t do for the poems this year tho cos I thought the poems were sufficient
+  [31/7/18, 09:32:35] Shannon: All the best haha
+  [31/7/18, 09:34:30] Shannon: Also Not sure if you know this but here’s the scenes tested for Macbeth:
+  act 1 scene 2-7 except 4 and 6, act 2 scene 1-3, act 3 scene 1 and 4, act 4 scene 1 and act 5 scene1,5
+  [31/7/18, 09:34:54] Shannon: Haha Dylan and I sort of compiled this from various sources idk if it will be useful
+  [31/7/18, 13:36:43] Yi Hein: Thanks so much!
+  [28/9/18, 13:45:00] Shannon: Hi Yi hein were the other 2018 interact stuff there?
+  [28/9/18, 13:45:12] Shannon: Other than KDF
+  [28/9/18, 13:57:04] Yi Hein: Weekly home visit is there
+  [28/9/18, 13:58:03] Yi Hein: Didn't go for Interact camp/PHD so that should be it
+  [28/9/18, 19:14:48] Shannon: Okay great thanks
+  [15/11/18, 22:09:18] Shannon: Hey Yi hein would you be free this sat for the KDF lunch? Haha looking to see if anyone else is free cos from the y6s it’s only me and Gideon now...
+  [15/11/18, 22:29:24] Yi Hein: Hmmm I've sth at ard 3:30pm what time would it end?
+  [16/11/18, 09:32:50] Shannon: Haha the earliest time you can leave is 12
+  [16/11/18, 09:32:57] Shannon: After that is lunch but you can leave anytime
+  [16/11/18, 09:44:52] Yi Hein: Yeah I should be able to make it then
+  [16/11/18, 22:14:24] Shannon: Thanks!! Dress code is smart casual :) see you!
+  [29/4/19, 00:06:38] Shannon: ‎This message was deleted.
+  [29/4/19, 04:50:43] Yi Hein: ???
+  [29/4/19, 04:50:52] Shannon: Ignore HAHA
+  [29/4/19, 04:50:53] Shannon: Sorry
+  [29/4/19, 04:50:59] Yi Hein: Did u get NTU btw?
+  [29/4/19, 04:51:03] Shannon: Yeah I did
+  [29/4/19, 04:51:11] Shannon: I heard you didn’t apply tho
+  [29/4/19, 04:51:15] Yi Hein: Woah nice congrats!!!
+  [29/4/19, 04:51:19] Shannon: Thanks haha
+  [29/4/19, 04:51:19] Yi Hein: Yeah I didn't
+  [29/4/19, 04:51:23] Shannon: Did you just wake up
+  [29/4/19, 04:51:28] Yi Hein: Dr Lee HAHAHA
+  [29/4/19, 04:51:31] Yi Hein: Yup
+  [29/4/19, 04:51:51] Shannon: Wa okay I hope army is going okay for you
+  [29/4/19, 04:51:59] Shannon: All the best for NUS next week!
+  [29/4/19, 04:52:00] Shannon: Or this week
+  [29/4/19, 04:52:13] Shannon: Do you know anyone else who got in haha
+  [29/4/19, 04:52:17] Yi Hein: Yeah it's fine, good thing is Labour Day this week :)))
+  [29/4/19, 04:52:28] Yi Hein: In our class, only trina
+  [29/4/19, 04:53:10] Yi Hein: My platoon has 5 who got in which is 1/6 of everyone
+  [29/4/19, 04:53:17] Yi Hein: Pretty insane actly
+  [29/4/19, 04:53:19] Shannon: Omg what
+  [29/4/19, 04:53:28] Shannon: Wow
+  [29/4/19, 04:53:57] Yi Hein: Honestly feels bad for gideon 😔
+  [29/4/19, 04:54:03] Shannon: yeah me too
+  [29/4/19, 04:54:03] Shannon: sigh
+  [29/4/19, 04:54:10] Shannon: i think he's quite disappointed
+  [29/4/19, 04:54:25] Yi Hein: I don't even know what the admissions committee are doing
+  [29/4/19, 04:54:31] Yi Hein: They're blind or sth
+  [29/4/19, 04:54:58] Yi Hein: U wake up so early?
+  [29/4/19, 04:55:08] Shannon: ERM
+  [29/4/19, 04:55:08] Shannon: i havent slept
+  [29/4/19, 04:55:14] Yi Hein: Wuttttt
+  [29/4/19, 04:55:18] Yi Hein: Why tho
+  [29/4/19, 04:55:23] Shannon: idk, can't sleep haha
+  [29/4/19, 04:55:27] Shannon: ya sigh and like dylan
+  [29/4/19, 04:55:31] Shannon: :///
+  [29/4/19, 04:55:34] Shannon: hope nus is better haha
+  [29/4/19, 04:55:38] Yi Hein: Yeah man
+  [29/4/19, 04:56:35] Yi Hein: You volunteering now?
+  [29/4/19, 04:57:06] Shannon: yep
+  [29/4/19, 04:57:13] Shannon: i volunteer at MINDS
+  [29/4/19, 04:57:26] Shannon: actually if you want you can join also HAHA but idk if you can make it cos of army
+  [29/4/19, 04:57:29] Shannon: dylan comes too!
+  [29/4/19, 04:57:38] Yi Hein: Omg I volunteered there before!
+  [29/4/19, 04:57:47] Yi Hein: Over the weekends?
+  [29/4/19, 04:58:09] Shannon: yep every sat
+  [29/4/19, 04:58:13] Shannon: oh really? what did you do
+  [29/4/19, 04:58:30] Yi Hein: We invited them to our school every week then Organised activities for them
+  [29/4/19, 04:58:42] Yi Hein: did it under St. John's
+  [29/4/19, 05:00:42] Yi Hein: You've any work during weekdays?
+  [29/4/19, 05:01:22] Shannon: Oh I see, eh cool, how was your experience working with the trainees?
+  [29/4/19, 05:01:56] Shannon: Tried to find work HAHA but then cos of my volunteering stuff it's quite hard to do office hours (I also give tuition to kids w special needs) so in the end I'm just doing random ad hoc stuff
+  [29/4/19, 05:02:12] Yi Hein: Trainees?
+  [29/4/19, 05:02:44] Shannon: oh like the beneficiaries hahah
+  [29/4/19, 05:02:54] Shannon: idk what you called them, usually MINDS calls them trainees or clients
+  [29/4/19, 05:03:08] Yi Hein: Ah yes
+  [29/4/19, 05:03:44] Yi Hein: They're really fun to interact with, at the start was a bit hard to communicate but after a while really got to know them
+  [29/4/19, 05:04:13] Yi Hein: Do you know who is Melissa ?
+  [1/5/19, 00:05:27] Shannon: Sflr I’m in Hong Kong now HAHA
+  [1/5/19, 00:05:34] Shannon: Yeah haha get what you mean
+  [1/5/19, 00:05:37] Shannon: Nope who’s that
+  [1/5/19, 05:00:47] Yi Hein: Oh it was a client I interact with quite a bit
+  [1/5/19, 05:00:57] Yi Hein: Was wondering whether she was still there
+  [3/5/19, 19:41:52] Shannon: you hein did you get NUS!!
+  [3/5/19, 19:41:55] Shannon: *yi hein
+  [3/5/19, 19:41:56] Shannon: I didn’t haha
+  [3/5/19, 20:08:20] Yi Hein: I can't check?!??!?
+  [3/5/19, 20:08:36] Yi Hein: Issit the main portal where you submit the NUS application?
+  [3/5/19, 20:08:44] Shannon: https://jointacceptance.edu.sg/pls/webexe/joint_accept.login_verify
+  [3/5/19, 20:08:46] Shannon: Check here
+  [3/5/19, 20:08:47] Yi Hein: 😥
+  [3/5/19, 20:08:54] Shannon: Idk my friend just sent me this link to check HAHA
+  [3/5/19, 20:08:57] Shannon: Idk where she got it from
+  [3/5/19, 20:09:17] Shannon: It’s where you accept your offers I think
+  [3/5/19, 20:09:23] Yi Hein: It's says invaild login
+  [3/5/19, 20:09:24] Shannon: Like from the diff local units
+  [3/5/19, 20:09:27] Shannon: *unis
+  [3/5/19, 20:09:28] Shannon: Huhhh
+  [3/5/19, 20:09:36] Shannon: Use your 6xxxx id
+  [3/5/19, 20:09:40] Shannon: It worked for me and Gideon
+  [3/5/19, 20:09:46] Shannon: Like the applicant ID
+  [3/5/19, 20:13:50] Yi Hein: Gideon got?
+  [3/5/19, 20:13:55] Shannon: Nope
+  [3/5/19, 20:14:00] Shannon: Dylan also didn’t :/
+  [3/5/19, 20:14:01] Shannon: Did you?
+  [3/5/19, 20:14:04] Shannon: My Friend did though
+  [3/5/19, 20:14:07] Shannon: Yu Chun
+  [3/5/19, 20:14:32] Yi Hein: Ok I'll check when I'm back home
+  [3/5/19, 20:14:36] Yi Hein: Booking out now
+  [3/5/19, 20:14:42] Yi Hein: WHAT THE
+  [3/5/19, 20:14:47] Shannon: Okay
+  [3/5/19, 20:14:49] Shannon: YA
+  [3/5/19, 20:14:59] Shannon: Stay safe though
+  [3/5/19, 21:14:12] Yi Hein: This is 8 digit right?
+  [3/5/19, 21:14:19] Shannon: Yeah
+  [3/5/19, 21:14:24] Yi Hein: Yeah doesn't work
+  [3/5/19, 21:14:30] Shannon: Huh really
+  [3/5/19, 21:14:34] Yi Hein: If I don't get an offer, would it still work?
+  [3/5/19, 21:14:35] Shannon: That’s weird!!
+  [3/5/19, 21:31:25] Yi Hein: What did it say when you entered the portal!
+  [3/5/19, 21:31:28] Yi Hein: *?
+  [3/5/19, 21:33:28] Shannon: Not sure... but I think maybe they also haven’t fully updated everyone yet cos some ppl who didn’t apply to other unis didn’t get a reply either
+  [3/5/19, 21:33:30] Shannon: Like Claudia
+  ‎[3/5/19, 21:33:34] Shannon: ‎image omitted
+  [3/5/19, 21:33:45] Shannon: Cos you’re only waiting for NUS right and you don’t have second choice
+  [3/5/19, 21:36:51] Yi Hein: Yeah
+  [3/5/19, 21:37:21] Yi Hein: I believe I can't login cos I don't have an offer
+  [3/5/19, 21:38:13] Shannon: Yeah
+  [3/5/19, 21:38:16] Shannon: Maybe next week then
+  [3/5/19, 21:38:24] Shannon: Cos I think they’re not done updating for everyone else
+  [3/5/19, 21:38:32] Shannon: Like that might be why they haven’t sent out the emails yet
+  [3/5/19, 21:38:36] Shannon: Don’t lose hope okay!!!
+  [3/5/19, 21:38:40] Shannon: And don’t stress over this
+  [3/5/19, 21:39:40] Yi Hein: Apparently they send all at once, not in batches
+  [3/5/19, 21:39:51] Yi Hein: So I'm suspecting a waiting list
+  [3/5/19, 21:43:02] Yi Hein: Did you get any rejection letter/ waitlist?
+  [3/5/19, 21:43:09] Shannon: Nope didn’t get any email at all
+  [4/5/19, 01:08:16] Yi Hein: got my rejection letter
+  [4/5/19, 08:06:28] Shannon: Oh :/
+  [4/5/19, 08:06:31] Shannon: Through email?
+  [4/5/19, 08:08:50] Yi Hein: Uas
+  [4/5/19, 09:42:52] Shannon: Oh
+  [4/5/19, 09:42:55] Shannon: Okay ya I just saw it too
+  [4/5/19, 09:42:57] Shannon: SIGH
+  [4/5/19, 09:43:01] Shannon: Are you okayy
+  [4/5/19, 09:43:03] Shannon: *?
+  [4/5/19, 09:43:10] Yi Hein: yeah
+  [4/5/19, 09:43:13] Yi Hein: it stings quite a bit
+  [4/5/19, 09:43:15] Yi Hein: but i can move on
+  [4/5/19, 09:43:18] Yi Hein: i'll never give up
+  [4/5/19, 09:43:21] Yi Hein: no matter what
+  [4/5/19, 09:43:29] Yi Hein: nus med is not gonna stop me hahahaa
+  [4/5/19, 09:43:36] Yi Hein: i'll go india if i have to
+  [4/5/19, 09:43:51] Shannon: Yay that’s good to hear!!
+  [4/5/19, 09:44:01] Shannon: Yeah just take some time to accept it and move on
+  [4/5/19, 09:44:05] Yi Hein: yup
+  [4/5/19, 09:44:13] Yi Hein: life takes unexpected turns at times
+  [4/5/19, 09:44:19] Yi Hein: but that's what makes it exciting :)
+  [4/5/19, 09:44:33] Shannon: you can applyNTU next year right? Just take BMAt again
+  [4/5/19, 09:44:37] Shannon: Haha
+  [4/5/19, 09:44:41] Shannon: You’re cool 👍🏻
+  [4/5/19, 09:44:56] Yi Hein: yup
+  [20/5/19, 23:01:59] Yi Hein: Hey Shannon did u ask AChia for your Med application referee?
+  [21/5/19, 08:37:02] Shannon: Nope I asked mr Azmi and Mr tang jie
+  [21/5/19, 08:37:03] Shannon: Why?
+  [21/5/19, 08:37:06] Shannon: Btw are you appealing
+  [21/5/19, 10:03:37] Yi Hein: Yup
+  [21/5/19, 10:03:40] Yi Hein: Are you?
+  [21/5/19, 10:43:36] Shannon: Yeah my dad wants me to
+  [21/5/19, 10:43:42] Shannon: Haha he’s like quite upset I didn’t get nus idk why
+  [21/5/19, 10:44:04] Shannon: By any chance, have you heard from Dylan recently?
+  [21/5/19, 12:16:23] Yi Hein: Hmm i didn't
+  [21/5/19, 12:16:27] Yi Hein: Did he get waitlist?
+  [21/5/19, 12:18:35] Shannon: Oh wait did you get waitlist for nus med?
+  [21/5/19, 12:18:41] Shannon: Yeah he did for ntu
+  [21/5/19, 12:18:49] Shannon: He’s been ignoring all my messages :/  idk why
+  [21/5/19, 12:19:00] Shannon: I think he’s kind of upset that he didn’t get both NUS and ntu
+  [21/5/19, 13:07:40] Yi Hein: OMG that's amazing
+  [21/5/19, 13:07:51] Yi Hein: why would he be upset?
+  [21/5/19, 13:15:25] Yi Hein: Getting into local Med is incredible already
+  [21/5/19, 13:48:16] Yi Hein: He's probably busy man
+  [21/5/19, 15:56:15] Shannon: Haha... for 2 weeks alr
+  [21/5/19, 15:56:45] Shannon: And he read them and stuff, it’s like “hi Dylan are you okay?” cos I was checking up on him after he got rejected
+  [21/5/19, 15:56:58] Shannon: Then he just didn’t reply sigh idk if he’s annoyed with me or smth
+  [21/5/19, 15:57:07] Shannon: So I’ll just give him space I guess
+  [21/5/19, 15:57:36] Shannon: Cos he thinks NUS better HAHA and his friends’ sons all got into both NTU and NUS 😔🙃
+  [21/5/19, 15:57:47] Shannon: Did you?
+  [21/5/19, 18:30:02] Yi Hein: Nope lol
+  [21/5/19, 18:30:17] Yi Hein: Did he tell you he got NTU Med?
+  [21/5/19, 18:30:27] Shannon: Huh Dylan got ntu med?
+  [21/5/19, 18:30:46] Yi Hein: Wait no he didn't
+  [21/5/19, 18:30:48] Shannon: I only knew he was on the waitlist
+  [21/5/19, 18:30:49] Shannon: HAHA
+  [21/5/19, 18:30:59] Yi Hein: Ohhhh I read wrongly
+  [21/5/19, 18:31:02] Shannon: I didn’t get waitlistEd either for nus
+  [21/5/19, 18:31:14] Shannon: Like I didn’t get anything from them
+  [21/5/19, 18:31:14] Yi Hein: I thought you said he got waitlist
+  [21/5/19, 18:31:15] Shannon: BUT RIGHT
+  [21/5/19, 18:31:29] Shannon: I got the nus scholarship 😭
+  [21/5/19, 18:31:33] Shannon: For ntu
+  [21/5/19, 23:26:02] Yi Hein: Omg feelsbadman
+  [22/5/19, 17:37:19] Yi Hein: Dylan no chance to get accepted from waitlist :(
+  [22/5/19, 17:37:22] Yi Hein: His ranking too Low
+  [22/5/19, 19:36:58] Shannon: Huh what rankling?
+  [22/5/19, 19:37:01] Shannon: *ranking
+  [22/5/19, 20:17:23] Yi Hein: They rank candidates based on interview scores
+  [22/5/19, 20:22:31] Shannon: 😰😱 how do you know your rank
+  [22/5/19, 20:22:34] Shannon: You talked to him ah
+  [22/5/19, 21:02:31] Yi Hein: He emailed lol
+  [22/5/19, 21:02:33] Yi Hein: Yeah
+  [22/5/19, 21:02:44] Shannon: Omg
+  [22/5/19, 21:02:51] Shannon: They told him no chance?????
+  [22/5/19, 21:02:52] Shannon: That’s harsh
+  [22/5/19, 21:02:57] Shannon: SHIT
+  [22/5/19, 21:03:01] Shannon: I think he’s rly annoyed with me
+  [22/5/19, 21:03:01] Shannon: Sigh
+  [22/5/19, 21:03:04] Shannon: Idk what I did
+  [22/5/19, 21:03:09] Yi Hein: No lah they said he's 15th percentile
+  [22/5/19, 21:03:19] Shannon: Like ntu?
+  [22/5/19, 21:03:22] Yi Hein: yu
+  [22/5/19, 21:03:26] Yi Hein: *yup
+  [22/5/19, 21:03:26] Shannon: I wonder if nus will say
+  [22/5/19, 21:03:37] Yi Hein: Yeah I'm gonna email them for feedback
+  [22/5/19, 21:03:58] Yi Hein: You last messaged him on the day results released?
+  [22/5/19, 21:04:13] Shannon: that was when he stopped replying
+  [22/5/19, 21:04:22] Shannon: Then I messaged again the next day to check on him
+  [22/5/19, 21:04:29] Shannon: Then last week I sent another message
+  [22/5/19, 21:04:35] Shannon: He ignored all of them 🙃😩
+  [22/5/19, 21:04:43] Shannon: Okay let me know how it goes!
+  [22/5/19, 21:04:57] Yi Hein: Yeah ok!
+  [22/5/19, 21:05:10] Yi Hein: 🙃
+  [22/5/19, 21:05:36] Yi Hein: Tbh idk how he's coping cos haven't met him in person since meeting him during FSA
+  [31/5/19, 17:29:11] Shannon: YI HEIN
+  [31/5/19, 17:29:20] Shannon: I just saw the list of ppl who got accepted into nus med
+  [31/5/19, 17:29:24] Shannon: Hahaha sorry
+  [31/5/19, 17:29:35] Shannon: Idk but I feel quite salty ESP FOR GIDEON YOU AND DYLAN
+  [31/5/19, 22:34:17] Yi Hein: Hahaha it's ok
+  [31/5/19, 22:34:25] Yi Hein: See it as opportunities to explore more possibilities
+  [31/5/19, 22:34:38] Yi Hein: Can I see the list?
+  [31/5/19, 22:35:20] Shannon: keith gan
+  jian shuin
+  sam chang
+  noah
+  gab tham
+  chris low
+  chloe goh
+  fergus 
+  zavier lim
+  joel lau
+  joseph cheng
+  kaveen
+  reo
+  sabine
+  caitlin loh
+  zach chan
+  ryan seow
+  luke yeo
+  Ryan Tay (6.10) 
+  harshita
+  yu han
+  Yu Chun
+  Joseph see
+  Bryan Theng
+  Sean
+  [31/5/19, 22:35:26] Shannon: ☹️😔
+  [31/5/19, 22:35:37] Shannon: Idk how to deal with it personally
+  [31/5/19, 22:49:21] Yi Hein: Ok lah the ppl that got in are quite nice
+  [31/5/19, 22:50:38] Shannon: Yeah I guess
+  [31/5/19, 22:50:43] Shannon: Is the last Sean Sean Tan HAHA
+  [31/5/19, 22:50:52] Yi Hein: Yu
+  [31/5/19, 22:50:52] Shannon: It’s mainly the popz people haha
+  [31/5/19, 22:51:01] Shannon: Legit he got in ah
+  [31/5/19, 22:51:02] Yi Hein: Yeah from our class
+  [31/5/19, 22:51:04] Shannon: Okay haha
+  [31/5/19, 22:51:56] Shannon: How do you feel
+  [31/5/19, 22:52:31] Yi Hein: Not really 🤔
+  [31/5/19, 22:52:56] Yi Hein: Aren't you satisfied with NTU
+  [31/5/19, 22:59:12] Shannon: really
+  [31/5/19, 22:59:17] Shannon: i thought those people are popz HAHA
+  [31/5/19, 22:59:22] Shannon: ya i am
+  [31/5/19, 22:59:24] Shannon: it's just that idk
+  [31/5/19, 22:59:37] Shannon: i feel like all the portfolio stuff are quite useless in retrospect
+  [31/5/19, 22:59:48] Shannon: i mean i obv didnt do all of them for the portfolio
+  [31/5/19, 22:59:59] Shannon: like volunteering etc i did those cos i actually enjoyed it
+  [31/5/19, 23:00:08] Shannon: but i dunno, i realise that objectively theyre all quite useless
+  [31/5/19, 23:00:16] Shannon: like a star scholarship, ssef, 45 points etc
+  [31/5/19, 23:00:36] Shannon: i mean what's the point of all that haha
+  [31/5/19, 23:00:39] Shannon: when you think abt it now
+  [31/5/19, 23:00:45] Shannon: i could have spent that time doing something else
+  [31/5/19, 23:00:55] Shannon: interact exco and all that
+  [31/5/19, 23:01:42] Yi Hein: Yeah that's sth I realise for this selection, portfolio is downplayed
+  [31/5/19, 23:01:50] Shannon: yeah
+  [31/5/19, 23:02:07] Yi Hein: quite a lot of ppl with good portfolios didn't get in
+  [31/5/19, 23:02:15] Shannon: yeah
+  [31/5/19, 23:02:31] Yi Hein: Hmmm but I don't regret doing any of it
+  [31/5/19, 23:02:36] Shannon: really
+  [31/5/19, 23:02:48] Yi Hein: Even if I know that it would lower my chances to Med school I'll still do it
+  [31/5/19, 23:02:50] Shannon: that's good
+  [31/5/19, 23:02:59] Shannon: yeah that's true
+  [31/5/19, 23:03:03] Shannon: i would do everything still
+  [31/5/19, 23:03:05] Shannon: except for asp HAHA
+  [31/5/19, 23:03:08] Shannon: i think that was a mistake
+  [31/5/19, 23:03:44] Shannon: you're right though
+  [31/5/19, 23:04:46] Yi Hein: why though?
+  [31/5/19, 23:04:56] Yi Hein: legit get better Teachers
+  [31/5/19, 23:05:09] Shannon: haha achia??
+  [31/5/19, 23:05:20] Yi Hein: Hey he's an amazing bio teacher
+  [31/5/19, 23:05:20] Shannon: but doesnt matter we all self learnt bio anyway
+  [31/5/19, 23:05:25] Shannon: HAHAH okay
+  [31/5/19, 23:05:35] Shannon: no lah i just feel like the environment wasnt good for me
+  [31/5/19, 23:05:36] Yi Hein: He teaches things that can't be self taught
+  [31/5/19, 23:05:42] Yi Hein: Ah ok I se
+  [31/5/19, 23:05:50] Shannon: and tbh i made a lot of mistakes friendships wise in class
+  [31/5/19, 23:05:53] Shannon: which i rly regret
+  [31/5/19, 23:06:12] Shannon: oh well
+  [31/5/19, 23:07:01] Yi Hein: actly just curious why did u decide to leave the class group?
+  [31/5/19, 23:09:06] Shannon: oh
+  [31/5/19, 23:09:31] Shannon: cos it was getting quite spammy and vulgar + i get upset everytime i see his name
+  [31/5/19, 23:10:02] Yi Hein: I Guess you're referring to DHC?
+  [31/5/19, 23:10:08] Shannon: yeah
+  [31/5/19, 23:10:35] Shannon: 🙃
+  [31/5/19, 23:10:35] Shannon: how is he though
+  [31/5/19, 23:10:37] Shannon: he's in army now?
+  [31/5/19, 23:10:41] Yi Hein: yup
+  [31/5/19, 23:11:17] Shannon: is he happy haha
+  [31/5/19, 23:12:30] Yi Hein: His PES is quite Low so life is chill
+  [31/5/19, 23:12:44] Shannon: oh that's good
+  [31/5/19, 23:13:08] Shannon: is yun ye still dating that guy
+  [31/5/19, 23:13:12] Shannon: OH NO i forgot his name
+  [31/5/19, 23:13:14] Shannon: kevin?
+  [31/5/19, 23:13:23] Shannon: kenji
+  [31/5/19, 23:13:26] Shannon: right yes sorry
+  [31/5/19, 23:13:44] Yi Hein: He got a stay out vocation (go home Everyday) so jealous omg HAHAHAHA
+  [31/5/19, 23:13:55] Yi Hein: Eh tbh idk
+  [31/5/19, 23:14:04] Yi Hein: OMG WUT HAHAHAA
+  [31/5/19, 23:14:26] Shannon: oh wow HAHA
+  [31/5/19, 23:14:34] Shannon: i suppose junyang also?
+  [31/5/19, 23:14:49] Shannon: SORRY ive actually never talked to him before
+  [31/5/19, 23:15:15] Yi Hein: He's stay in for now but will stay out soon
+  [31/5/19, 23:15:23] Shannon: oh okay
+  [31/5/19, 23:15:29] Shannon: haha is the class group dead
+  [31/5/19, 23:15:43] Shannon: or do you all have bonding stuff and whatever
+  [31/5/19, 23:15:50] Yi Hein: Some chats here and there
+  [31/5/19, 23:15:58] Shannon: im just glad that dhc is happy i guess haha
+  [30/6/19, 23:00:04] Yi Hein: Hey when does your school term start?
+  [1/7/19, 21:27:54] Shannon: Hello! 5 Aug
+  [1/7/19, 21:28:05] Shannon: Did you hear anything from nus or NTU?
+  [1/7/19, 21:28:37] Yi Hein: Nope lol
+  [1/7/19, 21:29:01] Shannon: Haha I got a rejection letter from nus
+  [1/7/19, 21:29:13] Shannon: Btw can I ask what social night is
+  [1/7/19, 21:29:17] Yi Hein: Hmm the general one right
+  [1/7/19, 21:29:54] Yi Hein: Basically a dinner, sth like prom but for OCS
+  [1/7/19, 21:30:01] Yi Hein: Hahaha did someone ask you to go?
+  [1/7/19, 21:30:12] Shannon: Ya Benedict HAHA
+  [1/7/19, 21:31:08] Yi Hein: Yeah everyone has to bring a date or sign 3 extra duties LOLOL
+  [1/7/19, 21:31:45] Shannon: Omg rly
+  [1/7/19, 21:31:51] Shannon: Then who did you bring
+  ‎[1/7/19, 21:31:52] Yi Hein: ‎image omitted
+  [1/7/19, 21:32:04] Shannon: HAHA
+  [1/7/19, 21:32:06] Yi Hein: Mines on thurs lololol
+  [1/7/19, 21:32:15] Shannon: HAHA all the best
+  [1/7/19, 21:32:33] Yi Hein: Is this from YLL or the general rejection letter
+  [1/7/19, 21:33:21] Shannon: Actually I didn’t read it my mum did cos it came when I was in Penang
+  [1/7/19, 21:33:26] Shannon: Let me go find it then take pic for you
+  [1/7/19, 21:33:38] Yi Hein: Oh it’s a physical letter
+  [1/7/19, 21:33:42] Shannon: Yeah
+  ‎[1/7/19, 21:42:52] Shannon: ‎image omitted
+  [1/7/19, 21:50:49] Yi Hein: Oh but yours is cos you had another placing right
+  [1/7/19, 21:50:57] Shannon: Yeah
+  [1/7/19, 21:51:02] Shannon: I got life sciences and psych
+  [1/7/19, 21:51:07] Shannon: Double major
+  [1/7/19, 21:51:30] Shannon: Eh so who are you bringing!! Is it from sch
+  [1/7/19, 21:53:23] Yi Hein: from acjc lol
+  [1/7/19, 21:53:37] Shannon: omg yi hein is it your gf hahaha
+  [1/7/19, 21:53:38] Shannon: are you attached?
+  [1/7/19, 21:53:49] Yi Hein: no wth HAHAHAHAHA
+  [1/7/19, 21:54:05] Yi Hein: do you actually think I’ll have a gf
+  [1/7/19, 21:55:14] Shannon: HAHA why not
+  [1/7/19, 21:55:25] Shannon: then where did she come from!!
+  [1/7/19, 21:57:10] Yi Hein: met her randomly lol, honestly don’t know her well?!?!,!
+  [1/7/19, 21:57:18] Shannon: HAHA WHAT
+  [1/7/19, 21:57:21] Shannon: omggg
+  [1/7/19, 21:57:30] Shannon: you like her isit
+  [1/7/19, 21:57:33] Shannon: it's ok
+  [1/7/19, 21:57:44] Yi Hein: NO
+  [1/7/19, 21:58:31] Yi Hein: anything to not sign extras man
+  [1/7/19, 21:59:39] Yi Hein: that escalated quickly HAHAHA
+  [1/7/19, 21:59:45] Shannon: HAHAH
+  [1/7/19, 21:59:46] Shannon: funny lah
+  [1/7/19, 22:00:01] Shannon: all the best for your social night
+  [1/7/19, 22:00:10] Shannon: 😂😂
+  [1/7/19, 22:00:14] Yi Hein: Haha thanks
+  [7/7/19, 21:03:47] Shannon: How did your date go!!!
+  [7/7/19, 21:30:28] Yi Hein: Ok lah
+  [7/7/19, 21:31:04] Yi Hein: honestly can’t really celebrate the end of service term cos pro term has already started and it’s a shitstorm ahead
+  [24/7/19, 09:55:13] Yi Hein: Hey shannon,  we’ll be having a class gathering on *3rd August* from *6 pm onwards*. Let me know if you can make it :))
+  
+  Address: 45 Hume Ave, Singapore 598740
+  Date: 3rd August, Saturday
+  Time: 6pm onwards
+  [26/7/19, 03:13:44] Yi Hein: ✊🏼bump
+  [26/7/19, 08:36:48] Shannon: Oh no so sorry I forgot to reply!
+  [26/7/19, 08:36:55] Shannon: I was in orientation haha it just ended yesterday
+  [26/7/19, 08:37:26] Shannon: Whose house is it ahah
+  [26/7/19, 08:37:34] Yi Hein: Mine lol
+  [26/7/19, 18:28:41] Yi Hein: Also Dylan is coming :)
+  [26/7/19, 19:23:49] Shannon: Ahh reallyyy
+  [26/7/19, 19:23:54] Shannon: Sigh I rly want to talk to him haha
+  [26/7/19, 19:23:58] Shannon: So generous HAHA
+  [26/7/19, 19:24:05] Shannon: I’ll try to make it I’ll let you know later
+  [26/7/19, 19:24:17] Shannon: Cos I might be going to Malaysia before Uni starts
+  [26/7/19, 19:43:54] Yi Hein: Woah nice sounds fun 😮
+  [26/7/19, 19:44:02] Yi Hein: Alright sure
+  [28/7/19, 16:27:00] Yi Hein: hey Shannon could you let me know by tmr? Cos I’ve to plan for the food and cost
+  [29/7/19, 09:04:10] Shannon: Hey yi hein!!  So sorry for the late reply and being burden haha
+  [29/7/19, 09:04:25] Shannon: I checked w my parents and we’re going to Penang from thur to sun so I won’t be able to make it :( sorry
+  [29/7/19, 09:04:28] Shannon: Thanks for inviting tho
+  [29/7/19, 09:04:31] Shannon: I rly appreciate it haha
+  [29/7/19, 09:04:37] Shannon: It’s nice to know someone remembers me HAHA
+  [29/7/19, 11:28:05] Yi Hein: No worries! Enjoy your trip :)))
+  [3/8/19, 17:49:20] Shannon: Hey yi hein!! I hope the gathering goes well :)) could you help me tell Dylan hi!! Thanks haha
+  [3/8/19, 17:55:08] Yi Hein: Yeah sure :)
+  [15/8/19, 16:07:02] Shannon: Hi Yi hein! You have a surface pro right? My friend is looking to buy one! Would you recommend it?
+  [15/8/19, 18:37:54] Yi Hein: Yeah
+  [15/8/19, 18:38:16] Yi Hein: Can’t give much info now..still overseas
+  [15/8/19, 18:38:26] Yi Hein: tell you when I get back in sept
+  [26/12/19, 19:23:36] Shannon: hellooo yi hein! are you gonna apply for med this cycle?
+  [26/12/19, 19:51:51] Yi Hein: Yup
+  [26/12/19, 19:52:00] Shannon: where!
+  [26/12/19, 19:52:01] Yi Hein: Not NTU though
+  [26/12/19, 19:52:05] Shannon: ohh
+  [26/12/19, 19:52:06] Shannon: whyy
+  [26/12/19, 19:52:07] Shannon: hahaha
+  [26/12/19, 19:52:08] Yi Hein: cos messed up BMAT again
+  [26/12/19, 19:52:13] Shannon: aiyo
+  [26/12/19, 19:52:15] Shannon: just apply la
+  [26/12/19, 19:52:19] Shannon: what did you get
+  [26/12/19, 19:52:43] Yi Hein: No lah only get one chance so better apply when I actually have time to study for BMAT
+  [26/12/19, 19:52:46] Shannon: my bmat wasnt fantastic either tbh
+  [26/12/19, 19:52:47] Shannon: oh wait
+  [26/12/19, 19:52:50] Shannon: got one chance only?
+  [26/12/19, 19:52:51] Yi Hein: 4.3, 5.5, 3A
+  [26/12/19, 19:52:58] Shannon: mmm okay
+  [26/12/19, 19:53:12] Shannon: you applying overseas?
+  [26/12/19, 19:53:14] Shannon: atb!! update me okays
+  [26/12/19, 19:53:18] Yi Hein: Yeah I heard no one got in on second attempt
+  [26/12/19, 19:53:24] Yi Hein: why though?
+  [26/12/19, 19:53:31] Shannon: nahh just wondering!
+  [26/12/19, 19:53:34] Yi Hein: Ah ok
+  [26/12/19, 19:53:40] Shannon: cos thought of you when i saw your post on ig haha
+  [26/12/19, 19:53:46] Yi Hein: Yeah, applied to a few UK schools
+  [26/12/19, 19:53:53] Shannon: what abt dylan
+  [26/12/19, 19:54:12] Yi Hein: His BMAT is pretty good so yeah he’s applying NTU and NUS
+  [26/12/19, 19:54:18] Yi Hein: he didn’t apply overseas
+  [26/12/19, 19:54:26] Shannon: oh nicee
+  [26/12/19, 19:54:27] Shannon: okayy
+  [26/12/19, 19:56:40] Yi Hein: how’s Med school for you
+  [7/1/20, 14:41:14] Shannon: ‎This message was deleted.
+  [7/1/20, 14:41:22] Shannon: ‎This message was deleted.
+  [8/1/20, 09:24:26] Yi Hein: ??
+  [8/1/20, 09:34:50] Shannon: Haha no la cos I was talking to some of my friends who got into ntu second try
+  [8/1/20, 09:35:31] Shannon: But they actually didn’t get interview first try
+  [8/1/20, 09:37:22] Shannon: So I wanted to tell you this wasn’t true haha but then I realised that that’s prob not what you meant haha, like you were referring to ppl w interview
+  [8/1/20, 09:38:03] Shannon: Did you do bus interview last year?
+  [8/1/20, 09:38:10] Shannon: *nus
+  [8/1/20, 09:38:12] Shannon: You did right!!
+  [8/1/20, 09:38:39] Shannon: Cos you can only do mmi once I think
+  [8/1/20, 09:39:56] Yi Hein: Yup NUS interview last year
+  [8/1/20, 09:40:07] Yi Hein: So applying EIS this time
+  [8/1/20, 09:42:51] Shannon: Ooh okay
+  [8/1/20, 09:42:53] Shannon: With what!!
+  [8/1/20, 09:50:09] Yi Hein: Erm idk actly
+  [8/1/20, 09:50:31] Yi Hein: Prob NYAA Gold, OCS, community service?
+  [8/1/20, 09:50:42] Yi Hein: haven’t looked into their criteria
+  [8/1/20, 11:59:50] Shannon: ohh
+  [8/1/20, 11:59:53] Shannon: haha okok atb!!
+  [8/1/20, 12:00:00] Shannon: what community service do you do?
+  [8/1/20, 13:17:48] Yi Hein: honestly most is from IB times :/
+  [8/1/20, 18:50:18] Shannon: hmm
+  [8/1/20, 18:50:19] Shannon: are you v busy now!!
+  [8/1/20, 18:50:31] Shannon: as in, generally, with army and all
+  [8/1/20, 18:50:39] Shannon: if not, i would rly suggest you go volunteer more haha
+  [8/1/20, 18:50:57] Shannon: i know q a few ppl who got in through eis, but they rly volunteered a lot!
+  [8/1/20, 18:53:44] Yi Hein: Ohh I see
+  [8/1/20, 18:53:54] Yi Hein: This month is pretty hectic
+  [8/1/20, 18:53:58] Yi Hein: After that probably can
+  [8/1/20, 18:56:59] Shannon: do you have anywhere in mind!!
+  [8/1/20, 18:57:27] Yi Hein: I’m currently volunteering at CATCH+ but haven’t gone in quite a while
+  [8/1/20, 18:58:01] Shannon: ooh okay thats nice
+  [8/1/20, 18:58:23] Shannon: haha idk if you remember but i volunteer at minds! so if youre looking for anywhere to volunteer, you can always comeee :)
+  [8/1/20, 18:58:35] Shannon: if not can also consider red cross haha
+  [8/1/20, 18:59:04] Yi Hein: Oh yeah volunteered there before for St. John
+  [8/1/20, 18:59:20] Yi Hein: see how will consider when I’m more free
+  `,
   },
 ];
