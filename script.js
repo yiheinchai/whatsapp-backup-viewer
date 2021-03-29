@@ -51,7 +51,7 @@ function initialiseChat(chat) {
         <div class="row">
           <div class="col-12">
             ${messageContent}
-            <div class="dateTimeReceived">${messageSender} - ${messageTime}</div>
+            <div class="dateTimeReceived">${messageSender} | ${messageTime}</div>
           </div>
         </div>
       </div>
@@ -65,7 +65,7 @@ function initialiseChat(chat) {
       <div class="row">
         <div class="col-12">
           ${messageContent}
-          <div class="dateTimeReceived">${messageSender} - ${messageTime}</div>
+          <div class="dateTimeReceived">${messageSender} | ${messageTime}</div>
         </div>
       </div>
     </div>
