@@ -61,7 +61,7 @@ function initialiseChat(chat) {
       document.querySelector(".chatScreen").insertAdjacentHTML(
         "beforeend",
         `<div class="row d-flex justify-content-end">
-    <div class="col-9grey textMessageSent">
+    <div class="col-9 textMessageSent">
       <div class="row">
         <div class="col-12">
           ${messageContent}
